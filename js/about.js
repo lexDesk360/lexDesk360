@@ -147,7 +147,7 @@ function renderData() {
     const key = el.getAttribute("data-translate");
     el.innerText = translations[lang][key] || el.innerText;
   });
-}
+};
 renderData()
 function nextValue() {
   if (activeValue != 3) {
