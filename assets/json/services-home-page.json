@@ -1,0 +1,54 @@
+{
+  "eng": [
+    {
+      "id": 1,
+      "name": "LexFend",
+      "subName": "Legal Defense. Without the Surprise.",
+      "des": "Your shield against disputes and investigations. Proactive risk checks, early alerts, and fast legal defense so your business is never caught off guard."
+    },
+    {
+      "id": 2,
+      "name": "LexTend",
+      "subName": "Your Legal Team. On Demand.",
+      "des": "Flexible legal support without the hiring overhead. From contracts to compliance, HR to expansion, we embed expertise directly into your team."
+    },
+    {
+      "id": 3,
+      "name": "LexTrack",
+      "subName": "Your Matter. Fully Managed.",
+      "des": "Cross-border disputes, deals, and regulatory issues managed end-to-end. Our global counsel network ensures every jurisdiction stays in harmony."
+    },
+    {
+      "id": 4,
+      "name": "LexFound",
+      "subName": "Built Right from the Start.",
+      "des": "For founders and investors. From entity formation to licensing, banking, and market entry, we lay the foundation so your big idea grows on solid ground."
+    }
+  ],
+  "ar": [
+    {
+      "id": 1,
+      "name": "LexFend",
+      "subName": "دفاع قانوني بلا مفاجآت.",
+      "des": "درعك الواقي ضد النزاعات والمخاطر. تقييمات استباقية، إنذارات مبكرة، واستجابة سريعة حتى لا تؤخذ على حين غِرّة."
+    },
+    {
+      "id": 2,
+      "name": "LexTend",
+      "subName": "فريقك القانوني عند الطلب.",
+      "des": "دعم قانوني مرن بلا أعباء التوظيف. من العقود إلى الامتثال، ومن الموارد البشرية إلى التوسع، ندمج خبراءنا مباشرة في فريقك."
+    },
+    {
+      "id": 3,
+      "name": "LexTrack",
+      "subName": "قضيتك… مُدارة بالكامل.",
+      "des": "نزاعات، صفقات، أو موافقات تنظيمية عبر الحدود، نديرها من البداية للنهاية من خلال شبكتنا الدولية، لنُبقي كل ولاية قضائية متناغمة."
+    },
+    {
+      "id": 4,
+      "name": "LexFound",
+      "subName": "تأسيس صحيح منذ البداية.",
+      "des": "للمؤسسين والمستثمرين: من تسجيل الكيان إلى التراخيص، والخدمات المصرفية، والدخول إلى الأسواق الجديدة، نضع أساساً قانونياً متيناً لأفكاركم الكبيرة."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>footer</title>
+
+  <link rel="stylesheet" href="./css/global.css">
+  <link rel="stylesheet" href="./css/footer.css">
+</head>
+
+<body id="body" style="display: none;">
+  <div id="footer">
+    <div class="content">
+      <div class="col w30f">
+        <div class="logo"></div>
+        <div class="descrbtion">
+          <p data-translate="des"></p>
+        </div>
+      </div>
+      <div class="col w15f">
+        <div class="title-list">
+          <p data-translate="QuickLinks"></p>
+        </div>
+        <div class="list">
+          <p data-translate="Home" class="cursor" onclick="getPage('home')"></p>
+          <p data-translate="About" class="cursor" onclick="getPage('about')"></p>
+          <p data-translate="Team" class="cursor" onclick="getPage('team')"></p>
+          <p data-translate="OurNetworkFirms" class="cursor" onclick="getPage('network-firms')">
+          </p>
+          <p data-translate="JoinUsInternational" class="cursor" onclick="getPage('join-us')">
+          </p>
+          <p data-translate="Contact" class="cursor" onclick="getPage('contact-us')"></p>
+        </div>
+      </div>
+      <div class="col w15f w35f  ">
+        <div class="title-list">
+          <p data-translate="OurServices"></p>
+        </div>
+        <div class="list ltr-list">
+            <p data-translate="LexFend" class="cursor" onclick="getPage('our-services',1)"> </p>
+            <p data-translate="LexTend" class="cursor" onclick="getPage('our-services',2)"></p>
+
+            <p data-translate="LexTrack" class="cursor" onclick="getPage('our-services',3)">
+            </p>
+            <p data-translate="LexFound" class="cursor" onclick="getPage('our-services',4)">
+            </p>
+
+        </div>
+      </div>
+      <div class="col w30f">
+        <div class="title-list m3l">
+          <p data-translate="Subscribeto"></p>
+        </div>
+        <div class="groupInput">
+          <form action="" id="Subscribe">
+            <input type="text" placeholder="Your Email…" data-translate="email" id="emailSub" autocomplete="off">
+            <button type="submit">
+              <p id="buttonFooter" data-translate="Subscribe"></p>
+            </button>
+          </form>
+        </div>
+        <p class="error" id="erroremailSub"></p>
+
+        <div class="title-list m3l">
+          <p data-translate="FollowUs"></p>
+        </div>
+        <div class=" socialMedia m3l">
+          <!-- <div class="icon faceBook"></div> -->
+          <!-- <div class="icon xapp"></div> -->
+          <div class="icon linkedin cursor" onclick="openCompanyLinkedin()"></div>
+          <!-- <div class="icon instagram"></div> -->
+        </div>
+      </div>
+
+    </div>
+    <div class="line"></div>
+    <div class="copyRight">
+      <p data-translate="copyRight"> </p>
+      <p data-translate="ploice"> </p>
+    </div>
+
+  </div>
+
+</body>
+<script src="./js/footer.js"></script>
+
+</html>

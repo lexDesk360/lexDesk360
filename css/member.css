@@ -1,0 +1,103 @@
+.container-bg {
+  background-image: url(../assets/images/team.png);
+}
+
+#member-content {
+  padding: 0 5vw;
+  position: relative;
+}
+#member-content .member {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+#member-content .member .profileImage {
+  width: 40%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+#member-content .member .profileImage .image {
+  height: auto;
+  width: 32vw;
+}
+#member-content .member .profileImage .image img {
+  width: 100%;
+  height: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+#member-content .member .member-data {
+  width: 55%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#member-content .member .member-data .descrbtion p {
+  margin-bottom: 1vw;
+}
+#member-content .member .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+#member-content .member .flex .iconLinkin {
+  width: 2vw;
+  height: 2vw;
+  background-image: url(../assets/images/linkedin-white.png);
+  background-size: 100% 100%;
+  margin: 1vw 1vw 1vw 0;
+}
+#member-content .member .flex .descrbtion-title p {
+  margin: 0;
+  font-weight: 500;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: url(../assets/images/team-mo.png);
+  }
+  #member-content {
+    top: -20vw;
+  }
+  #member-content .member .profileImage {
+    width: 100%;
+  }
+  #member-content .member .profileImage .image {
+    width: 78vw;
+    height: auto;
+  }
+  #member-content .member .member-data {
+    width: 100%;
+    margin-top: 4vw;
+  }
+  #member-content .member .member-data .descrbtion p {
+    margin-bottom: 9vw;
+  }
+  #member-content .member .flex .iconLinkin {
+    width: 6vw;
+    height: 6vw;
+  }
+}

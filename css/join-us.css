@@ -1,0 +1,173 @@
+.container-bg {
+  background-image: url(../assets/images/join-us.png);
+}
+
+#services-content {
+  position: relative;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  top: -5vw;
+}
+#services-content .group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 90%;
+  padding: 0 5vw;
+}
+#services-content .group .w30f {
+  width: 30%;
+}
+#services-content .group .w65f {
+  width: 65%;
+}
+#services-content .tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+}
+#services-content .tabs .tab {
+  width: 100%;
+  padding: 1.5vw 0;
+  border-bottom: 0.1vw solid rgba(255, 255, 255, 0.2);
+  font-size: 2vw;
+  font-family: Oswald;
+  color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0.5vw 0;
+  letter-spacing: 0.1vw;
+  cursor: pointer;
+}
+#services-content .tabs .tab.active::before {
+  content: "";
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  background-image: url(../assets/images/point.png);
+  width: 0.8vw;
+  height: 0.8vw;
+  background-size: 100% 100%;
+  margin: 0.5vw;
+}
+#services-content .none {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  z-index: -1;
+}
+#services-content .content {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+#services-content .content .big-title {
+  margin-top: 2vw;
+}
+#services-content .content .big-title p {
+  font-size: 4vw;
+  font-family: Oswald;
+  font-weight: 200;
+  line-height: 5vw;
+  text-transform: none;
+}
+#services-content .content .tab-content {
+  display: none;
+}
+#services-content .content .tab-content.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+#services-content .profileFile {
+  display: none;
+}
+#services-content .title-small {
+  margin-top: 2vw;
+}
+#services-content .descrbtion p {
+  margin-top: 1vw;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: url(../assets/images/join-us-mob.png);
+  }
+  #services-content {
+    top: -25vw;
+  }
+  #services-content .group .w30f {
+    width: 100%;
+  }
+  #services-content .group .w65f {
+    width: 100%;
+  }
+  #services-content .tabs {
+    -webkit-box-orient: unset;
+    -webkit-box-direction: unset;
+        -ms-flex-direction: unset;
+            flex-direction: unset;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #services-content .tabs .tab {
+    width: 35vw;
+    font-size: 4vw;
+    margin: 0.5vw 1vw;
+    letter-spacing: 0.1vw;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    overflow: hidden;
+  }
+  #services-content .tabs .tab.active {
+    border-bottom: 0.1vw solid rgba(255, 255, 255, 0.8);
+  }
+  #services-content .tabs .tab.active::before {
+    content: none;
+  }
+  #services-content .tabs .tab.w25f {
+    width: 50vw;
+  }
+  #services-content .content .big-title {
+    margin-top: 10vw;
+  }
+  #services-content .content .big-title p {
+    font-size: 8vw;
+    line-height: 10vw;
+  }
+}

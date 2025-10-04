@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>member </title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/member.css">
+</head>
+
+<body id="body">
+    <div id="loading">
+    <div class="spinner"></div>
+  </div>
+  <div id="content">
+    <div class="container-bg">
+        <div id="navbar"></div>
+        <div class="opacityDiv">
+          <div class="path">
+                <p class="path-page">
+                    <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                    |
+                    <span class="cursor" data-translate="titlePage" onclick="getTeam()"></span></p>
+                <p class="title-page" data-translate="titlePage"></p>
+            </div>
+        </div>
+
+    </div>
+    <div id="member-content">
+        <div class="member">
+            <div class="profileImage">
+                <div class="image">
+                    <img id="img" src="../assets/images/member-large/m1.png" alt="">
+                </div>
+            </div>
+            <div class="member-data">
+                <div class="title">
+                    <p id="name"></p>
+                </div>
+                <div class="descrbtion-title ">
+                    <p class="lower-text" id="job"></p>
+                </div>
+                <div class="descrbtion" id="descrbtion">
+                </div>
+                <div class="flex">
+                    <div class="iconLinkin cursor" id="Linkedin" onclick="getlinkedinProfile()"></div>
+                    <div class="descrbtion-title">
+                        <p  ></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer"></div>
+  </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/member-details.js"></script>
+
+</html>

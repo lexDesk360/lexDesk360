@@ -1,0 +1,103 @@
+.container-bg {
+  background-image: url(../assets/images/news.png);
+}
+
+#news-content {
+  padding: 0 5vw;
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 90%;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+#news-content .item-list {
+  width: 88%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+#news-content .item-list .item {
+  width: 35vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-bottom: 3vw;
+}
+#news-content .item-list .item .border-left {
+  border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+  padding: 1vw;
+}
+#news-content .item-list .item .descrbtion {
+  margin-left: 1vw;
+  margin-top: 0;
+}
+#news-content .pagination {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+#news-content .pagination .btn {
+  background-size: 100% 100%;
+  width: 4vw;
+  height: 4vw;
+  margin: 1vw;
+  cursor: pointer;
+}
+#news-content .pagination .btn.next {
+  background-image: url(../assets/images/next.png);
+}
+#news-content .pagination .btn.prev {
+  background-image: url(../assets/images/prev.png);
+}
+#news-content .pagination p {
+  font-family: Oswald;
+  font-size: 2vw;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: url(../assets/images/news-mo.png);
+  }
+  #news-content {
+    top: -20vw;
+  }
+  #news-content .item-list .item {
+    width: 100%;
+    margin-bottom: 10vw;
+  }
+  #news-content .item-list .item .border-left {
+    border: none;
+  }
+  #news-content .pagination .btn {
+    width: 8vw;
+    height: 8vw;
+  }
+  #news-content .pagination p {
+    font-size: 6vw;
+    margin: 0 5vw;
+  }
+}

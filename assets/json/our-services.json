@@ -1,0 +1,349 @@
+[{
+        "eng": {
+            "name": "LexFend",
+            "title": "LexFend: Legal Defense. Without the Surprise.",
+            "des": "Your shield against disputes, compliance slip-ups, and investigations. Proactive protection that keeps your business secure and ready. Big corporations have legal teams guarding their every move; why shouldn’t you? LexFend delivers enterprise-grade protection without the overhead of a full-time department. We provide affordable access to experts who conduct risk checks, offer on-demand support, and ensure you’re never caught off guard, so you can focus on growth instead of firefighting.",
+            "p1": "The best legal strategy isn’t reacting to problems; it’s preventing them.",
+            "p2": "With LexFend, you gain the legal confidence to scale, grow, and protect what matters most. Don’t leave your legal protection to chance. Get elite legal coverage today!",
+            "button": "Let’s Discuss Your Matter",
+            "weOffer": [{
+                    "name": "Affordable Access to Seasoned Experts",
+                    "des": "Big-firm expertise without the big-firm cost; get top-tier legal support tailored to your budget."
+                },
+                {
+                    "name": "Preventive Risk Checks & Early Alerts",
+                    "des": "We spot legal, regulatory, and contract risks early, so you can fix issues before they become costly."
+                },
+                {
+                    "name": "On-Demand Support for Key Areas",
+                    "des": "From contracts and HR to disputes and governance, we’re here when you need guidance, fast."
+                },
+                {
+                    "name": "Transparent, Predictable Pricing",
+                    "des": "No surprises. Just clear, fixed fees so you can plan ahead and focus on growth."
+                }
+            ],
+            "whoFor": [{
+                    "name": "SMEs Seeking Reliable Legal Backup",
+                    "des": "Small and mid-sized businesses that want enterprise-level protection without the high cost.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Startups Needing Investor-Ready Foundations",
+                    "des": "Early-stage companies building secure, compliant legal structures to attract investment and scale.",
+                    "icon": "entrepren"
+                },
+                {
+                    "name": "Business Owners & Individuals",
+                    "des": "Entrepreneurs and professionals who want ongoing legal peace of mind for business and personal needs.",
+                    "icon": "individual"
+                }
+            ]
+        },
+        "ar": {
+            "name": "LexFend",
+            "title": "LexFend : دفاع قانوني بلا مفاجآت",
+            "des": "درعك الواقي ضد النزاعات، والتعثرات في الامتثال، والتحقيقات. حماية استباقية تُبقي عملك آمنًا وجاهزًا. الشركات الكبرى لديها فرق قانونية تراقب كل خطوة؛ فلماذا لا يكون لك نفس الحماية؟ مع LexFend، تحصل على دعم قانوني بمستوى المؤسسات الكبرى ولكن دون تكاليف إنشاء قسم قانوني داخلي. نقدّم وصولًا ميسورًا إلى خبراء معتمدين يجرون فحوصات وقائية، يقدّمون إنذارات مبكرة، ويقدمون الدعم عند الحاجة، حتى لا تفاجأ بالمخاطر وتتمكن من التركيز على النمو بدلًا من إطفاء الأزمات.",
+            "p1": "أفضل استراتيجية قانونية ليست الاستجابة للمشاكل، بل منعها.",
+            "p2": "مع LexFend، تكتسب الثقة القانونية للتوسع والنمو وحماية ما يهمك أكثر. لا تترك حمايتك القانونية للصدفة. احصل على تغطية قانونية متميزة اليوم!",
+            "button": "لنناقش أمرك",
+            "weOffer": [{
+                    "name": "وصول ميسور إلى خبراء متمرسين",
+                    "des": "احصل على خبرة قانونية تضاهي أرقى المكاتب الدولية، لكن بتكلفة مصممة لتناسب ميزانيتك."
+                },
+                {
+                    "name": "فحوصات استباقية وإنذارات مبكرة",
+                    "des": "نرصد المخاطر القانونية والتنظيمية والعقدية قبل أن تتحول إلى مشكلات كبيرة."
+                },
+                {
+                    "name": "دعم عند الطلب في المجالات الأساسية",
+                    "des": "من العقود والموارد البشرية إلى النزاعات والحوكمة، نقدم استجابة سريعة عند الحاجة."
+                },
+                {
+                    "name": "تسعير شفاف يمكن التنبؤ به",
+                    "des": "بخطط أسعار ثابتة وواضحة، لتتمكن من التخطيط المالي والنمو بثقة."
+                }
+            ],
+            "whoFor": [{
+                    "name": "الشركات الصغيرة والمتوسطة",
+                    "des": "تحتاج إلى حماية قانونية موثوقة بمستوى الشركات الكبرى، لكن دون تكاليف باهظة.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "الشركات الناشئة",
+                    "des": "تبني هياكل قانونية متينة تجذب المستثمرين وتؤهلها للتوسع.",
+                    "icon": "entrepren"
+                },
+                {
+                    "name": "أصحاب الأعمال والأفراد",
+                    "des": "رواد أعمال ومحترفون يبحثون عن شبكة قانونية تمنحهم راحة البال في أعمالهم وحياتهم.",
+                    "icon": "individual"
+                }
+            ]
+        }
+    },
+    {
+        "eng": {
+            "name": "LexTend",
+            "title": "LexTend: Your Legal Team. On Demand.",
+            "des": "Flexible support when your team needs more capacity, without the cost of permanent hires. When your in-house team is stretched thin, LexTend steps in as your seamless extension. We embed experienced lawyers directly into your workflows, scaling expertise in compliance, contracts, and governance as needed. It’s the smart choice for general counsel, lean teams, or fast-growing companies that need extra bandwidth without the cost and commitment of expanding headcount.",
+            "p1": "Growth doesn’t happen by chance; it’s built on the right agreements.",
+            "p2": "With LexTend, you secure deals, partnerships, and ventures with confidence. From joint ventures to international contracts, we help you expand with peace of mind.",
+            "button": "Let’s Unlock Your Next Opportunity",
+            "weOffer": [{
+                    "name": "Seamless Integration with Your Team",
+                    "des": "Our lawyers embed directly into your workflow, aligning with your goals and culture without the hiring hassle."
+                },
+                {
+                    "name": "Scalable Support for Busy or Quiet Periods",
+                    "des": "Ramp legal support up or down as needed; only pay for what you use, when you use it."
+                },
+                {
+                    "name": "Specialized Expertise Across Domains",
+                    "des": "Deep experience in compliance, contracts, governance, and filings, right when you need it."
+                },
+                {
+                    "name": "Cost-Effective Tailored Solutions",
+                    "des": "Avoid full-time hire costs. Get flexible, expert support that fits your needs and budget."
+                }
+            ],
+            "whoFor": [{
+                    "name": "General Counsel & Legal Directors",
+                    "des": "Leaders who need extra bandwidth for projects, peaks, or specialized legal areas.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Lean Legal Teams Under Pressure",
+                    "des": "Small departments managing high-volume work, tight deadlines, or complex matters.",
+                    "icon": "bi-patch-question"
+                },
+                {
+                    "name": "Fast-Growing Companies",
+                    "des": "Businesses scaling quickly that need legal support to keep pace without expanding headcount.",
+                    "icon": "bi-graph-up"
+                }
+            ]
+        },
+        "ar": {
+            "name": "LexTend",
+            "title": "LexTend : فريقك القانوني عند الطلب",
+            "des": "دعم مرن عندما يحتاج فريقك إلى سعة إضافية، بدون تكلفة التوظيف الدائم. عندما يكون فريقك القانوني الداخلي تحت ضغط، يتدخل LexTend كامتداد سلس لعملك. نحن ندمج خبراءنا مباشرة في بيئة عملك، ونقدم خبرة متخصصة في الامتثال، والعقود، والحوكمة، قابلة للتوسع حسب احتياجاتك. إنه الخيار الذكي للمستشارين القانونيين، والفرق الصغيرة، أو الشركات سريعة النمو التي تحتاج إلى موارد إضافية بدون عبء التوظيف.",
+            "p1": "النمو لا يحدث بالصدفة؛ إنه مبني على الاتفاقيات الصحيحة.",
+            "p2": "مع LexTend، يمكنك تأمين الصفقات والشراكات والمشاريع بثقة. من المشاريع المشتركة إلى العقود الدولية، نساعدك على التوسع براحة بال.",
+            "button": "دعنا نفتح لك الباب أمام فرصتك التالية",
+            "weOffer": [{
+                    "name": "اندماج سلس مع فريقك",
+                    "des": "خبراؤنا يعملون وكأنهم جزء من فريقك، يفهمون ثقافة عملك وأهدافك."
+                },
+                {
+                    "name": "دعم قابل للتوسع في أوقات الذروة",
+                    "des": "نزيد الموارد عند الحاجة ونقللها عندما يهدأ الضغط، لتدفع فقط مقابل ما تستخدمه."
+                },
+                {
+                    "name": "خبرة متخصصة في مجالات متعددة",
+                    "des": "الامتثال، العقود، الحوكمة، والتقارير التنظيمية، كلها خبرات نوفرها عند الحاجة."
+                },
+                {
+                    "name": "حلول فعّالة ومخصصة",
+                    "des": "نتجنب عنك عبء التوظيف الكامل ونقدم بدائل قانونية مرنة تناسب ميزانيتك."
+                }
+            ],
+            "whoFor": [{
+                    "name": "المستشارون والمديرون القانونيون",
+                    "des": "يحتاجون إلى سعة إضافية لإنجاز مشاريع خاصة أو تلبية ضغوط مؤقتة.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "الفرق القانونية الصغيرة",
+                    "des": "تعاني من عبء العمل الكبير والمواعيد النهائية الضاغطة وتحتاج إلى دعم فوري.",
+                    "icon": "bi-patch-question"
+                },
+                {
+                    "name": "الشركات سريعة النمو",
+                    "des": "تحتاج إلى دعم قانوني يواكب سرعة التوسع دون تحمل تكاليف تعيين موظفين دائمين.",
+                    "icon": "bi-graph-up"
+                }
+            ]
+        }
+    },
+    {
+        "eng": {
+            "name": "LexTrack",
+            "title": "LexTrack: Your Matter. Fully Managed.",
+            "des": "End-to-end management of cross-border matters, so you stay in control without the complexity. Navigating multi-country legal issues requires local insight and global coordination. LexTrack serves as your single point of contact, leveraging a trusted network to handle disputes, arbitration, and compliance with strategic oversight and transparent budgeting. With one partner accountable for the full process, you gain clarity, control, and confidence in every jurisdiction.",
+            "p1": "The strongest position in disputes is clarity, strategy, and speed.",
+            "p2": "With LexTrack, you gain relentless legal support to resolve conflicts efficiently. From negotiation to courtroom advocacy, we protect your interests at every step.",
+            "button": "Let’s Resolve Your Case",
+            "weOffer": [{
+                    "name": "One Central Partner for Multi-Jurisdictional Needs",
+                    "des": "Manage cross-border litigation, arbitration, and compliance through a single, accountable partner."
+                },
+                {
+                    "name": "Global Network with Local Strength",
+                    "des": "Access vetted experts in key markets who know both international standards and local nuances."
+                },
+                {
+                    "name": "Strategic Oversight & Tailored Game Plans",
+                    "des": "End-to-end matter management with proactive strategy, not just reactive support."
+                },
+                {
+                    "name": "Transparent Budgeting with No Runaway Costs",
+                    "des": "Clear cost structures and regular updates keep you in control, always."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Corporations & Legal Departments",
+                    "des": "Organizations operating across borders that need coordinated support in multiple markets.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Counsel Teams Needing Oversight & Tools",
+                    "des": "Legal teams that want better matter tracking, outside counsel management, and cross-border coordination.",
+                    "icon": "bi-hammer"
+                },
+                {
+                    "name": "Businesses with Cross-Border Risks",
+                    "des": "Companies facing international disputes, deals, or regulations that demand local expertise.",
+                    "icon": "bi-asterisk"
+                }
+            ]
+        },
+        "ar": {
+            "name": "LexTrack",
+            "title": "LexTrack : قضيتك مُدارة بالكامل",
+            "des": "إدارة شاملة للقضايا العابرة للحدود حتى تظل مسيطرًا دون تعقيد. إدارة قضايا متعددة الجنسيات غالبًا ما تعني قوانين مختلفة، وولايات قضائية متعددة، وفوضى في التكاليف. هنا يأتي دور LexTrack. نكون نحن شريكك الوحيد المسؤول عن إدارة كل التفاصيل عبر شبكة من الخبراء المحليين الموثوقين. نقدّم إشرافًا استراتيجيًا، وخططًا مخصصة، وتسعيرًا واضحًا؛ لتبقى لديك رؤية كاملة وتحكم كامل في كل قضية وكل ولاية قضائية.",
+            "p1": "أقوى موقف في النزاعات هو الوضوح والاستراتيجية والسرعة.",
+            "p2": "مع LexTrack، تحصل على دعم قانوني لا هوادة فيه لحل النزاعات بكفاءة. من التفاوض إلى الدفاع في المحكمة، نحمي مصالحك في كل خطوة.",
+            "button": "دعنا نحل قضيتك",
+            "weOffer": [{
+                    "name": "شريك مركزي لجميع احتياجاتك متعددة الولايات",
+                    "des": "تتعامل مع نقطة اتصال واحدة لإدارة التقاضي، والتحكيم، والعقود، والامتثال."
+                },
+                {
+                    "name": "شبكة عالمية بخبرة محلية",
+                    "des": "نوصلك بخبراء قانونيين موثوقين في كل سوق، يعرفون القوانين والواقع المحلي."
+                },
+                {
+                    "name": "إشراف استراتيجي وخطط مصممة",
+                    "des": "نضع لك استراتيجيات واضحة لإدارة القضايا بدلًا من الاكتفاء بردود الفعل."
+                },
+                {
+                    "name": "شفافية في التكاليف",
+                    "des": "تحديثات منتظمة وهياكل تسعير واضحة تمنحك رؤية كاملة وتحكم مالي."
+                }
+            ],
+            "whoFor": [{
+                    "name": "الشركات والأقسام القانونية العالمية",
+                    "des": "تحتاج إلى تنسيق وإدارة قانونية موحدة عبر أسواق متعددة.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "الفرق القانونية الباحثة عن أدوات رقابية أفضل",
+                    "des": "ترغب في تتبع القضايا وإدارة مكاتب المحاماة الخارجية بكفاءة.",
+                    "icon": "bi-hammer"
+                },
+                {
+                    "name": "الأعمال التي تواجه مخاطر عبر الحدود",
+                    "des": "تتعامل مع نزاعات أو معاملات دولية وتتطلب دعمًا محليًا موثوقًا.",
+                    "icon": "bi-asterisk"
+                }
+            ]
+        }
+    },
+    {
+        "eng": {
+            "name": "LexFound",
+            "title": "LexFound: Built Right from the Start.",
+            "des": "Comprehensive support for new ventures and market entry, so you can focus on growth while we handle the foundation. Launching a business or entering new markets should be exciting, not overwhelming. LexFound handles registration, licensing, compliance, and banking, applying global standards locally to ensure your foundation is solid, scalable, and built for success. From startups raising capital to corporations expanding into MEA, LexFound gives leaders and investors the confidence to build without barriers.",
+            "p1": "Every strong business begins with a strong foundation.",
+            "p2": "With LexFound, you get expert guidance in setting up, structuring, and governing your company. From incorporation to compliance, we build the legal base for lasting success.",
+            "button": "Let’s Build Your Foundation",
+            "weOffer": [{
+                    "name": "End-to-End Business Setup",
+                    "des": "We handle it all, registration, tax, banking, compliance, and approvals, so you don’t have to."
+                },
+                {
+                    "name": "Licensing & Structuring Aligned with Your Goals",
+                    "des": "Legal structures and licenses tailored to your industry, scale, and growth plans."
+                },
+                {
+                    "name": "Local Experts Applying Global Standards",
+                    "des": "On-the-ground advisors who build using global best practices adapted for local markets."
+                },
+                {
+                    "name": "One Point of Contact for All Legal Needs",
+                    "des": "No chasing multiple agencies. We coordinate every legal step of your launch or expansion."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Entrepreneurs & Startups",
+                    "des": "Founders turning ideas into legally sound, scalable businesses ready for investment and growth.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Corporations Expanding into New Markets",
+                    "des": "Established companies entering MEA or other regions seeking smooth, compliant market entry.",
+                    "icon": "bi-graph-up-arrow"
+                },
+                {
+                    "name": "Foreign Investors & Multinationals",
+                    "des": "Global investors and firms entering new markets with confidence and trusted local insight.",
+                    "icon": "bi-building-add"
+                },
+                {
+                    "name": "Business Owners Seeking Stress-Free Setup",
+                    "des": "Leaders who want their business foundation done right, efficiently, and without legal headaches.",
+                    "icon": "bi-search"
+                }
+            ]
+        },
+        "ar": {
+            "name": "LexFound",
+            "title": "LexFound : تأسيس صحيح منذ البداية",
+            "des": "دعم شامل للشركات الجديدة ودخول الأسواق، حتى تركز على النمو بينما نتولى نحن الأساس. بدء عمل تجاري أو دخول سوق جديد يجب أن يكون مثيرًا، لا مرهقًا. LexFound يتولى عنك كل شيء: التسجيل، والتراخيص، والامتثال الضريبي، والحسابات المصرفية، والموافقات التنظيمية. خبراؤنا المحليون يطبقون أفضل الممارسات العالمية بما يتناسب مع كل سوق، لضمان أساس قانوني متين وقابل للتوسع.",
+            "p1": "كل عمل تجاري قوي يبدأ بأساس قوي.",
+            "p2": "مع LexFound، تحصل على إرشادات الخبراء في إنشاء شركتك وهيكلتها وإدارتها. من التأسيس إلى الامتثال، نبني الأساس القانوني لنجاح دائم.",
+            "button": "لنبني أساسك",
+            "weOffer": [{
+                    "name": "تأسيس متكامل للأعمال",
+                    "des": "من التسجيل إلى الضرائب والمصارف والامتثال، نحن ندير كل شيء من البداية للنهاية."
+                },
+                {
+                    "name": "هياكل قانونية وتراخيص مصممة لأهدافك",
+                    "des": "نضمن أن تكون بنيتك القانونية متوافقة مع متطلبات السوق وطموحاتك."
+                },
+                {
+                    "name": "خبراء محليون بمعايير عالمية",
+                    "des": "خبرتنا تجمع بين أفضل الممارسات الدولية والمعرفة المحلية الدقيقة."
+                },
+                {
+                    "name": "نقطة اتصال واحدة",
+                    "des": "لتوفير الوقت والجهد، نتولى تنسيق جميع خطوات التأسيس."
+                }
+            ],
+            "whoFor": [{
+                    "name": "رواد الأعمال والشركات الناشئة",
+                    "des": "يحّولون أفكارهم إلى مشاريع قانونية سليمة قابلة للنمو وجذابة للمستثمرين.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "الشركات الكبرى المتوسعة",
+                    "des": "تدخل أسواقًا جديدة وتحتاج إلى دخول سلس ومتوافق مع القوانين.",
+                    "icon": "bi-graph-up-arrow"
+                },
+                {
+                    "name": "المستثمرون الأجانب والشركات متعددة الجنسيات",
+                    "des": "يدخلون أسواقًا جديدة بثقة مع دعم محلي موثوق.",
+                    "icon": "bi-building-add"
+                },
+                {
+                    "name": "أصحاب الأعمال الباحثون عن راحة البال",
+                    "des": "يريدون تأسيسًا سريعًا وصحيحًا دون صداع قانوني.",
+                    "icon": "bi-search"
+                }
+            ]
+        }
+    }
+
+
+]

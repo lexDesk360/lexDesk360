@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>team </title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/team.css">
+</head>
+
+<body id="body">
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+                <div class="path">
+                    <p class="path-page">
+                        <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                        |
+                        <span data-translate="titlePage"></span></p>
+                    <p class="title-page" data-translate="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="team-content">
+            <div class="toggleTab">
+                <div class="tab active cursor" onclick="openTab('tab1')">
+                    <p data-translate="ourLeader" class="cursor">Meet Our Leaders</p>
+                </div>
+                <div class="tab cursor" onclick="openTab('tab2')">
+                    <p data-translate="ourTeam" class="cursor">Contact Our Team</p>
+                </div>
+
+            </div>
+            <div id="tab1" class="tab-content active ">
+                <div id="group-members">
+                </div>
+            </div>
+            <div id="tab2" class="tab-content ">
+                <div id="our-people">
+                </div>
+            </div>
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/team.js"></script>
+
+</html>

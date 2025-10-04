@@ -1,0 +1,108 @@
+.container-bg {
+  background-image: url(../assets/images/menu.png);
+  height: 100vh !important;
+  width: 100%;
+}
+.container-bg .menu-content {
+  height: 88vh;
+  width: 92%;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 4vw;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.container-bg .menu-content .col {
+  width: 30%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 8vh;
+}
+.container-bg .menu-content .col.w20f {
+  width: 23%;
+}
+.container-bg .menu-content .col.w16f {
+  width: 16%;
+}
+.container-bg .menu-content .col.left {
+  text-align: left;
+}
+.container-bg .menu-content .col .col-title p {
+  font-family: Montserrat;
+  font-size: 1.5vw;
+  letter-spacing: 0.2VW;
+  text-transform: uppercase;
+}
+.container-bg .menu-content .col .page-name p {
+  font-family: Oswald;
+  font-size: 2.2vw;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 1vw;
+}
+.container-bg .menu-content .col .page-name p.normal {
+  text-transform: none;
+}
+.container-bg .menu-content .col .title-des {
+  margin-top: 2vw;
+}
+.container-bg .menu-content .col .title-des p {
+  font-family: Montserrat;
+  font-size: 1.8vw;
+  font-weight: bold;
+}
+.container-bg .menu-content .col .descrbtion {
+  margin: 0;
+}
+
+#footer {
+  display: none;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: none;
+  }
+  .container-bg .menu-content {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .container-bg .menu-content .col {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 8vh;
+  }
+  .container-bg .menu-content .col.w20f, .container-bg .menu-content .col.w16f {
+    width: 100%;
+  }
+  .container-bg .menu-content .col .col-title p {
+    text-align: center;
+    font-size: 4.5vw;
+    letter-spacing: 0.5VW;
+  }
+  .container-bg .menu-content .col .page-name {
+    margin-bottom: 1vw;
+  }
+  .container-bg .menu-content .col .page-name p {
+    text-align: center;
+    font-size: 6.5vw;
+    margin-top: 3vw;
+  }
+  .container-bg .menu-content .col.hidden {
+    display: none;
+  }
+}

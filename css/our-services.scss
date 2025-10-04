@@ -1,0 +1,368 @@
+.container-bg {
+    background-image: url(../assets/images/our-services.png);
+}
+
+#services-content {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    .group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+
+        &.p5 {
+            padding: 0 5vw;
+            width: 90%;
+
+        }
+
+        &.end {
+            justify-content: end;
+
+        }
+
+        .w15f {
+            width: 15%;
+        }
+
+        .w75f {
+            width: 78%;
+        }
+
+        .w100f {
+            width: 100%;
+        }
+
+    }
+
+    .border-left {
+        width: 100%;
+        height: 15vw;
+        border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+        padding-bottom: 2vw;
+
+        .descrbtion {
+            margin-left: 1vw;
+
+        }
+    }
+
+    .tabs {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+        .tab {
+            width: 100%;
+            padding: 1.5vw 0;
+            border-bottom: 0.1vw solid rgba(255, 255, 255, 0.2);
+            font-size: 2vw;
+            font-family: Oswald;
+            color: rgb(255, 255, 255);
+            display: flex;
+            align-items: center;
+            margin: 0.5vw 0;
+            letter-spacing: 0.1vw;
+            cursor: pointer;
+
+            &.active {
+                &::before {
+                    content: '';
+                    flex-wrap: wrap;
+                    background-image: url(../assets/images/point.png);
+                    width: 0.8vw;
+                    height: 0.8vw;
+                    background-size: 100% 100%;
+                    margin: 0.5vw;
+                }
+            }
+
+
+        }
+    }
+
+    .content {
+        width: 100%;
+        display: flex;
+
+        .tab-content {
+            display: none;
+
+            &.active {
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+
+
+            .offer {
+                width: 100%;
+                margin: 2vw 0 2vw 1vw;
+
+                .descrbtion-title {
+                    margin-top: 3vw;
+
+                    p {
+                        font-family: Montserrat;
+                        font-size: 1.2vw;
+                        font-weight: bold;
+                        letter-spacing: 0.05vw;
+                        text-transform: none;
+                        margin: 1vw 0 0 0;
+                    }
+                }
+
+                .descrbtion {
+                    margin: 0;
+                }
+
+                .row {
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    justify-content: start;
+                    margin-top: 1vw;
+
+                    .image {
+                        width: 3vw;
+                        height: 3vw;
+                        margin: 1vw 1vw 0 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        background-size: 100% 100%;
+                        font-size: 3vw;
+                        color: white;
+
+                        &.sme {
+                            background-image: url(../assets/images/sme.png);
+                        }
+
+                        &.entrepren {
+                            background-image: url(../assets/images/inter.png);
+                        }
+
+                        &.individual {
+                            background-image: url(../assets/images/individual.png);
+                        }
+                    }
+
+                    .descrbtion-title {
+                        margin-top: 0vw;
+
+                        p {
+                            margin: 0;
+                        }
+                    }
+                }
+            }
+        }
+
+
+    }
+
+    .legal {
+        width: 100%;
+        height: 40vw;
+        background-image: url(../assets/images/legal-concept.png);
+        background-size: 100% 100%;
+        position: relative;
+        margin-top: 3vw;
+
+        &::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, rgba(2, 21, 61, 0.8), rgba(2, 21, 61, 1));
+        }
+
+        .opacityDiv {
+            width: 100%;
+            height: 10vw;
+            position: absolute;
+            top: 0;
+            background: linear-gradient(360.00deg, rgba(2, 21, 61, 0), rgba(2, 21, 61, 1) 100%);
+        }
+
+    }
+
+    .content-legal {
+        width: 68%;
+        height: 80%;
+        position: relative;
+        padding-right: 5vw;
+
+        .border-left {
+            display: flex;
+            width: 100%;
+            height: 80%;
+            justify-content: end;
+            flex-direction: column;
+            padding: 0;
+        }
+
+    }
+
+    .link-parag {
+        margin: 1vw;
+    }
+
+
+}
+
+
+@media (orientation: portrait) {
+    .container-bg {
+        background-image: url(../assets/images/our-services-mob.png);
+    }
+
+    #services-content {
+        top: -20vw;
+
+        .group {
+            &.end {
+                justify-content: start;
+
+            }
+
+            .w15f {
+                width: 100%;
+            }
+
+            .w75f {
+                width: 100%;
+            }
+
+        }
+
+        .border-left {
+            height: auto;
+            border-left: unset;
+            padding-bottom: 2vw;
+            margin-top: 12vw;
+
+            .descrbtion {
+                margin-left: 0vw;
+                margin-top: 5vw;
+
+            }
+        }
+
+        .tabs {
+            flex-direction: unset;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .tab {
+                width: 46%;
+                font-size: 5.5vw;
+                justify-content: center;
+                padding: 2.5vw 0;
+                margin: 0.5vw 1vw;
+
+                &.active {
+                    &::before {
+                        content: unset;
+                    }
+
+                    border-bottom: 0.1vw solid rgba(255, 255, 255, 0.8);
+
+                }
+
+
+            }
+        }
+
+        .content {
+            .tab-content {
+                .offer {
+                    margin: 5vw 0 5vw 0vw;
+
+                    .descrbtion-title {
+                        margin-top: 5vw;
+
+                        p {
+                            font-size: 3.7vw;
+                        }
+                    }
+
+                    .descrbtion {
+                        margin: 0;
+                    }
+
+                    .row {
+
+                        .image {
+                            width: 8vw;
+                            height: 8vw;
+                            margin: 3vw 0vw 2vw 0;
+                            font-size: 7vw;
+                        }
+
+                        .descrbtion-title {
+                            margin-top: 0vw;
+
+                            p {
+                                margin: 0;
+                            }
+                        }
+                    }
+                }
+            }
+
+
+        }
+
+        .legal {
+            height: 100vw;
+            background-image: url(../assets/images/legal-concept-mob.png);
+
+            .opacityDiv {
+                height: 30vw;
+            }
+
+        }
+
+        .content-legal {
+            width: 93%;
+            height: 80%;
+            position: relative;
+            padding-right: 5vw;
+
+            .border-left {
+                height: 100%;
+                margin-top: 0vw;
+                border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+
+            }
+
+            .title-line-border {
+                border-left: 0.1vw solid rgba(233, 233, 233, 0.8);
+
+                p {
+                    margin-left: 6vw;
+
+                }
+
+
+            }
+
+            .descrbtion {
+                margin-left: 6vw;
+            }
+        }
+
+        .link-parag {
+            margin-top: 5vw;
+            margin-left: 9vw;
+
+        }
+    }
+}

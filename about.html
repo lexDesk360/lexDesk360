@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>about </title>
+  <link rel="stylesheet" href="./css/global.css">
+  <link rel="stylesheet" href="./css/about.css">
+</head>
+
+<body id="body">
+  <div id="loading">
+    <div class="spinner"></div>
+  </div>
+  <div id="content">
+  <div class="container-bg">
+    <div id="navbar"></div>
+    <div class="opacityDiv">
+      <div class="path">
+        <p class="path-page">
+          <span class="cursor" onclick="getHome()" data-translate="pathpage"></span>
+          |
+          <span data-translate="titlepage"></span></p>
+        <p class="title-page" data-translate="titlepage"></p>
+      </div>
+    </div>
+
+  </div>
+  <div id="about-content">
+    <div class="group h25w">
+      <div class="w45f">
+        <div class="title">
+          <p data-translate="titleAbout"></p>
+        </div>
+
+      </div>
+      <div class="w45f">
+        <div class="descrbtion">
+          <p data-translate="desAbout1">
+          </p>
+          <p data-translate="desAbout2"></p>
+        </div>
+      </div>
+
+    </div>
+    <div class="group h45w gray">
+      <div class="w35f">
+        <div class="title-small-large-font">
+          <p data-translate="Vision"></p>
+        </div>
+        <div class="descrbtion-title">
+          <p data-translate="tilteVision"></p>
+        </div>
+        <div class="descrbtion">
+          <p data-translate="desVesion1">
+          </p>
+          <p data-translate="desVesion2"></p>
+          <p data-translate="desVesion3"></p>
+          <p data-translate="desVesion4"></p>
+
+        </div>
+      </div>
+      <div class="w55f">
+        <div class="title-small-large-font">
+          <p data-translate="Mission"></p>
+        </div>
+        <div class="descrbtion-title">
+          <p data-translate="MissionT"></p>
+        </div>
+        <div class="descrbtion">
+          <p data-translate="desMission1"></p>
+          <p data-translate="desMission2"></p>
+          <p data-translate="desMission3"></p>
+        </div>
+      </div>
+    </div>
+    <div class="group h40w">
+      <div class="w30f m5l">
+        <div class="title">
+          <p data-translate="Expanding"></p>
+        </div>
+        <div class="descrbtion">
+          <p data-translate="e1"></p>
+          <p data-translate="e2"></p>
+          <p data-translate="e3"></p>
+
+        </div>
+      </div>
+      <div class="w70f">
+        <div class="map">
+          <div class="location">
+            <div class="row">
+              <div class="pin"></div>
+              <p data-translate="location1"></p>
+            </div>
+            <div class="row">
+              <div class="pin active"></div>
+              <p class="active" data-translate="location2"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="group h45w">
+      <div class="w35f flex-center hiddenPor ceneterImportant">
+        <div class="founderImage"></div>
+      </div>
+      <div class="w60f border-left">
+        <div class="title-line-border">
+          <p data-translate="OurFounder"></p>
+        </div>
+        <div class="w35f flex-center hiddenLan">
+          <div class="founderImage"></div>
+        </div>
+        <div class="content">
+          <div class="descrbtion-title">
+            <p data-translate="positionJob" class="lower-text"></p>
+          </div>
+          <div class="descrbtion">
+            <p data-translate="desFounder1"></p>
+            <p data-translate="desFounder2">
+            </p>
+            <p data-translate="desFounder3"></p>
+          </div>
+          <div class="flex">
+            <div class="iconLinkin cursor" onclick="openFounderLinkedin()"></div>
+            <div class="descrbtion-title cursor" onclick="openFounderLinkedin()">
+              <p data-translate="viewLinkin"></p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="group h30w">
+      <div class="w23f flex-center">
+        <div class="valueImage"></div>
+      </div>
+      <div class="w33f border-left h50f">
+        <div class="title-line-border">
+          <p data-translate="OurVALUES"></p>
+        </div>
+        <div class="content">
+          <div class="descrbtion-title">
+            <p draggable="desValues"></p>
+          </div>
+          <div class="descrbtion">
+            <p data-translate="desValue2"></p>
+          </div>
+        </div>
+      </div>
+      <div class="w30f flex-center">
+        <div class="bg-blue">
+          <i class="bi " id="iconValue"></i>
+          <div>
+            <p data-translate="valueName"></p>
+          </div>
+          <div class="descrbtion">
+            <p data-translate="valueDes"></p>
+          </div>
+        </div>
+      </div>
+      <div class="w5f flex-center end">
+        <div class="pagination">
+          <div class="next cursor" onclick="nextValue()"></div>
+          <div class="prev cursor" onclick="prevValue()"></div>
+        </div>
+      </div>
+    </div>
+    <div class="group">
+      <iframe src="https://heyzine.com/flip-book/3526b9e906.html" width="100%"
+        style="border: none; height: 40vw; width: 100%;"></iframe>
+    </div>
+  </div>
+  <div id="footer"></div>
+  </div>
+
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/about.js"></script>
+
+</html>

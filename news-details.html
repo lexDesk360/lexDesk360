@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>news Details </title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/news-details.css">
+</head>
+
+<body id="body">
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+                <div class="path">
+                    <p class="path-page">
+                        <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                        |
+                        <span data-translate="titlePage"></span></p>
+                    <p class="title-page" data-translate="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="news-content">
+            <div class="content">
+                <div class="new-image first" item-translate="img">
+                </div>
+                <div class="date">
+                    <p item-translate="date"></p>
+                </div>
+                <div class="title-small">
+                    <p item-translate="name"></p>
+                </div>
+                <div class="div" id="contentNews"></div>
+            </div>
+            <div class="bottom-container">
+                <div class="borderDiv">
+                    <div class="title-line-border">
+                        <p data-translate="moreNew"></p>
+                    </div>
+                    <div class="item-list" id="itemList">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/news-details.js"></script>
+
+</html>

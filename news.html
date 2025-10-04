@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>news </title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/news.css">
+</head>
+
+<body id='body'>
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+               
+                <div class="path">
+                    <p class="path-page">
+                        <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                        |
+                        <span data-translate="titlePage"></span></p>
+                    <p class="title-page" data-translate="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="news-content">
+            <div class="item-list" id="item-list">
+            </div>
+            <div class="pagination" id="pagination">
+
+            </div>
+        </div>
+        <div id="footer"></div>
+    </div>
+
+
+
+      
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/news.js"></script>
+
+</html>

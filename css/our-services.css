@@ -1,0 +1,331 @@
+.container-bg {
+  background-image: url(../assets/images/our-services.png);
+}
+
+#services-content {
+  position: relative;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+#services-content .group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+}
+#services-content .group.p5 {
+  padding: 0 5vw;
+  width: 90%;
+}
+#services-content .group.end {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+#services-content .group .w15f {
+  width: 15%;
+}
+#services-content .group .w75f {
+  width: 78%;
+}
+#services-content .group .w100f {
+  width: 100%;
+}
+#services-content .border-left {
+  width: 100%;
+  height: 15vw;
+  border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+  padding-bottom: 2vw;
+}
+#services-content .border-left .descrbtion {
+  margin-left: 1vw;
+}
+#services-content .tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+}
+#services-content .tabs .tab {
+  width: 100%;
+  padding: 1.5vw 0;
+  border-bottom: 0.1vw solid rgba(255, 255, 255, 0.2);
+  font-size: 2vw;
+  font-family: Oswald;
+  color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0.5vw 0;
+  letter-spacing: 0.1vw;
+  cursor: pointer;
+}
+#services-content .tabs .tab.active::before {
+  content: "";
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  background-image: url(../assets/images/point.png);
+  width: 0.8vw;
+  height: 0.8vw;
+  background-size: 100% 100%;
+  margin: 0.5vw;
+}
+#services-content .content {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#services-content .content .tab-content {
+  display: none;
+}
+#services-content .content .tab-content.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+#services-content .content .tab-content .offer {
+  width: 100%;
+  margin: 2vw 0 2vw 1vw;
+}
+#services-content .content .tab-content .offer .descrbtion-title {
+  margin-top: 3vw;
+}
+#services-content .content .tab-content .offer .descrbtion-title p {
+  font-family: Montserrat;
+  font-size: 1.2vw;
+  font-weight: bold;
+  letter-spacing: 0.05vw;
+  text-transform: none;
+  margin: 1vw 0 0 0;
+}
+#services-content .content .tab-content .offer .descrbtion {
+  margin: 0;
+}
+#services-content .content .tab-content .offer .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  margin-top: 1vw;
+}
+#services-content .content .tab-content .offer .row .image {
+  width: 3vw;
+  height: 3vw;
+  margin: 1vw 1vw 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-size: 100% 100%;
+  font-size: 3vw;
+  color: white;
+}
+#services-content .content .tab-content .offer .row .image.sme {
+  background-image: url(../assets/images/sme.png);
+}
+#services-content .content .tab-content .offer .row .image.entrepren {
+  background-image: url(../assets/images/inter.png);
+}
+#services-content .content .tab-content .offer .row .image.individual {
+  background-image: url(../assets/images/individual.png);
+}
+#services-content .content .tab-content .offer .row .descrbtion-title {
+  margin-top: 0vw;
+}
+#services-content .content .tab-content .offer .row .descrbtion-title p {
+  margin: 0;
+}
+#services-content .legal {
+  width: 100%;
+  height: 40vw;
+  background-image: url(../assets/images/legal-concept.png);
+  background-size: 100% 100%;
+  position: relative;
+  margin-top: 3vw;
+}
+#services-content .legal::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(2, 21, 61, 0.8)), to(rgb(2, 21, 61)));
+  background: linear-gradient(to bottom, rgba(2, 21, 61, 0.8), rgb(2, 21, 61));
+}
+#services-content .legal .opacityDiv {
+  width: 100%;
+  height: 10vw;
+  position: absolute;
+  top: 0;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(2, 21, 61, 0)), to(rgb(2, 21, 61)));
+  background: linear-gradient(360deg, rgba(2, 21, 61, 0), rgb(2, 21, 61) 100%);
+}
+#services-content .content-legal {
+  width: 68%;
+  height: 80%;
+  position: relative;
+  padding-right: 5vw;
+}
+#services-content .content-legal .border-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 80%;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 0;
+}
+#services-content .link-parag {
+  margin: 1vw;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: url(../assets/images/our-services-mob.png);
+  }
+  #services-content {
+    top: -20vw;
+  }
+  #services-content .group.end {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+  }
+  #services-content .group .w15f {
+    width: 100%;
+  }
+  #services-content .group .w75f {
+    width: 100%;
+  }
+  #services-content .border-left {
+    height: auto;
+    border-left: unset;
+    padding-bottom: 2vw;
+    margin-top: 12vw;
+  }
+  #services-content .border-left .descrbtion {
+    margin-left: 0vw;
+    margin-top: 5vw;
+  }
+  #services-content .tabs {
+    -webkit-box-orient: unset;
+    -webkit-box-direction: unset;
+        -ms-flex-direction: unset;
+            flex-direction: unset;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #services-content .tabs .tab {
+    width: 46%;
+    font-size: 5.5vw;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 2.5vw 0;
+    margin: 0.5vw 1vw;
+  }
+  #services-content .tabs .tab.active {
+    border-bottom: 0.1vw solid rgba(255, 255, 255, 0.8);
+  }
+  #services-content .tabs .tab.active::before {
+    content: unset;
+  }
+  #services-content .content .tab-content .offer {
+    margin: 5vw 0 5vw 0vw;
+  }
+  #services-content .content .tab-content .offer .descrbtion-title {
+    margin-top: 5vw;
+  }
+  #services-content .content .tab-content .offer .descrbtion-title p {
+    font-size: 3.7vw;
+  }
+  #services-content .content .tab-content .offer .descrbtion {
+    margin: 0;
+  }
+  #services-content .content .tab-content .offer .row .image {
+    width: 8vw;
+    height: 8vw;
+    margin: 3vw 0vw 2vw 0;
+    font-size: 7vw;
+  }
+  #services-content .content .tab-content .offer .row .descrbtion-title {
+    margin-top: 0vw;
+  }
+  #services-content .content .tab-content .offer .row .descrbtion-title p {
+    margin: 0;
+  }
+  #services-content .legal {
+    height: 100vw;
+    background-image: url(../assets/images/legal-concept-mob.png);
+  }
+  #services-content .legal .opacityDiv {
+    height: 30vw;
+  }
+  #services-content .content-legal {
+    width: 93%;
+    height: 80%;
+    position: relative;
+    padding-right: 5vw;
+  }
+  #services-content .content-legal .border-left {
+    height: 100%;
+    margin-top: 0vw;
+    border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+  }
+  #services-content .content-legal .title-line-border {
+    border-left: 0.1vw solid rgba(233, 233, 233, 0.8);
+  }
+  #services-content .content-legal .title-line-border p {
+    margin-left: 6vw;
+  }
+  #services-content .content-legal .descrbtion {
+    margin-left: 6vw;
+  }
+  #services-content .link-parag {
+    margin-top: 5vw;
+    margin-left: 9vw;
+  }
+}

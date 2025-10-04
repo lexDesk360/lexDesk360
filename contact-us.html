@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact </title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/contact-us.css">
+</head>
+
+<body id="body">
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+                <div class="path">
+                    <p class="path-page">
+                        <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                        |
+                        <span data-translate="titlePage"></span></p>
+                    <p class="title-page" data-translate="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="services-content">
+            <div class="group p5">
+                <form class="form" id="contact-us">
+                    <div class="group-inputs">
+                        <input type="text" class="input-feild name" id="name" data-translate="name" placeholder="Name"
+                            name="name"  autocomplete="off">
+                        <p class="error" id="errorName"></p>
+                        <input type="text"  class="input-feild" id="email" data-translate="emailcon" placeholder="Email"
+                            name="email"  autocomplete="off">
+                        <p class="error" id="errorEmail"></p>
+
+                        <input type="text"  id="phone" class="input-feild" data-translate="phone" placeholder="Phone"
+                            name="phoneNumber"   max="20" autocomplete="off">
+                        <p class="error" id="errorPhone"></p>
+
+                    </div>
+                    <div class="group-inputs">
+                        <input type="text"  class="input-feild" autocomplete="off" id="subject" data-translate="Subject"
+                            placeholder="Subject" >
+                        <p class="error" id="errorSubject"></p>
+                        <textarea class="input-feild textarea" autocomplete="off" id="message" data-translate="Message"
+                            name="message"  placeholder="Message" ></textarea>
+                        <p class="error" id="errorMessage"></p>
+                        <button type="submit">
+                            <p id="submitText" data-translate="applyNow" class="cursor"></p>
+                        </button>
+                        <!-- <button type="submit">إرسال</button> -->
+
+                    </div>
+                </form>
+                <div id="messageTxt"></div>
+            </div>
+
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/contact-us.js"></script>
+<script src="./js/contact.js"></script>
+
+</html>

@@ -1,0 +1,525 @@
+[{
+        "id": 1,
+        "image": "../assets/images/our-network/network1.png",
+        "image2": "../assets/images/our-network/n1-1.jpg",
+        "image3": "../assets/images/our-network/n1-2.jpg",
+        "counrty": {
+            "eng": "Egypt",
+            "ar": "مصر"
+        },
+        "name": {
+            "eng": "LexDesk360 - Sowaidan & Partners",
+            "ar": "LexDesk360 - سويدان وشركاه"
+        },
+        "titlePage": {
+            "eng": "Our Network Firms",
+            "ar": "  شبكتنا من الشركاء "
+        },
+        "about": {
+            "eng": [
+                "Sowaidan & Partners is a full-service Egyptian law firm founded in 2025 by Walid Sowaidan. The firm delivers business-critical counsel across corporate, commercial, and regulatory matters, complex disputes, and high-stakes investigations. Known for partner-led service and clear, actionable advice, the team helps clients anticipate risk, resolve disputes efficiently, and achieve strategic objectives"
+            ],
+            "ar": [
+                "سويدان وشركاه هي شركة محاماة مصرية متكاملة الخدمات تأسست عام 2025 على يد وليد سويدان. تقدم الشركة استشارات مهمة في الشؤون المؤسسية والتجارية والتنظيمية، والنزاعات المعقدة، والتحقيقات عالية المخاطر. يشتهر المكتب بخدمات يقودها الشركاء ونصائح واضحة قابلة للتنفيذ تساعد العملاء على توقع المخاطر وحل النزاعات بكفاءة وتحقيق الأهداف الاستراتيجية. "
+            ]
+        },
+        "practice": {
+            "eng": {
+                "des": "The firm provides comprehensive services, including:",
+                "content": [{
+                        "name": "Corporate & Commercial:",
+                        "des": "mergers & acquisitions, joint ventures, governance, contracts, and regulatory advisory"
+                    },
+                    {
+                        "name": "Litigation:",
+                        "des": "representation in criminal, family, corporate, and commercial disputes"
+                    },
+                    {
+                        "name": "Compliance & Risk:",
+                        "des": "audits, programs, and internal investigations"
+                    },
+                    {
+                        "name": "Intellectual Property:",
+                        "des": "protection, commercialization, and enforcement"
+                    },
+                    {
+                        "name": "Employment Law:",
+                        "des": "workforce strategy, executive contracts, and sensitive disputes"
+                    },
+                    {
+                        "name": "Arbitration:",
+                        "des": "acting in institutional and ad hoc proceedings"
+                    }
+                ]
+            },
+            "ar": {
+                "des": "تشمل خدمات الشركة: ",
+                "content": [{
+                        "name": "الشركات والتجارة:",
+                        "des": "عمليات الدمج والاستحواذ، والمشاريع المشتركة، والحوكمة، والعقود، والاستشارات التنظيمية."
+                    },
+                    {
+                        "name": "التقاضي:",
+                        "des": "التمثيل في النزاعات الجنائية والأسرية والتجارية. "
+                    },
+                    {
+                        "name": "الامتثال والمخاطر:",
+                        "des": "التدقيق والبرامج والتحقيقات الداخلية. "
+                    },
+                    {
+                        "name": "الملكية الفكرية:",
+                        "des": "حماية الحقوق وتسويقها وإنفاذها."
+                    },
+                    {
+                        "name": "قانون العمل:",
+                        "des": " استراتيجيات القوى العاملة والعقود التنفيذية والنزاعات الحساسة."
+                    },
+                    {
+                        "name": "التحكيم:",
+                        "des": "التمثيل في الإجراءات المؤسسية والخاصة. "
+                    }
+                ]
+            }
+        },
+        "sector": {
+            "eng": {
+                "des": "Sowaidan & Partners’ experience spans a wide range of industries, including",
+                "content": [{
+                        "des": "Banking, finance, and capital markets"
+                    },
+                    {
+                        "des": "Healthcare, pharmaceuticals, and medical services "
+                    },
+                    {
+                        "des": "Real estate, construction, and engineering consultancies "
+                    },
+                    {
+                        "des": "Insurance, contractors, and major corporations "
+                    },
+                    {
+                        "des": "Maritime, aviation, and logistics  "
+                    },
+                    {
+                        "des": "Energy, oil & gas, and technology   "
+                    },
+                    {
+                        "des": "Emerging areas such as digital currencies and investment advisory  "
+                    }
+                ]
+            },
+            "ar": {
+                "des": "تمتد خبرة شركة سويدان وشركاه لتشمل مجموعة واسعة من الصناعات، بما في ذلك: ",
+                "content": [{
+                        "des": "البنوك والتمويل وأسواق رأس المال"
+                    },
+                    {
+                        "des": "الرعاية الصحية والأدوية والخدمات الطبية"
+                    },
+                    {
+                        "des": "التطوير العقاري والبناء والاستشارات الهندسية "
+                    },
+                    {
+                        "des": "التأمين والمقاولون والشركات الكبرى "
+                    },
+                    {
+                        "des": "الشحن البحري والطيران واللوجستيات  "
+                    },
+                    {
+                        "des": "الطاقة والنفط والغاز والتكنولوجيا "
+                    },
+                    {
+                        "des": "المجالات الناشئة مثل العملات الرقمية والاستشارات الاستثمارية "
+                    }
+                ]
+            }
+        },
+        "within": {
+            "eng": [
+                "As part of the LexDesk360 Global Network of Law Firms, Sowaidan & Partners provides on-the-ground counsel in Egypt while coordinating seamlessly with regional and international offices. All matters follow LexDesk360 standards for conflict checks, confidentiality, and reporting. The firm offers flexible engagement formats, monthly retainers, or project-based mandates, delivered by a dedicated multidisciplinary team."
+            ],
+            "ar": [
+                "بصفته جزءًا من شبكة LexDesk360 العالمية لمكاتب المحاماة، يقدم مكتب سويدان وشركاه استشارات ميدانية في مصر مع تنسيق سلس مع المكاتب الإقليمية والدولية. تُدَار القضايا جميعها وفقًا لمعايير LexDesk360 الخاصة بفحص تضارب المصالح، والسرية، وإعداد التقارير. كما يقدم المكتب أشكالًا مرنة للتعاون، سواء عبر أتعاب شهرية أو مشروعات محددة، ينفذها فريق متعدد التخصصات."
+            ]
+        },
+        "link": ""
+    },
+    {
+        "id": 2,
+        "image": "../assets/images/our-network/network2.png",
+        "image2": "../assets/images/our-network/n2-1.jpg",
+        "image3": "../assets/images/our-network/n2-2.jpg",
+        "counrty": {
+            "eng": "UAE",
+            "ar": "الإمارات"
+        },
+        "name": {
+            "eng": "LexDesk360 - Abdullah Al Nuaimi Advocates & Legal Consultants",
+            "ar": "LexDesk360 - عبدالله النعيمي للمحاماة والاستشارات القانونية"
+        },
+        "titlePage": {
+            "eng": " Our Network Firms",
+            "ar": "   شبكتنا من الشركاء "
+        },
+        "about": {
+            "eng": "Abdullah Al Nuaimi Advocates & Legal Consultants is a leading UAE-based law firm founded by attorney Abdullah Al Nuaimi, who brings over a decade of experience advising companies and individuals on corporate and commercial law, compliance, intellectual property, employment, and disputes. The firm is recognized for practical counsel, efficient delivery, and a strong focus on achieving business outcomes.",
+            "ar": "يُعد مكتب عبد الله النعيمي للمحاماة والاستشارات القانونية أحد أبرز مكاتب المحاماة في دولة الإمارات العربية المتحدة. أسسه المحامي عبد الله النعيمي الذي يمتلك أكثر من عشر سنوات من الخبرة في تقديم الاستشارات للشركات والأفراد في مجالات القانون التجاري وقانون الشركات، والامتثال، والملكية الفكرية، والعمل، والنزاعات. يشتهر المكتب بتقديم استشارات عملية، وتنفيذ فعّال، وتركيز قوي على تحقيق النتائج التجارية."
+        },
+        "practice": {
+            "eng": {
+                "des": "The firm provides a full spectrum of services, including:",
+                "content": [{
+                        "name": "Corporate Governance & Compliance:",
+                        "des": "audits, risk management, and company policies."
+                    },
+                    {
+                        "name": "Intellectual Property:",
+                        "des": "registration and protection of trademarks and patents."
+                    },
+                    {
+                        "name": "Employment Law:",
+                        "des": "workplace policies, employee relations, and advisory."
+                    },
+                    {
+                        "name": "Commercial Contracts:",
+                        "des": "mergers & acquisitions, international partnerships, and franchise arrangements."
+                    },
+                    {
+                        "name": "Data Protection:",
+                        "des": "confidentiality agreements and privacy compliance."
+                    },
+                    {
+                        "name": "Dispute Resolution:",
+                        "des": "litigation and arbitration support through all judicial levels."
+                    }
+                ]
+            },
+            "ar": {
+                "des": "يقدم المكتب طيفًا كاملاً من الخدمات، بما في ذلك:",
+                "content": [{
+                        "name": "حوكمة الشركات والامتثال:",
+                        "des": "التدقيقات، وإدارة المخاطر، وسياسات الشركات."
+                    },
+                    {
+                        "name": "الملكية الفكرية:",
+                        "des": "تسجيل وحماية العلامات التجارية وبراءات الاختراع."
+                    },
+                    {
+                        "name": "قانون العمل:",
+                        "des": "سياسات مكان العمل، وعلاقات الموظفين، والاستشارات."
+                    },
+                    {
+                        "name": "العقود التجارية:",
+                        "des": "عمليات الدمج والاستحواذ، والشراكات الدولية، وترتيبات الامتياز التجاري."
+                    },
+                    {
+                        "name": "حماية البيانات:",
+                        "des": "اتفاقيات السرية والامتثال لمعايير الخصوصية."
+                    },
+                    {
+                        "name": "تسوية المنازعات:",
+                        "des": "دعم التقاضي والتحكيم عبر جميع المستويات القضائية."
+                    }
+                ]
+            }
+        },
+        "sector": {
+            "eng": {
+                "des": "The team’s experience spans:",
+                "content": [{
+                        "des": "Banking, insurance, and major corporations"
+                    },
+                    {
+                        "des": "Real estate development and family investment companies"
+                    },
+                    {
+                        "des": "Contractors, engineering consultancies, shipping, aviation, and maritime"
+                    },
+                    {
+                        "des": "Health, oil & gas, and emerging mandates in the digital currency market"
+                    }
+                ]
+            },
+            "ar": {
+                "des": "يشمل نطاق خبرة الفريق ما يلي:",
+                "content": [{
+                        "des": "المصارف، والتأمين، والشركات الكبرى"
+                    },
+                    {
+                        "des": "التطوير العقاري وشركات الاستثمار العائلية"
+                    },
+                    {
+                        "des": "المقاولون، ومكاتب الاستشارات الهندسية، والشحن، والطيران، والبحرية"
+                    },
+                    {
+                        "des": "الصحة، والنفط والغاز، والتكليفات الناشئة في سوق العملات الرقمية    "
+                    }
+                ]
+            }
+        },
+        "within": {
+            "eng": "As part of the LexDesk360 Global Network of Law Firms, the firm delivers on-the-ground counsel in the UAE while coordinating seamlessly across the region. All matters are managed under LexDesk360 standards for conflict checks, confidentiality, and reporting, ensuring clients receive unified and reliable service.",
+            "ar": "بصفته جزءًا من شبكة LexDesk360 العالمية لمكاتب المحاماة، يوفر المكتب استشارات قانونية مباشرة على أرض الواقع في دولة الإمارات، مع تنسيق سلس عبر المنطقة. تُدَار القضايا جميعها وفقًا لمعاييرLexDesk360 الخاصة بفحص تضارب المصالح، والسرية، وإعداد التقارير، لضمان حصول العملاء على خدمة موحدة وموثوقة."
+        },
+        "link": "https://abdulla-alnuaimi.ae/"
+    },
+    {
+        "id": 3,
+        "image": "../assets/images/our-network/network3.png",
+        "image2": "../assets/images/our-network/n3-1.jpg",
+        "image3": "../assets/images/our-network/n3-2.jpg",
+        "counrty": {
+            "eng": "Pakistan",
+            "ar": "باكستان"
+        },
+        "name": {
+            "eng": "LexDesk360 - Chima & Ibrahim",
+            "ar": "LexDesk360 - Chima & Ibrahim"
+        },
+        "titlePage": {
+            "eng": "  Our Network Firms ",
+            "ar": "  شبكتنا من الشركاء "
+        },
+        "about": {
+            "eng": "Chima & Ibrahim is a boutique law firm headquartered in Lahore with offices in Islamabad, Pakistan. Known for its client-focused approach and commitment to excellence, the firm has built a strong reputation in the region for delivering tailored legal solutions in corporate and commercial law.",
+            "ar": "  Chima & Ibrahim هي شركة محاماة متخصصة مقرها الرئيسي في لاهور، ولها مكاتب في إسلام آباد، باكستان. معروفة بنهجها الذي يركز على العميل والتزامها بالتميز، وقد بنت سمعة قوية في المنطقة بفضل تقديم حلول قانونية مخصصة في مجال القانون التجاري وقانون الشركات."
+        },
+        "practice": {
+            "eng": {
+                "des": "The firm provides specialized services across:",
+                "content": [{
+                        "name": "Corporate & Commercial Law:",
+                        "des": "business structuring, governance, and compliance."
+                    },
+                    {
+                        "name": " Contracts & Transactions:",
+                        "des": "negotiation, drafting, and execution of commercial agreements."
+                    },
+                    {
+                        "name": "Mergers & Acquisitions:",
+                        "des": "advisory and transactional support for cross-border and domestic deals."
+                    },
+                    {
+                        "name": "Dispute Resolution:",
+                        "des": "litigation and arbitration services across commercial and civil matters."
+                    },
+                    {
+                        "name": "Advisory Services:",
+                        "des": "strategic legal advice to businesses and individuals operating in Pakistan."
+                    }
+                ]
+            },
+            "ar": {
+                "des": "قدم الشركة خدمات متخصصة في المجالات التالية:",
+                "content": [{
+                        "name": "القانون التجاري وقانون الشركات:",
+                        "des": "هيكلة الأعمال، والحوكمة، والامتثال."
+                    },
+                    {
+                        "name": "العقود والمعاملات:",
+                        "des": "التفاوض، والصياغة، وتنفيذ الاتفاقيات التجارية."
+                    },
+                    {
+                        "name": " عمليات الدمج والاستحواذ:",
+                        "des": "الاستشارات والدعم في الصفقات المحلية والعابرة للحدود."
+                    },
+                    {
+                        "name": " تسوية المنازعات:",
+                        "des": "خدمات التقاضي والتحكيم في القضايا التجارية والمدنية."
+                    },
+                    {
+                        "name": " الخدمات الاستشارية:",
+                        "des": " استشارات قانونية استراتيجية للشركات والأفراد العاملين في باكستان."
+                    },
+                    {
+                        "name": "تسوية المنازعات:",
+                        "des": "دعم التقاضي والتحكيم عبر جميع المستويات القضائية."
+                    }
+                ]
+            }
+        },
+        "sector": {
+            "eng": {
+                "des": "The firm's expertise covers key sectors vital to the Pakistani economy and international investment, including:",
+                "content": [{
+                        "des": "Banking & Finance"
+                    },
+                    {
+                        "des": "Real Estate & Family Enterprises"
+                    },
+                    {
+                        "des": "Commercial Agencies"
+                    },
+                    {
+                        "des": "Technology Ventures"
+                    },
+                    {
+                        "des": "Manufacturing"
+                    },
+                    {
+                        "des": "Cross-Border Trade and Investment"
+                    }
+                ]
+            },
+            "ar": {
+                "des": "تشمل خبرة الشركة قطاعات رئيسية حيوية للاقتصاد الباكستاني والاستثمارات الدولية، مثل:",
+                "content": [{
+                        "des": " المصارف والتمويل"
+                    },
+                    {
+                        "des": " العقارات والشركات العائلية"
+                    },
+                    {
+                        "des": "الوكالات التجارية"
+                    },
+                    {
+                        "des": "المشاريع التقنية"
+                    },
+                    {
+                        "des": "الصناعات التحويلية"
+                    },
+                    {
+                        "des": "التجارة والاستثمار عبر الحدود"
+                    }
+                ]
+            }
+        },
+        "within": {
+            "eng": "As a member of the LexDesk360 Global Network of Law Firms, Chima & Ibrahim strengthens our presence in South Asia, ensuring clients benefit from local expertise combined with LexDesk360’s international reach. The firm supports cross-border mandates with seamless coordination, strict adherence to conflict checks, confidentiality, and global reporting standards.",
+            "ar": "بصفتها عضوًا في شبكة LexDesk360 العالمية لمكاتب المحاماة، تعززChima & Ibrahim حضورنا في جنوب آسيا، ما يضمن للعملاء الاستفادة من الخبرة المحلية إلى جانب الانتشار الدولي لـLexDesk360. تدعم الشركة المهام العابرة للحدود من خلال التنسيق السلس والالتزام الصارم بفحص تضارب المصالح، والسرية،"
+        },
+        "link": "https://chima-ibrahim.com"
+    },
+    {
+        "id": 4,
+        "image": "../assets/images/our-network/network4.png",
+        "image2": "../assets/images/our-network/n1-1.jpg",
+        "image3": "../assets/images/our-network/n2-2.jpg",
+        "counrty": {
+            "eng": "Saudi Arabia",
+            "ar": "المملكة العربية السعودية "
+        },
+        "name": {
+            "eng": "LexDesk360 - Amro Taher Maghrabi LLP",
+            "ar": "LexDesk360 - Amro Taher Maghrabi LLP"
+        },
+        "titlePage": {
+            "eng": "  Our Network Firms ",
+            "ar": "  شبكتنا من الشركاء "
+        },
+        "about": {
+            "eng": "Amro Taher Maghrabi LLP is a leading Saudi law firm based in Jeddah, founded by attorney Amro Taher Maghrabi. The firm is recognized for its independence, professionalism, and trusted advocacy, serving both corporate and individual clients. With a strong reputation for adapting to Saudi Arabia’s evolving legal landscape, the firm delivers practical advice and vigorous representation across corporate, commercial, litigation, and regulatory matters.",
+            "ar": "Amro Taher Maghrabi LLP هي شركة محاماة سعودية رائدة مقرها في جدة، أسسها المحامي عمرو طاهر المغربي. تشتهر الشركة باستقلاليتها ومهنيتها ومصداقيتها في الدفاع عن عملائها، وتقدم خدماتها للعملاء من الشركات والأفراد على حد سواء. تتمتع الشركة بسمعة طيبة في التكيف مع المشهد القانوني المتطور في المملكة العربية السعودية، وتقدم المشورة العملية والتمثيل القوي في جميع المسائل المتعلقة بالشركات والتجارة والتقاضي واللوائح التنظيمية. "
+        },
+        "practice": {
+            "eng": {
+                "des": "The firm provides comprehensive legal services, including:",
+                "content": [{
+                        "name": "Corporate & Commercial :",
+                        "des": "joint ventures, acquisitions, partnerships, and regulatory compliance."
+                    },
+                    {
+                        "name": "Governance & Risk :",
+                        "des": "corporate governance, restructuring, and compliance frameworks."
+                    },
+                    {
+                        "name": "Litigation & Dispute Resolution :",
+                        "des": "commercial, civil, family, and labor law cases."
+                    },
+                    {
+                        "name": "Regulatory & Trade :",
+                        "des": "investment, licensing, and trade law advisory."
+                    },
+                    {
+                        "name": "Contracts :",
+                        "des": "drafting, negotiating, and reviewing commercial agreements."
+                    },
+                    {
+                        "name": "Advisory :",
+                        "des": "strategic counsel on adapting to shifting legal and regulatory environments."
+                    }
+                ]
+            },
+            "ar": {
+                "des": "تقدم الشركة خدمات قانونية شاملة، بما في ذلك: ",
+                "content": [{
+                        "name": "الشركات والتجارة :",
+                        "des": "المشاريع المشتركة، وعمليات الاستحواذ، والشراكات، والامتثال للوائح التنظيمية."
+                    },
+                    {
+                        "name": "الحوكمة والمخاطر :",
+                        "des": "حوكمة الشركات، وإعادة الهيكلة، وأطر الامتثال."
+                    },
+                    {
+                        "name": "التقاضي وتسوية المنازعات :",
+                        "des": "القضايا التجارية والمدنية والأسرية وقضايا قانون العمل."
+                    },
+                    {
+                        "name": "التنظيم والتجارة :",
+                        "des": "الاستثمار والترخيص والاستشارات القانونية التجارية."
+                    },
+                    {
+                        "name": "العقود :",
+                        "des": "صياغة الاتفاقيات التجارية والتفاوض بشأنها ومراجعتها."
+                    },
+                    {
+                        "name": "الاستشارات :",
+                        "des": "المشورة الاستراتيجية بشأن التكيف مع البيئات القانونية والتنظيمية المتغيرة"
+                    }
+                ]
+            }
+        },
+        "sector": {
+            "eng": {
+                "des": "The team’s experience covers a broad range of industries, including:",
+                "content": [{
+                        "des": "Real estate development and infrastructure"
+                    },
+                    {
+                        "des": "Trade, transportation, and supply chains"
+                    },
+                    {
+                        "des": "Contractors and engineering consultancies"
+                    },
+                    {
+                        "des": "Healthcare, pharmaceuticals, and education"
+                    },
+                    {
+                        "des": "Oil, gas, and energy"
+                    },
+                    {
+                        "des": "Family businesses and investment companies"
+                    }
+                ]
+            },
+            "ar": {
+                "des": "تغطي خبرة الفريق مجموعة واسعة من الصناعات، بما في ذلك: ",
+                "content": [{
+                        "des": "تطوير العقارات والبنية التحتية"
+                    },
+                    {
+                        "des": "التجارة والنقل وسلاسل التوريد "
+                    },
+                    {
+                        "des": "المقاولون والاستشارات الهندسية "
+                    },
+                    {
+                        "des": "الرعاية الصحية والأدوية والتعليم "
+                    },
+                    {
+                        "des": "النفط والغاز والطاقة "
+                    },
+                    {
+                        "des": "الشركات العائلية وشركات الاستثمار "
+                    }
+                ]
+            }
+        },
+        "within": {
+            "eng": "As part of the LexDesk360 Global Network of Law Firms, Amro Taher Maghrabi LLP provides on-the-ground counsel in Saudi Arabia while coordinating seamlessly across the GCC and broader region. All matters are managed under LexDesk360 standards for conflict checks, confidentiality, and reporting, ensuring clients receive unified, transparent, and business-focused legal service.",
+            "ar": "كجزء من شبكة LexDesk360 العالمية للمكاتب القانونية، تقدم Amro Taher Maghrabi LLP استشارات ميدانية في المملكة العربية السعودية مع التنسيق السلس عبر دول مجلس التعاون الخليجي والمنطقة الأوسع. تتم إدارة جميع الأمور وفقًا لمعايير LexDesk360 الخاصة بفحص التضارب والسرية وإعداد التقارير، مما يضمن حصول العملاء على خدمة قانونية موحدة وشفافة وتركز على الأعمال."
+        },
+        "link": "https://www.mh-lawfirm.co/"
+    }
+
+
+]

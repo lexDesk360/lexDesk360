@@ -1,0 +1,282 @@
+#footer {
+  padding: 2vw;
+  background-color: rgb(4, 18, 47);
+  position: relative;
+  z-index: 10000;
+
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+
+    .col {
+      display: flex;
+      flex-direction: column;
+
+
+      &.w30f {
+        width: 30%;
+      }
+
+      &.w15f {
+        width: 15%;
+      }
+
+      .logo {
+        margin: 0;
+      }
+
+      .descrbtion {
+        margin-left: 1vw;
+      }
+
+      .title-list {
+        p {
+          font-family: Montserrat;
+          font-weight: bold;
+          font-size: 1.3vw;
+          margin-bottom: 0.5vw;
+          text-transform: uppercase;
+        }
+      }
+
+      .list {
+        p {
+          font-size: 1vw;
+          font-family: Montserrat;
+          display: flex;
+          margin-top: 0.8vw;
+          align-items: center;
+
+          &::before {
+            content: '';
+            flex-wrap: wrap;
+            background-image: url(../assets/images/point.png);
+            width: 0.5vw;
+            height: 0.5vw;
+            background-size: 100% 100%;
+            margin: 0.5vw;
+          }
+        }
+      }
+
+
+      .listServices {
+        .rowList {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          margin-top: 0.8vw;
+
+          .point {
+            background-image: url(../assets/images/point.png);
+            width: 0.5vw;
+            height: 0.5vw;
+            background-size: 100% 100%;
+            margin: 0.5vw;
+
+          }
+
+          p {
+            font-size: 1vw;
+            font-family: Montserrat;
+            align-items: center;
+            margin: 0;
+            width: 5vw;
+            text-align: start;
+          }
+        }
+      }
+
+      button {
+        p {
+          font-size: 1vw;
+        }
+      }
+
+      .error {
+        margin: 1vw 0;
+
+      }
+
+      .groupInput {
+        display: flex;
+        align-items: center;
+        border-bottom: 0.1vw solid white;
+        padding-bottom: 0.2vw;
+        margin: 1vw 0;
+
+        input {
+          height: 100%;
+          outline: none;
+          background-color: transparent;
+          border: none;
+          width: 20vw;
+          color: white;
+          font-family: Montserrat;
+          font-size: 1vw;
+        }
+
+        .link-parag {
+          p {
+            font-size: 1vw;
+            font-family: Montserrat;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+
+  }
+
+  .line {
+    width: 100%;
+    border-bottom: 0.1vw solid rgba(255, 255, 255, 0.2);
+    margin: 2vw 0;
+  }
+
+  .copyRight {
+    width: 100%;
+    text-align: center;
+
+    p {
+      font-family: Montserrat;
+      font-size: 1.2vw;
+      margin-bottom: 1vw;
+
+    }
+  }
+}
+
+
+@media (orientation: portrait) {
+
+
+  #footer {
+    padding: 5vw 2vw;
+
+    .logo {
+      width: 45vw;
+      height: 8.5vw;
+    }
+
+    .content {
+
+
+      .col {
+
+        button {
+          p {
+            font-size: 3vw;
+          }
+        }
+
+        &.w30f {
+          width: 100%;
+        }
+
+        &.w15f {
+          width: 49%;
+          margin-left: 3vw;
+          margin-top: 7vw;
+        }
+
+        &.w35f {
+          width: 37%;
+          margin-top: 7vw;
+        }
+
+        .descrbtion {
+          margin-left: 3vw;
+        }
+
+        .title-list {
+          margin-top: 6vw;
+
+          p {
+            font-size: 4.3vw;
+            margin-bottom: 1.5vw;
+          }
+        }
+
+        .m3l {
+          margin-left: 3vw;
+        }
+
+        .list {
+          p {
+            font-size: 3.8vw;
+            margin-top: 1vw;
+
+            &::before {
+              content: '';
+              width: 2vw;
+              height: 2vw;
+            }
+          }
+        }
+
+        .listServices {
+          .rowList {
+
+            margin-top: 1vw;
+
+            .point {
+              width: 2vw;
+              height: 2vw;
+
+            }
+
+            p {
+              font-size: 3.8vw;
+              width: 20vw;
+            }
+          }
+        }
+
+
+        .groupInput {
+          display: flex;
+          align-items: center;
+          border-bottom: 0.1vw solid white;
+          padding-bottom: 0.2vw;
+          margin: 2vw 0;
+          margin-left: 3vw;
+
+          form {
+            width: 100%;
+
+          }
+
+          input {
+            width: 70%;
+            font-size: 3.8vw;
+            height: 12vw;
+
+          }
+
+          .link-parag {
+            p {
+              font-size: 3.8vw;
+            }
+          }
+        }
+      }
+
+    }
+
+    .line {
+      margin: 9vw 0;
+    }
+
+    .copyRight {
+
+      p {
+        font-size: 4vw;
+        margin-bottom: 4vw;
+
+      }
+    }
+  }
+}

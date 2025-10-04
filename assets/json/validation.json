@@ -1,0 +1,40 @@
+{
+  "eng": {
+    "Sending": "Sending",
+    "Sent": "Apply now",
+    "SentM": "Send Message",
+    "max": "The file size is too large (maximum 5MB)",
+    "succes": "The form has been submitted successfully!",
+    "fail": "An error occurred, please try again.",
+    "file": "Upload Profile is required",
+    "format": "must file PDF, DOC, DOCX",
+    "validation": {
+      "name": "Name must be at least 3 characters",
+      "email": "Please enter a valid email address",
+      "phone": "Please enter a valid phone number",
+      "position": "Position is required",
+      "linkedIn": "LinkedIn is required",
+      "subject": "Subject must be at least 10 characters",
+      "message": "Message must be at least 10 characters long"
+    }
+  },
+  "ar": {
+    "Sending": "جاري الإرسال...",
+    "Sent": "قدّم الآن",
+    "SentM": "إرسال",
+    "max": "حجم الملف كبير جداً (الحد الأقصى 5MB)",
+    "succes": "تم إرسال النموذج بنجاح!",
+    "fail": "حدث خطأ، حاول مرة أخرى",
+    "file": "الملف الشخصي مطلوب",
+    "format": "الملف يجب ان يكون  PDF, DOC, DOCX",
+    "validation": {
+      "name": "الاسم يجب أن يكون على الأقل 3 أحرف",
+      "email": "من فضلك أدخل بريد إلكتروني صحيح",
+      "phone": "من فضلك أدخل  رقم هاتف صحيح",
+      "position": "الوظيفة مطلوب",
+      "linkedIn": "لينكدان مطلوب",
+      "subject": "الموضوع يجب أن يكون على الأقل 10 أحرف",
+      "message": "الرسالة يجب أن تكون على الأقل 10 أحرف"
+    }
+  }
+}

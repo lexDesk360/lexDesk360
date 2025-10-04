@@ -1,0 +1,174 @@
+.container-bg {
+    background-image: url(../assets/images/join-us.png);
+}
+
+#services-content {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    top: -5vw;
+
+    .group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 90%;
+        padding: 0 5vw;
+
+        .w30f {
+            width: 30%;
+        }
+
+        .w65f {
+            width: 65%;
+        }
+    }
+
+    .tabs {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+        .tab {
+            width: 100%;
+            padding: 1.5vw 0;
+            border-bottom: 0.1vw solid rgba(255, 255, 255, 0.2);
+            font-size: 2vw;
+            font-family: Oswald;
+            color: rgb(255, 255, 255);
+            display: flex;
+            align-items: center;
+            margin: 0.5vw 0;
+            letter-spacing: 0.1vw;
+            cursor: pointer;
+
+            &.active {
+                &::before {
+                    content: "";
+                    flex-wrap: wrap;
+                    background-image: url(../assets/images/point.png);
+                    width: 0.8vw;
+                    height: 0.8vw;
+                    background-size: 100% 100%;
+                    margin: 0.5vw;
+                }
+            }
+        }
+    }
+
+        .none {
+            position: absolute;
+            opacity: 0;
+            width: 0;
+            height: 0;
+            z-index: -1;
+        }
+
+    .content {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .big-title {
+            margin-top: 2vw;
+
+            p {
+                font-size: 4vw;
+                font-family: Oswald;
+                font-weight: 200;
+                line-height: 5vw;
+                text-transform: none;
+            }
+        }
+
+        .tab-content {
+            display: none;
+
+            &.active {
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+        }
+    }
+
+    .profileFile {
+        display: none;
+    }
+
+    .title-small {
+        margin-top: 2vw;
+    }
+
+    .descrbtion {
+        p {
+            margin-top: 1vw;
+        }
+    }
+
+
+}
+
+@media (orientation: portrait) {
+    .container-bg {
+        background-image: url(../assets/images/join-us-mob.png);
+    }
+
+    #services-content {
+        top: -25vw;
+
+        .group {
+            .w30f {
+                width: 100%;
+            }
+
+            .w65f {
+                width: 100%;
+            }
+        }
+
+        .tabs {
+            flex-direction: unset;
+            width: 100%;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .tab {
+                width: 35vw;
+                font-size: 4vw;
+                margin: 0.5vw 1vw;
+                letter-spacing: 0.1vw;
+                justify-content: center;
+                overflow: hidden;
+
+                &.active {
+                    border-bottom: 0.1vw solid rgba(255, 255, 255, 0.8);
+
+                    &::before {
+                        content: none;
+                    }
+                }
+
+                &.w25f {
+                    width: 50vw;
+                }
+            }
+        }
+
+        .content {
+            .big-title {
+                margin-top: 10vw;
+
+                p {
+                    font-size: 8vw;
+                    line-height: 10vw;
+                }
+            }
+
+
+        }
+    }
+}

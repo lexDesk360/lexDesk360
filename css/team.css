@@ -1,0 +1,155 @@
+.container-bg {
+  background-image: url(../assets/images/team.png);
+}
+
+#team-content {
+  padding: 0 5vw;
+  position: relative;
+}
+#team-content .toggleTab {
+  width: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#team-content .toggleTab .tab {
+  margin-right: 2vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 18vw;
+  padding: 1vw;
+  border-bottom: 0.1vw solid rgba(255, 255, 255, 0.3);
+}
+#team-content .toggleTab .tab.active {
+  border-bottom: 0.1vw solid rgb(255, 255, 255);
+}
+#team-content .toggleTab .tab p {
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 2vw;
+}
+#team-content .tab-content {
+  display: none;
+}
+#team-content .tab-content.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#team-content .tab-content #group-members,
+#team-content .tab-content #our-people {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 4vw;
+}
+#team-content .tab-content #group-members .member,
+#team-content .tab-content #our-people .member {
+  width: 25vw;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 2vw 0.5vw;
+}
+#team-content .tab-content #group-members .member.center,
+#team-content .tab-content #our-people .member.center {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+#team-content .tab-content #group-members .member .image,
+#team-content .tab-content #our-people .member .image {
+  width: 24vw;
+  height: 29vw;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+#team-content .tab-content #group-members .member .image.custom,
+#team-content .tab-content #our-people .member .image.custom {
+  width: 24vw;
+  height: 24vw;
+}
+#team-content .tab-content #group-members .member .title-small p,
+#team-content .tab-content #our-people .member .title-small p {
+  text-transform: uppercase;
+}
+#team-content .tab-content #group-members .member .centerText,
+#team-content .tab-content #our-people .member .centerText {
+  text-align: center;
+}
+#team-content .tab-content #group-members .member .descrbtion-title p,
+#team-content .tab-content #our-people .member .descrbtion-title p {
+  font-weight: 100;
+  margin: 0;
+  text-transform: none;
+}
+
+@media (orientation: portrait) {
+  .container-bg {
+    background-image: url(../assets/images/team-mo.png);
+  }
+  #team-content {
+    top: -20vw;
+  }
+  #team-content .toggleTab {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  #team-content .toggleTab .tab {
+    width: 48%;
+    padding: 2vw 1vw;
+  }
+  #team-content .toggleTab .tab p {
+    font-size: 5vw;
+  }
+  #team-content .tab-content #group-members,
+  #team-content .tab-content #our-people {
+    margin-top: 6vw;
+  }
+  #team-content .tab-content #group-members .member,
+  #team-content .tab-content #our-people .member {
+    width: 100%;
+    margin: 6vw 1.5vw;
+  }
+  #team-content .tab-content #group-members .member .image,
+  #team-content .tab-content #our-people .member .image {
+    width: 100%;
+    height: 106vw;
+  }
+  #team-content .tab-content #group-members .member .image.custom,
+  #team-content .tab-content #our-people .member .image.custom {
+    width: 90vw;
+    height: 90vw;
+  }
+}

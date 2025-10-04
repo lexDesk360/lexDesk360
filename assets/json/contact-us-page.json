@@ -1,0 +1,22 @@
+{
+  "eng": {
+    "pathPage": "Home",
+    "titlePage": "Contact Us",
+    "name": "Name",
+    "emailcon": "Email",
+    "phone": "Phone",
+    "Subject": "Subject",
+    "Message": "Message",
+    "applyNow": "Send Message"
+  },
+  "ar": {
+    "pathPage": " الصفحة الرئيسية ",
+    "titlePage": "تواصل معنا",
+    "name": "الاسم",
+    "emailcon": "الايميل",
+    "phone": "رقم التليفون",
+    "Subject": "الموضوع",
+    "Message": "رسالة",
+    "applyNow": "إرسال"
+  }
+}

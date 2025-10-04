@@ -1,0 +1,117 @@
+.container-bg {
+    background-image: url(../assets/images/team.png);
+}
+
+#member-content {
+    padding: 0 5vw;
+    position: relative;
+
+    .member {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+
+
+        .profileImage {
+            width: 40%;
+            display: flex;
+            align-items: start;
+            justify-content: center;
+
+            .image {
+                height: auto;
+                width: 32vw;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                    user-select: none;
+
+                }
+            }
+        }
+
+        .member-data {
+            width: 55%;
+            display: flex;
+            flex-direction: column;
+
+            .descrbtion {
+                p {
+                    margin-bottom: 1vw;
+                }
+            }
+        }
+
+        .flex {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+
+            .iconLinkin {
+                width: 2vw;
+                height: 2vw;
+                background-image: url(../assets/images/linkedin-white.png);
+                background-size: 100% 100%;
+                margin: 1vw 1vw 1vw 0;
+            }
+
+            .descrbtion-title {
+
+                p {
+                    margin: 0;
+                    font-weight: 500;
+                }
+            }
+        }
+
+
+    }
+}
+
+@media (orientation: portrait) {
+    .container-bg {
+        background-image: url(../assets/images/team-mo.png);
+    }
+
+    #member-content {
+        top: -20vw;
+
+        .member {
+
+
+            .profileImage {
+                width: 100%;
+
+
+                .image {
+                    width: 78vw;
+                    height: auto;
+                }
+            }
+
+            .member-data {
+                width: 100%;
+                margin-top: 4vw;
+
+                .descrbtion {
+                    p {
+                        margin-bottom: 9vw;
+                    }
+                }
+            }
+
+            .flex {
+                .iconLinkin {
+                    width: 6vw;
+                    height: 6vw;
+
+                }
+
+            }
+
+
+        }
+    }
+}
