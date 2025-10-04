@@ -21,7 +21,6 @@ function getData() {
     })
     .catch((err) => console.error(err));
 }
-getData();
 function setData(){
   document.querySelectorAll("[data-translate]").forEach((el) => {
   const key = el.getAttribute("data-translate");
@@ -32,5 +31,6 @@ function setData(){
   }
 });
 }
+getData();
 
 localStorage.setItem("activeForm", null);

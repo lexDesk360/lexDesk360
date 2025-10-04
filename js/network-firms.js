@@ -22,10 +22,10 @@ function getData() {
     })
     .catch((err) => console.error(err));
 }
-getData();
-let container = document.getElementById("network-content");
-let template = document.getElementById("network");
+
 function setData() {
+  let container = document.getElementById("network-content");
+  let template = document.getElementById("network");
   networks.forEach((item) => {
     let clone = template.content.cloneNode(true);
     clone.querySelector("img").src = item.image;
@@ -39,32 +39,35 @@ function setData() {
     });
     container.appendChild(clone);
   });
-  const translationsData = {
-  eng: {
-    pathPage: "Home ",
-    titlePage: "Our Network Firms",
-    moreToCome: "“And more to come…”",
-    viewMore: "View More",
-    become: "Become A Network Firm",
-  },
-  ar: {
-    pathPage: " الصفحة الرئيسية ",
-    titlePage: "شبكتنا من الشركاء ",
-    moreToCome: "“والمزيد قادم…”",
-    viewMore: "عرض المزيد",
-    become: "انضم إلى شبكتنا كشركة",
-  },
-};
 
-document.querySelectorAll("[data-translate]").forEach((el) => {
-  const key = el.getAttribute("data-translate");
-  if (el.placeholder !== undefined) {
-    el.placeholder = translationsData[lang][key] || el.placeholder;
-  } else {
-    el.innerText = translationsData[lang][key] || el.innerText;
-  }
-});
+  const translationsData = {
+    eng: {
+      pathPage: "Home ",
+      titlePage: "Our Network Firms",
+      moreToCome: "“And more to come…”",
+      viewMore: "View More",
+      become: "Become A Network Firm",
+    },
+    ar: {
+      pathPage: " الصفحة الرئيسية ",
+      titlePage: "شبكتنا من الشركاء ",
+      moreToCome: "“والمزيد قادم…”",
+      viewMore: "عرض المزيد",
+      become: "انضم إلى شبكتنا كشركة",
+    },
+  };
+
+  document.querySelectorAll("[data-translate]").forEach((el) => {
+    const key = el.getAttribute("data-translate");
+    if (el.placeholder !== undefined) {
+      el.placeholder = translationsData[lang][key] || el.placeholder;
+    } else {
+      el.innerText = translationsData[lang][key] || el.innerText;
+    }
+  });
 }
+getData();
+
 localStorage.setItem("currentPageNew", 1);
 
 function getPageJoin() {

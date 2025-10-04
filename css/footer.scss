@@ -230,11 +230,12 @@
   position: fixed;
   bottom: 2%;
   left: 2%;
-  width: 8vh;
-  height: 8vh;
+  width: 6vh;
+  height: 6vh;
   background-image: url(../assets/images/revisit.svg);
   background-size: 100% 100%;
   cursor: pointer;
+  z-index: 1000000;
 
 }
 
