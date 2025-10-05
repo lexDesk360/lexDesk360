@@ -281,6 +281,10 @@
   height: 3.5vw;
 }
 
+.marginleft {
+  margin-left: 1vw !important;
+}
+
 @media (orientation: portrait) {
   #footer {
     padding: 5vw 2vw;
