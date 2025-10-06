@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>home</title>
   <link rel="stylesheet" href="./css/global.css">
+  <link rel="icon" type="image/x-icon" href="./assets/images/logo-ico.jfif">
   <link rel="stylesheet" href="./css/home.css">
 </head>
 
@@ -15,24 +16,24 @@
     <div class="spinner"></div>
   </div>
   <div id="content">
-  <div id="navbar"></div>
-  <div id="home-content">
-    <div class="container-step-one">
-      <div class="content">
-        <div class="data">
-          <div class="title">
-            <p data-translate="titleHome">
-            </p>
-            <!-- <p data-translate="titleHome2"></p> -->
+    <div id="navbar"></div>
+    <div id="home-content">
+      <div class="container-step-one">
+        <div class="content">
+          <div class="data">
+            <div class="title">
+              <p data-translate="titleHome">
+              </p>
+              <!-- <p data-translate="titleHome2"></p> -->
+            </div>
+            <div class="descrbtion">
+              <p data-translate="descrbtionHome"></p>
+            </div>
+            <div class="link-parag m4t cursor" onclick="getPage('about')">
+              <p data-translate="aboutLink"></p>
+            </div>
           </div>
-          <div class="descrbtion">
-            <p data-translate="descrbtionHome"></p>
-          </div>
-          <div class="link-parag m4t cursor" onclick="getPage('about')">
-            <p data-translate="aboutLink"></p>
-          </div>
-        </div>
-        <!-- <div class="icons-row">
+          <!-- <div class="icons-row">
           <div class="icons">
             <div class="icon faceBook"></div>
             <div class="icon xapp"></div>
@@ -46,103 +47,103 @@
           </div>
         </div> -->
 
+        </div>
+        <div class="content-vedio">
+          <div class="video-bg">
+            <video autoplay muted loop playsinline>
+              <source src="../assets/images/v2.mp4" type="video/mp4">
+            </video>
+          </div>
+
+        </div>
       </div>
-      <div class="content-vedio">
-        <div class="video-bg">
-          <video autoplay muted loop playsinline>
-            <source src="../assets/images/v2.mp4" type="video/mp4">
-          </video>
+      <div class="container">
+        <div class="content">
+          <div class="data">
+            <div class="title">
+              <p data-translate="MeanBusiness">
+              </p>
+            </div>
+            <div class="descrbtion">
+              <p data-translate="BussinessDes"></p>
+            </div>
+          </div>
+          <div class="title-line">
+            <p data-translate="OurServices"></p>
+          </div>
+          <div class="data w90f">
+            <div class="image-full h20w hiddenPor">
+              <img src="../assets/images/lawyer-office.png" alt="">
+            </div>
+            <div class="title-small">
+              <p data-translate="titleServices"></p>
+            </div>
+            <div class="link-parag" onclick="openserpage()">
+              <p data-translate="ViewAll" class='cursor' onclick="openserpage()"></p>
+            </div>
+            <div class="image-full h20w hiddenLan">
+              <img src="../assets/images/lawyer-office.png" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="content-right">
+          <div class="bg-blue">
+            <div class="title-small">
+              <p data-translate="ServicesName">
+              </p>
+            </div>
+            <div class="title-small size2">
+              <p data-translate="ServicesSubName">
+              </p>
+            </div>
+            <div class="descrbtion">
+              <p data-translate="ServicesDes"></p>
+            </div>
+            <div class="link-more">
+              <p data-translate="KnowMore" class="cursor" onclick="openOurServicesPage()"></p>
+            </div>
+          </div>
+
+          <div class="pagination">
+            <div class="next cursor" onclick="nextServices()"></div>
+            <div class="prev cursor" onclick="prevServices()"></div>
+          </div>
         </div>
 
       </div>
-    </div>
-    <div class="container">
-      <div class="content">
-        <div class="data">
-          <div class="title">
-            <p data-translate="MeanBusiness">
-            </p>
-          </div>
-          <div class="descrbtion">
-            <p data-translate="BussinessDes"></p>
-          </div>
-        </div>
-        <div class="title-line">
-          <p data-translate="OurServices"></p>
-        </div>
-        <div class="data w90f">
-          <div class="image-full h20w hiddenPor">
-            <img src="../assets/images/lawyer-office.png" alt="">
-          </div>
-          <div class="title-small">
-            <p data-translate="titleServices"></p>
-          </div>
-          <div class="link-parag" onclick="openserpage()">
-            <p data-translate="ViewAll" class='cursor' onclick="openserpage()"></p>
-          </div>
-          <div class="image-full h20w hiddenLan">
-            <img src="../assets/images/lawyer-office.png" alt="">
-          </div>
-        </div>
-      </div>
-      <div class="content-right">
-        <div class="bg-blue">
-          <div class="title-small">
-            <p data-translate="ServicesName">
-            </p>
-          </div>
-          <div class="title-small size2">
-            <p data-translate="ServicesSubName">
-            </p>
-          </div>
-          <div class="descrbtion">
-            <p data-translate="ServicesDes"></p>
-          </div>
-          <div class="link-more">
-            <p data-translate="KnowMore" class="cursor" onclick="openOurServicesPage()"></p>
-          </div>
-        </div>
-
-        <div class="pagination">
-          <div class="next cursor" onclick="nextServices()"></div>
-          <div class="prev cursor" onclick="prevServices()"></div>
-        </div>
-      </div>
-
-    </div>
-    <div class="container">
-      <div class="br-left">
-        <div class="title-line-border">
-          <p data-translate="LATESTNEWS"></p>
-        </div>
-        <div class="items" id="items">
-        </div>
-      </div>
-
-    </div>
-    <div class="container noMarginTop">
-      <div class="image-full h30w">
-        <img src="../assets/images/lawyer-office-statue-justice-with-scales-lawyer-working-laptop.png" alt="">
-      </div>
-    </div>
-    <div class="container noMarginTop noPadding  legal ">
-      <div class="opacityDiv"></div>
-      <div class="content-legal ">
-        <div class="border-left end">
-          <div class="legal-small">
-            <p data-translate="Flexible"></p>
-          </div>
+      <div class="container">
+        <div class="br-left">
           <div class="title-line-border">
-            <p data-translate="flexDes"></p>
+            <p data-translate="LATESTNEWS"></p>
+          </div>
+          <div class="items" id="items">
           </div>
         </div>
-        <div class="link-parag">
-          <p data-translate="disucss" class="cursor" onclick="opencontactusPage()"></p>
+
+      </div>
+      <div class="container noMarginTop">
+        <div class="image-full h30w">
+          <img src="../assets/images/lawyer-office-statue-justice-with-scales-lawyer-working-laptop.png" alt="">
+        </div>
+      </div>
+      <div class="container noMarginTop noPadding  legal ">
+        <div class="opacityDiv"></div>
+        <div class="content-legal ">
+          <div class="border-left end">
+            <div class="legal-small">
+              <p data-translate="Flexible"></p>
+            </div>
+            <div class="title-line-border">
+              <p data-translate="flexDes"></p>
+            </div>
+          </div>
+          <div class="link-parag">
+            <p data-translate="disucss" class="cursor" onclick="opencontactusPage()"></p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div id="footer"></div>
+    <div id="footer"></div>
 
   </div>
 

@@ -32,13 +32,13 @@ document
 
       const emailData = {
         sender: {
-          name: "Website Form",
-          email: "wessamtarek438@gmail.com", // يجب أن يكون مُتحققاً عليه
+         name: "Website Form contact",
+          email: "info@lexdesk360.com",// يجب أن يكون مُتحققاً عليه
         },
         to: [
           {
-            email: "amr.tawfek@outlook.com", // يجب أن يكون مُتحققاً عليه
-            name: "amr",
+           email: "info@lexdesk360.com",
+            name: "lexdesk",
           },
         ],
         subject: `contact-us form ${name}`,
@@ -92,7 +92,7 @@ document
         headers: {
           accept: "application/json",
           "api-key":
-            "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",
+            "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",
           "content-type": "application/json",
         },
         body: JSON.stringify(emailData),
