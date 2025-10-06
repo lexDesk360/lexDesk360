@@ -426,7 +426,7 @@ function policyFun() {
 
 function openGmailCompose() {
   const params = new URLSearchParams();
-  params.set("to", "info@lexdesk360.com");
+  params.set("to", "privacy@lexdesk360.com");
   const gmailUrl =
     "https://mail.google.com/mail/?view=cm&fs=1&" + params.toString();
 
