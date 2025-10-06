@@ -388,7 +388,7 @@ function policyFun() {
         </div>
         <div class="des">
           <p>If you have any questions about this Privacy Policy or wish to exercise your data protection rights, you can contact us at:</p>
-          <p>privacy@lexdesk360.com</p>
+          <p class='cursor' onclick='openGmailCompose()'>privacy@lexdesk360.com</p>
         </div>
 
       </div>
@@ -422,4 +422,13 @@ function policyFun() {
       });
     });
   });
+}
+
+function openGmailCompose() {
+  const params = new URLSearchParams();
+  params.set("to", "info@lexdesk360.com");
+  const gmailUrl =
+    "https://mail.google.com/mail/?view=cm&fs=1&" + params.toString();
+
+  window.open(gmailUrl, "_blank", "noopener");
 }

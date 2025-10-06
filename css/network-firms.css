@@ -62,6 +62,7 @@
   margin: 3vw;
   position: relative;
   z-index: 100000;
+  margin-bottom: 18vw;
 }
 .center p {
   font-size: 3vw;
@@ -131,6 +132,7 @@
   }
   .center {
     margin: 10vw;
+    margin-bottom: 20vw;
   }
   .left {
     margin-bottom: 5vw;
