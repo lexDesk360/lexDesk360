@@ -140,11 +140,11 @@ function openCompanyLinkedin() {
 
 function openOurServicesPage() {
   localStorage.setItem("activeTab", Services[lang][activerServices].id);
-  window.location.href = "./our-services.html";
+  window.location.href = "./our-services";
 }
 function openserpage() {
   localStorage.setItem("activeTab", 1);
-  window.location.href = "./our-services.html";
+  window.location.href = "./our-services";
 }
 
 function opencontactusPage() {
