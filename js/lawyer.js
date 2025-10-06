@@ -50,11 +50,11 @@ document
       const emailData = {
         sender: {
          name: "Website Form lawyer",
-          email: "wessamtarek438@gmail.com", // يجب أن يكون مُتحققاً عليه
+          email: "wessamtarek438@gmail.com" // يجب أن يكون مُتحققاً عليه
         },
         to: [
           {
-           email: "info@lexdesk360.com",
+           email: " privacy@lexdesk360.com",
             name: "lexdesk",
           },
         ],
@@ -127,7 +127,7 @@ document
         headers: {
           accept: "application/json",
           "api-key":
-            "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",
+            "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",
           "content-type": "application/json",
         },
         body: JSON.stringify(emailData),
