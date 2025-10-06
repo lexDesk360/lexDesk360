@@ -89,11 +89,11 @@ function openTab(tabId) {
 
 function getMemberDetails(index) {
   localStorage.setItem("leader", JSON.stringify(members[index]));
-  window.location.href = `./member-details.html`;
+  window.location.href = `./member-details`;
 }
 function getPeopleDetails(index) {
   localStorage.setItem("leader", JSON.stringify(ourPeople[index]));
-  window.location.href = `./member-details.html`;
+  window.location.href = `./member-details`;
 }
 
 document.querySelectorAll("[data-translate]").forEach((el) => {

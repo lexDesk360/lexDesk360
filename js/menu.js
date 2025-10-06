@@ -68,5 +68,5 @@ function openGmailCompose() {
 }
 function getServ(id) {
   localStorage.setItem("activeTab", id);
-  window.location.href = `./our-services.html`;
+  window.location.href = `./our-services`;
 }

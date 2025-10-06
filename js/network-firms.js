@@ -601,5 +601,5 @@ localStorage.setItem("currentPageNew", 1);
 
 function getPageJoin() {
   localStorage.setItem("activeForm", "tab1");
-  window.location.href = "./join-us.html";
+  window.location.href = "./join-us";
 }

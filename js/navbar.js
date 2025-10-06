@@ -40,7 +40,7 @@ function getActiveLang() {
 getActiveLang();
 
 function openMenu() {
-  window.location.href = `./menu.html`;
+  window.location.href = `./menu`;
   localStorage.setItem("menuState", "true");
 }
 function openCompanyLinkedin(){
@@ -49,10 +49,10 @@ function openCompanyLinkedin(){
 }
 function closeMenu() {
   localStorage.setItem("menuState", "false");
-  window.location.href = `./${page}.html`;
+  window.location.href = `./${page}`;
 }
 function goHome() {
-  window.location.href = `./home.html`;
+  window.location.href = `./home`;
 }
 
 function translateToEn() {

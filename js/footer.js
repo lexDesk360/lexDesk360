@@ -38,7 +38,7 @@ function getPage(page, id) {
   if (page == "our-services") {
     localStorage.setItem("activeTab", id);
   }
-  window.location.href = `./${page}.html`;
+  window.location.href = `./${page}`;
 }
 const erroremailSub = document.getElementById("erroremailSub");
 

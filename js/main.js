@@ -40,11 +40,11 @@ function loadComponents() {
 loadComponents();
 
 function getHome() {
-  window.location.href = `./home.html`;
+  window.location.href = `./home`;
 }
 function getNetwork() {
-  window.location.href = `./network-firms.html`;
+  window.location.href = `./network-firms`;
 }
 function getTeam() {
-  window.location.href = `./team.html`;
+  window.location.href = `./team`;
 }

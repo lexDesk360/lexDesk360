@@ -112,7 +112,7 @@ function getDetailsNews(index) {
   let filteredArr = Allnews.filter((_, i) => i !== index);
   let randomTwoNews = filteredArr.sort(() => 0.5 - Math.random()).slice(0, 2);
   localStorage.setItem("randomTwoNews", JSON.stringify(randomTwoNews));
-  window.location.href = "./news-details.html";
+  window.location.href = "./news-details";
 }
 function nextServices() {
   console.log(activerServices);
@@ -132,7 +132,7 @@ function prevServices() {
   renderData();
 }
 function getPage(pageName) {
-  window.location.href = `./${pageName}.html`;
+  window.location.href = `./${pageName}`;
 }
 function openCompanyLinkedin() {
   window.open("https://www.linkedin.com/company/lexdesk360/", "_blank");
@@ -148,7 +148,7 @@ function openserpage() {
 }
 
 function opencontactusPage() {
-  window.location.href = "./contact-us.html";
+  window.location.href = "./contact-us";
 }
 localStorage.setItem("currentPageNew", 1);
 localStorage.setItem("activeForm", null);

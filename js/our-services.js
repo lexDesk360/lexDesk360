@@ -161,7 +161,7 @@ function renderActiveContent() {
 }
 
 function getContact() {
-  window.location.href = `./contact-us.html`;
+  window.location.href = `./contact-us`;
 }
 localStorage.setItem("currentPageNew", 1);
 localStorage.setItem("activeForm", null);
