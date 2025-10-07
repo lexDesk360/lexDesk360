@@ -64,16 +64,14 @@ document
 
         sender: {
           "name": "LexDesk360",
-          "email": "info@lexdesk360.com"
+          "email": "lexdesk360@gmail.com",
+
         },
         to: [{
           "email": "info@lexdesk360.com",
           "name": "LexDesk"
         }],
-        "replyTo": {
-          "email": `${email}`,
-          "name": "Subscriber"
-        },
+      
         subject: `Subscribe form ${email}`,
         htmlContent: `
                 <div style="font-family: Arial, sans-serif; padding: 20px;">
@@ -104,7 +102,7 @@ document
         method: "POST",
         headers: {
           accept: "application/json",
-          "api-key": "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",
+          "api-key": "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",
           "content-type": "application/json",
         },
         body: JSON.stringify(emailData),
