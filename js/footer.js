@@ -11,6 +11,7 @@ if (langF == null && langF != "eng" && langF != "ar") {
 }
 console.log(langF);
 let translationsF;
+
 function getData() {
   fetch("./assets/json/footer-page.json")
     .then((res) => res.json())
@@ -21,6 +22,7 @@ function getData() {
     .catch((err) => console.error(err));
 }
 getData();
+
 function setData() {
   document.querySelectorAll("[data-translate]").forEach((el) => {
     const key = el.getAttribute("data-translate");
@@ -31,9 +33,11 @@ function setData() {
     }
   });
 }
+
 function openCompanyLinkedin() {
   window.open("https://www.linkedin.com/company/lexdesk360/", "_blank");
 }
+
 function getPage(page, id) {
   if (page == "our-services") {
     localStorage.setItem("activeTab", id);
@@ -57,16 +61,19 @@ document
       const email = document.getElementById("emailSub").value;
 
       const emailData = {
+
         sender: {
-         name: "Website Form Subscribe",
-          email: "info@lexdesk360.com" // // يجب أن يكون مُتحققاً عليه
+          "name": "LexDesk360",
+          "email": "info@lexdesk360.com"
         },
-        to: [
-          {
-           email:  "info@lexdesk360.com",
-            name: "lexdesk",
-          },
-        ],
+        to: [{
+          "email": "info@lexdesk360.com",
+          "name": "LexDesk"
+        }],
+        "replyTo": {
+          "email": `${email}`,
+          "name": "Subscriber"
+        },
         subject: `Subscribe form ${email}`,
         htmlContent: `
                 <div style="font-family: Arial, sans-serif; padding: 20px;">
@@ -97,8 +104,7 @@ document
         method: "POST",
         headers: {
           accept: "application/json",
-          "api-key":
-            "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",
+          "api-key": "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",
           "content-type": "application/json",
         },
         body: JSON.stringify(emailData),
@@ -123,6 +129,7 @@ document
       buttonFooter.textContent = translationsF[langF].Subscribe;
     }
   });
+
 function validateFormFooter() {
   const emailSub = document.getElementById("emailSub").value.trim();
   const erroremailSub = document.getElementById("erroremailSub");
