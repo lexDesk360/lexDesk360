@@ -187,7 +187,7 @@ function policyFun() {
     <div class="popup-content">
       <div class='close' id='close'></div>
       <div class="tilte">
-        <p>Effective Date: </p>
+        <p>Effective Date: 10th Oct, 2025 </p>
       </div>
       <div class="category">
         <div class="small-title">
@@ -408,7 +408,6 @@ function policyFun() {
   </div>
     `;
   policy.addEventListener("click", () => {
-    console.log("hi");
     document.body.insertAdjacentHTML("beforeend", policyContent);
     const popupPolicey = document.getElementById("popupPolicey");
     console.log(popupPolicey);
@@ -429,6 +428,5 @@ function openGmailCompose() {
   params.set("to", "privacy@lexdesk360.com");
   const gmailUrl =
     "https://mail.google.com/mail/?view=cm&fs=1&" + params.toString();
-
   window.open(gmailUrl, "_blank", "noopener");
 }

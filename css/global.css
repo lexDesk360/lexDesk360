@@ -451,7 +451,7 @@ body,
 
     .ltr-list {
         direction: ltr !important;
-            width:60% !important;
+        width: 60% !important;
     }
 
     #services-content .content .big-title p {
@@ -461,6 +461,10 @@ body,
     #home-content .container-step-one .content-vedio {
         right: unset !important;
         left: -8vw;
+    }
+
+    #popupPolicey {
+        direction: ltr !important;
     }
 
     #footer .content .col .listServices .rowList p {
@@ -972,7 +976,7 @@ body,
         }
 
         .ltr-list {
-            width:80% !important;
+            width: 80% !important;
         }
 
         .container-bg .menu-content .col .page-name p {

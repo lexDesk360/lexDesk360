@@ -235,7 +235,7 @@
   background-image: url(../assets/images/revisit.svg);
   background-size: 100% 100%;
   cursor: pointer;
-  z-index: 1000000;
+  z-index: 100000000;
 
 }
 
@@ -263,7 +263,7 @@
 
     .close {
       position: absolute;
-      top: 7%;
+    top: 4%;
       right: 2%;
       background-image: url(../assets/images/close.svg);
       background-size: 100% 100%;
@@ -277,7 +277,7 @@
 
       p {
         color: black;
-        font-size: 2vw;
+        font-size: 1.5vw;
         font-weight: 700;
       }
     }
@@ -287,7 +287,7 @@
 
       p {
         color: black;
-        font-size: 1.5vw;
+        font-size: 1.2vw;
       }
     }
 
@@ -318,7 +318,7 @@
 
 }
 
-.marginleft{
+.marginleft {
   margin-left: 1vw !important;
 }
 
@@ -514,6 +514,7 @@
       padding: 4%;
       overflow-y: scroll;
 
+    
       .tilte {
         margin-bottom: 2vw;
 

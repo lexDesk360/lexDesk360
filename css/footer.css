@@ -208,7 +208,7 @@
   background-image: url(../assets/images/revisit.svg);
   background-size: 100% 100%;
   cursor: pointer;
-  z-index: 1000000;
+  z-index: 100000000;
 }
 
 #popupPolicey {
@@ -241,7 +241,7 @@
 }
 #popupPolicey .popup-content .close {
   position: absolute;
-  top: 7%;
+  top: 4%;
   right: 2%;
   background-image: url(../assets/images/close.svg);
   background-size: 100% 100%;
@@ -254,7 +254,7 @@
 }
 #popupPolicey .popup-content .tilte p {
   color: black;
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-weight: 700;
 }
 #popupPolicey .popup-content .des {
@@ -262,7 +262,7 @@
 }
 #popupPolicey .popup-content .des p {
   color: black;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
 }
 #popupPolicey .popup-content .small-title p {
   color: black;
