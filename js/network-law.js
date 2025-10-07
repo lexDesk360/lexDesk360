@@ -49,16 +49,15 @@ document
 
       const emailData = {
         sender: {
-         name: "Website Form network firm ",
-          email: "wessamtarek438@gmail.com"  // يجب أن يكون مُتحققاً عليه
+          "name": "LexDesk360",
+          "email": "lexdesk360@gmail.com",
+
         },
-        to: [
-          {
-             email: " privacy@lexdesk360.com",
-            name: "lexdesk",
-          },
-        ],
-        subject: `network-law form ${name}`,
+        to: [{
+          "email": "info@lexdesk360.com",
+          "name": "LexDesk"
+        }],
+        subject: `network law frim form ${name}`,
         htmlContent: `
                 <div style="font-family: Arial, sans-serif; padding: 20px;">
                     <h2 style="color: #333;">New Form Submission</h2>
@@ -123,7 +122,7 @@ document
         headers: {
           accept: "application/json",
           "api-key":
-            "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",
+            "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",
           "content-type": "application/json",
         },
         body: JSON.stringify(emailData),
