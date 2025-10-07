@@ -72,6 +72,7 @@ document
           "name": "LexDesk"
         }],
       
+        
         subject: `Subscribe form ${email}`,
         htmlContent: `
                 <div style="font-family: Arial, sans-serif; padding: 20px;">
