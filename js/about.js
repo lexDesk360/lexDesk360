@@ -64,7 +64,9 @@ const values = {
   ],
 };
 let activeValue = 0;
-let translations={
+let translations;
+function renderData() {
+  translations={
   "eng": {
     "pathpage": "Home",
     "titlepage": "About",
@@ -136,7 +138,6 @@ let translations={
     "valueDes": values[lang][activeValue].des
   }
 };
-function renderData() {
   let classname = values[lang][activeValue].icon;
   let el = document.getElementById("iconValue");
   el.className = "";
