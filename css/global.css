@@ -39,8 +39,8 @@ body {
     overflow-x: hidden;
     background: #02153C;
     overflow-y: scroll;
-    user-select: none;
-    -webkit-user-select: none !important;
+    /* user-select: none;
+    -webkit-user-select: none !important; */
 }
 
 .logo {
