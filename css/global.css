@@ -1029,3 +1029,22 @@ body,
         }
     }
 }
+
+
+::-webkit-scrollbar {
+  width: 0.5vw;
+}
+
+::-webkit-scrollbar-track {
+  background: #02153C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 1vw;
+  transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
