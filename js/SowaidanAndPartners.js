@@ -1,4 +1,4 @@
-localStorage.setItem("currentPage", "SowaidanAndPartners");
+localStorage.setItem("currentPage", "Sowaidan&Partners");
 localStorage.setItem("menuState", "false");
 let lang = localStorage.getItem("lang");
 let body = document.getElementById("body");
