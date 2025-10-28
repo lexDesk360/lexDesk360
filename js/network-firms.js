@@ -558,7 +558,7 @@ let networkMidwest = [
     image: "../assets/images/our-network/network1.png",
     image2: "../assets/images/our-network/n1-1.jpg",
     image3: "../assets/images/our-network/n1-2.jpg",
-    url: "./network-details.html",
+    url: "./Sowaidan&Partners.html",
     counrty: {
       eng: "Egypt",
       ar: "مصر",
