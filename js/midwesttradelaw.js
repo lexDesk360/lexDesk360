@@ -19,7 +19,7 @@ const translations = {
     view: "View Partner Website",
     parac: "Practice Areas ",
     sector: "Sector Expertise",
-    coomingSoon: "Coming soon as part of the LexDesk360 Network.",
+    coomingSoon: "Coming soon as part of the LexDesk360 Network Firms.",
     underConstruction: "Page under construction.",
   },
   ar: {
