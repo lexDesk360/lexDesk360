@@ -19,8 +19,8 @@ const translations = {
     view: "View Partner Website",
     parac: "Practice Areas ",
     sector: "Sector Expertise",
-    coomingSoon: "Coming soon as part of the LexDesk360 Network Firms.",
-    underConstruction: "Page under construction.",
+    coomingSoon: "This page is currently under maintenance and will be available again shortly.",
+    underConstruction: "",
   },
   ar: {
     home: "الصفحة الرئيسية",
@@ -29,7 +29,7 @@ const translations = {
     view: "زيارة موقع الشريك",
     parac: "مجالات الممارسة",
     sector: "الخبرة القطاعية",
-    coomingSoon: "قريبًا كجزء من شبكة LexDesk360.",
+    coomingSoon: "هذه الصفحة قيد الصيانة حاليًا وستكون متاحة مرة أخرى قريبًا.",
     underConstruction: "الصفحة قيد الإنشاء.",
   },
 };
