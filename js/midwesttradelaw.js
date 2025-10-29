@@ -36,12 +36,12 @@ const translations = {
 const translationsData = {
   pathPage: item.titlePage[lang],
   titlePage: item.name[lang],
-  // about: item.about[lang],
+  about: item.about[lang],
   // within: item.within[lang],
   // practice: item.practice[lang].des,
   // sector: item.sector[lang].des,
 };
-// document.getElementById("img1").src = item.image2;
+document.getElementById("img1").src = item.image2;
 // document.getElementById("img2").src = item.image3;
 
 document.querySelectorAll("[translate-item]").forEach((el) => {
