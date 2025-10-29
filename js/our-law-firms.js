@@ -28,8 +28,8 @@ let networkMidwest = [
       ar: "LexDesk360 - سويدان وشركاه",
     },
     titlePage: {
-      eng: "Our Network Firms",
-      ar: "  شبكتنا من الشركاء ",
+      eng: "  Our Law Firms ",
+      ar: "Our Law Firms",
     },
     about: {
       eng: [
@@ -178,8 +178,8 @@ let networkMidwest = [
       ar: "LexDesk360 - Midwest Trade Law",
     },
     titlePage: {
-      eng: "  Our Network Firms ",
-      ar: "  شبكتنا من الشركاء ",
+      eng: "  Our Law Firms ",
+      ar: "Our Law Firms",
     },
     about: {
       eng: "Midwest Trade Law is a boutique legal practice dedicated to advising clients on compliance with international trade laws and regulations, including economic sanctions and embargoes, export controls, antiboycott matters, as well as customs, free trade agreements, and other trade-related issues.",
