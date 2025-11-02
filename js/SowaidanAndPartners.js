@@ -20,6 +20,7 @@ const translations = {
     view: "View Partner Website",
     parac: "Practice Areas ",
     sector: "Sector Expertise",
+    name:"Sowaidan & Partners"
   },
   ar: {
     home: "الصفحة الرئيسية",
@@ -28,6 +29,7 @@ const translations = {
     view: "زيارة موقع الشريك",
     parac: "مجالات الممارسة",
     sector: "الخبرة القطاعية",
+    name:"سويدان وشركاه"
   },
 };
 const translationsData = {
