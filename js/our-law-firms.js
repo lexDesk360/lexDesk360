@@ -165,9 +165,9 @@ let networkMidwest = [
   },
   {
     id: 5,
-    image: "../assets/images/our-network/network4.png",
-    image2: "../assets/images/our-network/n1-1.jpg",
-    image3: "../assets/images/our-network/n2-2.jpg",
+    image: "../assets/images/our-network/network6.png",
+    image2: "../assets/images/our-network/n4-1.png",
+    image3: "../assets/images/our-network/n4-2.png",
     url: "./midwesttradelaw.html",
     counrty: {
       eng: "United States Of America",

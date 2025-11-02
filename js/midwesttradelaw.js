@@ -35,7 +35,7 @@ const translations = {
 };
 const translationsData = {
   pathPage: item.titlePage[lang],
-  titlePage: item.name[lang],
+  titlePage: 'Midwest Trade Law',
   about: item.about[lang],
   // within: item.within[lang],
   // practice: item.practice[lang].des,
