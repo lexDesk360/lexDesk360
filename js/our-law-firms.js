@@ -323,7 +323,7 @@ const translationsData = {
   },
   ar: {
     pathPage: " الصفحة الرئيسية ",
-    titlePage: "شبكتنا من الشركاء ",
+    titlePage: "شركاؤنا من مكاتب المحاماة",
     moreToCome: "“والمزيد قادم…”",
     cominfSoon: "“قريبًا...”",
     viewMore: "عرض المزيد",
