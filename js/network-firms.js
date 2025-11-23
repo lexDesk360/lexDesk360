@@ -24,7 +24,7 @@ let networks = [
     },
     name: {
       eng: "LexDesk360 - Sowaidan & Partners",
-      ar: "LexDesk360 - سويدان وشركاه",
+      ar: "LexDesk360 - سويدان وشركاؤه",
     },
     titlePage: {
       eng: "Our Network Firms",
@@ -35,7 +35,7 @@ let networks = [
         "Sowaidan & Partners is a full-service Egyptian law firm founded in 2025 by Walid Sowaidan. The firm delivers business-critical counsel across corporate, commercial, and regulatory matters, complex disputes, and high-stakes investigations. Known for partner-led service and clear, actionable advice, the team helps clients anticipate risk, resolve disputes efficiently, and achieve strategic objectives",
       ],
       ar: [
-        "سويدان وشركاه هي شركة محاماة مصرية متكاملة الخدمات تأسست عام 2025 على يد وليد سويدان. تقدم الشركة استشارات مهمة في الشؤون المؤسسية والتجارية والتنظيمية، والنزاعات المعقدة، والتحقيقات عالية المخاطر. يشتهر المكتب بخدمات يقودها الشركاء ونصائح واضحة قابلة للتنفيذ تساعد العملاء على توقع المخاطر وحل النزاعات بكفاءة وتحقيق الأهداف الاستراتيجية. ",
+        "سويدان وشركاه هي مكتب محاماة مصرية متكاملة الخدمات تأسست عام 2025 على يد وليد سويدان. تقدم الشركة استشارات مهمة في الشؤون المؤسسية والتجارية والتنظيمية، والنزاعات المعقدة، والتحقيقات عالية المخاطر. يشتهر المكتب بخدمات يقودها الشركاء ونصائح واضحة قابلة للتنفيذ تساعد العملاء على توقع المخاطر وحل النزاعات بكفاءة وتحقيق الأهداف الاستراتيجية. ",
       ],
     },
     practice: {
@@ -126,7 +126,7 @@ let networks = [
         ],
       },
       ar: {
-        des: "تمتد خبرة شركة سويدان وشركاه لتشمل مجموعة واسعة من الصناعات، بما في ذلك: ",
+        des: "تمتد خبرة مكتب سويدان وشركاه لتشمل مجموعة واسعة من الصناعات، بما في ذلك: ",
         content: [
           {
             des: "البنوك والتمويل وأسواق رأس المال",
