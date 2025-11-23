@@ -29,7 +29,7 @@ let networkMidwest = [
     },
     titlePage: {
       eng: "  Our Law Firms ",
-      ar: "Our Law Firms",
+      ar: "شركاؤنا من مكاتب المحاماة",
     },
     about: {
       eng: [
@@ -179,7 +179,7 @@ let networkMidwest = [
     },
     titlePage: {
       eng: "  Our Law Firms ",
-      ar: "Our Law Firms",
+      ar: "شركاؤنا من مكاتب المحاماة",
     },
     about: {
       eng: "Midwest Trade Law is a boutique legal practice dedicated to advising clients on compliance with international trade laws and regulations, including economic sanctions and embargoes, export controls, antiboycott matters, as well as customs, free trade agreements, and other trade-related issues.",

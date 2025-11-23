@@ -38,7 +38,7 @@ const translations = {
     About: "عن",
     Team: "الفريق",
     OurNetworkFirms: "شبكتنا من الشركاء",
-    OurLawFirms: "Our Law Firms",
+    OurLawFirms: "شركاؤنا من مكاتب المحاماة",
     News: "الأخبار",
     JoinUsInternational: "انضم إلينا عالميًا",
     Contact: "تواصل معنا",

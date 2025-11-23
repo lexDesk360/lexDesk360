@@ -26,7 +26,7 @@ const item = {
   },
   titlePage: {
     eng: "  Our Law Firms ",
-    ar: "Our Law Firms",
+    ar: "شركاؤنا من مكاتب المحاماة",
   },
   about: {
     eng: "Midwest Trade Law is a boutique U.S. law firm founded in 2020 by Valentin Povarchuk, an international trade attorney with over two decades of experience in global trade compliance. The firm specializes in import and export regulation, economic sanctions, embargoes, and trade compliance risk management. It is recognized for combining deep regulatory knowledge with practical insight, helping multinational companies integrate legal compliance into everyday business operations. Midwest Trade Law provides clients with direct access to senior-level expertise typically found in large law firms — at more accessible rates.",

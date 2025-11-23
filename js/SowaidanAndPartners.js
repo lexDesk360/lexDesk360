@@ -26,7 +26,7 @@ const item =  {
   },
   titlePage: {
     eng: "  Our Law Firms ",
-    ar: "Our Law Firms",
+    ar: "شركاؤنا من مكاتب المحاماة",
   },
   about: {
     eng: [
