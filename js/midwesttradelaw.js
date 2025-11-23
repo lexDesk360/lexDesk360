@@ -324,7 +324,7 @@ const translations = {
     view: "زيارة موقع الشريك",
     parac: "مجالات الممارسة",
     sector: "الخبرة القطاعية",
-    founder: "About The Founder ",
+    founder: "نبذة عن المؤسس ",
     coomingSoon: "هذه الصفحة قيد الصيانة حاليًا وستكون متاحة مرة أخرى قريبًا.",
     underConstruction: "الصفحة قيد الإنشاء.",
   },
