@@ -10,8 +10,7 @@ if (lang == null && lang != "eng" && lang != "ar") {
   lang = "eng";
 }
 const values = {
-  eng: [
-    {
+  eng: [{
       id: 1,
       name: "Integrity & Trust",
       des: "The Bedrock of Every Relationship",
@@ -36,8 +35,7 @@ const values = {
       icon: "bi-brightness-high-fill",
     },
   ],
-  ar: [
-    {
+  ar: [{
       id: 1,
       name: "النزاهة والثقة",
       des: "أساس كل علاقة ",
@@ -62,82 +60,145 @@ const values = {
       icon: "bi-brightness-high-fill",
     },
   ],
+  greek: [{
+      id: 1,
+      name: "Ακεραιότητα & Εμπιστοσύνη",
+      des: "Η βάση κάθε σχέσης.",
+      icon: "jewel",
+    },
+    {
+      id: 2,
+      name: "Σαφήνεια & Απλότητα",
+      des: "Απλοποιώντας την πολυπλοκότητα",
+      icon: "bi-globe-americas",
+    },
+    {
+      id: 3,
+      name: "Innovation with Purpose",
+      des: "Smarter Solutions for Real Challenges",
+      icon: "bi-lightbulb",
+    },
+    {
+      id: 4,
+      "name": "Παγκόσμια νοοτροπία, τοπική ισχύς.",
+      "des": "Παγκόσμια πρότυπα με τοπική διορατικότητα.",
+      icon: "bi-brightness-high-fill",
+    },
+  ],
 };
 let activeValue = 0;
 let translations;
+
 function renderData() {
-  translations={
-  "eng": {
-    "pathpage": "Home",
-    "titlepage": "About",
-    "titleAbout": "Seamless International Legal Solutions",
-    "desAbout1": "LexDesk360 is a next-generation legal solutions platform, built for businesses that move fast, cross borders, and need legal and compliance support that matches their pace.",
-    "desAbout2": "With hubs in Dubai, Limassol, and Cairo, and a network spanning the US, EMEA, and South Asia, LexDesk360 combines global standards with local expertise. Our solutions are designed to simplify business, minimize risk, and empower growth. Whether it’s compliance, dispute management, or strategic legal guidance, LexDesk360 is the partner that keeps your business moving without roadblocks.",
-    "Vision": "Vision",
-    "tilteVision": "WHERE LAWYERS MEAN BUSINESS.",
-    "desVesion1": "At LexDesk360, we envision a world where legal expertise drives business progress. By fusing integrity with innovation, we are redefining legal services to be not only sound in law but strategic in commerce.",
-    "desVesion2": "We empower top-tier legal minds to deliver agile, cost-effective solutions that help businesses thrive, scale, and lead across borders.",
-    "desVesion3": "This vision reimagines legal counsel as a strategic growth engine, not a cost center. We are committed to transforming compliance into a competitive advantage and complex regulatory landscapes into clear pathways for expansion.",
-    "desVesion4": "Our goal is to ensure that from startups to multinationals, every business has access to legal strategies that not only protect value but actively create it, turning ambition into an achievable reality.",
-    "Mission": "Mission",
-    "MissionT": "Business-focused legal solutions; without boundaries.",
-    "desMission1": "To provide elite, cross-border legal services with transparency, flexibility, and business alignment, empowering clients to focus on growth while we take care of legal complexity.",
-    "desMission2": "We achieve this by deeply embedding ourselves in our clients' industries and strategic goals. Our team of top-tier legal professionals delivers tailored, actionable advice that is both timely and commercially focused.",
-    "desMission3": "Through our global hub-network spanning Dubai, Cairo, Limassol, and key international markets, we combine world-class standards with precise local insight. We are raising the bar for legal excellence by transforming potential obstacles into opportunities for sustainable growth and market leadership.",
-    "Expanding": "Expanding our global presence",
-    "e1": "Expanding across the GCC, scaling through EMEA, or reaching into South Asia, LexDesk360 is already there. ",
-    "e2": "Our footprint spans the Middle East, Africa, Europe, the U.S., and beyond. We combine international standards with regional insight, so your business can enter new markets with confidence.",
-    "e3": "Wherever you grow, you’ll have a trusted partner who understands both the global stage and the local rules.",
-    "location1": "LexDesk360, Network Firms, or Counsels",
-    "location2": "Strategic Alliance Partners (TDJ)",
-    "OurFounder": "Our Founder",
-    "positionJob": "Founder & CEO, LexDesk360 ",
-    "desFounder1": "Walid Sowaidan is a seasoned cross-border legal leader with nearly 30 years of experience spanning in-house, private practice, and strategic advisory roles across Europe, the Middle East, Africa, and South Asia.",
-    "desFounder2": "He is the Founder and CEO of LexDesk360, a modern legal services platform designed to deliver flexible, cross-jurisdictional legal solutions to businesses and in-house legal teams. He also serves as Managing Partner of Sowaidan, Advocates & Legal Consultants, the first LexDesk360-branded law firm in Cairo, Egypt. Walid has served as General Counsel and Chief Legal Officer at prominent organizations including G42, 3M, Pfizer, Citigroup, and Al-Kharafi, leading International and Regional legal and compliance functions across complex and highly regulated industries such as pharmaceuticals, healthcare, technology, finance, and infrastructure. He has directed regional and global legal teams, structured multi-jurisdictional M&A deals, designed world-class compliance programs, and resolved high-value disputes, including successfully defending multibillion-dollar litigation claims.",
-    "desFounder3": "His track record includes spearheading landmark initiatives, such as securing one of the first 100% foreign ownership trading licenses in Saudi Arabia, and playing key roles in regulatory negotiations, cross-border restructurings, and major public advocacy efforts. Walid is trilingual in Arabic, English, and French and holds a law degree from Ain Shams University, as well as executive legal training from NYU Stern. Operating between Dubai and Cairo, he continues to advise businesses and law firms on legal strategy, regulatory risk, and market entry across the EMEA region and beyond.",
-    "viewLinkin": "View Linkedin Profile",
-    "OurVALUES": "Our VALUES",
-    "desValues": "The LexDesk360 Commitment",
-    "desValue2": "At LexDesk360, our values are the foundation of how we serve, protect, and empower businesses navigating global complexity. They ensure every interaction is built on trust, clarity, and results.",
-    "valueName": values[lang][activeValue].name,
-    "valueDes": values[lang][activeValue].des
-  },
-  "ar": {
-    "pathpage": " الصفحة الرئيسية ",
-    "titlepage": "عن ",
-    "titleAbout": "حلول قانونية دولية متكاملة",
-    "desAbout1": " هي منصة قانونية من الجيل الجديد، صُممت لتخدم الشركات التي تتحرك بسرعة، وتتوسع عبر الحدود، وتحتاج إلى دعم قانوني وامتثال يواكب وتيرتها. ",
-    "desAbout2": "من مراكزنا في دبي، وليماسول، والقاهرة، وشبكتنا الممتدة عبر الولايات المتحدة، وأوروبا، والشرق الأوسط، وإفريقيا، وجنوب آسيا، نمزج بين المعايير العالمية والخبرة المحلية. حلولنا تهدف إلى تبسيط الأعمال، وتقليل المخاطر، وتمكين النمو. سواء كان الأمر يتعلق بالامتثال، أو إدارة النزاعات، أو الاستشارات القانونية الاستراتيجية، فنحن الشريك الذي يحافظ على استمرارية أعمالك بلا عوائق. ",
-    "Vision": "رؤيتنا ",
-    "tilteVision": "حيث يلتقي القانون بالأعمال.",
-    "desVesion1": "في LexDesk360، نتصور عالمًا تكون فيه الخبرة القانونية محركًا لتقدم الأعمال. من خلال دمج النزاهة مع الابتكار، نعيد تعريف الخدمات القانونية لتكون سليمة من الناحية القانونية وذات قيمة استراتيجية في الوقت نفسه.",
-    "desVesion2": "نُمكّن العقول القانونية المتميزة من تقديم حلول رشيقة وفعّالة من حيث التكلفة تساعد الشركات على النمو، والتوسع، والقيادة عبر الحدود.",
-    "desVesion3": "هذه الرؤية تعيد تعريف المستشار القانوني كمحرّك للنمو لا كمركز تكلفة. نحن ملتزمون بتحويل الامتثال إلى ميزة تنافسية، وتحويل التعقيدات التنظيمية إلى مسارات واضحة للتوسع. هدفنا أن نتيح لكل شركة، من الناشئة إلى متعددة الجنسيات، الوصول إلى استراتيجيات قانونية لا تحمي القيمة فقط؛ بل تخلقها أيضًا، فتحوّل الطموح إلى واقع يمكن تحقيقه. ",
-    "desVesion4": "",
-    "Mission": "رسالتنا",
-    "MissionT": "حلول قانونية موجهة للأعمال؛ بلا حدود.",
-    "desMission1": "مهمتنا هي تقديم خدمات قانونية عابرة للحدود تتسم بالشفافية، والمرونة، والتوافق مع أهداف عملائنا التجارية، لنمكّنهم من التركيز على النمو بينما نتولى نحن التعقيد القانوني.",
-    "desMission2": "نحقق ذلك عبر الاندماج العميق في صناعات عملائنا وأهدافهم الاستراتيجية. فريقنا من الخبراء القانونيين يقدّم استشارات عملية، مصممة خصيصًا، وقابلة للتنفيذ في الوقت المناسب.",
-    "desMission3": "ومن خلال شبكة محاورنا الممتدة بين دبي، والقاهرة، وليماسول، وأسواق رئيسية أخرى، ندمج بين أفضل الممارسات العالمية والبصيرة المحلية الدقيقة. نحن نرفع معايير التميز القانوني بتحويل التحديات المحتملة إلى فرص للنمو المستدام والريادة.",
-    "Expanding": "حضورنا العالمي",
-    "e1": "سواء كنت تتوسع في الخليج، أو تنمو عبر أوروبا والشرق الأوسط وإفريقيا، أو تدخل جنوب آسيا، فإن LexDesk360 موجودة بالفعل. ",
-    "e2": "انتشارنا يغطي الشرق الأوسط، وإفريقيا، وأوروبا، والولايات المتحدة، وغيرها. نحن نوفر مزيجًا من المعايير الدولية والفهم المحلي، حتى تتمكن شركتك من دخول أسواق جديدة بثقة.",
-    "e3": "أينما توسعت، سيكون لديك شريك موثوق يفهم المسرح العالمي كما يفهم القواعد المحلية.",
-    "location1": "LexDesk360, Network Firms, or Counsels",
-    "location2": "Strategic Alliance Partners (TDJ)",
-    "OurFounder": "مؤسسنا",
-    "positionJob": "المؤسس والرئيس التنفيذي: LexDesk360",
-    "desFounder1": "وليد سويدان قائد قانوني مخضرم في القضايا العابرة للحدود، بخبرة تقارب 30 عامًا تشمل العمل الداخلي، والممارسة الخاصة، والأدوار الاستشارية الاستراتيجية عبر أوروبا، والشرق الأوسط، وإفريقيا، وجنوب آسيا. هو مؤسس ورئيس تنفيذي لـ LexDesk360، منصة خدمات قانونية حديثة صُممت لتقديم حلول قانونية مرنة وعابرة للولايات القضائية للشركات والفرق القانونية الداخلية. كما يشغل منصب الشريك المدير في Sowaidan للمحاماة والاستشارات القانونية، أول مكتب يحمل علامة LexDesk360 في القاهرة، مصر. شغل وليد مناصب المستشار العام والمدير القانوني التنفيذي في منظمات بارزة مثل G42، 3M، Pfizer، Citigroup، والخرافي، حيث قاد الوظائف القانونية والإقليمية والدولية في صناعات معقدة ومنظمة بشدة مثل الصناعات الدوائية، والرعاية الصحية، والتكنولوجيا، والتمويل، والبنية التحتية.",
-    "desFounder2": "قاد فرقًا قانونية إقليمية وعالمية، وأدار صفقات اندماج واستحواذ متعددة الولايات، وصمم برامج امتثال عالمية المستوى، وحل نزاعات ذات قيمة عالية، بما في ذلك الدفاع الناجح عن دعاوى قضائية بمليارات الدولارات.",
-    "desFounder3": "من إنجازاته البارزة قيادته لمبادرات تاريخية، مثل الحصول على إحدى أولى رخص الملكية الأجنبية الكاملة للتجارة في السعودية، والمشاركة في مفاوضات تنظيمية، وإعادة هيكلة عابرة للحدود، وجهود كبرى في المناصرة العامة.",
-    "viewLinkin": "عرض الملف الشخصي على لينكدإن",
-    "OurVALUES": "قيمنا ",
-    "desValues": "التزام LexDesk360 ",
-    "desValue2": "قيمنا هي الأساس الذي نرتكز عليه في خدمة الشركات، وحمايتها، وتمكينها من مواجهة التعقيدات العالمية. وهي ما يجعل كل تعامل مبنيًا على الثقة، والوضوح، والنتائج. ",
-    "valueName": values[lang][activeValue].name,
-    "valueDes": values[lang][activeValue].des
-  }
-};
+  translations = {
+    "eng": {
+      "pathpage": "Home",
+      "titlepage": "About",
+      "titleAbout": "Seamless International Legal Solutions",
+      "desAbout1": "LexDesk360 is a next-generation legal solutions platform, built for businesses that move fast, cross borders, and need legal and compliance support that matches their pace.",
+      "desAbout2": "With hubs in Dubai, Limassol, and Cairo, and a network spanning the US, EMEA, and South Asia, LexDesk360 combines global standards with local expertise. Our solutions are designed to simplify business, minimize risk, and empower growth. Whether it’s compliance, dispute management, or strategic legal guidance, LexDesk360 is the partner that keeps your business moving without roadblocks.",
+      "Vision": "Vision",
+      "tilteVision": "WHERE LAWYERS MEAN BUSINESS.",
+      "desVesion1": "At LexDesk360, we envision a world where legal expertise drives business progress. By fusing integrity with innovation, we are redefining legal services to be not only sound in law but strategic in commerce.",
+      "desVesion2": "We empower top-tier legal minds to deliver agile, cost-effective solutions that help businesses thrive, scale, and lead across borders.",
+      "desVesion3": "This vision reimagines legal counsel as a strategic growth engine, not a cost center. We are committed to transforming compliance into a competitive advantage and complex regulatory landscapes into clear pathways for expansion.",
+      "desVesion4": "Our goal is to ensure that from startups to multinationals, every business has access to legal strategies that not only protect value but actively create it, turning ambition into an achievable reality.",
+      "Mission": "Mission",
+      "MissionT": "Business-focused legal solutions; without boundaries.",
+      "desMission1": "To provide elite, cross-border legal services with transparency, flexibility, and business alignment, empowering clients to focus on growth while we take care of legal complexity.",
+      "desMission2": "We achieve this by deeply embedding ourselves in our clients' industries and strategic goals. Our team of top-tier legal professionals delivers tailored, actionable advice that is both timely and commercially focused.",
+      "desMission3": "Through our global hub-network spanning Dubai, Cairo, Limassol, and key international markets, we combine world-class standards with precise local insight. We are raising the bar for legal excellence by transforming potential obstacles into opportunities for sustainable growth and market leadership.",
+      "Expanding": "Expanding our global presence",
+      "e1": "Expanding across the GCC, scaling through EMEA, or reaching into South Asia, LexDesk360 is already there. ",
+      "e2": "Our footprint spans the Middle East, Africa, Europe, the U.S., and beyond. We combine international standards with regional insight, so your business can enter new markets with confidence.",
+      "e3": "Wherever you grow, you’ll have a trusted partner who understands both the global stage and the local rules.",
+      "location1": "LexDesk360, Network Firms, or Counsels",
+      "location2": "Strategic Alliance Partners (TDJ)",
+      "OurFounder": "Our Founder",
+      "positionJob": "Founder & CEO, LexDesk360 ",
+      "desFounder1": "Walid Sowaidan is a seasoned cross-border legal leader with nearly 30 years of experience spanning in-house, private practice, and strategic advisory roles across Europe, the Middle East, Africa, and South Asia.",
+      "desFounder2": "He is the Founder and CEO of LexDesk360, a modern legal services platform designed to deliver flexible, cross-jurisdictional legal solutions to businesses and in-house legal teams. He also serves as Managing Partner of Sowaidan, Advocates & Legal Consultants, the first LexDesk360-branded law firm in Cairo, Egypt. Walid has served as General Counsel and Chief Legal Officer at prominent organizations including G42, 3M, Pfizer, Citigroup, and Al-Kharafi, leading International and Regional legal and compliance functions across complex and highly regulated industries such as pharmaceuticals, healthcare, technology, finance, and infrastructure. He has directed regional and global legal teams, structured multi-jurisdictional M&A deals, designed world-class compliance programs, and resolved high-value disputes, including successfully defending multibillion-dollar litigation claims.",
+      "desFounder3": "His track record includes spearheading landmark initiatives, such as securing one of the first 100% foreign ownership trading licenses in Saudi Arabia, and playing key roles in regulatory negotiations, cross-border restructurings, and major public advocacy efforts. Walid is trilingual in Arabic, English, and French and holds a law degree from Ain Shams University, as well as executive legal training from NYU Stern. Operating between Dubai and Cairo, he continues to advise businesses and law firms on legal strategy, regulatory risk, and market entry across the EMEA region and beyond.",
+      "viewLinkin": "View Linkedin Profile",
+      "OurVALUES": "Our VALUES",
+      "desValues": "The LexDesk360 Commitment",
+      "desValue2": "At LexDesk360, our values are the foundation of how we serve, protect, and empower businesses navigating global complexity. They ensure every interaction is built on trust, clarity, and results.",
+      "valueName": values[lang][activeValue].name,
+      "valueDes": values[lang][activeValue].des
+    },
+    "ar": {
+      "pathpage": " الصفحة الرئيسية ",
+      "titlepage": "عن ",
+      "titleAbout": "حلول قانونية دولية متكاملة",
+      "desAbout1": " هي منصة قانونية من الجيل الجديد، صُممت لتخدم الشركات التي تتحرك بسرعة، وتتوسع عبر الحدود، وتحتاج إلى دعم قانوني وامتثال يواكب وتيرتها. ",
+      "desAbout2": "من مراكزنا في دبي، وليماسول، والقاهرة، وشبكتنا الممتدة عبر الولايات المتحدة، وأوروبا، والشرق الأوسط، وإفريقيا، وجنوب آسيا، نمزج بين المعايير العالمية والخبرة المحلية. حلولنا تهدف إلى تبسيط الأعمال، وتقليل المخاطر، وتمكين النمو. سواء كان الأمر يتعلق بالامتثال، أو إدارة النزاعات، أو الاستشارات القانونية الاستراتيجية، فنحن الشريك الذي يحافظ على استمرارية أعمالك بلا عوائق. ",
+      "Vision": "رؤيتنا ",
+      "tilteVision": "حيث يلتقي القانون بالأعمال.",
+      "desVesion1": "في LexDesk360، نتصور عالمًا تكون فيه الخبرة القانونية محركًا لتقدم الأعمال. من خلال دمج النزاهة مع الابتكار، نعيد تعريف الخدمات القانونية لتكون سليمة من الناحية القانونية وذات قيمة استراتيجية في الوقت نفسه.",
+      "desVesion2": "نُمكّن العقول القانونية المتميزة من تقديم حلول رشيقة وفعّالة من حيث التكلفة تساعد الشركات على النمو، والتوسع، والقيادة عبر الحدود.",
+      "desVesion3": "هذه الرؤية تعيد تعريف المستشار القانوني كمحرّك للنمو لا كمركز تكلفة. نحن ملتزمون بتحويل الامتثال إلى ميزة تنافسية، وتحويل التعقيدات التنظيمية إلى مسارات واضحة للتوسع. هدفنا أن نتيح لكل شركة، من الناشئة إلى متعددة الجنسيات، الوصول إلى استراتيجيات قانونية لا تحمي القيمة فقط؛ بل تخلقها أيضًا، فتحوّل الطموح إلى واقع يمكن تحقيقه. ",
+      "desVesion4": "",
+      "Mission": "رسالتنا",
+      "MissionT": "حلول قانونية موجهة للأعمال؛ بلا حدود.",
+      "desMission1": "مهمتنا هي تقديم خدمات قانونية عابرة للحدود تتسم بالشفافية، والمرونة، والتوافق مع أهداف عملائنا التجارية، لنمكّنهم من التركيز على النمو بينما نتولى نحن التعقيد القانوني.",
+      "desMission2": "نحقق ذلك عبر الاندماج العميق في صناعات عملائنا وأهدافهم الاستراتيجية. فريقنا من الخبراء القانونيين يقدّم استشارات عملية، مصممة خصيصًا، وقابلة للتنفيذ في الوقت المناسب.",
+      "desMission3": "ومن خلال شبكة محاورنا الممتدة بين دبي، والقاهرة، وليماسول، وأسواق رئيسية أخرى، ندمج بين أفضل الممارسات العالمية والبصيرة المحلية الدقيقة. نحن نرفع معايير التميز القانوني بتحويل التحديات المحتملة إلى فرص للنمو المستدام والريادة.",
+      "Expanding": "حضورنا العالمي",
+      "e1": "سواء كنت تتوسع في الخليج، أو تنمو عبر أوروبا والشرق الأوسط وإفريقيا، أو تدخل جنوب آسيا، فإن LexDesk360 موجودة بالفعل. ",
+      "e2": "انتشارنا يغطي الشرق الأوسط، وإفريقيا، وأوروبا، والولايات المتحدة، وغيرها. نحن نوفر مزيجًا من المعايير الدولية والفهم المحلي، حتى تتمكن شركتك من دخول أسواق جديدة بثقة.",
+      "e3": "أينما توسعت، سيكون لديك شريك موثوق يفهم المسرح العالمي كما يفهم القواعد المحلية.",
+      "location1": "LexDesk360, Network Firms, or Counsels",
+      "location2": "Strategic Alliance Partners (TDJ)",
+      "OurFounder": "مؤسسنا",
+      "positionJob": "المؤسس والرئيس التنفيذي: LexDesk360",
+      "desFounder1": "وليد سويدان قائد قانوني مخضرم في القضايا العابرة للحدود، بخبرة تقارب 30 عامًا تشمل العمل الداخلي، والممارسة الخاصة، والأدوار الاستشارية الاستراتيجية عبر أوروبا، والشرق الأوسط، وإفريقيا، وجنوب آسيا. هو مؤسس ورئيس تنفيذي لـ LexDesk360، منصة خدمات قانونية حديثة صُممت لتقديم حلول قانونية مرنة وعابرة للولايات القضائية للشركات والفرق القانونية الداخلية. كما يشغل منصب الشريك المدير في Sowaidan للمحاماة والاستشارات القانونية، أول مكتب يحمل علامة LexDesk360 في القاهرة، مصر. شغل وليد مناصب المستشار العام والمدير القانوني التنفيذي في منظمات بارزة مثل G42، 3M، Pfizer، Citigroup، والخرافي، حيث قاد الوظائف القانونية والإقليمية والدولية في صناعات معقدة ومنظمة بشدة مثل الصناعات الدوائية، والرعاية الصحية، والتكنولوجيا، والتمويل، والبنية التحتية.",
+      "desFounder2": "قاد فرقًا قانونية إقليمية وعالمية، وأدار صفقات اندماج واستحواذ متعددة الولايات، وصمم برامج امتثال عالمية المستوى، وحل نزاعات ذات قيمة عالية، بما في ذلك الدفاع الناجح عن دعاوى قضائية بمليارات الدولارات.",
+      "desFounder3": "من إنجازاته البارزة قيادته لمبادرات تاريخية، مثل الحصول على إحدى أولى رخص الملكية الأجنبية الكاملة للتجارة في السعودية، والمشاركة في مفاوضات تنظيمية، وإعادة هيكلة عابرة للحدود، وجهود كبرى في المناصرة العامة.",
+      "viewLinkin": "عرض الملف الشخصي على لينكدإن",
+      "OurVALUES": "قيمنا ",
+      "desValues": "التزام LexDesk360 ",
+      "desValue2": "قيمنا هي الأساس الذي نرتكز عليه في خدمة الشركات، وحمايتها، وتمكينها من مواجهة التعقيدات العالمية. وهي ما يجعل كل تعامل مبنيًا على الثقة، والوضوح، والنتائج. ",
+      "valueName": values[lang][activeValue].name,
+      "valueDes": values[lang][activeValue].des
+    },
+    "greek": {
+      "pathpage": "ΑΡΧΙΚΗ",
+      "titlepage": "ΣΧΕΤΙΚΑ ΜΕ ΕΜΑΣ",
+      "titleAbout": "ΑΠΑΡΑΜΙΛΕΣ ΔΙΕΘΝΕΙΣ ΝΟΜΙΚΕΣ ΛΥΣΕΙΣ",
+      "desAbout1": "Το LexDesk360 είναι μια πλατφόρμα νέας γενιάς νομικών λύσεων, σχεδιασμένη για επιχειρήσεις που κινούνται γρήγορα, δραστηριοποιούνται διεθνώς και χρειάζονται νομική και κανονιστική υποστήριξη που να ανταποκρίνεται στον ρυθμό τους.",
+      "desAbout2": "Με κέντρα δραστηριότητας στο Ντουμπάι, τη Λεμεσό και το Κάιρο, και με ένα δίκτυο που εκτείνεται σε ΗΠΑ, Ευρώπη, Μέση Ανατολή και Νότια Ασία, το LexDesk360 συνδυάζει παγκόσμια νομικά πρότυπα με εξειδικευμένη τοπική γνώση. Οι λύσεις μας έχουν σχεδιαστεί για να απλοποιούν τις επιχειρηματικές διαδικασίες, να μειώνουν τους κινδύνους και να ενισχύουν την ανάπτυξη.Είτε πρόκειται για συμμόρφωση, διαχείριση διαφορών ή στρατηγική νομική καθοδήγηση, το LexDesk360 είναι ο συνεργάτης που κρατά την επιχείρησή σας σε συνεχή κίνηση — χωρίς εμπόδια.",
+      "Vision": "ΟΡΑΜΑ",
+      "tilteVision": "ΕΚΕΙ ΟΠΟΥ ΟΙ ΔΙΚΗΓΟΡΟΙ ΜΙΛΟΥΝ ΕΠΙΧΕΙΡΗΣΕΙΣ.",
+      "desVesion1": "Στο LexDesk360, οραματιζόμαστε έναν κόσμο όπου η νομική εξειδίκευση οδηγεί την επιχειρηματική πρόοδο. Συνδυάζοντας ακεραιότητα με καινοτομία, επαναπροσδιορίζουμε τις νομικές υπηρεσίες ώστε να είναι όχι μόνο ορθές νομικά αλλά και στρατηγικά ευθυγραμμισμένες με το εμπόριο.",
+      "desVesion2": "Ενδυναμώνουμε κορυφαία νομικά στελέχη να παρέχουν ευέλικτες, αποτελεσματικές και οικονομικά αποδοτικές λύσεις που βοηθούν τις επιχειρήσεις να αναπτυχθούν, να κλιμακωθούν και να ηγηθούν πέρα από τα σύνορα.",
+      "desVesion3": "Αυτό το όραμα επανασχεδιάζει τον νομικό σύμβουλο ως κινητήρια δύναμη ανάπτυξης και όχι ως κέντρο κόστους. Δεσμευόμαστε να μετατρέπουμε τη συμμόρφωση σε ανταγωνιστικό πλεονέκτημα και τα πολύπλοκα ρυθμιστικά περιβάλλοντα σε ξεκάθαρους δρόμους επέκτασης.",
+      "desVesion4": "Στόχος μας είναι να διασφαλίσουμε ότι από τις startups έως τις πολυεθνικές, κάθε επιχείρηση έχει πρόσβαση σε νομικές στρατηγικές που όχι μόνο προστατεύουν την αξία αλλά και τη δημιουργούν — μετατρέποντας τη φιλοδοξία σε μια επιτεύξιμη πραγματικότητα.",
+      "Mission": "ΑΠΟΣΤΟΛΗ",
+      "MissionT": "ΕΠΙΧΕΙΡΗΜΑΤΟΚΕΝΤΡΙΚΕΣ ΝΟΜΙΚΕΣ ΛΥΣΕΙΣ, ΧΩΡΙΣ ΣΥΝΟΡΑ.",
+      "desMission1": "Παρέχουμε υψηλού επιπέδου, διασυνοριακές νομικές υπηρεσίες με διαφάνεια, ευελιξία και επιχειρηματική ευθυγράμμιση, επιτρέποντας στους πελάτες μας να επικεντρώνονται στην ανάπτυξη ενώ εμείς αναλαμβάνουμε την πολυπλοκότητα της νομικής τους πραγματικότητας.",
+      "desMission2": "Το επιτυγχάνουμε ενσωματώνοντας βαθιά τις ομάδες μας στις βιομηχανίες και τους στρατηγικούς στόχους των πελατών μας. Η ομάδα μας από κορυφαίους νομικούς επαγγελματίες προσφέρει στοχευμένες και άμεσα εφαρμόσιμες συμβουλές, επίκαιρες και εμπορικά προσανατολισμένες.",
+      "desMission3": "Μέσω του διεθνούς δικτύου “hubs” σε Ντουμπάι, Κάιρο, Λεμεσό και σε βασικές διεθνείς αγορές, συνδυάζουμε παγκόσμιας κλάσης πρότυπα με ακριβή τοπική γνώση. Θέτουμε νέα πρότυπα στη νομική αριστεία, μετατρέποντας πιθανά εμπόδια σε ευκαιρίες για βιώσιμη ανάπτυξη και ηγετική θέση στην αγορά.",
+      "Expanding": "ΕΠΕΚΤΕΙΝΟΝΤΑΣ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΑΡΟΥΣΙΑ ΜΑΣ",
+      "e1": "Καθώς επεκτείνεστε στον Κόλπο, αναπτύσσεστε στην περιοχή EMEA ή εισέρχεστε στη Νότια Ασία, το LexDesk360 είναι ήδη εκεί.",
+      "e2": "Το αποτύπωμά μας εκτείνεται στη Μέση Ανατολή, την Αφρική, την Ευρώπη, τις ΗΠΑ και ακόμη πιο πέρα. Συνδυάζουμε διεθνή πρότυπα με βαθιά τοπική γνώση, ώστε η επιχείρησή σας να εισέρχεται σε νέες αγορές με αυτοπεποίθηση.",
+      "e3": "Όπου κι αν αναπτυχθείτε, θα έχετε έναν αξιόπιστο συνεργάτη που κατανοεί τόσο το παγκόσμιο περιβάλλον όσο και τους τοπικούς κανόνες.",
+      "location1": "LexDesk360, Network Firms, or Counsels",
+      "location2": "Strategic Alliance Partners (TDJ)",
+
+      "OurFounder": "Ο ΙΔΡΥΤΗΣ ΜΑΣ",
+      "positionJob": "Founder & CEO, LexDesk360",
+      "desFounder1": "Ο Walid Sowaidan είναι ένας καταξιωμένος, διεθνής νομικός ηγέτης με σχεδόν 30 χρόνια εμπειρίας σε in-house θέσεις, ιδιωτική δικηγορία και στρατηγικούς συμβουλευτικούς ρόλους σε Ευρώπη, Μέση Ανατολή, Αφρική και Νότια Ασία.",
+      "desFounder2": "Είναι ο Ιδρυτής και CEO της LexDesk360, μιας σύγχρονης πλατφόρμας νομικών υπηρεσιών σχεδιασμένης να προσφέρει ευέλικτες, διασυνοριακές λύσεις σε επιχειρήσεις και σε in-house νομικές ομάδες. Παράλληλα, είναι Managing Partner της Sowaidan, Advocates & Legal Consultants, της πρώτης δικηγορικής εταιρείας με brand LexDesk360 στο Κάιρο της Αιγύπτου. Ο Walid έχει διατελέσει General Counsel και Chief Legal Officer σε κορυφαίους οργανισμούς όπως οι G42, 3M, Pfizer, Citigroup και Al-Kharafi, ηγούμενος διεθνών και περιφερειακών νομικών και κανονιστικών λειτουργιών σε σύνθετα και ιδιαίτερα ρυθμιζόμενα πεδία όπως φαρμακευτικά, υγεία, τεχνολογία, χρηματοοικονομικές υπηρεσίες και υποδομές.",
+      "desFounder3": "Έχει διευθύνει περιφερειακές και παγκόσμιες νομικές ομάδες, έχει δομήσει πολυδικαιοδοτικές συμφωνίες M&A, σχεδιάσει προγράμματα συμμόρφωσης παγκόσμιας κλάσης και έχει επιλύσει υποθέσεις υψηλής αξίας — συμπεριλαμβανομένης της επιτυχούς υπεράσπισης αξιώσεων δισεκατομμυρίων δολαρίων. Το έργο του περιλαμβάνει πρωτοποριακές πρωτοβουλίες, όπως την εξασφάλιση μίας από τις πρώτες άδειες 100% ξένης ιδιοκτησίας για trading στη Σαουδική Αραβία, καθώς και κομβικούς ρόλους σε ρυθμιστικές διαπραγματεύσεις, διασυνοριακές αναδιαρθρώσεις και σημαντικές δημόσιες παρεμβάσεις. Ο Walid μιλά άπταιστα Αραβικά, Αγγλικά και Γαλλικά και είναι κάτοχος πτυχίου νομικής από το Πανεπιστήμιο Ain Shams, καθώς και executive legal training από το NYU Stern. Δραστηριοποιούμενος μεταξύ Ντουμπάι και Καΐρου, συνεχίζει να συμβουλεύει επιχειρήσεις και δικηγορικές ομάδες σε νομική στρατηγική, κανονιστικό κίνδυνο και είσοδο στην αγορά σε ολόκληρη την περιοχή EMEA και πέρα.",
+      "viewLinkin": "Δες το προφίλ του",
+
+      "OurVALUES": "ΟΙ ΑΞΙΕΣ ΜΑΣ",
+      "desValues": "The LexDesk360 Commitment",
+      "desValue2": "Στο LexDesk360, οι αξίες μας αποτελούν το θεμέλιο του τρόπου με τον οποίο εξυπηρετούμε, προστατεύουμε και ενδυναμώνουμε τις επιχειρήσεις που navig-άρουν την παγκόσμια πολυπλοκότητα. Εξασφαλίζουν ότι κάθε συνεργασία βασίζεται στην εμπιστοσύνη, τη διαφάνεια και το αποτέλεσμα.",
+      "valueName": values[lang][activeValue].name,
+      "valueDes": values[lang][activeValue].des
+    },
+  };
   let classname = values[lang][activeValue].icon;
   let el = document.getElementById("iconValue");
   el.className = "";
@@ -150,6 +211,7 @@ function renderData() {
   });
 };
 renderData()
+
 function nextValue() {
   if (activeValue != 3) {
     activeValue += 1;
@@ -158,6 +220,7 @@ function nextValue() {
   }
   renderData();
 }
+
 function prevValue() {
   if (activeValue != 0) {
     activeValue -= 1;
@@ -171,4 +234,3 @@ function openFounderLinkedin() {
   window.open("https://www.linkedin.com/in/walid-sowaidan-9818364/", "_blank");
 }
 localStorage.setItem("currentPageNew", 1);
-

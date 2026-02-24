@@ -42,6 +42,12 @@ const translations = {
     ourLeader: "تعرّف على قادتنا",
     ourTeam: "تواصل مع فريقنا",
   },
+  greek: {
+    pathPage: "ΑΡΧΙΚΗ  ",
+    titlePage: "ομάδα",
+    ourLeader: "Γνωρίστε τους Ηγέτες μας",
+    ourTeam: "Επικοινωνήστε με την Ομάδα μας",
+  },
 };
 
 let membersDiv = document.getElementById("group-members");

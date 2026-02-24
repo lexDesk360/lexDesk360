@@ -31,7 +31,17 @@ let translationsData ={
     "Subject": "الموضوع",
     "Message": "رسالة",
     "applyNow": "إرسال"
-  }
+  },
+  "greek": {
+    "pathPage": "ΑΡΧΙΚΗ",
+    "titlePage": "Επικοινώνησε μαζί μας",
+    "name": "Ονοματεπώνυμο",
+    "emailcon": "Mail",
+    "phone": "Τηλέφωνο",
+    "Subject": "Αντικείμενα",
+    "Message": "Μήνυμα",
+    "applyNow": "Στείλε μας μήνυμα "
+  },
 }
 ;
 

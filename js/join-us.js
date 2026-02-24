@@ -59,6 +59,32 @@ const translationsData = {
     Posion: "الوظيفة",
     Notes: "ملاحظات",
   },
+  greek: {
+    pathPage: "ΑΡΧΙΚΗ",
+    titlePage: "ΓΙΝΕ ΜΕΛΟΣ ΔΙΕΘΝΩΣ",
+    "tab1-title": "Σύμβουλος",
+    "tab2-title": "Διεθνές Δίκτυο Δικηγορικών Γραφείων",
+    "tab3-title": "Συνεργαζόμενος Εταίρος / Partner Δικτύου ",
+    "tab4-title": "Δικηγόροι",
+    "tab5-title": "Καριέρες",
+
+    t1: "Φόρμα Αίτησης Counsel",
+    t2: "Φόρμα Αίτησης Διεθνούς Δικτύου Δικηγορικών Γραφείων",
+    t3: "Φόρμα Αίτησης Channel Partner",
+    t4: "Φόρμες Αίτησης Δικηγόρων",
+    t5: "Φόρμα Καριέρες",
+
+    name: "Ονοματεπώνυμο",
+    email: "Email",
+    phone: "Τηλέφωνο",
+    UploadFirm: "Upload Firm Profile",
+    UploadProfile: "Προφίλ",
+    linkedIn: "LinkedIn",
+    fileTypes: "PDF, DOC, DOCX – Μέγιστο μέγεθος 5MB",
+    applyNow: "Υποβολή Αίτησης",
+    Posion: "Θέση",
+    Notes: "Σημειώσεις",
+  },
 };
 let items;
 function getData() {

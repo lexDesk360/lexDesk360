@@ -52,5 +52,32 @@
     "fail": "حدث خطأ، حاول مرة أخرى",
     "Sending": "جاري الإرسال",
     "ploice": " يستخدم هذا الموقع التخزين المحلي فقط للميزات الأساسية مثل تفضيلات السمة واللغة. لا يتم استخدام أي ملفات تعريف ارتباط أو أدوات تتبع."
+  },
+  "greek": {
+    "des": "Βοηθάμε εταιρείες, ΜμΕ, επενδυτές και νομικά τμήματα να ξεπερνούν τη γραφειοκρατία σε ΗΠΑ, Ευρώπη, Μέση Ανατολή, Αφρική και Νότια Ασία. Με γραφεία στο Κάιρο, το Ντουμπάι και τη Λεμεσό, και με ένα αξιόπιστο διεθνές δίκτυο συνεργατών, συνδυάζουμε τα παγκόσμια νομικά πρότυπα με πρακτική, τοπική τεχνογνωσία — ώστε να δραστηριοποιείστε με σαφήνεια, ασφάλεια και αυτοπεποίθηση.",
+    "QuickLinks": "Γρήγοροι σύνδεσμοι",
+    "Home": "Home",
+    "About": "About",
+    "Team": "Team",
+    "News": "News",
+    "OurNetworkFirms": "Our Network Firms",
+    "OurLawFirms": "Our Law Firms",
+    "JoinUsInternational": "Join Us International",
+    "Contact": "Contact Us",
+    "OurServices": "Our Services",
+    "LexFend": "LexFend",
+    "LexTend": "LexTend",
+    "LexTrack": "LexTrack",
+    "LexFound": "LexFound",
+    "Subscribeto": "Εγγραφή στο newsletter μας",
+    "Subscribe": "Εγγραφή",
+    "FollowUs": "Follow Us",
+    "email": "Your email",
+    "copyRight": "© Copyright 2025 LexDesk360 All Rights Reserved.",
+    "emailVal": "Please enter a valid email address",
+    "succes": "The email has been submitted successfully!",
+    "fail": "An error occurred, please try again.",
+    "Sending": "Sending",
+    "ploice": "This website uses local storage only for essential features such as theme and language preferences. No cookies or tracking are used."
   }
 }
