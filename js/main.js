@@ -45,6 +45,9 @@ function getHome() {
 function getNetwork() {
   window.location.href = `./network-firms`;
 }
+function getLaw() {
+  window.location.href = `./our-law-firms`;
+}
 function getTeam() {
   window.location.href = `./team`;
 }

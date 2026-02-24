@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LexDesk360 - Law firms </title>
+    <link rel="stylesheet" href="./css/global.css">
+      <link rel="icon" type="image/x-icon" href="./assets/images/logo-ico.jfif">
+    <link rel="stylesheet" href="./css/network-firms.css">
+
+</head>
+
+<body id="body">
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+                <div class="path">
+                    <p class="path-page">
+                        <span class="cursor" onclick="getHome()" data-translate="pathPage"></span>
+                        |
+                        <span data-translate="titlePage"></span></p>
+                    <p class="title-page" data-translate="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="network-content"  style="margin-bottom: 5vw;">
+            <template id="network">
+                <div class="network" >
+                    <div class="image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="content-text" >
+                        <div class="location">
+                            <div class="icon"></div>
+                            <p class="country"></p>
+                        </div>
+                        <div class="title-small">
+                            <p class="name"></p>
+                        </div>
+                    </div>
+                    <div class="link-parag">
+                        <p data-translate="viewMore"></p>
+                    </div>
+                </div>
+
+            </template>
+
+
+        </div>
+        <!-- <div class="title center">
+            <p data-translate="moreToCome"></p>
+        </div> -->
+         <!-- <div class="title center" >
+            <p data-translate="cominfSoon"></p>
+        </div> -->
+        <!-- <div class="left">
+            <div class="link-parag">
+                <p data-translate="become" onclick="getPageJoin()"></p>
+            </div>
+        </div> -->
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/our-law-firms.js"></script>
+
+</html

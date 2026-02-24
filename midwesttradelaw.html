@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LexDesk360 - Law firms details </title>
+    <link rel="icon" type="image/x-icon" href="./assets/images/logo-ico.jfif">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/network-details.css">
+
+</head>
+<style>
+    .center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 4vw;
+        text-align: center;
+        width: 100%;
+
+
+
+        p {
+            width: 80%;
+            line-height: normal;
+            text-transform: none !important;
+        }
+    }
+</style>
+
+<body id="body">
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+    <div id="content">
+        <div class="container-bg">
+            <div id="navbar"></div>
+            <div class="opacityDiv">
+                <div class="path">
+                    <p class="path-page lower-text">
+                        <span class="cursor" onclick="getHome()" data-translate="home"></span>|
+                        <span class="cursor" onclick="getLaw()" translate-item="pathPage"></span>
+                        |
+                        <span translate-item="titlePage"></span></p>
+                    <p class="title-page lower-text" translate-item="titlePage"></p>
+                </div>
+            </div>
+
+        </div>
+        <div id="network-details-content">
+
+            <div class="group p5">
+                <div class="image">
+                    <img id="img1" src="" alt="">
+                </div>
+                <div class="content-text paddingLeft">
+                    <div class="title">
+                        <p data-translate="aboutTitle"></p>
+                    </div>
+                    <div class="descrbtion">
+                        <p translate-item="about"></p>
+                    </div>
+
+                </div>
+            </div>
+            <!-- <div class="title center">
+                <p data-translate="coomingSoon"></p>
+                <p data-translate="underConstruction"></p>
+            </div> -->
+
+            <div class="group p5 colum bg">
+                <div class="title">
+                    <p data-translate="parac"></p>
+                </div>
+                <div class="descrbtion">
+                    <p translate-item="practice"></p>
+                </div>
+                <div class="list" id="practiceList">
+                </div>
+            </div>
+            <div class="group p5 colum ">
+                <div class="title">
+                    <p data-translate="sector"></p>
+                </div>
+                <div class="descrbtion">
+                    <p translate-item="sector"></p>
+                </div>
+                <div class="list" id="sectorList">
+                </div>
+            </div>
+            <div class="group p5 colum bg">
+                <div class="title">
+                    <p data-translate="founder"></p>
+                </div>
+                <div class="descrbtion">
+                    <p translate-item="founder"></p>
+                </div>
+                <div class="list" id="founderList">
+                </div>
+            </div>
+            <div class="group p5  noMargin">
+
+                <div class="content-text paddingRight">
+                    <div class="title">
+                        <p data-translate="services" class="lower-text"></p>
+                    </div>
+                    <div class="descrbtion">
+                        <p translate-item="within" class="lower-text"></p>
+                    </div>
+                    <div class="link-parag" id="linkpage">
+                        <!-- <p data-translate="view" onclick="getlinkedinProfile()"></p> -->
+                    </div>
+
+                </div>
+                <div class="image2" style="height: auto;">
+                    <img id="img2" src="" alt="" style="height: auto;">
+                </div>
+            </div>  
+        </div>
+        <div id="footer"></div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/midwesttradelaw.js"></script>
+
+</html
