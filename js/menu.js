@@ -55,6 +55,29 @@ const translations = {
     titleMenu3: "LexDesk360 - Sowaidan & Partners",
     des3: "مبنى ريحانة، زهراء المعادي، القاهرة، مصر  ",
   },
+  greek: {
+    Who: "Ποιοι",
+    Home: "Αρχκή",
+    About: "Σχετικά με εμάς ",
+    Team: "Ομάδα",
+    OurNetworkFirms: "Εταιρείες δικτύου",
+    OurLawFirms: "Our Law Firms",
+    News: "Νεότερα ",
+    JoinUsInternational: "Γίνετε μέλος του διεθνούς μας δικτύου",
+    Contact: "Επικοινωνήστε μαζί μας",
+    OurServices: "Οι υπηρεσίες μας",
+    LexFend: "LexFend",
+    LexTend: "LexTend",
+    LexTrack: "LexTrack",
+    LexFound: "LexFound",
+    Contactinfo: "Στοιχεία Επικοινωνίας",
+    titleMenu1: "LexDesk360 - FZ LLE",
+    des1: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
+    titleMenu2: "LexDesk360 - International Limited",
+    des2: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
+    titleMenu3: "LexDesk360 - Sowaidan & Partners",
+    des3: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
+  }
 };
 document.querySelectorAll("[data-translate]").forEach((el) => {
   const key = el.getAttribute("data-translate");
