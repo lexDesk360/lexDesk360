@@ -48,6 +48,12 @@ const translations = {
     ourLeader: "Γνωρίστε τους Ηγέτες μας",
     ourTeam: "Επικοινωνήστε με την Ομάδα μας",
   },
+  french: {
+    pathPage: "ACCUEIL  ",
+    titlePage: "ÉQUIPE",
+    ourLeader: "Découvrez Nos Dirigeants",
+    ourTeam: "Contactez Notre Équipe",
+  },
 };
 
 let membersDiv = document.getElementById("group-members");

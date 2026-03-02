@@ -97,6 +97,30 @@ function renderData() {
       ServicesDes: Services[lang][activerServices].des,
       KnowMore: "Μάθε περισσότερα",
       READMORE: "Διάβασε περισσότερα",
+    },
+    french: {
+      titleHome: "Simplifier le business international. Légalement.",
+      titleHome2: "",
+      descrbtionHome:
+        "Gérer une entreprise au-delà des frontières devrait rimer avec croissance, pas avec tâtonnements. Pourtant, pour de nombreux dirigeants, les contrats, la conformité et les litiges transforment l’ambition en angoisse de 3 heures du matin. C’est là que LexDesk360 intervient. Nous transformons la complexité juridique en clarté, en traduisant cadres, réglementations et risques en stratégies concrètes. Pas de jargon. Pas de mauvaises surprises. Juste une direction claire, un soutien constant et un partenaire qui vous aide à vous développer en toute confiance",
+      aboutLink: "À propos de LexDesk360",
+      Explore: "Explore More",
+      MeanBusiness: "Là où les avocats parlent business",
+      BussinessDes:
+        "Nous ne sommes pas un cabinet d’avocats traditionnel. Nous sommes une plateforme juridique d’entreprise conçue pour les entreprises à croissance rapide d’aujourd’hui.",
+      OurServices: "Nos services",
+      titleServices: "Quatre solutions. Des possibilités infinies.",
+      ViewAll: "Voir tout",
+      LATESTNEWS: "ACTUALITÉS & BLOG",
+      Flexible: "FLEXIBLE. ÉVOLUTIF. AXÉ SUR LE BUSINESS.",
+      flexDes:
+        "LA PLUPART VOIENT LE JURIDIQUE COMME UNE PÉDALE DE FREIN. POUR NOUS, C’EST LE VOLANT QUI VOUS GUIDE EN SÉCURITÉ ET VOUS AIDE À ALLER PLUS VITE.",
+      disucss: "Discutons de votre dossier",
+      ServicesName: Services[lang][activerServices].name,
+      ServicesSubName: Services[lang][activerServices].subName,
+      ServicesDes: Services[lang][activerServices].des,
+      KnowMore: "En savoir plus",
+      READMORE: "LIRE LA SUITE",
     }
   };
   document.querySelectorAll("[data-translate]").forEach((el) => {

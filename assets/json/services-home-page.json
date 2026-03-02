@@ -1,6 +1,5 @@
 {
-  "eng": [
-    {
+  "eng": [{
       "id": 1,
       "name": "LexFend",
       "subName": "Legal Defense. Without the Surprise.",
@@ -25,8 +24,7 @@
       "des": "For founders and investors. From entity formation to licensing, banking, and market entry, we lay the foundation so your big idea grows on solid ground."
     }
   ],
-  "ar": [
-    {
+  "ar": [{
       "id": 1,
       "name": "LexFend",
       "subName": "دفاع قانوني بلا مفاجآت.",
@@ -51,8 +49,7 @@
       "des": "للمؤسسين والمستثمرين: من تسجيل الكيان إلى التراخيص، والخدمات المصرفية، والدخول إلى الأسواق الجديدة، نضع أساساً قانونياً متيناً لأفكاركم الكبيرة."
     }
   ],
-  "greek": [
-    {
+  "greek": [{
       "id": 1,
       "name": "LEXfend",
       "subName": "Νομική προστασία. Χωρίς τις εκπλήξεις. ",
@@ -75,6 +72,31 @@
       "name": "LexFound",
       "subName": "Χτισμένο σωστά από την αρχή. Για founders και επενδυτές.",
       "des": "Από τη σύσταση εταιρείας έως τις αδειοδοτήσεις, το banking και την είσοδο στην αγορά, δημιουργούμε τα θεμέλια ώστε η μεγάλη σου ιδέα να αναπτυχθεί πάνω σε στέρεο έδαφος."
+    }
+  ],
+  "french": [{
+      "id": 1,
+      "name": "LexFend",
+      "subName": "Défense juridique. Sans mauvaise surprise.",
+      "des": "Votre bouclier face aux litiges et aux enquêtes. Des contrôles de risques proactifs, des alertes précoces et une défense juridique réactive pour que votre entreprise ne soit jamais prise au dépourvu."
+    },
+    {
+      "id": 2,
+      "name": "LexTend",
+      "subName": "Votre équipe juridique. À la demande.",
+      "des": "Un accompagnement juridique flexible, sans les contraintes d’embauche. Des contrats à la conformité, des RH à l’expansion de votre activité, nous intégrons notre expertise directement au sein de votre équipe."
+    },
+    {
+      "id": 3,
+      "name": "LexTrack",
+      "subName": "Votre dossier. Entièrement pris en charge.",
+      "des": "Litiges, opérations et enjeux réglementaires transfrontaliers gérés de bout en bout. Notre réseau mondial de conseils juridiques garantit une stratégie harmonisée dans toutes les juridictions."
+    },
+    {
+      "id": 4,
+      "name": "LexFound",
+      "subName": "Bien structuré dès le départ.",
+      "des": "Pour les fondateurs et les investisseurs. De la création de votre entité aux licences, aux services bancaires et à l’entrée sur le marché, nous posons les bases pour que votre grande idée se développe sur des fondations solides."
     }
   ]
 }
