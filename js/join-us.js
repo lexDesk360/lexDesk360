@@ -85,6 +85,32 @@ const translationsData = {
     Posion: "Θέση",
     Notes: "Σημειώσεις",
   },
+  french: {
+    pathPage: "ACCUEIL",
+    titlePage: "NOUS REJOINDRE À L’INTERNATIONAL",
+    "tab1-title": "Conseiller",
+    "tab2-title": "Cabinet d’avocats membre du réseau international",
+    "tab3-title": "Partenaire Commercial ",
+    "tab4-title": "Avocats",
+    "tab5-title": "Carrières",
+
+    t1: "Formulaire de candidature – Counsel",
+    t2: "FORMULAIRE DE CANDIDATURE – CABINET MEMBRE DU RÉSEAU INTERNATIONAL",
+    t3: "Formulaire de candidature – Channel Partner",
+    t4: "Formulaires de candidature – Avocats",
+    t5: "Formulaires de Carrièra",
+
+    name: "Nom",
+    email: "Votre e-mail ",
+    phone: "Téléphone",
+    UploadFirm: "Upload Firm Profile",
+    UploadProfile: "Téléverser le profil",
+    linkedIn: "LinkedIn",
+    fileTypes: "PDF, DOC, DOCX, Max size 5MB",
+    applyNow: "Postuler maintenant",
+    Posion: "Poste",
+    Notes: "Remarques",
+  }
 };
 let items;
 function getData() {

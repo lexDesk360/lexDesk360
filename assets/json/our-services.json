@@ -121,6 +121,47 @@
                     "icon": "individual"
                 }
             ]
+        },
+        "french": {
+            "name": "LexFend",
+            "title": "LexFend: Défense juridique. Sans mauvaise surprise.",
+            "des": "Votre bouclier face aux litiges, aux écarts de conformité et aux enquêtes. Une protection proactive qui sécurise votre activité et vous permet d’avancer sereinement. Les grandes entreprises ont des équipes juridiques qui sécurisent chacun de leurs mouvements; pourquoi pas vous? LexFend vous offre une protection de niveau entreprise, sans les charges d’un département à temps plein. Nous vous donnons un accès abordable à des experts qui réalisent des revues de risques, apportent un accompagnement à la demande et veillent à ce que vous ne soyez jamais pris au dépourvu — pour que vous puissiez vous concentrer sur la croissance plutôt que sur la gestion de crise.",
+            "p1": "La meilleure stratégie juridique, ce n’est pas de réagir aux problèmes : c’est de les prévenir",
+            "p2": "Avec LexFend, vous gagnez la confiance juridique nécessaire pour vous développer, croître et protéger l’essentiel. Ne laissez pas votre protection juridique au hasard. Bénéficiez dès aujourd’hui d’une couverture juridique haut de gamme !",
+            "button": "Discutons de votre dossier",
+            "weOffer": [{
+                    "name": "Accès abordable à des experts chevronnés",
+                    "des": "L’expertise des grands cabinets sans le coût des grands cabinets : un accompagnement juridique haut de gamme, adapté à votre budget."
+                },
+                {
+                    "name": "Revues de risques préventives & alertes précoces",
+                    "des": "Nous identifions tôt les risques juridiques, réglementaires et contractuels, afin de corriger avant que cela ne devienne coûteux."
+                },
+                {
+                    "name": "Support à la demande sur les sujets clés",
+                    "des": "Des contrats et RH aux litiges et à la gouvernance, nous sommes là quand vous avez besoin d’un avis — rapidement."
+                },
+                {
+                    "name": "Tarification transparente et prévisible",
+                    "des": "Aucune surprise. Des honoraires clairs et forfaitaires pour planifier sereinement et rester focus sur la croissance."
+                }
+            ],
+            "whoFor": [{
+                    "name": "PME à la recherche d’un relais juridique fiable",
+                    "des": "Des entreprises petites et moyennes qui veulent une protection de haut niveau, sans le coût élevé.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Startups cherchant des bases « investor-ready »",
+                    "des": "Des sociétés en phase initiale qui construisent des structures juridiques solides et conformes pour attirer l’investissement et passer à l’échelle.",
+                    "icon": "entrepren"
+                },
+                {
+                    "name": "Dirigeants & particuliers",
+                    "des": "Entrepreneurs et professionnels qui veulent une tranquillité juridique durable, pour leurs besoins business et personnels.",
+                    "icon": "individual"
+                }
+            ]
         }
     },
     {
@@ -246,6 +287,47 @@
                     "icon": "bi-graph-up"
                 }
             ]
+        },
+        "french": {
+            "name": "LexTend",
+            "title": "LexTend : Votre équipe juridique. À la demande.",
+            "des": "Un soutien flexible quand votre équipe a besoin de renfort — sans le coût d’embauches permanentes. Lorsque votre direction juridique interne est sous tension, LexTend intervient comme une extension naturelle de votre équipe. Nous intégrons des avocats expérimentés directement dans vos processus, en mobilisant — selon vos besoins — une expertise en conformité, contrats et gouvernance. C’est le choix intelligent pour les General Counsel, les équipes réduites ou les entreprises en forte croissance qui ont besoin de capacité supplémentaire, sans le coût ni l’engagement d’augmenter leurs effectifs.",
+            "p1": "La croissance ne tient pas du hasard : elle se construit sur les bons accords.",
+            "p2": "Avec LexTend, vous sécurisez vos deals, partenariats et projets avec confiance. Des joint-ventures aux contrats internationaux, nous vous aidons à vous développer en toute sérénité.",
+            "button": "Débloquons votre prochaine opportunité",
+            "weOffer": [{
+                    "name": "Intégration fluide à votre équipe",
+                    "des": "Nos avocats s’intègrent directement à vos méthodes de travail, en s’alignant sur vos objectifs et votre culture sans les contraintes du recrutement."
+                },
+                {
+                    "name": "Un support modulable selon vos cycles d’activité",
+                    "des": "Augmentez ou réduisez le support juridique selon les besoins ; vous ne payez que ce que vous utilisez, quand vous l’utilisez."
+                },
+                {
+                    "name": "Une expertise spécialisée sur plusieurs domaines",
+                    "des": "Une solide expérience en conformité, contrats, gouvernance et formalités, disponible exactement quand vous en avez besoin."
+                },
+                {
+                    "name": "Des solutions sur mesure, rentables",
+                    "des": "Évitez les coûts d’un recrutement à temps plein. Bénéficiez d’un support flexible et expert, adapté à vos besoins et à votre budget."
+                }
+            ],
+            "whoFor": [{
+                    "name": "General Counsel & Directeurs juridiques",
+                    "des": "Des leaders qui ont besoin de bande passante supplémentaire pour des projets, des pics d’activité ou des domaines juridiques spécialisés.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Équipes juridiques réduites sous pression",
+                    "des": "De petits départements confrontés à un volume élevé, des délais serrés ou des dossiers complexes.",
+                    "icon": "bi-patch-question"
+                },
+                {
+                    "name": "Entreprises en forte croissance",
+                    "des": "Des entreprises qui montent en puissance et ont besoin d’un support juridique au même rythme, sans augmenter leurs effectifs.",
+                    "icon": "bi-graph-up"
+                }
+            ]
         }
     },
     {
@@ -368,6 +450,47 @@
                 {
                     "name": "Επιχειρήσεις με Διασυνοριακούς Κινδύνους",
                     "des": "Εταιρείες που αντιμετωπίζουν διεθνείς διαφορές, συναλλαγές ή κανονιστικές απαιτήσεις που προϋποθέτουν τοπική εξειδίκευση.",
+                    "icon": "bi-asterisk"
+                }
+            ]
+        },
+        "french": {
+            "name": "LexTrack",
+            "title": "LexTrack : Votre dossier. Entièrement pris en charge.",
+            "des": "Gestion de bout en bout des dossiers transfrontaliers, pour que vous gardiez le contrôle sans subir la complexité. Traiter des enjeux juridiques multi-pays exige à la fois une compréhension fine du terrain et une coordination globale. LexTrack devient votre point de contact unique, en s’appuyant sur un réseau de confiance pour gérer litiges, arbitrages et conformité, avec une supervision stratégique et un budget transparent. Avec un seul partenaire responsable de l’ensemble du processus, vous gagnez en clarté, en maîtrise et en confiance dans chaque juridiction.",
+            "p1": "En matière de litiges, la position la plus forte repose sur la clarté, la stratégie et la rapidité.",
+            "p2": "Avec LexTrack, vous bénéficiez d’un accompagnement juridique sans relâche pour résoudre les conflits efficacement. De la négociation au plaidoyer, nous protégeons vos intérêts à chaque étape.",
+            "button": "Résolvons votre dossier",
+            "weOffer": [{
+                    "name": "Un partenaire central pour vos besoins multi-juridictionnels",
+                    "des": "Gérez contentieux transfrontaliers, arbitrage et conformité via un partenaire unique, responsable et pleinement engagé."
+                },
+                {
+                    "name": "Un réseau mondial, une force locale",
+                    "des": "Accédez à des experts sélectionnés dans les marchés clés, qui maîtrisent à la fois les standards internationaux et les spécificités locales."
+                },
+                {
+                    "name": "Supervision stratégique & plans d’action sur mesure",
+                    "des": "Une gestion de dossier de bout en bout, avec une stratégie proactive — pas seulement un soutien réactif."
+                },
+                {
+                    "name": "Budgétisation transparente, sans dérives de coûts",
+                    "des": "Des structures de coûts claires et des points réguliers pour garder le contrôle, en permanence."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Groupes & directions juridiques",
+                    "des": "Des organisations actives à l’international qui ont besoin d’un accompagnement coordonné sur plusieurs marchés.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Équipes de counsel à la recherche de pilotage & d’outils",
+                    "des": "Des équipes juridiques qui veulent un meilleur suivi des dossiers, une gestion optimisée des conseils externes et une coordination transfrontalière fluide.",
+                    "icon": "bi-hammer"
+                },
+                {
+                    "name": "Entreprises exposées à des risques transfrontaliers",
+                    "des": "Des entreprises confrontées à des litiges, opérations ou exigences réglementaires internationales.",
                     "icon": "bi-asterisk"
                 }
             ]
@@ -509,6 +632,51 @@
                     "name": "Ιδιοκτήτες Επιχειρήσεων που Αναζητούν Σύσταση χωρίς Άγχος",
                     "des": "Ηγετικά στελέχη που θέλουν η νομική βάση της επιχείρησής τους να γίνει σωστά, αποτελεσματικά και χωρίς νομικούς πονοκεφάλους.",
                     "icon": "bi-search"
+                }
+            ]
+        },
+        "french": {
+            "name": "LexFound",
+            "title": "LexFound : Bien structuré dès le départ.",
+            "des": "Un accompagnement complet pour les nouvelles activités et l’entrée sur de nouveaux marchés, afin que vous puissiez vous concentrer sur la croissance pendant que nous posons les fondations. Créer une entreprise ou s’implanter sur un nouveau marché devrait être enthousiasmant, pas écrasant. LexFound prend en charge l’enregistrement, les licences, la conformité et les aspects bancaires, en appliquant localement des standards internationaux pour garantir des bases solides, évolutives et conçues pour la réussite. Des startups en levée de fonds aux groupes qui s’étendent en MEA, LexFound apporte aux dirigeants et aux investisseurs la confiance nécessaire pour construire sans obstacles.",
+            "p1": "Toute entreprise solide commence par des fondations solides.",
+            "p2": "Avec LexFound, vous bénéficiez d’un accompagnement expert pour créer, structurer et gouverner votre entreprise. De la création à la conformité, nous construisons la base juridique d’un succès durable.",
+            "button": "Construisons vos fondations",
+            "weOffer": [{
+                    "name": "Mise en place de votre activité de bout en bout",
+                    "des": "Nous nous occupons de tout : immatriculation, fiscalité, banque, conformité et autorisations, pour que vous n’ayez pas à le faire."
+                },
+                {
+                    "name": "Licences & structuration alignées sur vos objectifs",
+                    "des": "Des structures juridiques et des licences adaptées à votre secteur, à votre taille et à vos plans de croissance."
+                },
+                {
+                    "name": "Des experts locaux, avec des standards mondiaux",
+                    "des": "Des conseillers sur le terrain qui déploient les meilleures pratiques internationales, adaptées aux réalités locales."
+                },
+                {
+                    "name": "Un point de contact unique pour tous vos besoins juridiques",
+                    "des": "Plus besoin de courir après plusieurs administrations : nous coordonnons chaque étape juridique de votre lancement ou de votre expansion."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Entrepreneurs & startups",
+                    "des": "Des fondateurs qui transforment une idée en une entreprise juridiquement solide, scalable, prête pour l’investissement et la croissance.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Entreprises s’implantant sur de nouveaux marchés",
+                    "des": "Des sociétés établies qui entrent en MEA ou dans d’autres régions et visent une implantation fluide et conforme.",
+                    "icon": "bi-graph-up-arrow"
+                },
+                {
+                    "name": "Investisseurs étrangers & multinationales",
+                    "des": "Des investisseurs et groupes internationaux qui abordent de nouveaux marchés avec confiance et une expertise locale de confiance.",
+                    "icon": "bi-building-add"
+                },
+                {
+                    "name": "Dirigeants recherchant une mise en place sans stress",
+                    "des": "Des leaders qui souhaitent des fondations solides, mises en place efficacement et sans complexité juridique."
                 }
             ]
         }

@@ -42,6 +42,16 @@ let translationsData ={
     "Message": "Μήνυμα",
     "applyNow": "Στείλε μας μήνυμα "
   },
+  "french": {
+    "pathPage": "Accueil",
+    "titlePage": "CONTACTEZ-NOUS",
+    "name": "Nom",
+    "emailcon": "E-mail",
+    "phone": "Téléphone",
+    "Subject": "Objet",
+    "Message": "Message",
+    "applyNow": "Envoyer le message"
+  },
 }
 ;
 

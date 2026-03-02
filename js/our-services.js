@@ -90,6 +90,16 @@ function onload() {
       tab3: "LexTrack",
       tab4: "LexFound",
     },
+    french: {
+      pathPage: "Accueil ",
+      titlePage: "NOS SERVICES",
+      WhatWeOffer: "Ce que nous proposons",
+      whoFor: "Pour qui ?",
+      tab1: "LexFend",
+      tab2: "LexTend",
+      tab3: "LexTrack",
+      tab4: "LexFound",
+    },
   };
   document.querySelectorAll("[data-translate]").forEach((el) => {
     const key = el.getAttribute("data-translate");
