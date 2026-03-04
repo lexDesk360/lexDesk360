@@ -14,16 +14,16 @@ let Allnews;
 let news;
 let Services;
 Promise.all([
-  fetch("./assets/json/news.json").then(res => res.json()),
-  fetch("./assets/json/services-home-page.json").then(res => res.json())
+  fetch("./assets/json/news.json").then((res) => res.json()),
+  fetch("./assets/json/services-home-page.json").then((res) => res.json()),
 ])
-.then(([newsData, servicesData]) => {
-  Allnews = newsData;
-  Services = servicesData;
-  renderData();
-  setDataNews();
-})
-.catch(err => console.error(err));
+  .then(([newsData, servicesData]) => {
+    Allnews = newsData;
+    Services = servicesData;
+    renderData();
+    setDataNews();
+  })
+  .catch((err) => console.error(err));
 let activerServices = 0;
 
 let translations;
@@ -80,17 +80,20 @@ function renderData() {
     greek: {
       titleHome: "Απλοποιούμε τις διεθνείς επιχειρήσεις. Νόμιμα.",
       titleHome2: "Your Partner for Cross-Border Growth",
-      descrbtionHome:"Με το να δραστηριοποιείσαι σε πολλές χώρες, η επιχειρηματική ανάπτυξη θα έπρεπε να μοιάζει με πρόοδο — όχι με αβεβαιότητα.Κι όμως, για πολλούς ηγέτες, τα συμβόλαια, η συμμόρφωση και οι διαφορές μετατρέπουν τη φιλοδοξία σε άγχος των 3:00 τα ξημερώματα. Εδώ έρχεται η Lexdesk360. Μετατρέπουμε τη νομική πολυπλοκότητα σε καθαρή εικόνα — μεταφράζοντας πλαίσια, κανονισμούς και κινδύνους σε πρακτικές, εφαρμόσιμες στρατηγικές.Χωρίς τεχνική ορολογία. Χωρίς εκπλήξεις.Μόνο ξεκάθαρη καθοδήγηση, σταθερή υποστήριξη και έναν συνεργάτη που σε βοηθά να αναπτυχθείς με σιγουριά.",
+      descrbtionHome:
+        "Με το να δραστηριοποιείσαι σε πολλές χώρες, η επιχειρηματική ανάπτυξη θα έπρεπε να μοιάζει με πρόοδο — όχι με αβεβαιότητα.Κι όμως, για πολλούς ηγέτες, τα συμβόλαια, η συμμόρφωση και οι διαφορές μετατρέπουν τη φιλοδοξία σε άγχος των 3:00 τα ξημερώματα. Εδώ έρχεται η Lexdesk360. Μετατρέπουμε τη νομική πολυπλοκότητα σε καθαρή εικόνα — μεταφράζοντας πλαίσια, κανονισμούς και κινδύνους σε πρακτικές, εφαρμόσιμες στρατηγικές.Χωρίς τεχνική ορολογία. Χωρίς εκπλήξεις.Μόνο ξεκάθαρη καθοδήγηση, σταθερή υποστήριξη και έναν συνεργάτη που σε βοηθά να αναπτυχθείς με σιγουριά.",
       aboutLink: "Σχετικά με τη Lexdesk360",
       Explore: "Explore More",
       MeanBusiness: "ΟΠΟΥ ΟΙ ΔΙΚΗΓΟΡΟΙ ΜΙΛΟΥΝ ΓΙΑ ΕΠΙΧΕΙΡΗΣΕΙΣ.",
-      BussinessDes:"Δεν είμαστε μια παραδοσιακή εταιρεία. Είμαστε μια εταιρική νομική πλατφόρμα, σχεδιασμένη για τις σημερινές ταχέως αναπτυσσόμενες επιχειρήσεις.",
+      BussinessDes:
+        "Δεν είμαστε μια παραδοσιακή εταιρεία. Είμαστε μια εταιρική νομική πλατφόρμα, σχεδιασμένη για τις σημερινές ταχέως αναπτυσσόμενες επιχειρήσεις.",
       OurServices: "Οι υπηρεσίες μας",
       titleServices: "Τέσσερις λύσεις. Άπειρες δυνατότητες.",
       ViewAll: "Προβολή όλων ",
       LATESTNEWS: "Νέα και άρθρα",
       Flexible: "Ευέλικτη, κλιμακούμενη, με επιχειρηματικό προσανατολισμό.",
-      flexDes:"Οι περισσότεροι βλέπουν τον νομικό ως φρένο. Εμείς το βλέπουμε ως τιμόνι — που σε καθοδηγεί με ασφάλεια και σε βοηθά να κινείσαι πιο γρήγορα.",
+      flexDes:
+        "Οι περισσότεροι βλέπουν τον νομικό ως φρένο. Εμείς το βλέπουμε ως τιμόνι — που σε καθοδηγεί με ασφάλεια και σε βοηθά να κινείσαι πιο γρήγορα.",
       disucss: "Ας συζητήσουμε την υπόθεσή σου.",
       ServicesName: Services[lang][activerServices].name,
       ServicesSubName: Services[lang][activerServices].subName,
@@ -121,7 +124,30 @@ function renderData() {
       ServicesDes: Services[lang][activerServices].des,
       KnowMore: "En savoir plus",
       READMORE: "LIRE LA SUITE",
-    }
+    },
+    it: {
+      titleHome: "SEMPLIFICA IL BUSINESS GLOBALE. LEGALMENTE.",
+      titleHome2: "",
+      descrbtionHome:
+        "Gestire un’attività oltre confine dovrebbe significare crescita, non incertezza. Eppure, per molti leader, contratti, compliance e controversie trasformano l’ambizione in una preoccupazione alle 3 del mattino. È qui che entra in gioco LexDesk360. Trasformiamo la complessità legale in chiarezza, traducendo quadri normativi, regolamenti e rischi in strategie pratiche. Nessun gergo. Nessuna sorpresa. Solo una direzione chiara, un supporto costante e un partner che ti aiuta a crescere con fiducia.",
+      aboutLink: "Chi è LexDesk360",
+      Explore: "Explore More",
+      MeanBusiness: "DOVE GLI AVVOCATI PARLANO IL LINGUAGGIO DEL BUSINESS",
+      BussinessDes: "Non siamo uno studio legale tradizionale. Siamo una piattaforma legale corporate, costruita per le aziende dinamiche e in rapida evoluzione di oggi.",
+      OurServices: "I NOSTRI SERVIZI",
+      titleServices: "Quattro soluzioni. Possibilità infinite.",
+      ViewAll: "Visualizza tutto",
+      LATESTNEWS: "NEWS & blogs",
+      Flexible: "Flessibile. Scalabile. Orientato verso il business.",
+      flexDes:
+        "Molti vedono il diritto come un pedale del freno. Noi lo vediamo come il volante: ti guida in sicurezza e ti permette di andare più veloce.",
+      disucss: "Parliamo della tua esigenza",
+      ServicesName: Services[lang][activerServices].name,
+      ServicesSubName: Services[lang][activerServices].subName,
+      ServicesDes: Services[lang][activerServices].des,
+      KnowMore: "Scopri di più",
+      READMORE: "LEGGI DI PIÙ",
+    },
   };
   document.querySelectorAll("[data-translate]").forEach((el) => {
     const key = el.getAttribute("data-translate");
@@ -147,7 +173,7 @@ function setDataNews() {
              <div class="link-more">
                     <p class="cursor" onclick="getDetailsNews(${index})" >${translations[lang].READMORE}</p>
                 </div>
-          </div>`
+          </div>`,
     )
     .join("");
 }

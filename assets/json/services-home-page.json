@@ -98,5 +98,30 @@
       "subName": "Bien structuré dès le départ.",
       "des": "Pour les fondateurs et les investisseurs. De la création de votre entité aux licences, aux services bancaires et à l’entrée sur le marché, nous posons les bases pour que votre grande idée se développe sur des fondations solides."
     }
+  ],
+  "it": [{
+      "id": 1,
+      "name": "LexFend",
+      "subName": "Difesa legale. Senza sorprese.",
+      "des": "Il tuo scudo contro controversie e indagini. Controlli preventivi dei rischi, avvisi tempestivi e una difesa legale rapida, per garantire che la tua azienda non venga mai colta impreparata."
+    },
+    {
+      "id": 2,
+      "name": "LexTend",
+      "subName": "Il tuo team legale. On demand.",
+      "des": "Supporto legale flessibile, senza i costi dell’assunzione. Dai contratti alla compliance, dalle risorse umane all’espansione, integriamo competenze legali direttamente nel tuo team."
+    },
+    {
+      "id": 3,
+      "name": "LexTrack",
+      "subName": "La tua pratica. Completamente gestita.",
+      "des": "Controversie transfrontaliere, operazioni e questioni regolamentari gestite end-to-end. La nostra rete globale di consulenti assicura armonia ed efficienza in ogni giurisdizione."
+    },
+    {
+      "id": 4,
+      "name": "LexFound",
+      "subName": "Costruita correttamente fin dall’inizio.",
+      "des": "Per fondatori e investitori. Dalla costituzione societaria alle licenze, dai servizi bancari all’ingresso nei mercati, costruiamo basi solide affinché le grandi idee crescano su fondamenta sicure."
+    }
   ]
 }

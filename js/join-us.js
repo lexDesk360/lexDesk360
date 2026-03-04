@@ -110,7 +110,33 @@ const translationsData = {
     applyNow: "Postuler maintenant",
     Posion: "Poste",
     Notes: "Remarques",
-  }
+  },
+  it: {
+    pathPage: "Home",
+    titlePage: "JOIN US INTERNATIONAL",
+    "tab1-title": "Counsel",
+    "tab2-title": "International Network Law Firm",
+    "tab3-title": "Channel Partner",
+    "tab4-title": "AVVOCATI",
+    "tab5-title": "Carriere",
+
+    t1: "Modulo di candidatura Counsel",
+    t2: "Modulo di candidatura International Network Law Firm",
+    t3: "Modulo di candidatura Channel Partner",
+    t4: "Moduli di candidatura avvocati",
+    t5: "Moduli di carriera",
+
+    name: "Nome",
+    email: "Email",
+    phone: "Telefono",
+    UploadFirm: "Upload Firm Profile",
+    UploadProfile: "Carica profilo",
+    linkedIn: "LinkedIn",
+    fileTypes: "PDF, DOC, DOCX, Dimensione massima 5MB",
+    applyNow: "Candidati ora",
+    Posion: "Posizione",
+    Notes: "Note",
+  },
 };
 let items;
 function getData() {
@@ -155,7 +181,7 @@ function openTab(tabId) {
 }
 let activeItem;
 function setData() {
-   activeItem = items[lang][0];
+  activeItem = items[lang][0];
   if (activeForm != "null") {
     openTab("tab2");
     activeItem = items[lang][1];
