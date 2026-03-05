@@ -39,6 +39,32 @@
                 border-left: 0.2vw solid #FFFFFF;
             }
 
+            #languageSelect {
+                background-color: transparent;
+                border: 0;
+                padding: 5px 10px;
+                font-size: 1.3vw;
+                color: rgba(255, 255, 255, 1);
+                font-family: Montserrat;
+                text-transform: uppercase;
+
+                option {
+                    background-color: #03153cbb;
+                    color: white;
+                    font-size: 1.3vw;
+
+                }
+
+                // -webkit-appearance: none;
+                // /* لإزالة السهم الافتراضي على Safari/Chrome */
+                // -moz-appearance: none;
+                // /* لإزالة السهم الافتراضي على Firefox */
+                // appearance: none;
+            }
+
+            /* إضافة سهم بنفس اللون الأبيض */
+
+
             .lang {
                 display: flex;
 
@@ -111,6 +137,18 @@
                     p {
                         font-size: 4vw;
                     }
+
+                }
+
+                #languageSelect {
+                    font-size: 4vw;
+
+                    option {
+
+                        font-size: 4vw;
+
+                    }
+
 
                 }
 

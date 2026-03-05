@@ -7,7 +7,7 @@
   <title>Document</title>
   <!-- Bootstrap Icons -->
   <link rel="stylesheet" href="./css/images.css">
-    <link rel="icon" type="image/x-icon" href="./assets/images/logo-ico.jfif">
+  <link rel="icon" type="image/x-icon" href="./assets/images/logo-ico.jfif">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./css/global.css">
   <link rel="stylesheet" href="./css/navbar.css">
@@ -20,10 +20,20 @@
       <div class="content-right">
         <div class="icon linkedin cursor" onclick="openCompanyLinkedin()"></div>
         <div class="line"></div>
-        <div class="lang">
+        <!-- <div class="lang">
           <p class="cursor" id="en" onclick="translateToEn()">EN</p>
           <p>/</p>
           <p class="cursor" onclick="translateToAra()" id="ar">AR</p>
+        </div> -->
+
+        <div class="lang">
+          <select id="languageSelect" onchange="changeLanguage()">
+            <option value="eng">Eng</option>
+            <option value="ar">Ar</option>
+            <option value="it">Italian</option>
+            <option value="greek">Greek</option>
+            <option value="french">French</option>
+          </select>
         </div>
         <div class="menu" id="menu">
           <!-- <i class="bi bi-list"></i>
