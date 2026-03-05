@@ -11,51 +11,59 @@ if (lang == "ar") {
   body.classList.add("rtl");
 }
 
-let translationsData ={
-  "eng": {
-    "pathPage": "Home",
-    "titlePage": "Contact Us",
-    "name": "Name",
-    "emailcon": "Email",
-    "phone": "Phone",
-    "Subject": "Subject",
-    "Message": "Message",
-    "applyNow": "Send Message"
+let translationsData = {
+  eng: {
+    pathPage: "Home",
+    titlePage: "Contact Us",
+    name: "Name",
+    emailcon: "Email",
+    phone: "Phone",
+    Subject: "Subject",
+    Message: "Message",
+    applyNow: "Send Message",
   },
-  "ar": {
-    "pathPage": " الصفحة الرئيسية ",
-    "titlePage": "تواصل معنا",
-    "name": "الاسم",
-    "emailcon": "الايميل",
-    "phone": "رقم التليفون",
-    "Subject": "الموضوع",
-    "Message": "رسالة",
-    "applyNow": "إرسال"
+  ar: {
+    pathPage: " الصفحة الرئيسية ",
+    titlePage: "تواصل معنا",
+    name: "الاسم",
+    emailcon: "الايميل",
+    phone: "رقم التليفون",
+    Subject: "الموضوع",
+    Message: "رسالة",
+    applyNow: "إرسال",
   },
-  "greek": {
-    "pathPage": "ΑΡΧΙΚΗ",
-    "titlePage": "Επικοινώνησε μαζί μας",
-    "name": "Ονοματεπώνυμο",
-    "emailcon": "Mail",
-    "phone": "Τηλέφωνο",
-    "Subject": "Αντικείμενα",
-    "Message": "Μήνυμα",
-    "applyNow": "Στείλε μας μήνυμα "
+  greek: {
+    pathPage: "ΑΡΧΙΚΗ",
+    titlePage: "Επικοινώνησε μαζί μας",
+    name: "Ονοματεπώνυμο",
+    emailcon: "Mail",
+    phone: "Τηλέφωνο",
+    Subject: "Αντικείμενα",
+    Message: "Μήνυμα",
+    applyNow: "Στείλε μας μήνυμα ",
   },
-  "french": {
-    "pathPage": "Accueil",
-    "titlePage": "CONTACTEZ-NOUS",
-    "name": "Nom",
-    "emailcon": "E-mail",
-    "phone": "Téléphone",
-    "Subject": "Objet",
-    "Message": "Message",
-    "applyNow": "Envoyer le message"
+  french: {
+    pathPage: "Accueil",
+    titlePage: "CONTACTEZ-NOUS",
+    name: "Nom",
+    emailcon: "E-mail",
+    phone: "Téléphone",
+    Subject: "Objet",
+    Message: "Message",
+    applyNow: "Envoyer le message",
   },
-}
-;
-
-  document.querySelectorAll("[data-translate]").forEach((el) => {
+  it: {
+    pathPage: "Home",
+    titlePage: "CONTATTACI",
+    name: "Nome",
+    emailcon: "Email",
+    phone: "Telefono",
+    Subject: "Oggetto",
+    Message: "Messaggio",
+    applyNow: "Invia messaggio",
+  },
+};
+document.querySelectorAll("[data-translate]").forEach((el) => {
   const key = el.getAttribute("data-translate");
   if (el.placeholder !== undefined) {
     el.placeholder = translationsData[lang][key] || el.placeholder;

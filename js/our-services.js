@@ -100,6 +100,16 @@ function onload() {
       tab3: "LexTrack",
       tab4: "LexFound",
     },
+    it: {
+      pathPage: "Home ",
+      titlePage: "I NOSTRI SERVIZI",
+      WhatWeOffer: "Cosa offriamo",
+      whoFor: "A chi si rivolge",
+      tab1: "LexFend",
+      tab2: "LexTend",
+      tab3: "LexTrack",
+      tab4: "LexFound",
+    },
   };
   document.querySelectorAll("[data-translate]").forEach((el) => {
     const key = el.getAttribute("data-translate");
@@ -132,7 +142,7 @@ function onload() {
   <div class="descrbtion">
  <p>${item.des}</p>
        </div>
-    `
+    `,
     )
     .join("");
 
@@ -153,7 +163,7 @@ function onload() {
     </div>
 
 </div>
-    `
+    `,
     )
     .join("");
 }

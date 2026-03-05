@@ -162,6 +162,47 @@
                     "icon": "individual"
                 }
             ]
+        },
+        "it": {
+            "name": "LexFend",
+            "title": "LexFend: Difesa legale. Senza sorprese.",
+            "des": "Il tuo scudo contro controversie, errori di compliance e indagini. Una protezione proattiva che mantiene la tua azienda sicura e pronta. Le grandi aziende hanno team legali che controllano ogni loro mossa; perché tu no? LexFend offre una protezione di livello enterprise senza i costi di un dipartimento interno a tempo pieno. Forniamo accesso conveniente a esperti che eseguono verifiche dei rischi, offrono supporto on demand e garantiscono che tu non venga mai colto impreparato, così puoi concentrarti sulla crescita invece di “spegnere incendi”.",
+            "p1": "La migliore strategia legale non è reagire ai problemi; è prevenirli.",
+            "p2": "Con LexFend ottieni la fiducia legale per scalare, crescere e proteggere ciò che conta di più. Non lasciare la tua protezione legale al caso. Ottieni oggi una copertura legale d’élite!",
+            "button": "Parliamo della tua esigenza",
+            "weOffer": [{
+                    "name": "Accesso conveniente a esperti di alto livello",
+                    "des": "L’esperienza dei grandi studi legali senza i costi elevati; supporto legale di alto livello adattato al tuo budget."
+                },
+                {
+                    "name": "Controlli preventivi dei rischi e avvisi tempestivi",
+                    "des": "Individuiamo in anticipo i rischi legali, normativi e contrattuali, così puoi risolvere i problemi prima che diventino costosi."
+                },
+                {
+                    "name": "Supporto su richiesta per aree chiave",
+                    "des": "Dai contratti e HR alle controversie e alla governance, siamo qui quando hai bisogno di una guida rapida."
+                },
+                {
+                    "name": "Prezzi trasparenti e prevedibili",
+                    "des": "Nessuna sorpresa. Solo tariffe chiare e fisse per aiutarti a pianificare e concentrarti sulla crescita."
+                }
+            ],
+            "whoFor": [{
+                    "name": "PMI in cerca di un supporto legale affidabile",
+                    "des": "Piccole e medie imprese che vogliono protezione di livello enterprise senza costi elevati.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Startup che necessitano di basi \"investor-ready\"",
+                    "des": "Aziende in fase iniziale che costruiscono strutture legali solide e conformi per attrarre investimenti e scalare.",
+                    "icon": "entrepren"
+                },
+                {
+                    "name": "Imprenditori e privati",
+                    "des": "Imprenditori e professionisti che desiderano tranquillità legale continuativa per esigenze aziendali e personali.",
+                    "icon": "individual"
+                }
+            ]
         }
     },
     {
@@ -328,6 +369,47 @@
                     "icon": "bi-graph-up"
                 }
             ]
+        },
+        "it": {
+            "name": "LexTend",
+            "title": "LexTend: Il tuo team legale. On demand.",
+            "des": "Supporto flessibile quando il tuo team ha bisogno di più capacità, senza il costo di assunzioni permanenti. Quando il tuo team interno è sotto pressione, LexTend interviene come un’estensione naturale e senza soluzione di continuità. Inseriamo avvocati esperti direttamente nei tuoi flussi di lavoro, scalando competenze in compliance, contratti e governance quando serve. È la scelta intelligente per general counsel, team snelli o aziende in rapida crescita che necessitano di maggiore capacità senza il costo e l’impegno di aumentare l’organico.",
+            "p1": "La crescita non accade per caso; si costruisce con gli accordi giusti.",
+            "p2": "Con LexTend metti in sicurezza deal, partnership e iniziative con fiducia. Dalle joint venture ai contratti internazionali, ti aiutiamo a espanderti con serenità.",
+            "button": "Sblocchiamo la tua prossima opportunità",
+            "weOffer": [{
+                    "name": "Integrazione perfetta con il tuo team",
+                    "des": "I nostri avvocati si integrano direttamente nel tuo workflow, allineandosi ai tuoi obiettivi e alla tua cultura senza le complessità dell’assunzione."
+                },
+                {
+                    "name": "Supporto scalabile nei periodi di picco o di calma",
+                    "des": "Aumenta o riduci il supporto legale secondo necessità; paghi solo ciò che utilizzi, quando lo utilizzi."
+                },
+                {
+                    "name": "Competenze specialistiche in più ambiti",
+                    "des": "Esperienza profonda in compliance, contratti, governance e depositi/adempimenti, proprio quando ne hai bisogno."
+                },
+                {
+                    "name": "Soluzioni su misura, convenienti",
+                    "des": "Evita i costi di un’assunzione a tempo pieno. Ottieni supporto flessibile ed esperto che si adatta alle tue esigenze e al tuo budget."
+                }
+            ],
+            "whoFor": [{
+                    "name": "General Counsel e Direttori legali",
+                    "des": "Leader che necessitano di maggiore capacità per progetti, picchi o aree legali specialistiche.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Team legali snelli sotto pressione",
+                    "des": "Piccoli dipartimenti che gestiscono alti volumi di lavoro, scadenze strette o questioni complesse.",
+                    "icon": "bi-patch-question"
+                },
+                {
+                    "name": "Aziende in rapida crescita",
+                    "des": "Imprese che stanno scalando velocemente e hanno bisogno di supporto legale per tenere il passo senza aumentare l’organico.",
+                    "icon": "bi-graph-up"
+                }
+            ]
         }
     },
     {
@@ -491,6 +573,47 @@
                 {
                     "name": "Entreprises exposées à des risques transfrontaliers",
                     "des": "Des entreprises confrontées à des litiges, opérations ou exigences réglementaires internationales.",
+                    "icon": "bi-asterisk"
+                }
+            ]
+        },
+        "it": {
+            "name": "LexTrack",
+            "title": "LexTrack: La tua pratica. Completamente gestita.",
+            "des": "Gestione end-to-end delle questioni transfrontaliere, così resti al comando senza complessità. Gestire temi legali in più Paesi richiede conoscenza locale e coordinamento globale. LexTrack funge da unico punto di contatto, sfruttando una rete affidabile per gestire controversie, arbitrati e compliance con supervisione strategica e budgeting trasparente. Con un solo partner responsabile dell’intero processo, ottieni chiarezza, controllo e fiducia in ogni giurisdizione.",
+            "p1": "La posizione più forte nelle controversie è chiarezza, strategia e velocità.",
+            "p2": "Con LexTrack ottieni un supporto legale costante per risolvere i conflitti in modo efficiente. Dalla negoziazione alla difesa in aula, proteggiamo i tuoi interessi in ogni fase.",
+            "button": "Risolviamo il tuo caso",
+            "weOffer": [{
+                    "name": "Un partner centrale per esigenze multi-giurisdizionali",
+                    "des": "Gestisci contenzioso transfrontaliero, arbitrati e compliance attraverso un unico partner responsabile."
+                },
+                {
+                    "name": "Rete globale con forza locale",
+                    "des": "Accesso a esperti selezionati nei mercati chiave, che conoscono sia gli standard internazionali sia le sfumature locali."
+                },
+                {
+                    "name": "Supervisione strategica e piani d’azione su misura",
+                    "des": "Gestione end-to-end della pratica con strategia proattiva, non solo supporto reattivo."
+                },
+                {
+                    "name": "Budgeting trasparente, senza costi fuori controllo",
+                    "des": "Strutture di costo chiare e aggiornamenti regolari ti mantengono sempre in controllo."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Aziende e dipartimenti legali",
+                    "des": "Organizzazioni che operano oltre confine e necessitano di supporto coordinato in più mercati.",
+                    "icon": "bi-people-fill"
+                },
+                {
+                    "name": "Team di counsel che necessitano di supervisione e strumenti",
+                    "des": "Team legali che desiderano un migliore tracking delle pratiche, gestione degli advisor esterni e coordinamento transfrontaliero.",
+                    "icon": "bi-hammer"
+                },
+                {
+                    "name": "Imprese con rischi transfrontalieri",
+                    "des": "Aziende che affrontano controversie, operazioni o normative internazionali che richiedono competenze locali.",
                     "icon": "bi-asterisk"
                 }
             ]
@@ -677,6 +800,52 @@
                 {
                     "name": "Dirigeants recherchant une mise en place sans stress",
                     "des": "Des leaders qui souhaitent des fondations solides, mises en place efficacement et sans complexité juridique."
+                }
+            ]
+        },
+        "it": {
+            "name": "LexFound",
+            "title": "LexFound: Costruisci correttamente fin dall’inizio.",
+            "des": "Supporto completo per nuove iniziative e ingresso nei mercati, così puoi concentrarti sulla crescita mentre noi gestiamo le fondamenta. Avviare un’impresa o entrare in nuovi mercati dovrebbe essere entusiasmante, non opprimente. LexFound gestisce registrazione, licensing, compliance e servizi bancari, applicando standard globali a livello locale per garantire che la tua base sia solida, scalabile e costruita per il successo. Dalle startup che raccolgono capitale alle aziende che si espandono in MEA, LexFound offre a leader e investitori la fiducia per costruire senza barriere.",
+            "p1": "Ogni grande impresa inizia con fondamenta solide.",
+            "p2": "Con LexFound ottieni guida esperta nell’avvio, nella strutturazione e nella governance della tua società. Dalla costituzione alla compliance, costruiamo la base legale per un successo duraturo.",
+            "button": "Costruiamo le tue fondamenta",
+            "weOffer": [{
+                    "name": "Avvio aziendale end-to-end",
+                    "des": "Gestiamo tutto: registrazione, fiscalità, banca, compliance e approvazioni, così non devi farlo tu."
+                },
+                {
+                    "name": "Licensing e strutturazione allineati ai tuoi obiettivi",
+                    "des": "Strutture legali e licenze su misura per il tuo settore, la tua scala e i piani di crescita."
+                },
+                {
+                    "name": "Esperti locali che applicano standard globali",
+                    "des": "Consulenti sul territorio che costruiscono utilizzando best practice globali adattate ai mercati locali."
+                },
+                {
+                    "name": "Un unico punto di contatto per tutte le esigenze legali",
+                    "des": "Niente rincorse tra più enti. Coordiniamo ogni passaggio legale del tuo lancio o della tua espansione."
+                }
+            ],
+            "whoFor": [{
+                    "name": "Imprenditori e startup",
+                    "des": "Founder che trasformano idee in imprese legalmente solide e scalabili, pronte per investimenti e crescita.",
+                    "icon": "sme"
+                },
+                {
+                    "name": "Aziende che si espandono in nuovi mercati",
+                    "des": "Imprese consolidate che entrano in MEA o in altre regioni e cercano un ingresso fluido e conforme.",
+                    "icon": "bi-graph-up-arrow"
+                },
+                {
+                    "name": "Investitori esteri e multinazionali",
+                    "des": "Investitori e aziende globali che entrano in nuovi mercati con fiducia e insight locali affidabili.",
+                    "icon": "bi-building-add"
+                },
+                {
+                    "name": "Imprenditori che cercano un avvio senza stress",
+                    "des": "Leader che vogliono fondamenta aziendali fatte bene, in modo efficiente e senza problemi legali.",
+                    "icon": "bi-search"
                 }
             ]
         }
