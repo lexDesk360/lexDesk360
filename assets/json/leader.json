@@ -164,6 +164,34 @@
             ]
         },
         "linkedin": "https://www.linkedin.com/in/sharmeen-ali-khan-7b549a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+
+    },
+    {
+        "image": "../assets/images/members/13.png",
+        "name": {
+            "eng": "Jonathan Hirasawa Ashton",
+            "ar": "جوناثان هيراساوا أشتون"
+        },
+        "positionJob": {
+            "eng": "Managing Partner - UAE ",
+            "ar": "الشريك الإداري - الإمارات العربية المتحدة "
+        },
+        "descripation": {
+            "eng": [
+                "LLM Corporate & Commercial Law | Technology, Media & Telecommunications",
+                "With over two decades of corporate expertise, Jonathan Hirasawa Ashton holds an LLM from Queen Mary University of London, specialising in Technology, Media and Telecommunications law. His focus is on corporate and commercial legal frameworks within the digital economy.",
+                "His work centres on digital regulation, intellectual property structuring, copyright, licensing and AI governance. He has a particular interest in how emerging technologies are regulated and how businesses can structure IP and data assets effectively across jurisdictions.",
+                "Jonathan works on commercial contracts, IP assignments, licensing models and governance frameworks, with an emphasis on clarity, enforceability and cross-border risk management."
+
+            ],
+            "ar": [
+                "ماجستير في القانون التجاري والشركات | التكنولوجيا والإعلام والاتصالات",
+                "يتمتع جوناثان هيراساوا أشتون بخبرة تزيد عن عقدين في مجال الشركات، وهو حاصل على ماجستير في القانون من جامعة كوين ماري في لندن، متخصص في قانون التكنولوجيا والإعلام والاتصالات. ينصب تركيزه على الأطر القانونية التجارية والشركات في الاقتصاد الرقمي.",
+                "تتركز أعماله على التنظيم الرقمي، وهيكلة الملكية الفكرية، وحقوق النشر، والترخيص، وحوكمة الذكاء الاصطناعي. لديه اهتمام خاص بكيفية تنظيم التقنيات الناشئة وكيفية قيام الشركات بهيكلة أصول الملكية الفكرية والبيانات بشكل فعال عبر الولايات القضائية.",
+                "يعمل جوناثان على العقود التجارية، وتخصيصات الملكية الفكرية، ونماذج الترخيص، وأطر الحوكمة، مع التركيز على الوضوح، وقابلية التنفيذ، وإدارة المخاطر عبر الحدود."
+            ]
+        },
+        "linkedin": "https://www.linkedin.com/in/jonathanhashton?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
     },
 
     {
