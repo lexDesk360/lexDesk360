@@ -1,4 +1,5 @@
 localStorage.setItem("currentPage", "about");
+
 localStorage.setItem("menuState", "false");
 let lang = localStorage.getItem("lang");
 let body = document.getElementById("body");
