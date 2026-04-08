@@ -10,6 +10,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 const item = JSON.parse(localStorage.getItem("selectedNetwork"));
 console.log(item);
 const translations = {

@@ -11,6 +11,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 let tabID;
 if (activeTab == null) {
   tabID = 1;
@@ -191,7 +202,7 @@ function renderActiveContent() {
 }
 
 function getContact() {
-  window.location.href = `./contact-us`;
+  window.location.href = `./contact-us.html`;
 }
 localStorage.setItem("currentPageNew", 1);
 localStorage.setItem("activeForm", null);

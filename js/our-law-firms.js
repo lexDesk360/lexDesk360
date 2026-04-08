@@ -11,7 +11,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
 
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 let networkMidwest = [
   {
     id: 1,
@@ -344,5 +354,5 @@ localStorage.setItem("currentPageNew", 1);
 
 function getPageJoin() {
   localStorage.setItem("activeForm", "tab1");
-  window.location.href = "./join-us";
+  window.location.href = "./join-us.html";
 }

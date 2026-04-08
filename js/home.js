@@ -10,6 +10,18 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
+
 let Allnews;
 let news;
 let Services;
@@ -183,7 +195,7 @@ function getDetailsNews(index) {
   let filteredArr = Allnews.filter((_, i) => i !== index);
   let randomTwoNews = filteredArr.sort(() => 0.5 - Math.random()).slice(0, 2);
   localStorage.setItem("randomTwoNews", JSON.stringify(randomTwoNews));
-  window.location.href = "./news-details";
+  window.location.href = "./news-details.html";
 }
 function nextServices() {
   console.log(activerServices);
@@ -203,7 +215,7 @@ function prevServices() {
   renderData();
 }
 function getPage(pageName) {
-  window.location.href = `./${pageName}`;
+  window.location.href = `./${pageName}.html`;
 }
 function openCompanyLinkedin() {
   window.open("https://www.linkedin.com/company/lexdesk360/", "_blank");
@@ -211,15 +223,15 @@ function openCompanyLinkedin() {
 
 function openOurServicesPage() {
   localStorage.setItem("activeTab", Services[lang][activerServices].id);
-  window.location.href = "./our-services";
+  window.location.href = "./our-services.html";
 }
 function openserpage() {
   localStorage.setItem("activeTab", 1);
-  window.location.href = "./our-services";
+  window.location.href = "./our-services.html";
 }
 
 function opencontactusPage() {
-  window.location.href = "./contact-us";
+  window.location.href = "./contact-us.html";
 }
 localStorage.setItem("currentPageNew", 1);
 localStorage.setItem("activeForm", null);

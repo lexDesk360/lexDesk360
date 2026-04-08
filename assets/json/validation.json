@@ -36,5 +36,62 @@
       "subject": "الموضوع يجب أن يكون على الأقل 10 أحرف",
       "message": "الرسالة يجب أن تكون على الأقل 10 أحرف"
     }
+  },
+  "it": {
+    "Sending": "Invio in corso",
+    "Sent": "Candidati ora",
+    "SentM": "Invia messaggio",
+    "max": "La dimensione del file è troppo grande (massimo 5MB)",
+    "succes": "Il modulo è stato inviato con successo!",
+    "fail": "Si è verificato un errore, riprova.",
+    "file": "Il caricamento del profilo è obbligatorio",
+    "format": "Il file deve essere in formato PDF, DOC o DOCX",
+    "validation": {
+      "name": "Il nome deve contenere almeno 3 caratteri",
+      "email": "Inserisci un indirizzo email valido",
+      "phone": "Inserisci un numero di telefono valido",
+      "position": "La posizione è obbligatoria",
+      "linkedIn": "LinkedIn è obbligatorio",
+      "subject": "L'oggetto deve contenere almeno 10 caratteri",
+      "message": "Il messaggio deve contenere almeno 10 caratteri"
+    }
+  },
+  "french": {
+    "Sending": "Envoi en cours",
+    "Sent": "Postuler maintenant",
+    "SentM": "Envoyer un message",
+    "max": "La taille du fichier est trop grande (maximum 5 Mo)",
+    "succes": "Le formulaire a été soumis avec succès !",
+    "fail": "Une erreur s'est produite, veuillez réessayer.",
+    "file": "Le téléchargement du profil est requis",
+    "format": "Le fichier doit être au format PDF, DOC ou DOCX",
+    "validation": {
+      "name": "Le nom doit comporter au moins 3 caractères",
+      "email": "Veuillez saisir une adresse e-mail valide",
+      "phone": "Veuillez saisir un numéro de téléphone valide",
+      "position": "Le poste est requis",
+      "linkedIn": "LinkedIn est requis",
+      "subject": "Le sujet doit comporter au moins 10 caractères",
+      "message": "Le message doit comporter au moins 10 caractères"
+    }
+  },
+  "greek": {
+    "Sending": "Αποστολή...",
+    "Sent": "Κάντε αίτηση τώρα",
+    "SentM": "Αποστολή μηνύματος",
+    "max": "Το μέγεθος του αρχείου είναι πολύ μεγάλο (μέγιστο 5MB)",
+    "succes": "Η φόρμα υποβλήθηκε με επιτυχία!",
+    "fail": "Παρουσιάστηκε σφάλμα, παρακαλώ δοκιμάστε ξανά.",
+    "file": "Η μεταφόρτωση προφίλ είναι υποχρεωτική",
+    "format": "Το αρχείο πρέπει να είναι σε μορφή PDF, DOC ή DOCX",
+    "validation": {
+      "name": "Το όνομα πρέπει να έχει τουλάχιστον 3 χαρακτήρες",
+      "email": "Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email",
+      "phone": "Παρακαλώ εισάγετε έναν έγκυρο αριθμό τηλεφώνου",
+      "position": "Η θέση είναι υποχρεωτική",
+      "linkedIn": "Το LinkedIn είναι υποχρεωτικό",
+      "subject": "Το θέμα πρέπει να έχει τουλάχιστον 10 χαρακτήρες",
+      "message": "Το μήνυμα πρέπει να έχει τουλάχιστον 10 χαρακτήρες"
+    }
   }
 }

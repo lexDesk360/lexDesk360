@@ -9,6 +9,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
   localStorage.setItem("lang", "eng");
   lang = "eng";
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 const values = {
   eng: [
     {

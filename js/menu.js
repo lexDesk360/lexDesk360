@@ -8,6 +8,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 const translations = {
   eng: {
     Who: "Who we are",
@@ -139,5 +150,5 @@ function openGmailCompose() {
 }
 function getServ(id) {
   localStorage.setItem("activeTab", id);
-  window.location.href = `./our-services`;
+  window.location.href = `./our-services.html`;
 }

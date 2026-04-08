@@ -13,6 +13,16 @@
     font-family: MontserratArabic;
 }
 
+@font-face {
+    src: url(../assets/fonts/Montserrat-Light.ttf);
+    font-family: Montserrat;
+}
+
+@font-face {
+    src: url(../assets/fonts/noto.ttf);
+    font-family: noto;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -724,6 +734,8 @@ body,
     }
 }
 
+
+
 @media (orientation: portrait) {
     .logo {
         width: 35vw;
@@ -1032,19 +1044,63 @@ body,
 
 
 ::-webkit-scrollbar {
-  width: 0.5vw;
+    width: 0.5vw;
 }
 
 ::-webkit-scrollbar-track {
-  background: #02153C;
+    background: #02153C;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: white;
-  border-radius: 1vw;
-  transition: background 0.3s ease;
+    background: white;
+    border-radius: 1vw;
+    transition: background 0.3s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #888;
+    background: #888;
+}
+
+
+.greek {
+
+    p,
+    input,
+    div {
+        font-family: noto !important;
+    }
+
+    .group.h40w {
+        height: 46vw;
+    }
+
+    #team-content .toggleTab .tab p {
+        text-align: center;
+    }
+    #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
+        text-align: center;
+    }
+}
+
+.french,
+.it {
+
+    p,
+    input,
+    div,
+    span,
+    ul,
+    li {
+        font-family: Montserrat !important;
+    }
+
+    .group.h40w {
+        height: 48vw;
+    }
+    #team-content .toggleTab .tab p {
+        text-align: center;
+    }
+    #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
+        text-align: center;
+    }
 }

@@ -40,14 +40,14 @@ function loadComponents() {
 loadComponents();
 
 function getHome() {
-  window.location.href = `./home`;
+  window.location.href = `./home.html`;
 }
 function getNetwork() {
-  window.location.href = `./network-firms`;
+  window.location.href = `./network-firms.html`;
 }
 function getLaw() {
-  window.location.href = `./our-law-firms`;
+  window.location.href = `./our-law-firms.html`;
 }
 function getTeam() {
-  window.location.href = `./team`;
+  window.location.href = `./team.html`;
 }

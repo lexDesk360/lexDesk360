@@ -5,47 +5,73 @@ let body = document.getElementById("body");
 let leader = localStorage.getItem("leader")
 leader = JSON.parse(leader);
 if (lang == "ar") {
-    body.classList.add("rtl");
+  body.classList.add("rtl");
 }
 if (lang == null && lang != "eng" && lang != "ar") {
   localStorage.setItem("lang", "eng");
   lang = "eng";
+}
+if (lang == "greek") {
+  body.classList.add("greek");
+
+}
+if (lang == "it") {
+  body.classList.add("it");
+
+}
+if (lang == "french") {
+  body.classList.add("french");
 }
 document.getElementById('img').src = leader.image;
 document.getElementById('name').textContent = leader.name[lang];
 document.getElementById('job').textContent = leader.positionJob[lang];
 let descrbtionDiv = document.getElementById('descrbtion')
 descrbtionDiv.innerHTML = leader.descripation[lang]
-    .map(
-        (des, index) => `
+  .map(
+    (des, index) => `
       <p>${des}</p>
     `
-    )
-    .join("");
+  )
+  .join("");
 
 
 
 const translations = {
-    eng: {
-        pathPage: "Home ",
-        titlePage: "Team",
-        Linkedin: ""
-    },
-    ar: {
-        pathPage: " الصفحة الرئيسية  ",
-        titlePage: "الفريق",
-        Linkedin: ""
-    }
+  eng: {
+    pathPage: "Home ",
+    titlePage: "Team",
+    Linkedin: ""
+  },
+  ar: {
+    pathPage: " الصفحة الرئيسية  ",
+    titlePage: "الفريق",
+    Linkedin: ""
+  },
+  greek: {
+    pathPage: " ΑΡΧΙΚΗ",
+    titlePage: "ομάδα",
+    Linkedin: ""
+  },
+  french: {
+    pathPage: "ACCUEIL ",
+    titlePage: "ÉQUIPE",
+    Linkedin: ""
+  },
+  it: {
+    pathPage: " Home ",
+    titlePage: "Team",
+    Linkedin: ""
+  }
 };
 
 
-if(leader.linkedin == ''){
-document.getElementById('Linkedin').style.display = 'none' 
+if (leader.linkedin == '') {
+  document.getElementById('Linkedin').style.display = 'none'
 
 }
 
 function getlinkedinProfile() {
-    window.open(leader.linkedin, '_blank');
+  window.open(leader.linkedin, '_blank');
 }
 document.querySelectorAll("[data-translate]").forEach((el) => {
   const key = el.getAttribute("data-translate");
@@ -56,4 +82,4 @@ document.querySelectorAll("[data-translate]").forEach((el) => {
   }
 });
 localStorage.setItem("currentPageNew", 1);
-  localStorage.setItem("activeForm", null);
+localStorage.setItem("activeForm", null);

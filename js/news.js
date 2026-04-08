@@ -20,6 +20,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 
 let itemDetails;
 // Pagination settings
@@ -138,7 +149,7 @@ function getDetailsNews(index) {
   let filteredArr = news.filter((_, i) => i !== index);
   let randomTwoNews = filteredArr.sort(() => 0.5 - Math.random()).slice(0, 2);
   localStorage.setItem("randomTwoNews", JSON.stringify(randomTwoNews));
-  window.location.href = "./news-details";
+  window.location.href = "./news-details.html";
 }
 // Initialize
   localStorage.setItem("activeForm", null);

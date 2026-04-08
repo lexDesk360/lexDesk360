@@ -9,6 +9,17 @@ if (langF == null && langF != "eng" && langF != "ar") {
   localStorage.setItem("lang", "eng");
   langF = "eng";
 }
+if(langF == "greek"){
+  body.classList.add("greek");
+
+}
+if(langF == "it"){
+  body.classList.add("it");
+
+}
+if(langF == "french"){
+  body.classList.add("french");
+}
 console.log(langF);
 let translationsF;
 
@@ -42,7 +53,7 @@ function getPage(page, id) {
   if (page == "our-services") {
     localStorage.setItem("activeTab", id);
   }
-  window.location.href = `./${page}`;
+  window.location.href = `./${page}.html`;
 }
 const erroremailSub = document.getElementById("erroremailSub");
 

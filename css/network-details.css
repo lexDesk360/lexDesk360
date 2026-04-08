@@ -7,11 +7,8 @@
   width: 100%;
 }
 #network-details-content .group {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   width: 100%;
   margin-bottom: 5vw;
 }
@@ -23,10 +20,7 @@
   margin-bottom: 0vw;
 }
 #network-details-content .group.colum {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
 }
 #network-details-content .group.p5 {
   padding: 0 5vw;
@@ -55,12 +49,8 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 #network-details-content .group .bgImage .vedio .icon {
   width: 4vw;
@@ -80,7 +70,6 @@
   height: 100%;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 #network-details-content .group .content-text {
@@ -104,13 +93,9 @@
 #network-details-content .group .list p {
   font-size: 1.6vw;
   font-family: Montserrat;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   margin-top: 0.8vw;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 #network-details-content .group .list p.bold {
   font-weight: bold;
@@ -120,8 +105,7 @@
 }
 #network-details-content .group .list p.bold::before {
   content: "";
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   background-image: url(../assets/images/point.png);
   width: 0.8vw;
   height: 0.8vw;
@@ -193,12 +177,8 @@
   #network-details-content .group .list p {
     font-size: 4.5vw;
     margin-top: 1.5vw;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: start;
+    align-items: start;
   }
   #network-details-content .group .list p.bold::before {
     content: "";
@@ -210,4 +190,4 @@
     margin-left: 2.5vw;
     font-size: 3.5vw;
   }
-}
+}/*# sourceMappingURL=network-details.css.map */

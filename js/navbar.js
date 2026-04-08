@@ -51,13 +51,13 @@ function getActiveLang() {
 getActiveLang();
 
 function openMenu() {
-  window.location.href = `./menu`;
+  window.location.href = `./menu.html`;
   localStorage.setItem("menuState", "true");
 }
 
 function closeMenu() {
   localStorage.setItem("menuState", "false");
-  window.location.href = `./${page}`;
+  window.location.href = `./${page}.html`;
 }
 
 
@@ -66,7 +66,7 @@ function openCompanyLinkedin() {
 }
 
 function goHome() {
-  window.location.href = `./home`;
+  window.location.href = `./home.html`;
 }
 
 function changeLanguage() {

@@ -9,6 +9,17 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
+if(lang == "greek"){
+  body.classList.add("greek");
+
+}
+if(lang == "it"){
+  body.classList.add("it");
+
+}
+if(lang == "french"){
+  body.classList.add("french");
+}
 let members;
 let ourPeople;
 function getData() {
@@ -107,11 +118,11 @@ function openTab(tabId) {
 
 function getMemberDetails(index) {
   localStorage.setItem("leader", JSON.stringify(members[index]));
-  window.location.href = `./member-details`;
+  window.location.href = `./member-details.html`;
 }
 function getPeopleDetails(index) {
   localStorage.setItem("leader", JSON.stringify(ourPeople[index]));
-  window.location.href = `./member-details`;
+  window.location.href = `./member-details.html`;
 }
 
 document.querySelectorAll("[data-translate]").forEach((el) => {
