@@ -42,6 +42,21 @@ const translations = {
     titlePage: "الأخبار",
     readMore: "أقرا المزيد",
   },
+  greek: {
+    pathPage: "ΑΡΧΙΚΗ",
+    titlePage: "Νεότερα",
+    readMore: "Διάβασε περισσότερα",
+  },
+  french: {
+    pathPage: "Accueil",
+    titlePage: "Actualités",
+    readMore: "LIRE LA SUITE",
+  },
+  it: {
+    pathPage: "Home",
+    titlePage: "News",
+    readMore: "LEGGI DI PIÙ",
+  }
 };
 
 document.querySelectorAll("[data-translate]").forEach((el) => {

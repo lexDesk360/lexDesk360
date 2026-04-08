@@ -31,6 +31,24 @@ const translationsData = {
     moreNew: "أخبار أكثر",
     readMore: "أقرا المزيد",
   },
+  greek: {
+    pathPage: "ΑΡΧΙΚΗ",
+    titlePage: "Νεότερα",
+    moreNew: "Περισσότερα Νεότερα",
+    readMore: "Διάβασε περισσότερα",
+  },
+  french: {
+    pathPage: "Accueil ",
+    titlePage: "Actualités",
+    moreNew: "Plus de Actualités",
+    readMore: "LIRE LA SUITE",
+  },
+  it: {
+    pathPage: "Home ",
+    titlePage: "News",
+    moreNew: "Altre News",
+    readMore: "LEGGI DI PIÙ",
+  }
 };
 const translationsItem = {
   date: item[lang].date,

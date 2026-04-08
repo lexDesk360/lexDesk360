@@ -190,8 +190,127 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 1,
+       "name": "L'avenir du travail juridique ne réside pas dans l'IA, mais dans ce que nous construisons grâce à elle",
+       "date": "6 mai 2025",
+       "des": "Pourquoi l'IA ne remplace pas les avocats, mais redéfinit la manière dont les services juridiques sont fournis.",
+       "img": "../assets/images/news/new1.webp",
+       "content": [{
+           "name": "",
+           "small": "Par Walid Sowaidan",
+           "smallBold": "",
+           "des": [
+             "Pourquoi l'IA ne remplace pas les avocats, mais redéfinit la manière dont les services juridiques sont fournis."
+           ]
+         },
+         {
+           "name": "L'IA transforme le travail juridique, mais ce n'est pas tout",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il ne fait aucun doute que l'IA transforme la profession juridique. Mais le débat passe souvent à côté de l'essentiel. La véritable révolution ne réside pas dans le fait que les machines remplacent les avocats, mais dans le type de travail juridique que nous pourrons accomplir grâce à elles.",
+             "Aujourd’hui, j’utilise les outils d’IA non pas comme des raccourcis, mais comme des membres de l’équipe. Ils prennent en charge les 80 % des tâches : traduction, rédaction, mise en forme, synthèse — plus rapidement, à moindre coût et souvent avec une meilleure cohérence que les équipes humaines. Ce n’est pas une menace. C’est un levier."
+           ]
+         },
+         {
+           "name": "Les domaines où le jugement humain reste primordial",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Et les 20 % restants ? C’est là que résident le jugement, la nuance et la stratégie. C’est là que les avocats apportent encore le plus de valeur ajoutée. C’est la différence entre rédiger une note de service et savoir quelle note permettra de gagner l’affaire.",
+             "Ce qui m’enthousiasme le plus, ce n’est pas seulement le gain de temps. C’est le potentiel de constituer des équipes plus légères et plus performantes — des avocats qui savent orchestrer l’IA, et non pas simplement rivaliser avec elle. Dans mon propre travail, j’envisage déjà la phase suivante : celle où je me concentrerai entièrement sur les clients et la croissance, tandis qu’une équipe de confiance coordonnera directement les systèmes d’IA pour produire des résultats à grande échelle."
+           ]
+         },
+         {
+           "name": "L'impact réel : des équipes plus petites, de meilleurs résultats",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'IA n'éliminera pas les bons avocats. Elle éliminera le besoin d'équipes nombreuses aux performances moyennes. Et c'est là que réside l'opportunité. Pour les clients, cela signifie un meilleur service. Pour les cabinets d'avocats, cela signifie des structures plus intelligentes. Pour les individus, cela signifie apprendre à penser, déléguer et construire différemment."
+           ]
+         },
+         {
+           "name": "Un appel à l'action pour les avocats d'aujourd'hui",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Alors, que doivent faire maintenant les avocats, qu'ils soient débutants ou expérimentés ? Commencez par considérer l'IA non pas comme une menace, mais comme un langage que vous devez maîtriser. Apprenez à poser de meilleures questions, à décomposer les problèmes complexes et à affiner les résultats générés par l'IA pour en faire des solutions prêtes à être présentées aux clients. Que vous rédigiez, analysiez ou planifiiez une stratégie pour une affaire, l’IA fait désormais partie de votre boîte à outils. Utilisez-la à bon escient, et vous en ferez plus avec moins. Ignorez-la, et vous risquerez de prendre du retard."
+           ]
+         },
+         {
+           "name": "Ce n’est pas une disruption, c’est de la conception",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La profession juridique n’est pas en train de disparaître. Elle évolue.",
+             "Il ne s’agit pas de disruption. Il s’agit de conception.",
+             "Et ceux qui conçoivent bien l’emportent."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 1,
+       "name": "Il futuro del lavoro legale non è l’AI — è ciò che costruiamo con essa",
+       "date": "6 maggio 2025",
+       "des": "Perché l’AI non sta sostituendo gli avvocati, ma sta ridefinendo il modo in cui vengono erogati i servizi legali.",
+       "img": "../assets/images/news/new1.webp",
+       "content": [{
+           "name": "",
+           "small": "Di Walid Sowaidan",
+           "smallBold": "",
+           "des": [
+             "Perché l’AI non sta sostituendo gli avvocati, ma sta ridefinendo il modo in cui vengono erogati i servizi legali."
+           ]
+         },
+         {
+           "name": "L’AI sta trasformando il lavoro legale — ma non è tutta la storia",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Non c’è dubbio che l’AI stia trasformando la professione legale. Ma spesso la conversazione perde il punto. La vera rivoluzione non riguarda le macchine che sostituiscono gli avvocati — riguarda il tipo di lavoro legale che saremo in grado di svolgere grazie a loro.",
+             "Oggi utilizzo strumenti di AI non come scorciatoie, ma come membri del team. Gestiscono l’80% iniziale dei compiti: traduzione, redazione, formattazione, sintesi — più rapidamente, a costi inferiori e spesso con una coerenza migliore rispetto ai team umani. Questa non è una minaccia. È una leva."
+           ]
+         },
+         {
+           "name": "Dove il giudizio umano conta ancora di più",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il 20% che resta? È lì che vivono giudizio, sfumature e strategia. È lì che gli avvocati aggiungono ancora il massimo valore. È la differenza tra scrivere un memo e sapere quale memo fa vincere la causa.",
+             "Ciò che mi entusiasma di più non è solo il tempo risparmiato. È il potenziale di costruire team più snelli e più incisivi — avvocati che sanno orchestrare l’AI, non solo competere con essa. Nel mio lavoro, sto già pensando alla fase successiva: quella in cui mi concentro interamente su clienti e crescita, mentre un team fidato coordina direttamente i sistemi di AI per offrire risultati su larga scala."
+           ]
+         },
+         {
+           "name": "L’impatto reale: team più piccoli, risultati maggiori",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’AI non eliminerà i bravi avvocati. Eliminerà la necessità di team grandi con output medio. Ed è qui che si trova l’opportunità. Per i clienti significa un servizio migliore. Per gli studi legali significa strutture più intelligenti. Per i singoli significa imparare a pensare, delegare e costruire in modo diverso."
+           ]
+         },
+         {
+           "name": "Un invito all’azione per gli avvocati di oggi",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Quindi cosa dovrebbero fare gli avvocati, sia all’inizio del percorso sia già esperti? Iniziare a trattare l’AI non come una minaccia, ma come un linguaggio da padroneggiare. Imparare a porre domande migliori, scomporre problemi complessi e rifinire gli output generati dall’AI fino a renderli pronti per il cliente. Che tu stia redigendo, analizzando o pianificando la strategia di un caso, l’AI ora fa parte dei tuoi strumenti. Usala bene, e farai di più con meno. Ignorala, e rischierai di rimanere indietro."
+           ]
+         },
+         {
+           "name": "Questo non è disruption — è design",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La professione legale non sta scomparendo. Sta evolvendo.",
+             "Non si tratta di disruption. Si tratta di design.",
+             "E chi progetta bene vince."
+           ]
+         }
+       ]
      }
-
 
    },
    {
@@ -480,6 +599,190 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 2,
+       "name": "La nouvelle loi sur le travail en Égypte : promouvoir l'équité et la stabilité sur le lieu de travail.",
+       "date": "22 avril 2025",
+       "des": "Réformes clés en matière de protection de l'emploi, de sécurité contractuelle et de droits des femmes.",
+       "img": "../assets/images/news/new2.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Réformes clés en matière de protection de l'emploi, de sécurité contractuelle et de droits des femmes."
+           ]
+         },
+         {
+           "name": "Analyse juridique de la nouvelle loi sur le travail en Égypte : promouvoir l'équité et la stabilité sur le lieu de travail",
+           "small": "Par Alaa Khamis – Responsable de la recherche juridique pour le Moyen-Orient — LexDesk360",
+           "smallBold": "",
+           "des": [
+             "Dans le cadre d'une évolution législative majeure, la Chambre des représentants égyptienne a approuvé une refonte complète du droit du travail, visant à moderniser la réglementation de l'emploi et à renforcer la protection des travailleurs. Cette réforme aborde des questions cruciales telles que le licenciement arbitraire, les droits des femmes, la sécurité des contrats et la reconnaissance des nouveaux modèles de travail."
+           ]
+         },
+         {
+           "name": "1. Suppression du licenciement arbitraire et réforme du formulaire 6",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nouvelle loi abolit la pratique du licenciement arbitraire, notamment par la suppression du « formulaire 6 », que les employeurs utilisaient auparavant pour mettre fin unilatéralement à un contrat de travail. En vertu de la législation révisée, les licenciements doivent désormais être justifiés et sont soumis à un contrôle judiciaire, garantissant ainsi que les employés ne peuvent être licenciés sans procédure régulière. Ce changement renforce la sécurité de l'emploi et s'aligne sur les normes internationales du travail."
+           ]
+         },
+         {
+           "name": "2. Renforcement de la protection des femmes actives",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La législation introduit plusieurs dispositions visant à soutenir les employées :",
+             "• Prolongation du congé de maternité : le congé de maternité rémunéré est passé de trois à quatre mois, dont au moins 45 jours sont accordés après l’accouchement. Ce congé peut être pris jusqu’à trois fois au cours de la carrière professionnelle d’une femme.",
+             "• Pauses d’allaitement : les femmes ont droit à deux pauses d’allaitement quotidiennes, d’une durée minimale de 30 minutes chacune, pendant les deux premières années suivant l’accouchement.",
+             "• Réduction du temps de travail : les salariées enceintes bénéficient d’une réduction d’au moins une heure de leur temps de travail quotidien à compter du sixième mois de grossesse.",
+             "• Protection contre le licenciement : il est interdit aux employeurs de résilier le contrat d’une salariée pendant son congé de maternité."
+           ]
+         },
+         {
+           "name": "3. Conversion des contrats à durée déterminée en contrats à durée indéterminée",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Afin d’éviter l’exploitation des contrats à durée déterminée, la nouvelle loi stipule que toute relation de travail à durée déterminée dépassant quatre ans sera automatiquement convertie en contrat à durée indéterminée (permanent). Cette disposition garantit une plus grande stabilité de l’emploi pour les salariés."
+           ]
+         },
+         {
+           "name": "Augmentations salariales annuelles obligatoires",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les employeurs sont désormais tenus d’accorder aux salariés une augmentation salariale annuelle d’au moins 3 % du salaire servant de base au calcul des cotisations sociales. Cette mesure vise à protéger le pouvoir d'achat des travailleurs contre l'inflation."
+           ]
+         },
+         {
+           "name": "Reconnaissance du travail à distance et des plateformes numériques",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Reconnaissant la nature évolutive du travail, la loi révisée reconnaît officiellement le travail à distance et l'emploi via des plateformes numériques. Cette inclusion fournit un cadre juridique pour les modalités de travail non traditionnelles, garantissant que les travailleurs de ces secteurs bénéficient de protections et d'avantages appropriés."
+           ]
+         },
+         {
+           "name": "Création d'un fonds pour les travailleurs atypiques",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La loi impose la création d’un fonds d’aide d’urgence dédié aux travailleurs atypiques, tels que les travailleurs indépendants et les acteurs de l’économie des petits boulots. Ce fonds vise à fournir une protection sociale et un soutien financier en période de chômage ou de difficultés économiques."
+           ]
+         },
+         {
+           "name": "Un lieu de travail exempt de harcèlement et d’intimidation",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les employeurs sont désormais légalement tenus de maintenir un environnement de travail exempt de harcèlement et d’intimidation. La loi introduit des sanctions plus sévères en cas d’infraction, notamment des peines d’emprisonnement et des amendes, afin de dissuader de tels comportements et de promouvoir un lieu de travail sûr."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nouvelle loi sur le travail en Égypte représente une avancée progressive vers la création d'un environnement de travail plus équitable et plus stable. En s'attaquant à des problèmes de longue date et en s'adaptant aux pratiques de travail modernes, cette législation cherche à équilibrer les intérêts des employeurs et des employés. Cependant, l'efficacité de ces réformes dépendra en grande partie de leur mise en œuvre et de leur application."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 2,
+       "name": "La nuova legge sul lavoro in Egitto: promuovere equità e stabilità sul lavoro.",
+       "date": "22 aprile 2025",
+       "des": "Riforme chiave in materia di tutele dei lavoratori, sicurezza dei contratti e diritti delle donne.",
+       "img": "../assets/images/news/new2.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Riforme chiave in materia di tutele dei lavoratori, sicurezza dei contratti e diritti delle donne."
+           ]
+         },
+         {
+           "name": "Analisi legale della nuova legge sul lavoro in Egitto: promuovere equità e stabilità nell’ambiente di lavoro",
+           "small": "Di Alaa Khamis – Head of Legal Research, Middle East — LexDesk360",
+           "smallBold": "",
+           "des": [
+             "In un significativo sviluppo legislativo, la Camera dei Rappresentanti egiziana ha approvato una riforma complessiva della legge sul lavoro, con l’obiettivo di modernizzare la normativa in materia di impiego e rafforzare le tutele dei lavoratori. Questa riforma affronta temi critici come il licenziamento arbitrario, i diritti delle donne, la sicurezza contrattuale e il riconoscimento di nuovi modelli di lavoro emergenti."
+           ]
+         },
+         {
+           "name": "1. Eliminazione del licenziamento arbitrario e riforma del “Form 6”",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nuova legge abolisce la pratica del licenziamento arbitrario, in particolare attraverso l’eliminazione del “Form 6”, che in precedenza i datori di lavoro utilizzavano per risolvere unilateralmente il rapporto di lavoro. In base alla normativa modificata, i licenziamenti devono ora essere motivati e sono soggetti a controllo giudiziario, garantendo che i lavoratori non possano essere licenziati senza un giusto procedimento. Questo cambiamento rafforza la sicurezza del posto di lavoro e si allinea agli standard internazionali del lavoro."
+           ]
+         },
+         {
+           "name": "2. Maggiori tutele per le lavoratrici",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La normativa introduce diverse disposizioni a sostegno delle dipendenti:",
+             "• Congedo di maternità esteso: il congedo di maternità retribuito è stato aumentato da tre a quattro mesi, con almeno 45 giorni previsti dopo il parto. Questo congedo è disponibile fino a tre volte durante la durata del rapporto di lavoro di una donna.",
+             "• Pause per l’allattamento: le donne hanno diritto a due pause giornaliere per l’allattamento, ciascuna di durata non inferiore a 30 minuti, nei primi due anni successivi al parto.",
+             "• Riduzione dell’orario di lavoro: alle lavoratrici in gravidanza è riconosciuta una riduzione di almeno un’ora dell’orario lavorativo giornaliero a partire dal sesto mese di gravidanza.",
+             "• Protezione contro il licenziamento: i datori di lavoro non possono risolvere il contratto di una dipendente durante il congedo di maternità."
+           ]
+         },
+         {
+           "name": "3. Conversione dei contratti a termine in contratti a tempo indeterminato",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Per prevenire l’abuso dei contratti a termine, la nuova legge stabilisce che qualsiasi rapporto di lavoro a termine che superi quattro anni si convertirà automaticamente in un contratto a tempo indeterminato (permanente). Questa previsione garantisce maggiore stabilità lavorativa ai dipendenti."
+           ]
+         },
+         {
+           "name": "Aumenti salariali annuali obbligatori",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "I datori di lavoro sono ora tenuti a riconoscere ai dipendenti un aumento salariale annuale non inferiore al 3% della retribuzione utilizzata per calcolare i contributi di assicurazione sociale. Tale misura mira a proteggere il potere d’acquisto dei lavoratori dall’inflazione."
+           ]
+         },
+         {
+           "name": "Riconoscimento del lavoro da remoto e delle piattaforme digitali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Riconoscendo l’evoluzione del mondo del lavoro, la legge riformata riconosce formalmente il lavoro da remoto e l’impiego tramite piattaforme digitali. Questa inclusione fornisce un quadro giuridico per modalità di lavoro non tradizionali, garantendo ai lavoratori di tali settori adeguate tutele e benefici."
+           ]
+         },
+         {
+           "name": "Istituzione di un fondo per i lavoratori irregolari",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La legge impone la creazione di un fondo di sostegno emergenziale dedicato ai lavoratori irregolari, come freelance e lavoratori della gig economy. Il fondo mira a fornire protezione sociale e supporto finanziario durante periodi di disoccupazione o difficoltà economica."
+           ]
+         },
+         {
+           "name": "Ambiente di lavoro libero da molestie e bullismo",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "I datori di lavoro hanno ora l’obbligo legale di garantire un ambiente di lavoro privo di molestie e bullismo. La legge introduce sanzioni più severe per le violazioni, incluse pene detentive e ammende, per scoraggiare tali condotte e promuovere un contesto lavorativo sicuro."
+           ]
+         },
+         {
+           "name": "Conclusione",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nuova legge sul lavoro in Egitto rappresenta un passo progressivo verso la creazione di un ambiente di lavoro più equo e stabile. Affrontando questioni di lunga data e adattandosi alle pratiche lavorative moderne, la normativa mira a bilanciare gli interessi di datori di lavoro e lavoratori. Tuttavia, l’efficacia di queste riforme dipenderà in larga misura dalla loro attuazione e applicazione."
+           ]
+         }
+       ]
      }
 
    },
@@ -735,6 +1038,178 @@
            "smallBold": "",
            "des": [
              "Αν έχετε ερωτήσεις σχετικά με το πώς ο νέος Νόμος Προσωπικού Καθεστώτος μπορεί να σας επηρεάσει ή αν επιθυμείτε να καταχωρήσετε διαθήκη στα ΗΑΕ, η ομάδα της LexDesk360 είναι στη διάθεσή σας. Δεσμευόμαστε να παρέχουμε στοχευμένη, στρατηγική και ευαίσθητη νομική υποστήριξη, προσαρμοσμένη στις ανάγκες σας."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 3,
+       "name": "Entrée en vigueur de la nouvelle loi sur le statut personnel aux Émirats arabes unis – avril 2025",
+       "date": "15 avril 2025",
+       "des": "Principales modifications apportées par le décret-loi fédéral n° 41 de 2024, désormais en vigueur depuis le 15 avril 2025",
+       "img": "../assets/images/news/new3.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Principales modifications apportées par le décret-loi fédéral n° 41 de 2024, désormais en vigueur depuis le 15 avril 2025"
+           ]
+         },
+         {
+           "name": "",
+           "small": "Par : Amal Fatima Parekh – Avocate principale chez LexDesk360 (15 avril 2025)",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les Émirats arabes unis ont récemment modifié des articles importants de l'ancienne loi sur le statut personnel (loi fédérale n° 28 de 2005), la remplaçant par la nouvelle loi sur le statut personnel – le décret-loi fédéral n° 41 de 2024. Entrée en vigueur le 15 avril 2025, cette nouvelle loi introduit des modifications clés concernant des questions personnelles et familiales essentielles telles que le mariage, la garde des enfants, les héritages et la gestion des biens des mineurs, entre autres. Nous en examinons ci-dessous les principaux points forts."
+           ]
+         },
+         {
+           "name": "Pouvoir discrétionnaire des juges et rôle de la charia",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "En vertu de la nouvelle loi sur le statut personnel, les juges conservent la possibilité de rendre des jugements fondés sur la loi islamique (charia) lorsqu’une disposition spécifique fait défaut dans la législation. Toutefois, la loi souligne l’importance de choisir la solution juridique la plus appropriée en fonction des intérêts des parties concernées. En l’absence de disposition ou de solution fondée sur les intérêts, un jugement peut également s’appuyer sur la coutume en vigueur, à condition qu’elle soit conforme à la charia et à l’ordre public."
+           ]
+         },
+         {
+           "name": "Applicabilité aux ressortissants non émiratis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Cette loi ne s'applique pas uniquement aux citoyens des Émirats arabes unis. Elle s'étend également aux ressortissants non émiratis, à moins que l'une des parties ne demande l'application de son droit national ou d'une autre loi convenue, à condition que cette application soit autorisée par la législation en vigueur aux Émirats arabes unis."
+           ]
+         },
+         {
+           "name": "Renvois vers le service d'orientation familiale : qu'est-ce qui a changé ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'obligation de renvoyer les affaires au service d'orientation familiale avant de saisir le tribunal reste en vigueur pour de nombreuses questions, en particulier celles se prêtant à un règlement à l'amiable. Cependant, la nouvelle loi exempte de cette obligation les affaires concernant les testaments, les successions, les questions temporaires ou urgentes, les pensions alimentaires, la garde des enfants et d'autres situations où une réconciliation est peu probable (par exemple, la preuve d'un mariage ou d'un divorce)."
+           ]
+         },
+         {
+           "name": "Renforcement du rôle des enfants dans les décisions relatives à la garde",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'une des modifications les plus notables concerne la garde des enfants. Les enfants âgés de 15 ans et plus sont désormais autorisés à choisir avec quel parent ils souhaitent résider, à condition que ce choix ne soit pas contraire à leur intérêt supérieur. Cela donne aux enfants plus âgés davantage de pouvoir de décision dans les arrangements de garde tout en préservant les garanties relatives à leur bien-être."
+           ]
+         },
+         {
+           "name": "Clarification de l'exécution des testaments",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nouvelle loi définit les modalités d'exécution des testaments. Un testament peut être exécuté à hauteur d'un tiers de la succession du défunt sans le consentement des héritiers. Si le testament dépasse cette limite d'un tiers, il devra être approuvé par les héritiers et ne s'appliquera qu'à proportion de ceux qui y consentent. En l'absence d'héritiers, ou lorsque le seul héritier est le conjoint, des parts supplémentaires peuvent être distribuées. Toutefois, ces dispositions ne s'appliquent qu'aux testaments enregistrés auprès des tribunaux des Émirats arabes unis. Des règles distinctes s'appliquent aux testaments enregistrés auprès d'entités telles que le Registre des testaments et des successions du DIFC."
+           ]
+         },
+         {
+           "name": "Protection des biens des mineurs et de l'intégrité de la succession",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La loi prévoit des sanctions à l'encontre de toute personne qui, intentionnellement ou par négligence, endommage, détourne ou s'empare frauduleusement des biens d'un mineur ou d'une partie de la succession d'un défunt. Il s'agit d'une avancée importante vers le renforcement de la protection des parties vulnérables dans les affaires successorales et familiales."
+           ]
+         },
+         {
+           "name": "Contactez LexDesk360 pour bénéficier de conseils d'experts",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Si vous avez des questions sur la manière dont la nouvelle loi sur le statut personnel pourrait vous concerner ou si vous souhaitez enregistrer un testament aux Émirats arabes unis, notre équipe chez LexDesk360 est là pour vous aider. Nous nous engageons à vous fournir un soutien juridique stratégique et adapté à vos besoins."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 3,
+       "name": "Entra in vigore la nuova legge sullo stato personale negli EAU – aprile 2025",
+       "date": "15 aprile 2025",
+       "des": "Aggiornamenti chiave del Federal Decree Law No. 41 of 2024 ora in vigore dal 15 aprile 2025",
+       "img": "../assets/images/news/new3.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Aggiornamenti chiave del Federal Decree Law No. 41 of 2024 ora in vigore dal 15 aprile 2025"
+           ]
+         },
+         {
+           "name": "",
+           "small": "Di: Amal Fatima Parekh – Senior Counsel presso LexDesk360 (15 aprile 2025)",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli Emirati Arabi Uniti hanno recentemente modificato articoli significativi della precedente legge sullo stato personale (Federal Law No. 28 of 2005), sostituendola con la nuova legge sullo stato personale — Federal Decree Law No. 41 of 2024. In vigore dal 15 aprile 2025, questa nuova legge introduce modifiche fondamentali su questioni personali e familiari cruciali come matrimonio, affidamento dei minori, successioni e gestione dei beni dei minori, tra le altre. Di seguito esaminiamo i punti principali."
+           ]
+         },
+         {
+           "name": "Discrezionalità giudiziaria e ruolo della Sharia",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In base alla nuova legge sullo stato personale, i giudici mantengono la facoltà di emettere decisioni basate sul diritto islamico (Sharia) quando manca una disposizione specifica nella legge. Tuttavia, la normativa sottolinea l’importanza di scegliere la soluzione legale più appropriata in base agli interessi delle parti coinvolte. Se non è disponibile alcuna disposizione o un esito basato sugli interessi, la decisione può basarsi anche sulla consuetudine prevalente, a condizione che sia conforme alla Sharia e all’ordine pubblico."
+           ]
+         },
+         {
+           "name": "Applicabilità ai non cittadini EAU",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Questa legge non si applica solo ai cittadini degli EAU. Si estende anche ai non cittadini, salvo che una delle parti richieda l’applicazione della propria legge nazionale o di un’altra legge concordata, purché tale applicazione sia consentita dalla normativa vigente negli EAU."
+           ]
+         },
+         {
+           "name": "Invio alla Family Guidance: cosa è cambiato?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Rimane in vigore, per molte materie, l’obbligo di inviare i casi al Family Guidance Department prima del deposito in tribunale, soprattutto per questioni suscettibili di componimento amichevole. Tuttavia, la nuova legge esenta da tale passaggio i casi che riguardano testamenti, eredità, misure temporanee o urgenti, mantenimento (alimony), affidamento (custody) e altri scenari in cui la riconciliazione è improbabile (ad esempio, la prova di un matrimonio o di un divorzio)."
+           ]
+         },
+         {
+           "name": "Maggiore autonomia ai figli nelle decisioni sull’affidamento",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Uno degli aggiornamenti più rilevanti riguarda l’affidamento dei figli. I minori di età pari o superiore a 15 anni possono ora scegliere con quale genitore desiderano vivere, a condizione che tale scelta non contrasti con il loro superiore interesse. Questo conferisce ai ragazzi più grandi maggiore autonomia nelle decisioni di affidamento, mantenendo al contempo tutele per il loro benessere."
+           ]
+         },
+         {
+           "name": "Chiarire l’esecuzione dei testamenti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La nuova legge definisce le modalità di esecuzione dei testamenti. Un testamento può essere eseguito fino a un terzo del patrimonio del defunto senza il consenso degli eredi. Se il testamento supera il limite di un terzo, sarà necessaria l’approvazione degli eredi e si applicherà solo in proporzione a coloro che acconsentono. In assenza di eredi, o quando l’unico erede è il coniuge, possono essere distribuite ulteriori quote. Tuttavia, queste disposizioni si applicano solo ai testamenti registrati presso i tribunali degli EAU. Regole separate si applicano ai testamenti registrati presso enti come il DIFC Wills and Probate Registry."
+           ]
+         },
+         {
+           "name": "Tutela dei beni dei minori e integrità dell’asse ereditario",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La legge introduce sanzioni per chi danneggia intenzionalmente o per negligenza, utilizza impropriamente o sottrae fraudolentemente beni di un minore o qualsiasi parte del patrimonio di un defunto. Si tratta di un passo importante per rafforzare la protezione delle parti vulnerabili in materia successoria e familiare."
+           ]
+         },
+         {
+           "name": "Contatta LexDesk360 per consulenza specialistica",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Se hai domande su come la nuova legge sullo stato personale possa influire sulla tua situazione o desideri registrare un testamento negli EAU, il nostro team di LexDesk360 è qui per aiutarti. Siamo impegnati a fornire un supporto legale strategico e sensibile, adattato alle tue esigenze."
            ]
          }
        ]
@@ -1169,7 +1644,292 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 4,
+       "name": "Faire des affaires en Égypte : un guide juridique complet",
+       "date": "20 mars 2025",
+       "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales égyptiennes",
+       "img": "../assets/images/news/new4.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales égyptiennes"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Faire des affaires en Égypte : un guide juridique",
+           "des": [
+             "L'Égypte est l'une des plus grandes économies d'Afrique du Nord et une porte d'entrée stratégique pour les entreprises qui souhaitent s'étendre au Moyen-Orient et en Afrique. Avec un marché en pleine croissance et des réformes favorables aux investisseurs, l'Égypte offre d'excellentes opportunités aux entreprises locales et étrangères. Cependant, il est essentiel de bien maîtriser l'environnement juridique et réglementaire pour garantir la conformité et le succès à long terme. Ce guide fournit un aperçu des principaux aspects juridiques liés à l'activité commerciale en Égypte."
+           ]
+         },
+         {
+           "name": "1. Structures d'entreprise en Égypte",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les entreprises en Égypte peuvent être enregistrées sous différentes formes juridiques, en fonction de leur taille et de leurs activités :"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société à responsabilité limitée (LLC)",
+           "des": [
+             "• La forme d'entreprise la plus courante pour les petites et moyennes entreprises (PME).",
+             "• Nécessite au moins deux actionnaires, avec un maximum de 50.",
+             "• La responsabilité des actionnaires est limitée à leur participation dans la société."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société par actions (JSC)",
+           "des": [
+             "• Convient aux grandes entreprises et aux sociétés cotées en bourse.",
+             "• Nécessite au moins trois actionnaires.",
+             "• Doit disposer d’un conseil d’administration et se conformer aux règles de gouvernance d’entreprise."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Entreprise individuelle",
+           "des": [
+             "• Détenue par une seule personne physique qui assume l’entière responsabilité des dettes et des obligations.",
+             "• Plus facile à créer mais comporte un risque personnel plus élevé."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société de zone franche",
+           "des": [
+             "• Opère au sein d’une des zones franches égyptiennes, bénéficiant d’exonérations fiscales et douanières.",
+             "• Peut être détenue à 100 % par des étrangers, mais doit respecter les réglementations spécifiques fixées par l'Autorité générale pour l'investissement (GAFI)."
+           ]
+         },
+         {
+           "name": "2. Enregistrement et licences des entreprises",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Toutes les entreprises doivent être enregistrées auprès de l'Autorité générale pour l'investissement et les zones franches (GAFI) et obtenir les licences nécessaires.",
+             "✔ Enregistrement commercial : obligatoire pour toutes les entreprises opérant en Égypte.",
+             "✔ Enregistrement fiscal : les entreprises doivent obtenir un numéro d'identification fiscale (TIN) auprès de l'administration fiscale égyptienne.",
+             "✔ Licence industrielle : obligatoire pour les entreprises manufacturières et industrielles.",
+             "✔ Licence professionnelle : nécessaire pour les prestataires de services, tels que les cabinets de conseil et les cabinets d'avocats."
+           ]
+         },
+         {
+           "name": "3. Règles relatives à l'investissement et à la propriété étrangers",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ L'Égypte autorise une participation étrangère à 100 % dans de nombreux secteurs, mais impose des restrictions dans les industries stratégiques telles que le pétrole et le gaz, la banque et les médias.",
+             "✔ Les investisseurs étrangers doivent obtenir l'autorisation de la GAFI avant de créer une entreprise dans les secteurs soumis à des restrictions.",
+             "✔ Les zones franches permettent aux entreprises étrangères d'exercer leurs activités sans être soumises à l'impôt sur les sociétés, mais limitent les ventes sur le marché local."
+           ]
+         },
+         {
+           "name": "4. Fiscalité en Égypte",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Impôt sur les sociétés : le taux standard de l'impôt sur les sociétés en Égypte est de 22,5 %.",
+             "✔ Taxe sur la valeur ajoutée (TVA) : appliquée à 14 % sur la plupart des biens et services.",
+             "✔ Pas d'impôt sur le revenu des personnes physiques pour les investisseurs étrangers : les investisseurs étrangers qui ne résident pas en Égypte sont exonérés de l'impôt sur le revenu des personnes physiques.",
+             "✔ Incitations fiscales : disponibles pour les investissements dans les zones franches et les zones économiques spéciales."
+           ]
+         },
+         {
+           "name": "5. Législation du travail et réglementation du travail",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Régies par la loi égyptienne sur le travail n° 12 de 2003.",
+             "✔ Les employeurs doivent fournir aux employés des contrats écrits et les enregistrer auprès de l'Autorité de la sécurité sociale.",
+             "✔ Le salaire minimum est fixé par le gouvernement, et les employés ont droit à des congés annuels et à des congés maladie.",
+             "✔ Les employés étrangers doivent obtenir un permis de travail auprès du ministère de la Main-d'œuvre."
+           ]
+         },
+         {
+           "name": "6. Protection de la propriété intellectuelle",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marques : enregistrées auprès de l'Office égyptien des marques, relevant du ministère de l'Approvisionnement et du Commerce intérieur.",
+             "✔ Brevets : protégés par la loi égyptienne, leur enregistrement étant géré par l'Académie de la recherche scientifique et de la technologie.",
+             "✔ Droits d'auteur : s'appliquent aux œuvres littéraires, artistiques et numériques, protégées par la loi égyptienne n° 82 de 2002 sur le droit d'auteur."
+           ]
+         },
+         {
+           "name": "7. Règlement des litiges et conformité juridique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Les litiges commerciaux peuvent être réglés devant les tribunaux égyptiens ou par voie d'arbitrage auprès du Centre régional du Caire pour l'arbitrage commercial international (CRCICA).",
+             "✔ Les contrats doivent être rédigés en arabe pour être juridiquement exécutoires devant les tribunaux égyptiens.",
+             "✔ Les entreprises doivent se conformer aux lois sur la lutte contre le blanchiment d'argent (AML) et la protection des données."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'Égypte offre de vastes opportunités aux entreprises et aux investisseurs, mais il est essentiel de bien maîtriser le cadre juridique et réglementaire. Que vous créiez une nouvelle entreprise ou développiez une activité existante, le respect des lois locales garantira le bon déroulement de vos opérations. Si vous avez besoin de conseils, consulter un expert juridique ou un conseiller en affaires peut vous aider à comprendre les lois et réglementations commerciales égyptiennes."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 4,
+       "name": "Fare business in Egitto: una guida legale completa",
+       "date": "20 marzo 2025",
+       "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Egitto",
+       "img": "../assets/images/news/new4.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Egitto"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Fare business in Egitto: guida legale",
+           "des": [
+             "L’Egitto è una delle più grandi economie del Nord Africa e un punto di accesso strategico per le imprese che desiderano espandersi nel Medio Oriente e in Africa. Con un mercato in crescita e riforme favorevoli agli investitori, l’Egitto offre eccellenti opportunità sia per le imprese locali sia per quelle straniere. Tuttavia, orientarsi nel contesto legale e regolamentare è fondamentale per garantire la conformità e il successo nel lungo periodo. Questa guida fornisce una panoramica degli aspetti legali chiave per fare impresa in Egitto."
+           ]
+         },
+         {
+           "name": "1. Strutture societarie in Egitto",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In Egitto le imprese possono essere registrate con diverse forme giuridiche, a seconda delle dimensioni e delle attività:"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società a responsabilità limitata (LLC)",
+           "des": [
+             "• La forma più comune per le piccole e medie imprese (PMI).",
+             "• Richiede almeno due soci, con un massimo di 50.",
+             "• La responsabilità dei soci è limitata alle loro quote nella società."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società per azioni (JSC)",
+           "des": [
+             "• Adatta a grandi imprese e società quotate.",
+             "• Richiede un minimo di tre azionisti.",
+             "• Deve avere un consiglio di amministrazione e rispettare le regole di corporate governance."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Ditta individuale (Sole Proprietorship)",
+           "des": [
+             "• Di proprietà di un singolo individuo che risponde integralmente di debiti e obbligazioni.",
+             "• Più semplice da costituire ma comporta un rischio personale più elevato."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società in zona franca (Free Zone Company)",
+           "des": [
+             "• Opera all’interno di una delle zone franche egiziane, beneficiando di esenzioni fiscali e doganali.",
+             "• Può essere interamente di proprietà straniera, ma deve rispettare specifiche normative stabilite dalla General Authority for Investment (GAFI)."
+           ]
+         },
+         {
+           "name": "2. Registrazione e licenze",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Tutte le imprese devono essere registrate presso la General Authority for Investment and Free Zones (GAFI) e ottenere le licenze necessarie.",
+             "✔ Registrazione commerciale: obbligatoria per tutte le imprese che operano in Egitto.",
+             "✔ Registrazione fiscale: le società devono ottenere un Tax Identification Number (TIN) dall’Egyptian Tax Authority.",
+             "✔ Licenza industriale: necessaria per attività manifatturiere e industriali.",
+             "✔ Licenza professionale: richiesta per fornitori di servizi, come società di consulenza e studi legali."
+           ]
+         },
+         {
+           "name": "3. Norme su investimenti esteri e proprietà",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ L’Egitto consente il 100% di proprietà straniera in molti settori, ma prevede restrizioni in industrie strategiche come oil & gas, bancario e media.",
+             "✔ Gli investitori esteri devono ottenere l’approvazione del GAFI prima di costituire un’impresa nei settori soggetti a restrizioni.",
+             "✔ Le zone franche consentono alle società straniere di operare senza imposte societarie, ma limitano le vendite sul mercato interno."
+           ]
+         },
+         {
+           "name": "4. Fiscalità in Egitto",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Imposta societaria: l’aliquota standard dell’imposta sulle società in Egitto è del 22,5%.",
+             "✔ IVA (VAT): applicata al 14% sulla maggior parte di beni e servizi.",
+             "✔ Nessuna imposta sul reddito personale per investitori esteri: gli investitori esteri che non risiedono in Egitto sono esenti dall’imposta sul reddito personale.",
+             "✔ Incentivi fiscali: disponibili per investimenti in zone franche e zone economiche speciali."
+           ]
+         },
+         {
+           "name": "5. Diritto del lavoro e normativa occupazionale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Regolato dalla Egyptian Labor Law No. 12 of 2003.",
+             "✔ I datori di lavoro devono fornire contratti scritti ai dipendenti e registrarli presso la Social Insurance Authority.",
+             "✔ Il salario minimo è stabilito dal governo e i dipendenti hanno diritto a ferie annuali e permessi per malattia.",
+             "✔ I lavoratori stranieri devono ottenere permessi di lavoro dal Ministry of Manpower."
+           ]
+         },
+         {
+           "name": "6. Protezione della proprietà intellettuale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marchi: registrati presso l’Egyptian Trademarks Office sotto il Ministry of Supply and Internal Trade.",
+             "✔ Brevetti: protetti dalla legge egiziana, con registrazione gestita dall’Academy of Scientific Research and Technology.",
+             "✔ Copyright: si applica a opere letterarie, artistiche e digitali, protette dalla Egypt’s Copyright Law No. 82 of 2002."
+           ]
+         },
+         {
+           "name": "7. Risoluzione delle controversie e compliance legale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le controversie commerciali possono essere risolte attraverso i tribunali egiziani o tramite arbitrato presso il Cairo Regional Centre for International Commercial Arbitration (CRCICA).",
+             "✔ I contratti dovrebbero essere in arabo per essere legalmente esecutivi nei tribunali egiziani.",
+             "✔ Le società devono rispettare le normative antiriciclaggio (AML) e le leggi sulla protezione dei dati."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’Egitto offre grandi opportunità per imprese e investitori, ma è essenziale orientarsi nel quadro legale e regolamentare. Che tu stia costituendo una nuova società o espandendo un’impresa esistente, la conformità alle leggi locali garantirà operazioni fluide. Se hai bisogno di supporto, consultare un esperto legale o un advisor aziendale può aiutarti a comprendere leggi e regolamenti commerciali egiziani."
+           ]
+         }
+       ]
      }
+
 
    },
    {
@@ -1593,6 +2353,290 @@
            "smallBold": "",
            "des": [
              "Η Σαουδική Αραβία προσφέρει σημαντικές επενδυτικές ευκαιρίες, αλλά η γνώση του νομικού πλαισίου είναι κρίσιμη. Είτε ιδρύετε νέα εταιρεία είτε επεκτείνετε την υπάρχουσα, η συμμόρφωση με τους κανονισμούς εξασφαλίζει βιωσιμότητα και επιτυχία. Για ορθή καθοδήγηση, συνιστάται συνεργασία με νομικό ή επιχειρηματικό σύμβουλο με εμπειρία στη σαουδαραβική αγορά."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 5,
+       "name": "Faire des affaires en Arabie saoudite : un guide juridique complet",
+       "date": "20 mars 2025",
+       "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales de l'Arabie saoudite",
+       "img": "../assets/images/news/new5.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales de l'Arabie saoudite"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Faire des affaires en Arabie saoudite : un guide juridique",
+           "des": [
+             "L'Arabie saoudite est l'une des plus grandes économies du Moyen-Orient et une destination clé pour les investisseurs et les entrepreneurs. Avec son initiative Vision 2030, le Royaume a mis en place d'importantes réformes économiques pour attirer les entreprises étrangères. Cependant, faire des affaires en Arabie saoudite nécessite de comprendre son cadre juridique, ses réglementations commerciales et ses exigences en matière de conformité. Ce guide fournit des informations essentielles aux entreprises qui souhaitent pénétrer ou se développer sur le marché saoudien."
+           ]
+         },
+         {
+           "name": "1. Structures d'entreprise en Arabie saoudite",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il existe plusieurs types d'entités juridiques en Arabie saoudite, chacune soumise à sa propre réglementation :"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société à responsabilité limitée (LLC)",
+           "des": [
+             "• La structure d'entreprise la plus courante pour les investisseurs étrangers.",
+             "• Nécessite au moins un actionnaire, sans limite maximale du nombre d'actionnaires.",
+             "• Offre une protection de responsabilité limitée aux propriétaires."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société par actions (JSC)",
+           "des": [
+             "• Convient aux grandes entreprises et aux sociétés cotées en bourse.",
+             "• Nécessite au moins deux actionnaires (cinq si la société est cotée en bourse).",
+             "• Réglementée par l'Autorité des marchés financiers (CMA)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Succursale étrangère",
+           "des": [
+             "• Une succursale d'une société étrangère opérant en Arabie saoudite.",
+             "• Doit être enregistrée auprès du ministère de l'Investissement (MISA).",
+             "• Soumise à la réglementation saoudienne mais autorise un contrôle étranger total."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Agence commerciale",
+           "des": [
+             "• Une société étrangère peut désigner un agent saoudien local pour distribuer ses produits.",
+             "• L'agent doit être un ressortissant saoudien ou une société détenue à 100 % par des Saoudiens."
+           ]
+         },
+         {
+           "name": "2. Licences et enregistrement des entreprises",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Toutes les entreprises doivent être enregistrées auprès du ministère de l'Investissement (MISA) et obtenir les licences requises.",
+             "✔ Licence commerciale : pour les entreprises de commerce et de vente au détail.",
+             "✔ Licence professionnelle : pour les entreprises de services (par exemple, conseil, juridique, informatique).",
+             "✔ Licence industrielle : pour les entreprises de fabrication et de production.",
+             "✔ Licence de sous-traitance : pour la construction et la promotion immobilière."
+           ]
+         },
+         {
+           "name": "3. Règles relatives à la propriété étrangère",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ L'Arabie saoudite autorise une participation étrangère à 100 % dans de nombreux secteurs, mais certaines industries exigent toujours des partenariats locaux.",
+             "✔ Certaines industries, telles que le pétrole et le gaz, l'assurance et la défense, sont soumises à des restrictions en matière de participation étrangère.",
+             "✔ Les investisseurs étrangers doivent obtenir l'autorisation du MISA avant de démarrer leurs activités."
+           ]
+         },
+         {
+           "name": "4. Fiscalité en Arabie saoudite",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Impôt sur les sociétés : un taux de 20 % s'applique aux entreprises non détenues par des Saoudiens, tandis que les entreprises détenues par des Saoudiens sont soumises à la zakat.",
+             "✔ Taxe sur la valeur ajoutée (TVA) : fixée à 15 % sur les biens et services.",
+             "✔ Pas d'impôt sur le revenu des personnes physiques : les particuliers ne paient pas d'impôt sur les salaires ou les revenus personnels."
+           ]
+         },
+         {
+           "name": "5. Législation du travail et saoudisation (programme Nitaqat)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ La législation saoudienne du travail s'applique tant aux employés locaux qu'aux employés étrangers.",
+             "✔ Les employeurs doivent fournir des contrats de travail valides et enregistrer leurs employés auprès de l'Organisation générale de la sécurité sociale (GOSI).",
+             "✔ Le programme Nitaqat impose aux entreprises d'embaucher un pourcentage minimum de ressortissants saoudiens.",
+             "✔ Les visas de travail et les permis de séjour (Iqama) sont obligatoires pour les employés étrangers."
+           ]
+         },
+         {
+           "name": "6. Protection de la propriété intellectuelle",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marques : elles doivent être enregistrées auprès de l'Autorité saoudienne de la propriété intellectuelle (SAIP).",
+             "✔ Brevets : protégés par la législation saoudienne sur les brevets, leur enregistrement auprès de la SAIP est obligatoire.",
+             "✔ Droits d'auteur : s'appliquent aux livres, aux logiciels, à la musique et à d'autres œuvres créatives."
+           ]
+         },
+         {
+           "name": "7. Règlement des litiges et conformité juridique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Les litiges commerciaux peuvent être résolus par les tribunaux saoudiens ou les centres d'arbitrage.",
+             "✔ Les contrats doivent être rédigés en arabe et être juridiquement exécutoires.",
+             "✔ Les entreprises doivent se conformer aux lois sur la lutte contre le blanchiment d'argent (AML) et la protection des données."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'Arabie saoudite offre de nombreuses opportunités aux investisseurs et aux entrepreneurs, mais il est essentiel de bien comprendre le cadre juridique. Que vous créiez une nouvelle entreprise ou que vous vous développiez sur le marché saoudien, le respect des réglementations locales vous aidera à assurer votre succès à long terme. Si vous avez besoin de conseils, il est fortement recommandé de consulter un expert juridique ou un conseiller en affaires."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 5,
+       "name": "Fare business in Arabia Saudita: una guida legale completa",
+       "date": "20 marzo 2025",
+       "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Arabia Saudita",
+       "img": "../assets/images/news/new5.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Arabia Saudita"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Fare business in Arabia Saudita: guida legale",
+           "des": [
+             "L’Arabia Saudita è una delle più grandi economie del Medio Oriente e una destinazione chiave per investitori e imprenditori. Con l’iniziativa Vision 2030, il Regno ha introdotto importanti riforme economiche per attrarre imprese straniere. Tuttavia, fare business in Arabia Saudita richiede la comprensione del suo quadro giuridico, delle regole d’impresa e dei requisiti di compliance. Questa guida fornisce informazioni essenziali per le aziende che desiderano entrare o espandersi nel mercato saudita."
+           ]
+         },
+         {
+           "name": "1. Strutture societarie in Arabia Saudita",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Esistono diverse tipologie di entità giuridiche in Arabia Saudita, ciascuna con proprie regole:"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società a responsabilità limitata (LLC)",
+           "des": [
+             "• La struttura più comune per investitori stranieri.",
+             "• Richiede almeno un socio, senza limite massimo di soci.",
+             "• Offre protezione di responsabilità limitata ai proprietari."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società per azioni (JSC)",
+           "des": [
+             "• Adatta a imprese più grandi e società quotate.",
+             "• Richiede un minimo di due azionisti (cinque se quotata).",
+             "• Regolata dalla Capital Market Authority (CMA)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Filiale estera (Foreign Branch Office)",
+           "des": [
+             "• Filiale di una società straniera operante in Arabia Saudita.",
+             "• Deve essere registrata presso il Ministry of Investment (MISA).",
+             "• Soggetta alla normativa saudita, ma consente pieno controllo straniero."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Agenzia commerciale (Commercial Agency)",
+           "des": [
+             "• Una società straniera può nominare un agente saudita locale per distribuire i propri prodotti.",
+             "• L’agente deve essere un cittadino saudita o una società interamente saudita."
+           ]
+         },
+         {
+           "name": "2. Licenze e registrazione",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Tutte le imprese devono essere registrate presso il Ministry of Investment (MISA) e ottenere le licenze richieste.",
+             "✔ Licenza commerciale: per attività di trading e retail.",
+             "✔ Licenza professionale: per attività di servizi (es. consulenza, legale, IT).",
+             "✔ Licenza industriale: per produzione e manifattura.",
+             "✔ Licenza di contracting: per costruzioni e sviluppo immobiliare."
+           ]
+         },
+         {
+           "name": "3. Regole sulla proprietà straniera",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ L’Arabia Saudita consente il 100% di proprietà straniera in molti settori, ma alcune industrie richiedono ancora partnership locali.",
+             "✔ Alcuni settori, come oil & gas, assicurazioni e difesa, prevedono restrizioni alla proprietà straniera.",
+             "✔ Gli investitori esteri devono ottenere l’approvazione del MISA prima di avviare le operazioni."
+           ]
+         },
+         {
+           "name": "4. Fiscalità in Arabia Saudita",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Imposta societaria: aliquota del 20% per imprese non saudite; le imprese saudite sono soggette a Zakat.",
+             "✔ IVA (VAT): fissata al 15% su beni e servizi.",
+             "✔ Nessuna imposta sul reddito personale: gli individui non pagano imposte su stipendi o redditi personali."
+           ]
+         },
+         {
+           "name": "5. Diritto del lavoro e Saudization (Programma Nitaqat)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le leggi sul lavoro saudite si applicano sia a dipendenti locali sia stranieri.",
+             "✔ I datori di lavoro devono fornire contratti validi e registrare i dipendenti presso la General Organization for Social Insurance (GOSI).",
+             "✔ Il programma Nitaqat richiede alle imprese di assumere una percentuale minima di cittadini sauditi.",
+             "✔ Per i lavoratori stranieri sono necessari visti di lavoro e permessi di residenza (Iqama)."
+           ]
+         },
+         {
+           "name": "6. Protezione della proprietà intellettuale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marchi: devono essere registrati presso la Saudi Authority for Intellectual Property (SAIP).",
+             "✔ Brevetti: protetti dalle leggi saudite sui brevetti, con registrazione tramite SAIP.",
+             "✔ Copyright: si applica a libri, software, musica e altre opere creative."
+           ]
+         },
+         {
+           "name": "7. Risoluzione delle controversie e compliance legale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le controversie commerciali possono essere risolte tramite tribunali sauditi o centri arbitrali.",
+             "✔ I contratti dovrebbero essere redatti in arabo ed essere legalmente esecutivi.",
+             "✔ Le imprese devono rispettare le normative antiriciclaggio (AML) e le leggi sulla protezione dei dati."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’Arabia Saudita offre numerose opportunità per investitori e imprenditori, ma è fondamentale comprendere il quadro legale. Che tu stia avviando una nuova attività o espandendoti nel mercato saudita, la conformità alle normative locali aiuterà a garantire il successo nel lungo periodo. Se hai bisogno di supporto, è fortemente consigliato consultare un esperto legale o un advisor aziendale."
            ]
          }
        ]
@@ -2029,7 +3073,296 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 6,
+       "name": "Faire des affaires au Maroc : un guide juridique complet",
+       "date": "20 mars 2025",
+       "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales marocaines",
+       "img": "../assets/images/news/new6.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales marocaines"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Faire des affaires au Maroc : un guide juridique",
+           "des": [
+             "Le Maroc est un pôle d'affaires en pleine expansion en Afrique du Nord, qui attire les investisseurs locaux et internationaux grâce à sa situation stratégique, à ses accords de libre-échange et à ses réformes économiques favorables aux investisseurs. Le pays offre des opportunités dans divers secteurs, notamment l'agriculture, le tourisme, l'industrie manufacturière et les énergies renouvelables. Cependant, il est essentiel de bien comprendre le cadre juridique marocain pour réussir à créer et à exploiter une entreprise. Ce guide couvre les principaux aspects juridiques liés à l'activité commerciale au Maroc."
+           ]
+         },
+         {
+           "name": "1. Structures d'entreprise au Maroc",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il existe différents types d'entités juridiques au Maroc, en fonction de la taille et des objectifs de votre entreprise :"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société à responsabilité limitée (SARL)",
+           "des": [
+             "• La structure d'entreprise la plus courante pour les petites et moyennes entreprises (PME).",
+             "• Nécessite au moins un associé et n’impose aucun capital minimum.",
+             "• La responsabilité des associés est limitée à leur apport."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société anonyme (SA)",
+           "des": [
+             "• Convient aux grandes entreprises et aux sociétés cotées en bourse.",
+             "• Nécessite un capital social minimum de 300 000 MAD (environ 30 000 USD).",
+             "• Doit disposer d’un conseil d’administration et respecter les règles de gouvernance d’entreprise."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Entreprise individuelle (Auto-Entrepreneur)",
+           "des": [
+             "• Destinée aux entrepreneurs individuels et aux travailleurs indépendants.",
+             "• Système fiscal et procédure d’enregistrement simplifiés.",
+             "• Pas de séparation juridique entre le propriétaire et l’entreprise."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société en zone franche",
+           "des": [
+             "• Les entreprises opérant dans les zones franches marocaines bénéficient d’avantages fiscaux et d’une réglementation simplifiée.",
+             "• La détention à 100 % par des capitaux étrangers est autorisée.",
+             "• Idéale pour les entreprises orientées vers l’exportation."
+           ]
+         },
+         {
+           "name": "2. Enregistrement et licences des entreprises",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les entreprises au Maroc doivent être enregistrées auprès du Centre régional d'investissement (CRI) et obtenir les licences nécessaires.",
+             "✔ Enregistrement commercial : obligatoire auprès du Registre du commerce.",
+             "✔ Enregistrement fiscal : les entreprises doivent obtenir un numéro d'identification fiscale (ICE) auprès de l'administration fiscale marocaine.",
+             "✔ Licences sectorielles : Obligatoires pour des secteurs tels que le tourisme, l'industrie pharmaceutique et la finance."
+           ]
+         },
+         {
+           "name": "3. Règles relatives à l'investissement et à la propriété étrangers",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le Maroc autorise une participation étrangère à 100 % dans la plupart des secteurs, à l'exception des secteurs stratégiques comme l'exploitation minière et les médias.",
+             "✔ Les investisseurs étrangers doivent enregistrer leur capital auprès de l'Office des Changes pour rapatrier leurs bénéfices.",
+             "✔ Les entreprises des zones franches bénéficient d'incitations supplémentaires, telles que des exonérations d'impôt sur les sociétés pendant les cinq premières années."
+           ]
+         },
+         {
+           "name": "4. Fiscalité au Maroc",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Impôt sur les sociétés (IS) : le taux standard est de 20 %, avec des taux progressifs pouvant atteindre 31 % pour les grandes entreprises.",
+             "✔ Taxe sur la valeur ajoutée (TVA) : le taux standard de TVA est de 20 % sur la plupart des biens et services.",
+             "✔ Impôt sur le revenu des personnes physiques (IR) : s'applique aux salariés et aux entrepreneurs individuels, avec des taux allant de 0 % à 38 %.",
+             "Des incitations fiscales sont disponibles pour les entreprises des secteurs prioritaires, tels que les énergies renouvelables et les zones industrielles."
+           ]
+         },
+         {
+           "name": "5. Législation du travail et réglementation du travail",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Régies par le Code du travail marocain.",
+             "✔ Les employeurs doivent fournir des contrats de travail écrits et se conformer à la réglementation en matière de droits du travail.",
+             "✔ Le salaire minimum au Maroc est fixé par le gouvernement et révisé périodiquement.",
+             "✔ Les employeurs doivent affilier leurs salariés à la Caisse nationale de sécurité sociale (CNSS) pour bénéficier de prestations telles que les retraites et les soins de santé.",
+             "✔ Un permis de travail est requis pour les salariés étrangers travaillant au Maroc."
+           ]
+         },
+         {
+           "name": "6. Protection de la propriété intellectuelle",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marques : enregistrées auprès de l'Office marocain de la propriété industrielle et commerciale (OMPIC).",
+             "✔ Brevets : protégés par la législation marocaine, leur enregistrement auprès de l'OMPIC est obligatoire.",
+             "✔ Droits d'auteur : s'appliquent aux livres, à la musique, aux films et aux contenus numériques, et sont régis par la législation marocaine en matière de propriété intellectuelle."
+           ]
+         },
+         {
+           "name": "7. Règlement des litiges et conformité juridique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Les litiges commerciaux peuvent être résolus devant les tribunaux marocains ou par voie d'arbitrage auprès du Centre de médiation et d'arbitrage (CMAM).",
+             "✔ Les contrats doivent être rédigés en français ou en arabe pour être juridiquement exécutoires.",
+             "✔ Les entreprises doivent se conformer aux lois sur la lutte contre le blanchiment d'argent (AML) et la protection des données."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le Maroc offre un environnement commercial prometteur, avec de solides incitations à l'investissement et une économie en pleine expansion. Cependant, il est essentiel de bien maîtriser le paysage juridique pour réussir. Que vous créiez une nouvelle entreprise ou que vous développiez vos activités, la compréhension des réglementations locales et le respect des lois commerciales marocaines vous aideront à fonctionner sans heurts. Si nécessaire, consulter un expert juridique ou un conseiller en affaires peut vous apporter des conseils précieux."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 6,
+       "name": "Fare business in Marocco: una guida legale completa",
+       "date": "20 marzo 2025",
+       "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Marocco",
+       "img": "../assets/images/news/new6.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Marocco"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Fare business in Marocco: guida legale",
+           "des": [
+             "Il Marocco è un hub d’affari in crescita nel Nord Africa, che attrae investitori locali e internazionali grazie alla sua posizione strategica, agli accordi di libero scambio e alle riforme economiche favorevoli agli investitori. Il Paese offre opportunità in vari settori, tra cui agricoltura, turismo, manifattura ed energie rinnovabili. Tuttavia, comprendere il quadro giuridico marocchino è essenziale per costituire e gestire con successo un’impresa. Questa guida copre gli aspetti legali chiave per fare impresa in Marocco."
+           ]
+         },
+         {
+           "name": "1. Strutture societarie in Marocco",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In Marocco esistono diverse forme giuridiche, a seconda delle dimensioni e degli obiettivi dell’impresa:"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società a responsabilità limitata (SARL)",
+           "des": [
+             "• La struttura più comune per le piccole e medie imprese (PMI).",
+             "• Richiede almeno un socio e non prevede un capitale minimo obbligatorio.",
+             "• La responsabilità dei soci è limitata al loro conferimento."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società per azioni (SA)",
+           "des": [
+             "• Adatta a grandi imprese e società quotate.",
+             "• Richiede un capitale sociale minimo di MAD 300.000 (circa USD 30.000).",
+             "• Deve avere un consiglio di amministrazione e seguire regole di corporate governance."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Ditta individuale (Auto-Entrepreneur)",
+           "des": [
+             "• Pensata per imprenditori individuali e freelance.",
+             "• Sistema fiscale semplificato e processo di registrazione semplificato.",
+             "• Nessuna separazione legale tra proprietario e impresa."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società in zona franca (Free Zone Company)",
+           "des": [
+             "• Le imprese che operano nelle Zone Franche marocchine beneficiano di vantaggi fiscali e regole semplificate.",
+             "• È consentita la proprietà straniera al 100%.",
+             "• Ideale per attività orientate all’export."
+           ]
+         },
+         {
+           "name": "2. Registrazione e licenze",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le imprese in Marocco devono registrarsi presso il Regional Investment Center (CRI) e ottenere le licenze necessarie.",
+             "✔ Registrazione commerciale: richiesta presso il Trade Register (Registre du Commerce).",
+             "✔ Registrazione fiscale: le imprese devono ottenere un Tax Identification Number (ICE) dalla Moroccan Tax Authority.",
+             "✔ Licenze settoriali specifiche: richieste per settori come turismo, farmaceutico e finanza."
+           ]
+         },
+         {
+           "name": "3. Norme su investimenti esteri e proprietà",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Il Marocco consente il 100% di proprietà straniera nella maggior parte dei settori, eccetto alcuni settori strategici come miniere e media.",
+             "✔ Gli investitori esteri devono registrare il capitale presso il Foreign Exchange Office (Office des Changes) per poter rimpatriare i profitti.",
+             "✔ Le società in zona franca beneficiano di ulteriori incentivi, come l’esenzione dall’imposta societaria per i primi cinque anni."
+           ]
+         },
+         {
+           "name": "4. Fiscalità in Marocco",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Imposta sulle società (IS): aliquota standard del 20%, con aliquote progressive fino al 31% per le grandi imprese.",
+             "✔ IVA (VAT): aliquota standard del 20% sulla maggior parte di beni e servizi.",
+             "✔ Imposta sul reddito personale (IR): applicata a dipendenti e ditte individuali, con aliquote da 0% a 38%.",
+             "Sono disponibili incentivi fiscali per imprese in settori prioritari, come energie rinnovabili e zone industriali."
+           ]
+         },
+         {
+           "name": "5. Diritto del lavoro e normativa occupazionale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Regolato dal Moroccan Labor Code (Code du Travail).",
+             "✔ I datori di lavoro devono fornire contratti scritti e rispettare la normativa sui diritti dei lavoratori.",
+             "✔ Il salario minimo in Marocco è stabilito dal governo e aggiornato periodicamente.",
+             "✔ I datori di lavoro devono registrare i dipendenti presso il National Social Security Fund (CNSS) per prestazioni come pensioni e assistenza sanitaria.",
+             "✔ Sono necessari permessi di lavoro per i dipendenti stranieri che lavorano in Marocco."
+           ]
+         },
+         {
+           "name": "6. Protezione della proprietà intellettuale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marchi: registrati presso il Moroccan Office of Industrial and Commercial Property (OMPIC).",
+             "✔ Brevetti: protetti dalla legge marocchina, con registrazione tramite OMPIC.",
+             "✔ Copyright: si applica a libri, musica, film e contenuti digitali, regolato dalle leggi marocchine sulla proprietà intellettuale."
+           ]
+         },
+         {
+           "name": "7. Risoluzione delle controversie e compliance legale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le controversie commerciali possono essere risolte tramite tribunali marocchini o arbitrato presso il Mediation and Arbitration Center (CMAM).",
+             "✔ I contratti dovrebbero essere redatti in francese o arabo per la validità legale.",
+             "✔ Le società devono rispettare le normative antiriciclaggio (AML) e le leggi sulla protezione dei dati."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il Marocco offre un contesto imprenditoriale promettente con forti incentivi agli investimenti e un’economia in espansione. Tuttavia, orientarsi nel panorama legale è essenziale per il successo. Che tu stia costituendo una nuova società o espandendo le operazioni, comprendere la normativa locale e garantire la conformità alle leggi commerciali marocchine ti aiuterà a operare in modo fluido. Se necessario, consultare un esperto legale o un advisor aziendale può offrire un supporto prezioso."
+           ]
+         }
+       ]
      }
+
    },
    {
      "eng": {
@@ -2429,7 +3762,274 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 7,
+       "name": "Faire des affaires aux Émirats arabes unis : un guide juridique complet",
+       "date": "20 mars 2025",
+       "des": "Découvrez les exigences juridiques essentielles pour créer et exploiter une entreprise aux Émirats arabes unis.",
+       "img": "../assets/images/news/new7.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Votre guide indispensable pour s'y retrouver dans les lois et réglementations commerciales des Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Faire des affaires aux Émirats arabes unis : un guide juridique",
+           "des": [
+             "Les Émirats arabes unis constituent une plaque tournante mondiale du commerce, attirant des entrepreneurs et des investisseurs du monde entier. Grâce à sa situation stratégique, à ses politiques fiscales avantageuses et à son environnement favorable aux entreprises, le pays offre de nombreuses opportunités. Cependant, la création et la gestion d'une entreprise aux Émirats arabes unis nécessitent une bonne compréhension du cadre juridique. Ce guide couvre les principaux aspects juridiques que vous devez connaître avant de créer une entreprise aux Émirats arabes unis."
+           ]
+         },
+         {
+           "name": "1. Structures d'entreprise aux Émirats arabes unis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les Émirats arabes unis proposent plusieurs types de structures d'entreprise, chacune avec ses propres exigences juridiques :"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société continentale",
+           "des": [
+             "• Enregistrée auprès du Département du développement économique (DED) de l'émirat concerné.",
+             "• Peut exercer ses activités partout aux Émirats arabes unis et à l'international.",
+             "• Aucun sponsor local n'est requis pour la plupart des secteurs (une participation étrangère à 100 % est autorisée dans de nombreux domaines)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société en zone franche",
+           "des": [
+             "• Opère au sein d'une zone franche désignée (par exemple, DIFC, JAFZA, ADGM).",
+             "• Participation étrangère à 100 % autorisée.",
+             "• Limitée à l'exercice de ses activités au sein de la zone franche et en dehors des Émirats arabes unis (à moins qu'un distributeur ne soit désigné)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Société offshore",
+           "des": [
+             "• Enregistrée dans une zone franche mais ne pouvant exercer d'activité aux Émirats arabes unis.",
+             "• Principalement utilisée pour le commerce international et la protection des actifs."
+           ]
+         },
+         {
+           "name": "2. Licences et enregistrement des entreprises",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Toute entreprise aux Émirats arabes unis doit obtenir la licence appropriée en fonction de son activité :",
+             "✔ Licence commerciale : pour les entreprises de commerce.",
+             "✔ Licence professionnelle : pour les prestataires de services (par exemple, consultants, travailleurs indépendants).",
+             "✔ Licence industrielle : pour les activités manufacturières et industrielles.",
+             "✔ Licence touristique : pour les agences de voyage, les hôtels et les entreprises touristiques.",
+             "La délivrance des licences est gérée par le Département du développement économique (DED) pour les entreprises du continent ou par l'autorité compétente de la zone franche pour les sociétés de zone franche."
+           ]
+         },
+         {
+           "name": "3. Propriété étrangère et parrainage local",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ De nombreux secteurs autorisent désormais une propriété étrangère à 100 % en vertu des lois commerciales mises à jour des Émirats arabes unis.",
+             "✔ Certains secteurs, tels que le pétrole et le gaz, les télécommunications et le secteur bancaire, exigent toujours des partenariats locaux.",
+             "✔ Les entreprises des zones franches offrent toujours une propriété étrangère à 100 %."
+           ]
+         },
+         {
+           "name": "4. Fiscalité aux Émirats arabes unis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Impôt sur les sociétés : introduit en juin 2023 à un taux standard de 9 % pour les bénéfices supérieurs à 375 000 AED.",
+             "✔ Taxe sur la valeur ajoutée (TVA) : une TVA de 5 % s'applique à la plupart des biens et services.",
+             "✔ Pas d'impôt sur le revenu des personnes physiques : les particuliers ne paient pas d'impôt sur les salaires ou les revenus personnels."
+           ]
+         },
+         {
+           "name": "5. Législation et réglementation en matière d'emploi",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ L'emploi aux Émirats arabes unis est régi par le décret-loi fédéral n° 33 de 2021 (loi sur le travail des Émirats arabes unis).",
+             "✔ Les employés doivent disposer d'un contrat de travail valide et être enregistrés auprès du ministère des Ressources humaines et de l'Émiratisation (MOHRE).",
+             "✔ Les employeurs doivent fournir une assurance maladie (obligatoire à Dubaï et à Abou Dhabi).",
+             "✔ Les indemnités de fin de service (gratification) s'appliquent après un an de service."
+           ]
+         },
+         {
+           "name": "6. Protection de la propriété intellectuelle",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marques : enregistrées auprès du ministère de l'Économie des Émirats arabes unis.",
+             "✔ Brevets : protégés par la législation des Émirats arabes unis en matière de brevets, avec enregistrement obligatoire auprès du ministère de l'Économie.",
+             "✔ Droits d'auteur : s'appliquent aux œuvres créatives telles que les livres, les logiciels et les films."
+           ]
+         },
+         {
+           "name": "7. Règlement des litiges et conformité juridique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Les litiges commerciaux peuvent être réglés par les tribunaux des Émirats arabes unis ou par des centres d'arbitrage tels que le DIFC ou l'ADGM.",
+             "✔ Les contrats doivent être clairs et juridiquement contraignants afin d'éviter tout litige.",
+             "✔ Les entreprises doivent se conformer aux lois sur la lutte contre le blanchiment d'argent (AML) et la protection des données."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Créer et gérer une entreprise aux Émirats arabes unis est simple, mais il est essentiel de bien comprendre les exigences légales pour réussir. Que vous lanciez une petite entreprise ou développiez une multinationale, le respect des lois commerciales des Émirats arabes unis vous aidera à garantir la conformité et à éviter les problèmes juridiques. En cas de doute, il peut être utile de consulter un expert juridique ou un conseiller en affaires."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 7,
+       "name": "Fare business negli Emirati Arabi Uniti (UAE): una guida legale completa",
+       "date": "20 marzo 2025",
+       "des": "La tua guida essenziale per orientarti tra le leggi e i regolamenti commerciali degli UAE",
+       "img": "../assets/images/news/new7.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La tua guida essenziale per orientarti tra le leggi e i regolamenti commerciali degli UAE"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Fare business negli UAE: guida legale",
+           "des": [
+             "Gli Emirati Arabi Uniti (UAE) sono un hub globale per gli affari, che attrae imprenditori e investitori da tutto il mondo. Grazie alla posizione strategica, a politiche fiscali favorevoli e a un contesto pro-business, il Paese offre molte opportunità. Tuttavia, avviare e gestire un’attività negli UAE richiede la comprensione del quadro legale. Questa guida copre gli aspetti legali principali che devi conoscere prima di avviare un’impresa negli UAE."
+           ]
+         },
+         {
+           "name": "1. Strutture societarie negli UAE",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli UAE offrono diversi tipi di strutture societarie, ciascuna con requisiti legali specifici:"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società “Mainland”",
+           "des": [
+             "• Registrata presso il Department of Economic Development (DED) dell’emirato competente.",
+             "• Può operare ovunque negli UAE e a livello internazionale.",
+             "• Per la maggior parte dei settori non è richiesto uno sponsor locale (in molte aree è consentita la proprietà straniera al 100%)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società in Free Zone",
+           "des": [
+             "• Opera all’interno di una zona franca designata (es. DIFC, JAFZA, ADGM).",
+             "• È consentita la proprietà straniera al 100%.",
+             "• Limitata a operare all’interno della free zone e fuori dagli UAE (a meno che non venga nominato un distributore)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "✔ Società Offshore",
+           "des": [
+             "• Registrata in una free zone ma non può svolgere attività commerciale all’interno degli UAE.",
+             "• Usata principalmente per business internazionale e protezione patrimoniale."
+           ]
+         },
+         {
+           "name": "2. Licenze e registrazione dell’attività",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ogni impresa negli UAE deve ottenere la licenza corretta in base all’attività svolta:",
+             "✔ Licenza commerciale (Commercial License): per attività di trading.",
+             "✔ Licenza professionale (Professional License): per fornitori di servizi (es. consulenti, freelance).",
+             "✔ Licenza industriale (Industrial License): per attività manifatturiere e industriali.",
+             "✔ Licenza turistica (Tourism License): per agenzie di viaggio, hotel e attività turistiche.",
+             "Le licenze sono gestite dal Department of Economic Development (DED) per le imprese mainland oppure dall’autorità della free zone competente per le società in free zone."
+           ]
+         },
+         {
+           "name": "3. Proprietà straniera e sponsorship locale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Molti settori ora consentono la proprietà straniera al 100% in base alle leggi commerciali aggiornate degli UAE.",
+             "✔ Alcuni settori, come oil & gas, telecomunicazioni e bancario, richiedono ancora partnership locali.",
+             "✔ Le società in free zone offrono sempre piena proprietà straniera."
+           ]
+         },
+         {
+           "name": "4. Fiscalità negli UAE",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Imposta sulle società (Corporate Tax): introdotta a giugno 2023 con aliquota standard del 9% per utili superiori a AED 375.000.",
+             "✔ IVA (VAT): si applica un’IVA del 5% sulla maggior parte di beni e servizi.",
+             "✔ Nessuna imposta sul reddito personale: le persone fisiche non pagano imposte su stipendi o redditi personali."
+           ]
+         },
+         {
+           "name": "5. Normativa del lavoro e regolamenti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Il lavoro negli UAE è regolato dal Federal Decree-Law No. 33 of 2021 (UAE Labor Law).",
+             "✔ I dipendenti devono avere contratti di lavoro validi ed essere registrati presso il Ministry of Human Resources and Emiratisation (MOHRE).",
+             "✔ I datori di lavoro devono fornire assicurazione sanitaria (obbligatoria a Dubai e Abu Dhabi).",
+             "✔ I benefici di fine servizio (gratuity) si applicano dopo un anno di servizio."
+           ]
+         },
+         {
+           "name": "6. Protezione della proprietà intellettuale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Marchi: registrati presso il UAE Ministry of Economy.",
+             "✔ Brevetti: protetti dalle leggi brevettuali degli UAE, con registrazione richiesta tramite il Ministry of Economy.",
+             "✔ Copyright: si applica a opere creative come libri, software e film."
+           ]
+         },
+         {
+           "name": "7. Risoluzione delle controversie e compliance legale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Le controversie commerciali possono essere risolte tramite i tribunali degli UAE o centri arbitrali come DIFC o ADGM.",
+             "✔ I contratti dovrebbero essere chiari e legalmente vincolanti per evitare dispute.",
+             "✔ Le imprese devono rispettare le normative antiriciclaggio (AML) e le leggi sulla protezione dei dati."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Avviare e gestire un’impresa negli UAE è relativamente semplice, ma comprendere i requisiti legali è fondamentale per il successo. Che tu stia avviando una piccola società o espandendo una multinazionale, rispettare le leggi commerciali degli UAE aiuterà a garantire la conformità ed evitare problemi legali. In caso di dubbi, consultare un esperto legale o un business advisor può essere utile."
+           ]
+         }
+       ]
      }
+
    },
    {
      "eng": {
@@ -2744,7 +4344,212 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 8,
+       "name": "Lutter contre la fraude aux Émirats arabes unis : comment se protéger contre les escroqueries dans le domaine de la décoration d'intérieur",
+       "date": "20 mars 2025",
+       "des": "Apprenez à identifier et à combattre les entreprises frauduleuses de décoration d'intérieur aux Émirats arabes unis.",
+       "img": "../assets/images/news/new8.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Comment repérer les escroqueries, engager des poursuites judiciaires et récupérer son argent aux Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "La fraude aux Émirats arabes unis : quand les entreprises de décoration d'intérieur empochent votre argent et disparaissent",
+           "des": [
+             "Le secteur de la décoration d'intérieur et de la rénovation est en plein essor aux Émirats arabes unis, où de nombreuses entreprises proposent leurs services pour transformer les maisons et les bureaux. Cependant, toutes les entreprises n'opèrent pas de manière éthique. Certaines entreprises de décoration d'intérieur frauduleuses encaissent des acomptes puis disparaissent sans terminer les travaux, laissant les clients frustrés et ruinés financièrement.",
+             "Si vous avez été victime d'une telle arnaque, ne perdez pas espoir. Il existe des démarches juridiques que vous pouvez entreprendre pour récupérer votre argent et demander des comptes à ces entreprises."
+           ]
+         },
+         {
+           "name": "Comment fonctionnent les arnaques à la décoration d'intérieur",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ces entreprises frauduleuses utilisent souvent les tactiques suivantes :",
+             "✔ Proposer des prix étrangement bas pour attirer les clients.",
+             "✔ Présenter de faux portfolios et de faux avis clients pour paraître légitimes.",
+             "✔ Exiger d’importants acomptes avant de commencer les travaux.",
+             "✔ Trouver des excuses ou retarder les travaux indéfiniment.",
+             "✔ Disparaître complètement, laissant les clients sans recours."
+           ]
+         },
+         {
+           "name": "Quelles mesures juridiques pouvez-vous prendre ?",
+           "small": "",
+           "smallBold": "1. Rassemblez toutes les preuves",
+           "des": [
+             "Avant d’engager une action en justice, rassemblez tous les documents liés à la transaction. Cela comprend les contrats signés, les reçus de paiement, les factures, les e-mails, les messages WhatsApp et toutes les photos de l’avancement des travaux."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "2. Envoyez une mise en demeure",
+           "des": [
+             "Si l'entreprise est toujours en activité mais retarde les travaux, envisagez d'envoyer une mise en demeure par l'intermédiaire d'un avocat. Ce document officiel exige l'achèvement des travaux ou un remboursement dans un délai déterminé."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "3. Déposez une plainte auprès du Département du développement économique",
+           "des": [
+             "Si l'entreprise est agréée, vous pouvez déposer une plainte auprès du Département du développement économique (DED) de votre émirat. Celui-ci pourra mener une enquête sur l'entreprise et prendre des mesures.",
+             "✔ Rendez-vous sur le site web du DED ou à son bureau dans votre émirat.",
+             "✔ Soumettez un formulaire de plainte de consommateur accompagné des pièces justificatives.",
+             "✔ Attendez l'enquête et la réponse du département."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "4. Déposez une plainte auprès de la police",
+           "des": [
+             "Si l'entreprise a disparu ou refuse de répondre, vous pouvez la dénoncer à la police pour fraude. Rendez-vous au poste de police le plus proche muni de tous les documents pertinents ou déposez une plainte en ligne."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "5. Engager une action civile (procédure judiciaire en vue d'obtenir une indemnisation)",
+           "des": [
+             "Si le montant en jeu est important, vous pouvez engager une action en justice devant un tribunal civil pour réclamer une indemnisation. Un avocat basé aux Émirats arabes unis peut vous aider à intenter une action en justice et, en cas de succès, le tribunal peut ordonner à l'entreprise de vous rembourser ou de vous indemniser pour les dommages subis."
+           ]
+         },
+         {
+           "name": "Comment vous protéger contre les escroqueries en matière de décoration d'intérieur",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Pour éviter d'être victime d'une telle fraude, suivez ces précautions :",
+             "✔ Vérifiez la licence commerciale de l'entreprise sur le site web du DED.",
+             "✔ Lisez les avis en ligne et vérifiez s'il y a des plaintes avant d'engager l'entreprise.",
+             "✔ Ne payez jamais de grosses sommes d'avance ; optez plutôt pour des paiements échelonnés.",
+             "✔ Signez un contrat détaillé précisant les délais et les conditions de paiement.",
+             "✔ Choisissez des entreprises de décoration d'intérieur réputées et bien établies."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Être victime d'une arnaque à la décoration d'intérieur peut être stressant, mais vous disposez de solutions. En suivant les démarches juridiques décrites ci-dessus, vous pouvez agir pour récupérer votre argent et empêcher d'autres personnes de se retrouver dans la même situation. Si vous avez besoin d'une aide juridique professionnelle, consultez LexDesk360, experts en affaires de fraude aux Émirats arabes unis et en protection des droits des consommateurs."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 8,
+       "name": "Combattere le frodi negli UAE: come proteggersi dalle truffe delle società di interior design",
+       "date": "20 marzo 2025",
+       "des": "Come identificare le truffe, intraprendere azioni legali e recuperare i tuoi soldi negli UAE",
+       "img": "../assets/images/news/new8.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Come identificare le truffe, intraprendere azioni legali e recuperare i tuoi soldi negli UAE"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Frodi negli UAE: quando le aziende di arredamento interno prendono i tuoi soldi e scompaiono",
+           "des": [
+             "Il settore dell’interior design e delle ristrutturazioni negli UAE è in piena espansione, con molte aziende che offrono servizi per trasformare case e uffici. Tuttavia, non tutte le attività operano in modo etico. Alcune società fraudolente di interior decoration incassano pagamenti anticipati e poi spariscono senza completare i lavori, lasciando i clienti frustrati e finanziariamente danneggiati.",
+             "Se sei caduto vittima di una truffa del genere, non perdere la speranza. Esistono passi legali che puoi intraprendere per recuperare il denaro e ritenere queste aziende responsabili."
+           ]
+         },
+         {
+           "name": "Come funzionano le truffe delle aziende di interior decoration",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Queste aziende fraudolente spesso usano le seguenti tattiche:",
+             "✔ Offrire prezzi sospettosamente bassi per attirare clienti.",
+             "✔ Mostrare portfolio e recensioni clienti falsi per apparire legittime.",
+             "✔ Richiedere grandi pagamenti anticipati prima di iniziare i lavori.",
+             "✔ Inventare scuse o rimandare i lavori a tempo indeterminato.",
+             "✔ Sparire completamente, lasciando i clienti senza rimedi."
+           ]
+         },
+         {
+           "name": "Quali passi legali puoi intraprendere?",
+           "small": "",
+           "smallBold": "1. Raccogli tutte le prove",
+           "des": [
+             "Prima di intraprendere azioni legali, raccogli tutta la documentazione relativa alla transazione. Include contratti firmati, ricevute di pagamento, fatture, email, messaggi WhatsApp e qualsiasi foto di avanzamento dei lavori."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "2. Invia una diffida legale (Legal Notice)",
+           "des": [
+             "Se l’azienda è ancora operativa ma continua a ritardare i lavori, valuta l’invio di una diffida tramite un avvocato. Questo documento formale richiede il completamento del lavoro o il rimborso entro un termine specifico."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "3. Presenta un reclamo al Dipartimento Economico",
+           "des": [
+             "Se l’azienda è autorizzata (licensed), puoi presentare un reclamo al Department of Economic Development (DED) del tuo emirato. Potrebbero indagare sull’impresa e adottare provvedimenti.",
+             "✔ Visita il sito web o l’ufficio del DED nel tuo emirato.",
+             "✔ Presenta un modulo di reclamo del consumatore con i documenti di supporto.",
+             "✔ Attendi l’indagine e la risposta del dipartimento."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "4. Presenta una denuncia alla polizia",
+           "des": [
+             "Se l’azienda è scomparsa o rifiuta di rispondere, puoi segnalarla alla polizia per frode. Recati alla stazione di polizia più vicina con tutti i documenti rilevanti o presenta un reclamo online."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "5. Avvia una causa civile (azione in tribunale per risarcimento)",
+           "des": [
+             "Se l’importo è significativo, puoi avviare un’azione legale in sede civile per chiedere un risarcimento. Un avvocato con base negli UAE può aiutarti a presentare una causa e, se hai successo, il tribunale può ordinare all’azienda di rimborsarti o di risarcirti per i danni."
+           ]
+         },
+         {
+           "name": "Come proteggerti dalle truffe di interior decoration",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Per evitare di cadere vittima di queste frodi, segui queste precauzioni:",
+             "✔ Verifica la trade license dell’azienda tramite il sito del DED.",
+             "✔ Leggi recensioni online e controlla eventuali reclami prima di assumere.",
+             "✔ Non pagare mai grandi somme in anticipo; paga invece a rate (installments).",
+             "✔ Firma un contratto dettagliato con tempistiche e condizioni di pagamento.",
+             "✔ Scegli aziende affidabili e ben consolidate per interior decoration."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Cadere vittima di una truffa di interior decoration può essere stressante, ma hai delle opzioni. Seguendo i passi legali indicati sopra, puoi agire per recuperare il denaro e impedire che altri subiscano la stessa esperienza. Se hai bisogno di assistenza legale professionale, consulta LexDesk360, esperti in casi di frode negli UAE e tutela dei diritti dei consumatori."
+           ]
+         }
+       ]
      }
+
    },
    {
      "eng": {
@@ -3175,7 +4980,288 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 9,
+       "name": "Législation sur la cybercriminalité aux Émirats arabes unis, en Égypte et en Arabie saoudite : ce qu'il faut savoir",
+       "date": "20 mars 2025",
+       "des": "Comprenez les lois sur la cybercriminalité et leurs conséquences aux Émirats arabes unis, en Égypte et en Arabie saoudite.",
+       "img": "../assets/images/news/new9.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Un guide complet des lois sur la cybercriminalité et des sanctions au Moyen-Orient"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercriminalité aux Émirats arabes unis, en Égypte et en Arabie saoudite : lois et conséquences",
+           "des": [
+             "Avec l'essor des technologies numériques, la cybercriminalité est devenue une préoccupation majeure aux Émirats arabes unis, en Égypte et en Arabie saoudite. Les gouvernements de ces pays ont mis en place des lois strictes pour lutter contre le piratage, la fraude en ligne, l'usurpation d'identité et la diffamation numérique. Que vous soyez résident, chef d'entreprise ou simple utilisateur d'Internet, comprendre ces lois est essentiel pour éviter des problèmes juridiques et protéger vos droits numériques."
+           ]
+         },
+         {
+           "name": "Lois sur la cybercriminalité aux Émirats arabes unis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les Émirats arabes unis disposent de certaines des lois les plus strictes de la région. Les autorités surveillent activement les activités en ligne et les infractions peuvent entraîner de lourdes amendes, des peines d’emprisonnement ou même l’expulsion."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Lois clés :",
+           "des": [
+             "✔ Décret-loi fédéral n° 34 de 2021 : régit la cybercriminalité.",
+             "✔ Loi sur la protection des données personnelles (PDPL) – Décret-loi fédéral n° 45 de 2021."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimes courants et sanctions :",
+           "des": [
+             "✔ Piratage et accès non autorisé → Amendes de 200 000 AED à 3 millions AED + prison.",
+             "✔ Fraude en ligne et phishing → Peine de prison + amendes jusqu’à 1 million AED.",
+             "✔ Diffamation ou fausses informations → Jusqu’à 2 ans de prison + amendes jusqu’à 500 000 AED.",
+             "✔ Publication de données privées sans consentement → Amendes jusqu’à 1 million AED.",
+             "✔ Chantage et extorsion → Prison + amendes jusqu’à 2 millions AED."
+           ]
+         },
+         {
+           "name": "Lois sur la cybercriminalité en Égypte",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'Égypte a renforcé son cadre juridique pour lutter contre la cybercriminalité, notamment le piratage, la fraude et la désinformation. Les autorités surveillent activement les plateformes en ligne."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Lois clés :",
+           "des": [
+             "✔ Loi n° 175 de 2018 : principale loi sur la cybercriminalité.",
+             "✔ Loi n° 151 de 2020 : protection des données personnelles."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimes courants et sanctions :",
+           "des": [
+             "✔ Piratage et accès non autorisé → Prison (1 à 5 ans) + amendes jusqu’à 1 million EGP.",
+             "✔ Diffamation et fausses informations → Prison (6 mois à 3 ans) + amendes jusqu’à 300 000 EGP.",
+             "✔ Fraude financière en ligne → Prison + amendes jusqu’à 500 000 EGP.",
+             "✔ Violations de la vie privée → Amendes jusqu’à 5 millions EGP + peine de prison possible."
+           ]
+         },
+         {
+           "name": "Lois sur la cybercriminalité en Arabie saoudite",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L'Arabie saoudite applique une politique de tolérance zéro envers la cybercriminalité avec des sanctions sévères pour toute infraction."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Lois clés :",
+           "des": [
+             "✔ Loi anti-cybercriminalité (Décret royal n° M/17 de 2007).",
+             "✔ Loi sur la protection des données personnelles (PDPL – 2021)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimes courants et sanctions :",
+           "des": [
+             "✔ Piratage et vol de données → Jusqu’à 10 ans de prison + amendes jusqu’à 5 millions SAR.",
+             "✔ Fraude en ligne → Prison (1 à 7 ans) + amendes jusqu’à 2 millions SAR.",
+             "✔ Diffamation → Prison (1 à 5 ans) + amendes jusqu’à 500 000 SAR.",
+             "✔ Publication de données privées → Prison + amendes jusqu’à 3 millions SAR.",
+             "✔ Chantage en ligne → Prison + amendes jusqu’à 500 000 SAR."
+           ]
+         },
+         {
+           "name": "Comment se protéger contre la cybercriminalité",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Évitez les liens suspects et ne partagez pas vos données personnelles.",
+             "✔ Utilisez des mots de passe forts et activez la double authentification.",
+             "✔ Faites attention à vos publications sur les réseaux sociaux.",
+             "✔ Vérifiez les sites avant tout paiement en ligne.",
+             "✔ Signalez immédiatement toute cyberattaque aux autorités."
+           ]
+         },
+         {
+           "name": "Où signaler un cybercrime ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Émirats arabes unis : via eCrime.ae ou 999.",
+             "✔ Égypte : via la hotline 108 du ministère de l’Intérieur.",
+             "✔ Arabie saoudite : via la plateforme Absher."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La cybercriminalité est prise très au sérieux dans ces pays. Le respect des lois et l’adoption de bonnes pratiques numériques sont essentiels pour éviter les sanctions. En cas de problème, il est recommandé de consulter un expert juridique."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 9,
+       "name": "Leggi sui crimini informatici negli UAE, in Egitto e in Arabia Saudita: cosa devi sapere",
+       "date": "20 marzo 2025",
+       "des": "Una guida completa alle leggi sul cybercrime e alle sanzioni in Medio Oriente",
+       "img": "../assets/images/news/new9.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Una guida completa alle leggi sul cybercrime e alle sanzioni in Medio Oriente"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Crimini informatici negli UAE, in Egitto e in Arabia Saudita: leggi e conseguenze",
+           "des": [
+             "Con l’aumento della tecnologia digitale, il cybercrime è diventato una grande preoccupazione negli UAE, in Egitto e in Arabia Saudita. I governi di questi Paesi hanno introdotto leggi severe per contrastare hacking, frodi online, furto d’identità e diffamazione online. Che tu sia residente, imprenditore o semplice utente di internet in questi Paesi, capire queste leggi è essenziale per evitare problemi legali e proteggere i tuoi diritti digitali."
+           ]
+         },
+         {
+           "name": "Leggi sul cybercrime negli UAE",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli UAE hanno alcune delle leggi sul cybercrime più severe della regione. Il governo monitora attivamente le attività online e le violazioni possono comportare pesanti multe, carcere o persino deportazione."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Leggi principali:",
+           "des": [
+             "✔ Federal Decree-Law No. 34 of 2021: disciplina i crimini informatici, sostituendo la precedente Cybercrime Law No. 5 of 2012.",
+             "✔ Personal Data Protection Law (PDPL) – Federal Decree Law No. 45 of 2021: regola l’uso e la sicurezza dei dati personali."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimini comuni e sanzioni:",
+           "des": [
+             "✔ Hacking e accesso non autorizzato → multe da AED 200.000 a AED 3 milioni + carcere.",
+             "✔ Frodi online e phishing → carcere + multe fino a AED 1 milione.",
+             "✔ Diffusione di fake news o diffamazione online → fino a 2 anni di carcere + multe fino a AED 500.000.",
+             "✔ Pubblicazione di dati privati senza consenso → multe fino a AED 1 milione.",
+             "✔ Ricatto informatico ed estorsione → carcere + multe fino a AED 2 milioni."
+           ]
+         },
+         {
+           "name": "Leggi sul cybercrime in Egitto",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’Egitto ha rafforzato le proprie leggi di cybersecurity per combattere frodi online, hacking e disinformazione. Le autorità monitorano attivamente social media e piattaforme online, rendendo fondamentale la conformità a queste leggi."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Leggi principali:",
+           "des": [
+             "✔ Law No. 175 of 2018: principale normativa che disciplina i crimini informatici in Egitto.",
+             "✔ Law No. 151 of 2020: focalizzata su protezione dei dati personali e cybersecurity."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimini comuni e sanzioni:",
+           "des": [
+             "✔ Hacking e accesso non autorizzato ai dati → carcere (1–5 anni) + multe fino a EGP 1 milione.",
+             "✔ Diffusione di fake news o diffamazione → carcere (6 mesi – 3 anni) + multe fino a EGP 300.000.",
+             "✔ Frodi finanziarie online e furto d’identità → carcere + multe fino a EGP 500.000.",
+             "✔ Violazioni della privacy e diffusione di dati personali → multe fino a EGP 5 milioni + possibile carcere."
+           ]
+         },
+         {
+           "name": "Leggi sul cybercrime in Arabia Saudita",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’Arabia Saudita applica una politica di tolleranza zero verso il cybercrime. Il governo fa rispettare norme rigide per prevenire hacking, frodi online, diffamazione informatica e violazioni dei dati. Anche le attività sui social media sono monitorate attentamente."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Leggi principali:",
+           "des": [
+             "✔ Anti-Cybercrime Law (Royal Decree No. M/17 of 2007): copre hacking, frodi e molestie online.",
+             "✔ Personal Data Protection Law (PDPL – 2021): regola la raccolta e l’uso dei dati personali."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Cybercrimini comuni e sanzioni:",
+           "des": [
+             "✔ Hacking e furto di dati → fino a 10 anni di carcere + multe fino a SAR 5 milioni.",
+             "✔ Frodi online e furto d’identità → carcere (1–7 anni) + multe fino a SAR 2 milioni.",
+             "✔ Diffamazione e diffusione di informazioni false → carcere (1–5 anni) + multe fino a SAR 500.000.",
+             "✔ Pubblicazione di informazioni private senza consenso → carcere + multe fino a SAR 3 milioni.",
+             "✔ Ricatto informatico e molestie online → carcere (1–5 anni) + multe fino a SAR 500.000."
+           ]
+         },
+         {
+           "name": "Come proteggerti dal cybercrime",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Evita di cliccare su link sconosciuti o condividere dati personali online.",
+             "✔ Usa password forti e abilita l’autenticazione a due fattori (2FA) su tutti gli account.",
+             "✔ Fai attenzione a ciò che pubblichi sui social media: alcuni commenti o critiche possono portare a problemi legali.",
+             "✔ Verifica siti web ed email prima di effettuare pagamenti online per evitare frodi.",
+             "✔ Segnala immediatamente i crimini informatici alle autorità locali se sei vittima."
+           ]
+         },
+         {
+           "name": "Dove segnalare il cybercrime?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ UAE: segnala tramite l’UAE Cybercrime Reporting Portal (eCrime.ae) o chiama 999.",
+             "✔ Egitto: presenta reclami presso l’Unità Cybercrime tramite l’hotline del Ministero dell’Interno 108.",
+             "✔ Arabia Saudita: segnala i reati online tramite la piattaforma Absher o direttamente al Saudi Cybercrime Department."
+           ]
+         },
+         {
+           "name": "Considerazioni finali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il cybercrime è preso molto seriamente negli UAE, in Egitto e in Arabia Saudita. Che si tratti di hacking, frode o diffamazione online, le violazioni delle leggi informatiche possono portare a pesanti multe, carcere o persino deportazione. Restare informati e adottare pratiche sicure online è il modo migliore per proteggersi da problemi legali. Se stai affrontando una questione legata al digitale, consultare un esperto legale in materia di cybercrime è sempre una scelta saggia."
+           ]
+         }
+       ]
      }
+
    },
    {
      "eng": {
@@ -3474,6 +5560,106 @@
            "smallBold": "",
            "des": [
              "Η ιατρική αμέλεια αντιμετωπίζεται με αυστηρότητα στα ΗΑΕ. Το νομικό πλαίσιο εξασφαλίζει ισορροπία μεταξύ της προστασίας των ασθενών και των δικαιωμάτων των επαγγελματιών υγείας. Η κατανόηση της νομοθεσίας επιτρέπει στους παρόχους υγείας να προσφέρουν ασφαλή και ηθική φροντίδα, αποφεύγοντας νομικές διαμάχες. Σε περίπτωση εμπλοκής σε υπόθεση ιατρικής αμέλειας, συνιστάται η αναζήτηση εξειδικευμένης νομικής συμβουλής."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 10,
+       "name": "La responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis : un guide juridique",
+       "date": "20 mars 2025",
+       "des": "Découvrez le cadre juridique régissant la responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis.",
+       "img": "../assets/images/news/new10.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Comprendre les lois sur la faute professionnelle médicale et les protections juridiques aux Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis : un guide juridique",
+           "des": [
+             "Les professionnels de santé aux Émirats arabes unis sont tenus à des normes élevées de soins, et toute négligence ou faute professionnelle peut entraîner de graves conséquences juridiques. Le pays dispose d'un cadre juridique bien défini pour la responsabilité professionnelle dans le secteur de la santé, garantissant les droits des patients tout en offrant des procédures équitables aux praticiens. Ce guide présente les aspects juridiques clés de la responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis."
+           ]
+         },
+         {
+           "name": "1. Cadre juridique régissant la responsabilité dans le secteur de la santé",
+           "small": "",
+           "smallBold": "La responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis est encadrée par plusieurs lois et autorités :",
+           "des": [
+             "✔ Décret-loi fédéral n° 4 de 2016 sur la responsabilité médicale : la loi principale régissant la faute professionnelle médicale.",
+             "✔ Code pénal des Émirats arabes unis (loi fédérale n° 3 de 1987) : définit la responsabilité pénale en cas de négligence grave.",
+             "✔ Réglementations des autorités sanitaires : la DHA (Dubaï), le DOH (Abou Dhabi) et le MOHAP supervisent la conformité et les standards professionnels.",
+             "✔ Loi sur les transactions civiles (loi fédérale n° 5 de 1985) : régit la responsabilité civile et l’indemnisation des dommages."
+           ]
+         },
+         {
+           "name": "2. Qu'est-ce qui constitue une faute professionnelle médicale ?",
+           "small": "",
+           "smallBold": "Un professionnel de santé peut être tenu responsable en cas de faute professionnelle si les conditions suivantes sont remplies :",
+           "des": [
+             "✔ Non-respect des pratiques médicales standard : écart par rapport aux protocoles acceptés causant un préjudice.",
+             "✔ Erreur ou retard de diagnostic : entraînant un traitement inapproprié ou une aggravation de l’état du patient.",
+             "✔ Erreurs de médication : prescription incorrecte de médicament ou dosage nocif.",
+             "✔ Erreurs chirurgicales : erreurs lors d’une intervention, comme effectuer la mauvaise procédure ou laisser des instruments dans le corps du patient.",
+             "✔ Absence de consentement éclairé : réaliser une intervention sans consentement du patient.",
+             "✔ Négligence dans les soins post-traitement : suivi inadéquat entraînant des complications."
+           ]
+         },
+         {
+           "name": "3. Signalement et enquête en cas de faute professionnelle médicale",
+           "small": "",
+           "smallBold": "Si un patient ou sa famille estime qu'une faute a été commise, une plainte peut être déposée auprès de l'autorité sanitaire compétente :",
+           "des": [
+             "✔ Dépôt de plainte : soumettre la plainte à la DHA (Dubaï), DOH (Abou Dhabi) ou MOHAP (autres émirats).",
+             "✔ Examen par le comité de responsabilité médicale : un comité spécialisé enquête sur la faute.",
+             "✔ Évaluation par des experts : des experts médicaux indépendants déterminent si les normes professionnelles ont été enfreintes.",
+             "✔ Décision et sanctions : si la faute est confirmée, les sanctions peuvent inclure amendes, suspension de licence ou poursuites pénales."
+           ]
+         },
+         {
+           "name": "4. Sanctions en cas de faute professionnelle médicale",
+           "small": "",
+           "smallBold": "Les professionnels reconnus coupables peuvent faire face à diverses sanctions selon la gravité :",
+           "des": [
+             "✔ Amendes : de 10 000 AED à 500 000 AED.",
+             "✔ Suspension ou retrait de licence : perte du droit d’exercer pour les médecins, infirmiers et personnel médical.",
+             "✔ Responsabilité civile : indemnisation du patient pour les dommages causés.",
+             "✔ Poursuites pénales : en cas de négligence grave ou intentionnelle, peine de prison possible."
+           ]
+         },
+         {
+           "name": "5. Assurance contre la faute professionnelle médicale",
+           "small": "",
+           "smallBold": "L'assurance est obligatoire pour protéger les professionnels et établissements de santé aux Émirats arabes unis :",
+           "des": [
+             "✔ Tous les professionnels agréés doivent souscrire une assurance contre la faute professionnelle.",
+             "✔ Les hôpitaux et cliniques doivent couvrir leurs employés.",
+             "✔ Les polices couvrent frais juridiques, règlements et demandes d’indemnisation."
+           ]
+         },
+         {
+           "name": "6. Comment les professionnels de santé peuvent se protéger",
+           "small": "",
+           "smallBold": "Pour minimiser les risques juridiques, il est conseillé de :",
+           "des": [
+             "✔ Respecter les lois et directives professionnelles UAE.",
+             "✔ Obtenir le consentement éclairé avant toute intervention.",
+             "✔ Tenir des dossiers médicaux précis et détaillés.",
+             "✔ Suivre une formation continue et rester informé des meilleures pratiques.",
+             "✔ S’assurer d’une couverture d’assurance adéquate."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La faute professionnelle médicale est prise très au sérieux aux Émirats arabes unis. Comprendre les lois sur la responsabilité professionnelle aide à fournir des soins sûrs et éthiques tout en évitant les litiges. En cas de problème, il est fortement recommandé de consulter un avocat qualifié."
            ]
          }
        ]
@@ -3834,6 +6020,126 @@
            "smallBold": "",
            "des": [
              "Η διαχείριση διαφορών με ασφαλιστικές μπορεί να είναι απογοητευτική, αλλά η γνώση των δικαιωμάτων και των νομικών διαδικασιών καθιστά τη διαδικασία πιο εύκολη. Για σύνθετες ή παρατεταμένες διαφορές, η συμβουλή ειδικού νομικού συμβούλου στα ΗΑΕ είναι η καλύτερη επιλογή για προστασία των δικαιωμάτων σας."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 11,
+       "name": "Résolution des litiges liés à l'assurance maladie aux Émirats arabes unis",
+       "date": "20 mars 2025",
+       "des": "Découvrez les litiges courants en matière d'assurance maladie aux Émirats arabes unis, y compris les refus de remboursement, les retards d'approbation et les problèmes de remboursement.",
+       "img": "../assets/images/news/new11.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Guide complet sur la gestion des litiges liés à l'assurance maladie aux Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Litiges liés à l'assurance maladie aux Émirats arabes unis : problèmes courants et solutions",
+           "des": [
+             "L'assurance maladie est essentielle aux Émirats arabes unis, avec une couverture obligatoire à Dubaï et Abou Dhabi. Bien qu'elle protège financièrement contre les frais médicaux, de nombreuses personnes rencontrent des litiges avec leur assureur concernant des demandes refusées, des validations retardées ou des coûts imprévus. Comprendre ces litiges et les démarches légales pour les résoudre vous aide à protéger vos droits."
+           ]
+         },
+         {
+           "name": "1. Refus de remboursement de soins médicaux",
+           "small": "",
+           "smallBold": "L'une des expériences les plus frustrantes est le rejet d'une demande médicale, surtout en cas d'urgence.",
+           "des": [
+             "✔ Les assureurs peuvent considérer le traitement « non médicalement nécessaire ». ",
+             "✔ Certaines demandes concernent des actes non couverts par la police.",
+             "✔ Les conditions préexistantes non déclarées peuvent entraîner un refus.",
+             "Que faire : examinez votre police, demandez une explication écrite et déposez un recours avec les rapports médicaux de votre médecin."
+           ]
+         },
+         {
+           "name": "2. Retards dans l’approbation des traitements",
+           "small": "",
+           "smallBold": "Certaines procédures nécessitent l'accord préalable de l'assureur, mais les délais peuvent retarder les soins.",
+           "des": [
+             "✔ Les assureurs peuvent traiter les demandes lentement, même pour les urgences.",
+             "✔ Des documents supplémentaires peuvent être exigés, retardant encore l'approbation.",
+             "Que faire : relancez votre assureur, demandez à votre médecin d'escalader les demandes urgentes, et signalez les retards excessifs aux autorités sanitaires."
+           ]
+         },
+         {
+           "name": "3. Litiges relatifs au remboursement",
+           "small": "",
+           "smallBold": "Si vous payez d'abord les soins et demandez un remboursement, des problèmes peuvent survenir avec les assureurs.",
+           "des": [
+             "✔ Refus si le traitement n'était pas couvert.",
+             "✔ Remboursement réduit si les frais sont jugés trop élevés.",
+             "Que faire : soumettez tous les reçus, demandez le détail du remboursement et escaladez le litige si nécessaire."
+           ]
+         },
+         {
+           "name": "4. Employeur ne fournissant pas d'assurance maladie",
+           "small": "",
+           "smallBold": "À Dubaï et Abou Dhabi, les employeurs doivent légalement fournir une assurance. Certains ne respectent pas cette obligation.",
+           "des": [
+             "✔ Certains employeurs omettent de fournir l'assurance malgré la loi.",
+             "✔ Les employés payant eux-mêmes peuvent avoir un recours légal.",
+             "Que faire : vérifiez votre contrat et signalez les employeurs non conformes à la DHA ou au MOHRE."
+           ]
+         },
+         {
+           "name": "5. Litiges concernant les limites de couverture et les exclusions",
+           "small": "",
+           "smallBold": "Certaines personnes découvrent les limites de leur couverture seulement au moment des soins.",
+           "des": [
+             "✔ Plafonds bas pour soins hospitaliers ou spécialistes.",
+             "✔ Certains traitements (dentaire, maternité, médecine alternative) peuvent ne pas être couverts.",
+             "Que faire : lisez attentivement la police, choisissez une formule adaptée et négociez avec l'assureur si nécessaire."
+           ]
+         },
+         {
+           "name": "Étapes pour résoudre un litige en matière d'assurance santé",
+           "small": "",
+           "smallBold": "Étape 1 : Contactez votre compagnie d'assurance",
+           "des": [
+             "✔ Déposez une réclamation auprès du service client.",
+             "✔ Demandez une explication écrite pour tout refus ou retard.",
+             "✔ Adressez-vous au service des réclamations si nécessaire."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Étape 2 : Déposez une plainte auprès des autorités sanitaires",
+           "des": [
+             "Si le litige n'est pas résolu, contactez les autorités sanitaires compétentes aux Émirats arabes unis.",
+             "✔ Dubaï : Autorité sanitaire de Dubaï (DHA).",
+             "✔ Abou Dhabi : Département de la santé (DOH).",
+             "✔ Sharjah et Émirats du Nord : Ministère de la santé et de la prévention (MOHAP)."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Étape 3 : Saisir l'autorité de régulation des assurances",
+           "des": [
+             "Si le litige persiste, déposez une plainte auprès de la Banque centrale des Émirats arabes unis, qui régule les assureurs."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Étape 4 : Engager une action en justice",
+           "des": [
+             "Si toutes les options échouent, vous pouvez engager une action contre l'assureur. Consulter un avocat aux Émirats peut aider à récupérer les indemnités ou dommages."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les litiges liés à l'assurance maladie peuvent être frustrants, mais connaître vos droits et options juridiques facilite le processus. Suivre les procédures correctes et consulter un expert juridique UAE peut vous aider à obtenir la couverture à laquelle vous avez droit."
            ]
          }
        ]
@@ -4300,6 +6606,159 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 12,
+       "name": "La conformité en matière de gouvernance d'entreprise aux Émirats arabes unis : un guide pratique",
+       "date": "20 mars 2025",
+       "des": "Découvrez les exigences essentielles en matière de gouvernance d'entreprise pour les entreprises aux Émirats arabes unis.",
+       "img": "../assets/images/news/new12.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Un guide complet pour garantir la conformité et instaurer la confiance aux Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "La conformité en matière de gouvernance d'entreprise aux Émirats arabes unis : un guide pratique",
+           "des": [
+             "La gouvernance d'entreprise joue un rôle essentiel dans le fonctionnement des entreprises aux Émirats arabes unis. Elle repose sur la transparence, la responsabilité et la garantie d'une gestion responsable des entreprises. Pour les chefs d'entreprise, les actionnaires et les dirigeants, il est crucial de comprendre la gouvernance d'entreprise afin d'éviter les risques juridiques et d'assurer le bon déroulement des opérations."
+           ]
+         },
+         {
+           "name": "Qu'est-ce que la gouvernance d'entreprise ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La gouvernance d'entreprise désigne l'ensemble des règles, politiques et processus qui régissent le fonctionnement d'une entreprise. Elle garantit que les entreprises prennent des décisions éthiques, protègent les intérêts des actionnaires et respectent la réglementation. Une bonne gouvernance ne se limite pas au respect de la loi : elle aide également les entreprises à instaurer la confiance auprès des investisseurs et du public."
+           ]
+         },
+         {
+           "name": "Qui réglemente la gouvernance d'entreprise aux Émirats arabes unis ?",
+           "small": "",
+           "smallBold": "Différents organismes de réglementation supervisent la conformité à la gouvernance d'entreprise, selon le type d'entreprise :",
+           "des": [
+             "✔ Autorité des valeurs mobilières et des matières premières (SCA) : régit les sociétés anonymes publiques et les entreprises cotées.",
+             "✔ Autorité des services financiers de Dubaï (DFSA) : réglemente les entreprises du Centre financier international de Dubaï (DIFC).",
+             "✔ Abu Dhabi Global Market (ADGM) : supervise les entreprises dans la zone franche ADGM.",
+             "✔ Ministère de l'Économie (MoE) : assure la conformité des sociétés opérant sur le continent des Émirats arabes unis."
+           ]
+         },
+         {
+           "name": "Principales exigences en matière de gouvernance d'entreprise",
+           "small": "",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "1. Responsabilités du conseil d'administration",
+           "small": "",
+           "smallBold": "Le conseil d'administration veille à ce que l'entreprise soit gérée efficacement et de manière éthique. Dans les sociétés cotées, des administrateurs indépendants doivent être nommés pour éviter les conflits d'intérêts.",
+           "des": [
+             "✔ Les administrateurs doivent agir dans l'intérêt supérieur de l'entreprise et de ses actionnaires.",
+             "✔ Ils doivent assurer le respect des lois et régulations financières des Émirats arabes unis.",
+             "✔ Le non-respect de ces responsabilités peut entraîner des poursuites des actionnaires ou des sanctions réglementaires."
+           ]
+         },
+         {
+           "name": "2. Information financière et transparence",
+           "small": "",
+           "smallBold": "Les entreprises doivent tenir des registres financiers clairs et rendre compte de leurs performances de manière exacte. Pour les sociétés cotées, les états financiers annuels doivent être audités et publiés.",
+           "des": [
+             "✔ Respect des normes internationales d'information financière (IFRS).",
+             "✔ La falsification des comptes peut entraîner amendes ou actions en justice.",
+             "✔ Le retard dans les rapports peut provoquer des sanctions de la SCA ou d'autres autorités."
+           ]
+         },
+         {
+           "name": "3. Protection des droits des actionnaires",
+           "small": "",
+           "smallBold": "Les actionnaires doivent pouvoir participer aux décisions clés, comme l’élection du conseil et l'approbation des transactions importantes. Les entreprises doivent garantir un traitement équitable, y compris pour les minoritaires.",
+           "des": [
+             "✔ Assemblées générales annuelles (AGA) : permettre aux actionnaires de soulever des préoccupations.",
+             "✔ Fournir des informations claires sur la performance financière et les politiques de gouvernance.",
+             "✔ La violation des droits des actionnaires peut entraîner des poursuites ou un contrôle réglementaire."
+           ]
+         },
+         {
+           "name": "4. Politiques de lutte contre la fraude et la corruption",
+           "small": "",
+           "smallBold": "Les Émirats arabes unis ont des lois strictes contre la fraude, la corruption et le blanchiment. Les entreprises doivent mettre en place des mesures de prévention.",
+           "des": [
+             "✔ Les politiques anti-fraude doivent être appliquées à tous les niveaux de l'entreprise.",
+             "✔ Respect obligatoire de la réglementation anti-blanchiment (AML).",
+             "✔ Les dirigeants et employés impliqués dans des malversations peuvent faire face à des poursuites pénales."
+           ]
+         },
+         {
+           "name": "5. Gestion des risques et conformité",
+           "small": "",
+           "smallBold": "Les entreprises doivent identifier et gérer les risques financiers, opérationnels et juridiques. Des audits internes réguliers doivent assurer le respect des politiques.",
+           "des": [
+             "✔ Les sociétés cotées et institutions financières doivent nommer un responsable de conformité.",
+             "✔ Une mauvaise gestion des risques peut entraîner amendes et pertes financières."
+           ]
+         },
+         {
+           "name": "Gouvernance d'entreprise selon le type de société",
+           "small": "",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "1. Sociétés anonymes publiques (PJSC) et sociétés cotées",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Respect strict des règles de gouvernance de la SCA.",
+             "✔ Nécessité de membres indépendants au conseil et comités pour audits et rémunérations.",
+             "✔ Publication annuelle des rapports financiers audités."
+           ]
+         },
+         {
+           "name": "2. Sociétés à responsabilité limitée (LLC)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Moins d’exigences mais doivent respecter la loi sur les sociétés commerciales des Émirats.",
+             "✔ Les propriétaires doivent garantir conformité aux droits financiers et actionnaires."
+           ]
+         },
+         {
+           "name": "3. Sociétés de zones franches (DIFC, ADGM, JAFZA, etc.)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "✔ Respect des règles de gouvernance fixées par l’autorité de leur zone franche.",
+             "✔ DIFC et ADGM suivent un système de common law, différent des règles du continent."
+           ]
+         },
+         {
+           "name": "Comment garantir la conformité en matière de gouvernance d'entreprise",
+           "small": "",
+           "smallBold": "Pour rester en conformité et protéger votre entreprise :",
+           "des": [
+             "✔ Nommez un conseil d'administration solide avec des membres indépendants.",
+             "✔ Mettez en place reporting financier transparent et audits internes.",
+             "✔ Assurez le respect et la protection des droits des actionnaires.",
+             "✔ Adoptez des politiques anti-fraude et anti-blanchiment.",
+             "✔ Effectuez des contrôles de conformité et évaluations des risques réguliers."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le respect des règles de gouvernance est essentiel aux Émirats arabes unis. Il s’agit non seulement de suivre la loi, mais de bâtir une entreprise éthique, solide et durable. Qu’il s’agisse d’une PME, d’une multinationale ou d’une société cotée, une bonne gouvernance favorise la confiance et le succès à long terme.",
+             "Pour des conseils sur la réglementation en gouvernance, consulter un expert juridique ou conformité est toujours judicieux."
+           ]
+         }
+       ]
      }
    },
    {
@@ -4648,6 +7107,122 @@
              "Η αγορά ακινήτων στα ΗΑΕ προσφέρει σημαντικές επενδυτικές ευκαιρίες, αλλά απαιτεί πλήρη κατανόηση του νομικού πλαισίου πριν από οποιαδήποτε απόφαση.",
              "Είτε είστε αγοραστής, πωλητής, ενοικιαστής ή επενδυτής, η γνώση των πιθανών νομικών κινδύνων είναι το κλειδί για την προστασία των συμφερόντων σας και την αποφυγή δαπανηρών λαθών.",
              "Αν εμπλέκεστε σε διαφορά ακινήτων, η συμβουλή εξειδικευμένου νομικού συμβούλου στα ΗΑΕ είναι η ασφαλέστερη οδός για σαφήνεια, καθοδήγηση και δίκαιη επίλυση."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 13,
+       "name": "Faire face aux défis juridiques dans le secteur immobilier aux Émirats arabes unis",
+       "date": "20 mars 2025",
+       "des": "Découvrez les considérations juridiques essentielles pour acheter, vendre, louer ou investir dans l'immobilier aux Émirats arabes unis",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Informations juridiques essentielles pour les acheteurs, les vendeurs, les locataires et les investisseurs immobiliers aux Émirats arabes unis"
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Les enjeux juridiques de l'immobilier aux Émirats arabes unis : ce qu'il faut savoir",
+           "des": [
+             "Le marché immobilier des Émirats arabes unis est en plein essor, attirant des acheteurs, des investisseurs et des locataires du monde entier. Si les opportunités sont nombreuses, mener à bien des transactions immobilières aux Émirats arabes unis n'est pas toujours simple. Certaines considérations juridiques importantes peuvent avoir un impact sur toute personne cherchant à acheter, vendre, louer ou investir dans l'immobilier. Comprendre ces défis juridiques potentiels peut vous aider à éviter les litiges et les risques financiers."
+           ]
+         },
+         {
+           "name": "1. Restrictions en matière de propriété pour les étrangers",
+           "small": "",
+           "smallBold": "Si vous êtes un investisseur étranger ou un expatrié, il est important de savoir où vous pouvez légalement posséder un bien immobilier. Certaines zones autorisent la pleine propriété (freehold), tandis que d'autres n'accordent que des droits de bail.",
+           "des": [
+             "✔ Zones en pleine propriété : les étrangers peuvent posséder pleinement des biens dans des zones désignées telles que Dubai Marina et Yas Island.",
+             "✔ Zones en bail emphytéotique : dans les zones non freehold, les expatriés ne peuvent louer les biens que pour une durée maximale de 99 ans.",
+             "✔ Règles différentes selon l'émirat : les lois immobilières varient entre Dubaï, Abou Dhabi et les autres émirats, il est donc essentiel de vérifier avant tout achat."
+           ]
+         },
+         {
+           "name": "2. Risques liés aux biens sur plan",
+           "small": "",
+           "smallBold": "Les biens sur plan (en construction) attirent par leur prix plus bas et leurs plans de paiement flexibles, mais comportent des risques tels que retards, coûts imprévus ou annulation du projet.",
+           "des": [
+             "✔ Les promoteurs peuvent ne pas livrer dans les délais, entraînant des pertes financières.",
+             "✔ Coûts cachés ou modifications des spécifications pouvant créer des litiges.",
+             "✔ En cas de faillite du promoteur, récupérer les paiements peut être difficile.",
+             "Solution : n'achetez qu'auprès de promoteurs agréés par la RERA et assurez-vous que les paiements passent par des comptes séquestres."
+           ]
+         },
+         {
+           "name": "3. Fraudes et escroqueries immobilières",
+           "small": "",
+           "smallBold": "Malheureusement, les escroqueries existent, avec des annonces frauduleuses, faux agents et fraudes sur titres de propriété.",
+           "des": [
+             "✔ Fausses annonces de biens inexistants.",
+             "✔ Agents non agréés collectant des dépôts sans autorisation.",
+             "✔ Escroqueries locatives où les locataires paient à de faux propriétaires.",
+             "Solution : vérifiez toujours le bien auprès du Département foncier de Dubaï (DLD) et travaillez uniquement avec des agents agréés RERA."
+           ]
+         },
+         {
+           "name": "4. Litiges locatifs entre propriétaires et locataires",
+           "small": "",
+           "smallBold": "Les désaccords sont fréquents, notamment sur l'augmentation de loyer, les avis d'expulsion et les dépôts de garantie.",
+           "des": [
+             "✔ Certains propriétaires augmentent illégalement le loyer au-delà des limites RERA.",
+             "✔ Les locataires ont du mal à récupérer le dépôt après le départ.",
+             "✔ Tentatives d'expulsion illégales avant la fin du bail.",
+             "Solution : enregistrez les contrats avec Ejari (Dubaï) ou Tawtheeq (Abou Dhabi) pour protection légale."
+           ]
+         },
+         {
+           "name": "5. Problèmes de succession pour les propriétaires",
+           "small": "",
+           "smallBold": "Si un propriétaire décède sans testament, la charia locale peut régir la succession, parfois contraire à ses souhaits.",
+           "des": [
+             "✔ Les étrangers propriétaires devraient enregistrer un testament pour garantir la transmission aux héritiers souhaités.",
+             "Solution : les non-musulmans doivent enregistrer un testament auprès du DIFC Wills Service Centre (Dubaï) ou du Département judiciaire d'Abou Dhabi (ADJD)."
+           ]
+         },
+         {
+           "name": "6. Litiges relatifs aux charges de service et frais d'entretien",
+           "small": "",
+           "smallBold": "Les propriétaires freehold paient des charges de service, mais des litiges apparaissent en cas d'augmentation inattendue ou de mauvaise gestion.",
+           "des": [
+             "✔ Augmentations inattendues des charges.",
+             "✔ Mauvaise maintenance malgré les frais élevés.",
+             "Solution : vérifier les charges auprès de la RERA et contester si nécessaire."
+           ]
+         },
+         {
+           "name": "7. Litiges hypothécaires et prêts",
+           "small": "",
+           "smallBold": "Beaucoup financent par hypothèque, mais des problèmes légaux peuvent survenir : frais cachés, risques de saisie, défaut de paiement.",
+           "des": [
+             "✔ Certaines banques facturent des frais ou pénalités non divulgués.",
+             "✔ En cas de défaut, la banque peut saisir et vendre le bien.",
+             "✔ Les pénalités de remboursement anticipé peuvent être coûteuses.",
+             "Solution : lire attentivement les contrats et demander un avis juridique si nécessaire."
+           ]
+         },
+         {
+           "name": "8. Achat par procuration (POA)",
+           "small": "",
+           "smallBold": "Utiliser une procuration pour acheter ou vendre est courant, mais comporte des risques si elle est trop large ou mal notariée.",
+           "des": [
+             "✔ Les POA falsifiées peuvent entraîner des ventes frauduleuses.",
+             "✔ Une procuration trop large permet des transactions non autorisées.",
+             "Solution : utiliser toujours une procuration limitée et correctement notariée aux Émirats."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le marché immobilier des Émirats offre un fort potentiel, mais il est essentiel de comprendre le cadre légal avant toute décision. Que vous soyez acheteur, vendeur, locataire ou investisseur, connaître ces risques protège vos intérêts et évite des erreurs coûteuses.",
+             "En cas de litige immobilier, consulter un expert juridique apporte clarté et conseils."
            ]
          }
        ]
@@ -5032,6 +7607,131 @@
            ]
          }
        ]
+     },
+     "french": {
+       "id": 14,
+       "name": "L'impact des contrôles à l'exportation sur les entreprises des Émirats arabes unis",
+       "date": "20 mars 2025",
+       "des": "Comprendre comment les réglementations sur le contrôle des exportations affectent les entreprises opérant dans l'environnement commercial mondial des Émirats arabes unis.",
+       "img": "../assets/images/news/new14.webp",
+       "content": [{
+           "name": "",
+           "small": "Maîtriser la réglementation en matière de contrôle des exportations pour assurer la conformité et la croissance des entreprises aux Émirats arabes unis",
+           "smallBold": "",
+           "des": [
+             "En tant que pôle commercial mondial majeur, les Émirats arabes unis accueillent des entreprises qui opèrent sur les marchés internationaux. Cependant, le commerce mondial s'accompagne de la responsabilité de se conformer à la réglementation en matière de contrôle des exportations, qui régit les biens, technologies et services pouvant être expédiés à l'étranger. Ces réglementations visent à protéger la sécurité nationale, prévenir le commerce illégal et garantir le respect des accords internationaux.",
+             "Pour les entreprises traitant des produits de haute technologie, des biens à double usage, des équipements de défense et des technologies restreintes, les contrôles à l'exportation peuvent avoir un impact significatif sur les opérations quotidiennes. Des exigences en matière de licences aux coûts de conformité, les entreprises doivent comprendre comment ces lois affectent leur secteur afin d'éviter les risques juridiques et financiers.",
+             "De nombreux pays appliquent des lois et réglementations sur le contrôle des exportations, et une transaction commerciale internationale implique souvent les lois de plusieurs pays. En particulier, les lois américaines sur le contrôle des exportations et les sanctions ont une large portée extraterritoriale et peuvent s'appliquer aux entreprises des Émirats arabes unis en plus des lois locales."
+           ]
+         },
+         {
+           "name": "Qu'est-ce que le contrôle des exportations ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le contrôle des exportations désigne les lois et réglementations qui restreignent ou régissent l'exportation de biens, technologies et services spécifiques. Ces restrictions sont souvent motivées par des préoccupations liées à la sécurité nationale, à la politique étrangère et aux accords commerciaux internationaux."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Les principaux domaines concernés par les contrôles à l'exportation comprennent :",
+           "des": [
+             "Biens à double usage : articles pouvant être utilisés à des fins civiles et militaires (par ex. drones, électronique avancée).",
+             "Équipements de défense et militaires : armes, munitions et technologies de niveau militaire.",
+             "Technologies stratégiques : industries de haute technologie telles que l'IA, la cybersécurité et l'aérospatiale.",
+             "Pays et entités sanctionnés : restrictions sur l'exportation vers des nations ou organisations figurant sur une liste noire."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Aux Émirats arabes unis, les contrôles à l'exportation sont régis par la Loi fédérale n° 13 de 2007 sur les marchandises soumises au contrôle des importations et exportations, ainsi que par divers accords internationaux comme l'Arrangement de Wassenaar et les sanctions de l'ONU."
+           ]
+         },
+         {
+           "name": "Comment les contrôles à l'exportation affectent les entreprises",
+           "small": "",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "1. Charge de conformité pour les entreprises",
+           "small": "",
+           "smallBold": "Les entreprises commerçant à l’international doivent veiller à ne pas violer les restrictions d’exportation ni traiter avec des entités interdites. Cela nécessite :",
+           "des": [
+             "✔ Contrôler les clients et fournisseurs pour garantir le respect de la réglementation.",
+             "✔ Surveiller l’usage final des produits. Les restrictions s’appliquent à certaines utilisations finales, telles que le développement d’armes nucléaires, chimiques ou biologiques, de missiles et de drones militaires ou de renseignement.",
+             "✔ Obtenir des licences d’exportation pour les biens et technologies contrôlés.",
+             "✔ Mettre en place des systèmes internes de conformité pour surveiller transactions et chaînes d’approvisionnement.",
+             "Le non-respect des contrôles à l’exportation peut entraîner de lourdes amendes, des restrictions commerciales et une responsabilité pénale."
+           ]
+         },
+         {
+           "name": "2. Retards dans l'octroi des autorisations d'exportation",
+           "small": "",
+           "smallBold": "Pour les produits réglementés, l’obtention de permis d’exportation peut être longue, entraînant :",
+           "des": [
+             "✔ Retards dans l’expédition et la livraison.",
+             "✔ Litiges contractuels potentiels avec acheteurs internationaux.",
+             "✔ Charges administratives supplémentaires pour les équipes logistiques."
+           ]
+         },
+         {
+           "name": "3. Restrictions commerciales avec certains pays",
+           "small": "",
+           "smallBold": "Les Émirats appliquent les sanctions de l’ONU et internationales, empêchant le commerce avec certains pays, entités ou individus sur liste noire. Les secteurs affectés incluent :",
+           "des": [
+             "✔ Défense et sécurité – l’exportation de technologies restreintes vers des nations sanctionnées est interdite.",
+             "✔ Services financiers – les banques doivent vérifier les transactions pour se conformer aux lois internationales.",
+             "Le non-respect de ces restrictions peut entraîner gel des avoirs, sanctions financières et atteinte à la réputation."
+           ]
+         },
+         {
+           "name": "4. Défis liés à la chaîne d'approvisionnement et à la logistique",
+           "small": "",
+           "smallBold": "Les contrôles à l’exportation impactent le transport de biens sensibles. Les défis fréquents incluent :",
+           "des": [
+             "✔ Documentation supplémentaire et retards douaniers.",
+             "✔ Coûts de conformité accrus pour les logisticiens.",
+             "✔ Risque de saisie des expéditions en cas de non-conformité."
+           ]
+         },
+         {
+           "name": "5. Augmentation des coûts de conformité",
+           "small": "",
+           "smallBold": "Se conformer aux réglementations engendre des coûts supplémentaires tels que :",
+           "des": [
+             "✔ Recrutement ou formation de responsables conformité.",
+             "✔ Investissement dans des logiciels de contrôle des entités restreintes.",
+             "✔ Programmes de formation pour sensibiliser le personnel aux contrôles à l’exportation.",
+             "Bien que ces dépenses augmentent les coûts opérationnels, elles préviennent des sanctions coûteuses et des interruptions commerciales."
+           ]
+         },
+         {
+           "name": "Bonnes pratiques pour garantir la conformité",
+           "small": "",
+           "smallBold": "Pour minimiser les risques et assurer la conformité, les entreprises doivent :",
+           "des": [
+             "✔ Comprendre les lois sur le contrôle des exportations – suivre les réglementations des Émirats et internationales.",
+             "✔ Vérifier clients et fournisseurs – garantir leur légitimité avant toute transaction.",
+             "✔ Obtenir les licences nécessaires – travailler avec l’Executive Office for Control and Non-Proliferation.",
+             "✔ Mettre en œuvre des programmes de conformité – utiliser des systèmes internes de suivi des transactions.",
+             "✔ Former les employés – organiser régulièrement des sessions de sensibilisation aux restrictions à l’exportation."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les contrôles à l’exportation sont essentiels pour réguler le commerce, protéger la sécurité nationale et assurer la conformité internationale. Bien qu’ils ajoutent une complexité supplémentaire, la conformité permet d’éviter sanctions légales, pertes financières, atteinte à la réputation et perturbations opérationnelles.",
+             "Pour les entreprises opérant dans le commerce mondial aux Émirats arabes unis, respecter les lois sur le contrôle des exportations n’est pas seulement une obligation légale, mais un élément crucial de la continuité des activités. Recourir à des experts juridiques et spécialistes de la conformité commerciale aide à naviguer efficacement ces réglementations et à garantir des opérations internationales fluides."
+           ]
+         }
+       ]
      }
    },
    {
@@ -5274,6 +7974,87 @@
            "des": [
              "Η σύνταξη διαθήκης μπορεί να μην είναι ευχάριστη διαδικασία, αλλά είναι απαραίτητη για την προστασία της οικογένειας και της περιουσίας σας. Είτε επιλέξετε DIFC είτε ADJD, η ύπαρξη νομικά έγκυρης διαθήκης διασφαλίζει ότι οι επιθυμίες σας θα τηρηθούν, τα περιουσιακά στοιχεία θα προστατευθούν και οι οικείοι σας δεν θα αντιμετωπίσουν περιπλοκές.",
              "Για ερωτήσεις ή νομική καθοδήγηση, απευθυνθείτε στη LexDesk360, ειδικούς στον κληρονομικό σχεδιασμό και διαθήκες για εκπατρισμένους στα ΗΑΕ. Η ομάδα τους θα σας καθοδηγήσει σε κάθε βήμα, εξασφαλίζοντας ότι η διαθήκη σας είναι νομικά άρτια και εκτελεστή."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 15,
+       "name": "Testaments et successions pour les non-musulmans aux Émirats arabes unis : guide essentiel",
+       "date": "20 mars 2025",
+       "des": "Découvrez comment les non-musulmans aux Émirats arabes unis peuvent protéger leurs biens et leurs proches en rédigeant des testaments légalement reconnus.",
+       "img": "../assets/images/news/new15.webp",
+       "content": [{
+           "name": "",
+           "small": "Guide complet sur la planification successorale pour les non-musulmans aux Émirats arabes unis",
+           "smallBold": "",
+           "des": [
+             "Testaments et successions pour les non-musulmans aux Émirats arabes unis : ce qu'il faut savoir",
+             "Si vous êtes non-musulman et que vous vivez aux Émirats arabes unis, vous n'avez peut-être pas beaucoup réfléchi à ce qu'il adviendrait de vos biens s'il vous arrivait quelque chose. Mais rédiger un testament est l'une des mesures les plus importantes que vous puissiez prendre pour protéger vos proches et vous assurer que votre succession sera répartie selon vos souhaits.",
+             "Sans testament, vos biens pourraient être soumis aux lois sur la succession des Émirats arabes unis, qui reposent en grande partie sur les principes de la charia. Cela pourrait signifier que votre argent, vos biens immobiliers et même la garde de vos enfants ne reviendraient pas aux personnes que vous aviez choisies. La bonne nouvelle ? Les Émirats arabes unis disposent de cadres juridiques permettant aux non-musulmans de rédiger des testaments conformes à leurs préférences personnelles."
+           ]
+         },
+         {
+           "name": "Que se passe-t-il si vous décédez sans testament aux Émirats arabes unis ?",
+           "small": "",
+           "smallBold": "De nombreux expatriés supposent que leurs biens iront automatiquement à leur conjoint ou à leurs enfants, mais ce n’est pas forcément le cas. Si un non-musulman décède sans testament enregistré, voici ce qui pourrait se passer :",
+           "des": [
+             "✔ Les règles d'héritage de la charia peuvent s'appliquer, ce qui pourrait répartir votre succession autrement que prévu.",
+             "✔ Les comptes bancaires pourraient être gelés, y compris les comptes joints, entraînant des retards pour votre famille.",
+             "✔ La tutelle des enfants mineurs pourrait être décidée par les tribunaux, ce qui pourrait ne pas correspondre à vos souhaits."
+           ]
+         },
+         {
+           "name": "Comment les non-musulmans peuvent-ils rédiger un testament aux Émirats arabes unis ?",
+           "small": "",
+           "smallBold": "",
+           "des": [""]
+         },
+         {
+           "name": "1. Centre de services testamentaires du DIFC (Dubaï)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le Centre de services testamentaires du Centre financier international de Dubaï (DIFC) est une option bien établie pour les non-musulmans. Il suit les principes de la common law et permet aux expatriés de s’assurer que leurs biens sont répartis selon leurs souhaits.",
+             "• Rédigé et enregistré en anglais.",
+             "• Permet de décider comment vos biens seront répartis.",
+             "• Possibilité de désigner des tuteurs légaux pour vos enfants.",
+             "• Peut inclure des biens situés à l’intérieur et à l’extérieur des Émirats arabes unis.",
+             "• Reconnu légalement et exécutoire devant les tribunaux des Émirats arabes unis."
+           ]
+         },
+         {
+           "name": "2. Registre des testaments du Département judiciaire d'Abou Dhabi (ADJD)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le Registre des testaments de l’ADJD offre aux non-musulmans un cadre juridique clair pour enregistrer leur testament. La procédure est similaire à celle du DIFC et le testament est exécutoire selon la loi d’Abou Dhabi.",
+             "• Couvre les biens situés à Abou Dhabi et éventuellement au-delà.",
+             "• Permet de choisir comment la succession sera répartie.",
+             "• Comprend des dispositions pour la tutelle des enfants mineurs.",
+             "• Disponible en anglais et en arabe."
+           ]
+         },
+         {
+           "name": "Comment enregistrer un testament aux Émirats arabes unis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Si vous avez décidé de rédiger un testament, voici un guide étape par étape :",
+             "1. Consultez un expert juridique – trouvez un avocat expérimenté en droit successoral des Émirats arabes unis.",
+             "2. Choisissez où enregistrer – DIFC Wills Service Centre (Dubaï) ou ADJD Wills Registry (Abou Dhabi).",
+             "3. Rédigez votre testament – précisez la répartition de vos biens et les tuteurs pour vos enfants.",
+             "4. Enregistrez le testament – signez devant le greffier pour officialiser.",
+             "5. Tenez-le à jour – en cas de changements (mariage, enfants, nouveaux biens), révisez votre testament."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Rédiger un testament peut ne pas être agréable, mais c’est essentiel pour protéger l’avenir de votre famille. Que vous choisissiez le DIFC ou l’ADJD, un testament légalement reconnu garantit que vos souhaits seront respectés, vos biens protégés et vos proches épargnés de complications juridiques inutiles.",
+             "Pour toute question ou consultation, contactez LexDesk360, experts en planification successorale et testaments pour expatriés aux Émirats arabes unis. Leur équipe vous guidera tout au long du processus pour s’assurer que votre testament est correctement enregistré et juridiquement valide."
            ]
          }
        ]
