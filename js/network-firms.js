@@ -597,6 +597,30 @@ const translationsData = {
     viewMore: "عرض المزيد",
     become: "انضم إلى شبكتنا كشركة",
   },
+  it: {
+    pathPage: "Home ",
+    titlePage: "I nostri studi legali",
+    moreToCome: "",
+    cominfSoon: "“Prossimamente…”",
+    viewMore: "",
+    become: "",
+  },
+  greek: {
+    pathPage: "Αρχκή ",
+    titlePage: "Εταιρείες δικτύου",
+    moreToCome: "",
+    cominfSoon: "“Έρχεται σύντομα…”",
+    viewMore: "",
+    become: "",
+  },
+  french: {
+    pathPage: "Accueil ",
+    titlePage: "Notre RÉSEAU de Cabinets d’avocats",
+    moreToCome: "",
+    cominfSoon: "“Bientôt disponible…”",
+    viewMore: "",
+    become: "",
+  }
 };
 
 document.querySelectorAll("[data-translate]").forEach((el) => {
