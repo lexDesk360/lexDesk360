@@ -190,7 +190,24 @@ function renderActiveContent() {
       p2: defaultItem[lang].p2,
       button: defaultItem[lang].button,
     },
+    greek: {
+      p1: defaultItem[lang].p1,
+      p2: defaultItem[lang].p2,
+      button: defaultItem[lang].button,
+    },
+    french: {
+      p1: defaultItem[lang].p1,
+      p2: defaultItem[lang].p2,
+      button: defaultItem[lang].button,
+    },
+    it: {
+      p1: defaultItem[lang].p1,
+      p2: defaultItem[lang].p2,
+      button: defaultItem[lang].button,
+    },
   };
+  console.log(TranslationsContent[lang])
+
   document.querySelectorAll("[data-Content]").forEach((el) => {
     const key = el.getAttribute("data-Content");
     if (el.placeholder !== undefined) {
