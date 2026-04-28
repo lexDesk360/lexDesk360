@@ -303,7 +303,7 @@
                 "Η εμπειρία της Sharmeen καλύπτει πλαίσια καταπολέμησης της διαφθοράς και της νομιμοποίησης εσόδων από παράνομες δραστηριότητες, κανονιστικές έρευνες και παρακολούθηση, ανάπτυξη πολιτικών και εκπαίδευση σε θέματα συμμόρφωσης. Διακρίνεται για την ικανότητά της να μετατρέπει τα προγράμματα συμμόρφωσης σε λειτουργικές πρακτικές που ενισχύουν την οργανωσιακή ακεραιότητα και υποστηρίζουν τη βιώσιμη επιχειρηματική ανάπτυξη.",
                 "Με έδρα την Ελβετία, η Sharmeen αξιοποιεί την παγκόσμια οπτική της για να συμβουλεύει πολυεθνικούς πελάτες, βασιζόμενη στην άδεια άσκησης δικηγορίας στο Πακιστάν και στην πρακτική της εμπειρία με τα ευρωπαϊκά κανονιστικά πρότυπα. Η προσέγγισή της συνδυάζει αυστηρή νομική ανάλυση με πρακτική εφαρμογή, προσφέροντας συμμορφωμένες, ανθεκτικές και ευαίσθητες στον κίνδυνο επιχειρησιακές λειτουργίες."
             ],
-            "it":[
+            "it": [
                 "Sharmeen Ali Khan è una stimata leader internazionale nel campo legale e della compliance, con una vasta esperienza nella creazione e nel rafforzamento di quadri normativi, di governance e di gestione del rischio in mercati globali. È abilitata all’esercizio della professione legale in Pakistan e opera come professionista legale indipendente con sede a Zugo, in Svizzera, dove ha costruito una solida reputazione nella leadership strategica della compliance nei settori regolamentati.",
                 "Sharmeen apporta una profonda competenza transgiurisdizionale nel suo ruolo di Chief Compliance Counsel presso LexDesk360, dove guida la strategia di compliance dello studio, i programmi di governance del rischio e i quadri di condotta etica. Le sue responsabilità includono la progettazione dell’infrastruttura di compliance, la consulenza sui rischi regolamentari e la garanzia di allineamento con gli standard globali e le migliori pratiche di compliance.",
                 "Prima di entrare in LexDesk360, Sharmeen ha ricoperto ruoli senior in ambito legale e di compliance presso società multinazionali, supervisionando funzioni di compliance in diverse regioni. Il suo lavoro pubblicato come Regional Compliance Director per Africa, Medio Oriente e Pakistan presso Pfizer riflette la sua esperienza pratica nel guidare la governance della compliance in contesti regolamentari complessi.",
@@ -313,7 +313,54 @@
         },
         "linkedin": "https://www.linkedin.com/in/sharmeen-ali-khan-7b549a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
+    {
+        "image": "../assets/images/members/13.png",
+        "name": {
+            "eng": "Jonathan Hirasawa Ashton",
+            "ar": "جوناثان هيراساوا أشتون",
+            "greek": "Jonathan Hirasawa Ashton",
+            "french": "Jonathan Hirasawa Ashton",
+            "it": "Jonathan Hirasawa Ashton"
+        },
+        "positionJob": {
+            "eng": "Managing Partner - UAE ",
+            "ar": "الشريك الإداري - الإمارات العربية المتحدة ",
+            "greek": "Διευθύνων Εταίρος - ΗΑΕ",
+            "french": "Associé gérant - UAE",
+            "it": "Managing Partner - UAE"
+        },
+        "descripation": {
+            "eng": [
+                "LLM Corporate & Commercial Law | Technology, Media & Telecommunications",
+                "With over two decades of corporate expertise, Jonathan Hirasawa Ashton holds an LLM from Queen Mary University of London, specialising in Technology, Media and Telecommunications law. His focus is on corporate and commercial legal frameworks within the digital economy.",
+                "His work centres on digital regulation, intellectual property structuring, copyright, licensing and AI governance. He has a particular interest in how emerging technologies are regulated and how businesses can structure IP and data assets effectively across jurisdictions.",
+                "Jonathan works on commercial contracts, IP assignments, licensing models and governance frameworks, with an emphasis on clarity, enforceability and cross-border risk management."
 
+            ],
+            "ar": [
+                "ماجستير في القانون التجاري والشركات | التكنولوجيا والإعلام والاتصالات",
+                "يتمتع جوناثان هيراساوا أشتون بخبرة تزيد عن عقدين في مجال الشركات، وهو حاصل على ماجستير في القانون من جامعة كوين ماري في لندن، متخصص في قانون التكنولوجيا والإعلام والاتصالات. ينصب تركيزه على الأطر القانونية التجارية والشركات في الاقتصاد الرقمي.",
+                "تتركز أعماله على التنظيم الرقمي، وهيكلة الملكية الفكرية، وحقوق النشر، والترخيص، وحوكمة الذكاء الاصطناعي. لديه اهتمام خاص بكيفية تنظيم التقنيات الناشئة وكيفية قيام الشركات بهيكلة أصول الملكية الفكرية والبيانات بشكل فعال عبر الولايات القضائية.",
+                "يعمل جوناثان على العقود التجارية، وتخصيصات الملكية الفكرية، ونماذج الترخيص، وأطر الحوكمة، مع التركيز على الوضوح، وقابلية التنفيذ، وإدارة المخاطر عبر الحدود."
+            ],
+            "greek": ["Μεταπτυχιακό Δίπλωμα (LLM) στο Εταιρικό και Εμπορικό Δίκαιο | Τεχνολογία, Μέσα Ενημέρωσης και Τηλεπικοινωνίες",
+                "Με πάνω από δύο δεκαετίες εμπειρίας στον εταιρικό τομέα, ο Jonathan Hirasawa Ashton είναι κάτοχος μεταπτυχιακού διπλώματος (LLM) από το Queen Mary University of London, με ειδίκευση στο δίκαιο της Τεχνολογίας, των Μέσων Ενημέρωσης και των Τηλεπικοινωνιών. Εστιάζει στα εταιρικά και εμπορικά νομικά πλαίσια στο πλαίσιο της ψηφιακής οικονομίας.",
+                "Το έργο του επικεντρώνεται στη ψηφιακή ρύθμιση, τη διαμόρφωση της πνευματικής ιδιοκτησίας, τα πνευματικά δικαιώματα, τις άδειες χρήσης και τη διακυβέρνηση της τεχνητής νοημοσύνης. Έχει ιδιαίτερο ενδιαφέρον για τον τρόπο ρύθμισης των αναδυόμενων τεχνολογιών και για το πώς οι επιχειρήσεις μπορούν να διαμορφώσουν αποτελεσματικά τα περιουσιακά στοιχεία πνευματικής ιδιοκτησίας και δεδομένων σε διάφορες δικαιοδοσίες.",
+                "Ο Jonathan ασχολείται με εμπορικές συμβάσεις, εκχωρήσεις πνευματικής ιδιοκτησίας, μοντέλα αδειοδότησης και πλαίσια διακυβέρνησης, με έμφαση στη σαφήνεια, την εκτελεστότητα και τη διασυνοριακή διαχείριση κινδύνων."
+            ],
+            "french": ["LL.M. en droit des sociétés et droit commercial | Technologie, médias et télécommunications",
+                "Fort de plus de vingt ans d'expérience dans le domaine des entreprises, Jonathan Hirasawa Ashton est titulaire d'un LL.M. de l'université Queen Mary de Londres, avec une spécialisation en droit des technologies, des médias et des télécommunications. Il se concentre sur les cadres juridiques relatifs aux entreprises et au commerce dans le contexte de l'économie numérique.",
+                "Son travail porte principalement sur la réglementation numérique, la structuration de la propriété intellectuelle, le droit d'auteur, les licences et la gouvernance de l'IA. Il s'intéresse tout particulièrement à la manière dont les technologies émergentes sont réglementées et à la façon dont les entreprises peuvent structurer efficacement leurs actifs de propriété intellectuelle et leurs données dans différentes juridictions.",
+                "Jonathan travaille sur les contrats commerciaux, les cessions de propriété intellectuelle, les modèles de licence et les cadres de gouvernance, en mettant l'accent sur la clarté, l'applicabilité et la gestion des risques transfrontaliers."
+            ],
+            "it": ["Master in Diritto societario e commerciale | Tecnologia, media e telecomunicazioni",
+                "Con oltre vent'anni di esperienza nel settore societario, Jonathan Hirasawa Ashton ha conseguito un Master presso la Queen Mary University di Londra, specializzandosi in diritto delle tecnologie, dei media e delle telecomunicazioni. La sua attività si concentra sui quadri giuridici societari e commerciali nell'ambito dell'economia digitale.",
+                "Il suo lavoro verte sulla regolamentazione digitale, la strutturazione della proprietà intellettuale, il diritto d'autore, le licenze e la governance dell'intelligenza artificiale. Nutre un interesse particolare per le modalità di regolamentazione delle tecnologie emergenti e per il modo in cui le imprese possono strutturare efficacemente la proprietà intellettuale e le risorse di dati in diverse giurisdizioni.",
+                "Jonathan si occupa di contratti commerciali, cessioni di proprietà intellettuale, modelli di licenza e quadri di governance, ponendo l'accento sulla chiarezza, l'applicabilità e la gestione dei rischi transfrontalieri."
+            ]
+        },
+        "linkedin": "https://www.linkedin.com/in/jonathanhashton?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+    },
     {
         "image": "../assets/images/members/member6.png",
         "name": {

@@ -47,7 +47,7 @@ let translationsData = {
     pathPage: "ΑΡΧΙΚΗ",
     titlePage: "Επικοινώνησε μαζί μας",
     name: "Ονοματεπώνυμο",
-    emailcon: "Mail",
+    emailcon: "Ηλεκτρονικό ταχυδρομείο ",
     phone: "Τηλέφωνο",
     Subject: "Αντικείμενα",
     Message: "Μήνυμα",

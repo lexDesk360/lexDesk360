@@ -10,15 +10,13 @@ if (lang == null && lang != "eng" && lang != "ar") {
 if (lang == "ar") {
   body.classList.add("rtl");
 }
-if(lang == "greek"){
+if (lang == "greek") {
   body.classList.add("greek");
-
 }
-if(lang == "it"){
+if (lang == "it") {
   body.classList.add("it");
-
 }
-if(lang == "french"){
+if (lang == "french") {
   body.classList.add("french");
 }
 
@@ -51,7 +49,7 @@ function renderData() {
       MeanBusiness: "Where Lawyers Mean Business",
       BussinessDes:
         "We’re not a traditional law firm. We’re a corporate legal platform built for today’s fast-moving businesses.",
-      OurServices: "Our Services",
+      OurServicess: "Our Services",
       titleServices: "Four Solutions. Infinite Possibilities.",
       ViewAll: "View All",
       LATESTNEWS: "NEWS & blogs",
@@ -75,7 +73,7 @@ function renderData() {
       MeanBusiness: "حيث يجمع المحامون بين القانون والأعمال",
       BussinessDes:
         "لسنا مكتب محاماة تقليدي. نحن منصة قانونية للشركات صُممت لتخدم أعمال اليوم السريعة",
-      OurServices: "خدماتنا ",
+      OurServicess: "خدماتنا ",
       titleServices: "أربع حلول، وإمكانات بلا حدود.",
       ViewAll: "عرض الكل",
       LATESTNEWS: "الأخبار والمدونات",
@@ -99,7 +97,7 @@ function renderData() {
       MeanBusiness: "ΟΠΟΥ ΟΙ ΔΙΚΗΓΟΡΟΙ ΜΙΛΟΥΝ ΓΙΑ ΕΠΙΧΕΙΡΗΣΕΙΣ.",
       BussinessDes:
         "Δεν είμαστε μια παραδοσιακή εταιρεία. Είμαστε μια εταιρική νομική πλατφόρμα, σχεδιασμένη για τις σημερινές ταχέως αναπτυσσόμενες επιχειρήσεις.",
-      OurServices: "Οι υπηρεσίες μας",
+      OurServicess: "Οι υπηρεσίες μας  ",
       titleServices: "Τέσσερις λύσεις. Άπειρες δυνατότητες.",
       ViewAll: "Προβολή όλων ",
       LATESTNEWS: "Νέα και άρθρα",
@@ -123,7 +121,7 @@ function renderData() {
       MeanBusiness: "Là où les avocats parlent business",
       BussinessDes:
         "Nous ne sommes pas un cabinet d’avocats traditionnel. Nous sommes une plateforme juridique d’entreprise conçue pour les entreprises à croissance rapide d’aujourd’hui.",
-      OurServices: "Nos services",
+      OurServicess: "Nos services",
       titleServices: "Quatre solutions. Des possibilités infinies.",
       ViewAll: "Voir tout",
       LATESTNEWS: "ACTUALITÉS & BLOG",
@@ -145,8 +143,9 @@ function renderData() {
       aboutLink: "Chi è LexDesk360",
       Explore: "Explore More",
       MeanBusiness: "DOVE GLI AVVOCATI PARLANO IL LINGUAGGIO DEL BUSINESS",
-      BussinessDes: "Non siamo uno studio legale tradizionale. Siamo una piattaforma legale corporate, costruita per le aziende dinamiche e in rapida evoluzione di oggi.",
-      OurServices: "I NOSTRI SERVIZI",
+      BussinessDes:
+        "Non siamo uno studio legale tradizionale. Siamo una piattaforma legale corporate, costruita per le aziende dinamiche e in rapida evoluzione di oggi.",
+      OurServicess: "I NOSTRI SERVIZI",
       titleServices: "Quattro soluzioni. Possibilità infinite.",
       ViewAll: "Visualizza tutto",
       LATESTNEWS: "NEWS & blogs",
@@ -160,6 +159,7 @@ function renderData() {
       KnowMore: "Scopri di più",
       READMORE: "LEGGI DI PIÙ",
     },
+    
   };
   document.querySelectorAll("[data-translate]").forEach((el) => {
     const key = el.getAttribute("data-translate");
