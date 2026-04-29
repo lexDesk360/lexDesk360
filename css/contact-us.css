@@ -5,9 +5,14 @@
 #services-content {
   position: relative;
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 #services-content .form {
   width: 100%;
@@ -17,9 +22,14 @@
   margin-bottom: 3vw;
 }
 #services-content .group {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   width: 100%;
 }
 #services-content .group.p5 {
@@ -43,8 +53,13 @@
   padding: 0 5vw;
 }
 #services-content .tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   width: 100%;
 }
 #services-content .tabs .tab {
@@ -54,15 +69,20 @@
   font-size: 2vw;
   font-family: Oswald;
   color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin: 0.5vw 0;
   letter-spacing: 0.1vw;
   cursor: pointer;
 }
 #services-content .tabs .tab.active::before {
   content: "";
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   background-image: url(../assets/images/point.png);
   width: 0.8vw;
   height: 0.8vw;
@@ -71,26 +91,37 @@
 }
 #services-content .content {
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 #services-content .content .tab-content {
   display: none;
 }
 #services-content .content .tab-content.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 #services-content .content .tab-content .row {
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   position: relative;
   margin-bottom: 7vw;
 }
 #services-content .content .tab-content .row.start {
-  justify-content: start;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
 }
 #services-content .content .tab-content .row.end {
-  justify-content: end;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
 }
 #services-content .content .tab-content .row .location {
   width: 40vw;
@@ -101,18 +132,26 @@
   height: 100%;
   -webkit-user-select: none;
      -moz-user-select: none;
+      -ms-user-select: none;
           user-select: none;
 }
 #services-content .content .tab-content .row .bg-blue {
   background-image: url(../assets/images/div.png);
   background-size: 100% 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   padding: 0 2vw 0 4vw;
   width: 27vw;
   height: 30vw;
   position: absolute;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 #services-content .content .tab-content .row .bg-blue.end {
   top: -3vw;
@@ -147,8 +186,12 @@
   width: 100%;
   height: 20vw;
   border-left: 0.1vw solid rgba(255, 255, 255, 0.3);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: end;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
 }
 #services-content .group-inputs {
   width: 46%;
@@ -180,9 +223,15 @@
     padding: 0 5vw;
   }
   #services-content .tabs {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: unset;
-    flex-wrap: wrap;
+    -webkit-box-orient: unset;
+    -webkit-box-direction: unset;
+        -ms-flex-direction: unset;
+            flex-direction: unset;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
     width: 100%;
   }
   #services-content .tabs .tab {
@@ -190,10 +239,13 @@
     font-size: 4vw;
     margin: 0.5vw 1vw;
     letter-spacing: 0.1vw;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    -webkit-transition: text-align 0.3s;
     transition: text-align 0.3s;
   }
   #services-content .tabs .tab.active {
@@ -204,24 +256,36 @@
   }
   #services-content .content {
     width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
   }
   #services-content .content .tab-content {
     display: none;
   }
   #services-content .content .tab-content.active {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
   }
   #services-content .content .tab-content .row {
     height: 68vh;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
   }
   #services-content .content .tab-content .row.start {
-    justify-content: end;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
   }
   #services-content .content .tab-content .row.end {
-    justify-content: end;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: end;
   }
   #services-content .content .tab-content .row .location {
     width: 100%;
@@ -232,7 +296,10 @@
     width: 75vw;
     height: 75vw;
     position: absolute;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
   }
   #services-content .content .tab-content .row .bg-blue.end {
     top: -3vw;
@@ -255,10 +322,14 @@
     width: 100%;
     height: 20vw;
     border-left: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: end;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: end;
   }
   #services-content .group-inputs {
     width: 100%;
   }
-}/*# sourceMappingURL=contact-us.css.map */
+}

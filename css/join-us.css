@@ -5,15 +5,25 @@
 #services-content {
   position: relative;
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   top: -5vw;
 }
 #services-content .group {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   width: 90%;
   padding: 0 5vw;
 }
@@ -24,8 +34,13 @@
   width: 65%;
 }
 #services-content .tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   width: 100%;
 }
 #services-content .tabs .tab {
@@ -35,15 +50,20 @@
   font-size: 2vw;
   font-family: Oswald;
   color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin: 0.5vw 0;
   letter-spacing: 0.1vw;
   cursor: pointer;
 }
 #services-content .tabs .tab.active::before {
   content: "";
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   background-image: url(../assets/images/point.png);
   width: 0.8vw;
   height: 0.8vw;
@@ -59,9 +79,15 @@
 }
 #services-content .content {
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 #services-content .content .big-title {
   margin-top: 2vw;
@@ -77,8 +103,11 @@
   display: none;
 }
 #services-content .content .tab-content.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 #services-content .profileFile {
   display: none;
@@ -104,17 +133,25 @@
     width: 100%;
   }
   #services-content .tabs {
-    flex-direction: unset;
+    -webkit-box-orient: unset;
+    -webkit-box-direction: unset;
+        -ms-flex-direction: unset;
+            flex-direction: unset;
     width: 100%;
-    flex-wrap: wrap;
-    justify-content: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   #services-content .tabs .tab {
     width: 35vw;
     font-size: 4vw;
     margin: 0.5vw 1vw;
     letter-spacing: 0.1vw;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     overflow: hidden;
   }
   #services-content .tabs .tab.active {
@@ -133,4 +170,4 @@
     font-size: 8vw;
     line-height: 10vw;
   }
-}/*# sourceMappingURL=join-us.css.map */
+}
