@@ -114,9 +114,9 @@ const translationsData = {
   it: {
     pathPage: "Home",
     titlePage: "JOIN US INTERNATIONAL",
-    "tab1-title": "Counsel",
-    "tab2-title": "International Network Law Firm",
-    "tab3-title": "Channel Partner",
+    "tab1-title": "Consulente",
+    "tab2-title": "Studio Legale Con Rete Internazionale",
+    "tab3-title": "Partner Di Canale",
     "tab4-title": "AVVOCATI",
     "tab5-title": "Carriere",
 

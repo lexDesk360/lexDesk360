@@ -88,8 +88,8 @@ const values = {
     },
     {
       id: 3,
-      name: "Innovation with Purpose",
-      des: "Smarter Solutions for Real Challenges",
+      name: "Καινοτομία με σκοπό",
+      des: "Εξυπνότερες λύσεις για πραγματικές προκλήσεις",
       icon: "bi-lightbulb",
     },
     {
@@ -304,7 +304,7 @@ function renderData() {
     },
     french: {
       pathpage: "Accueil",
-      titlepage: "À propos",
+      titlepage: "À propos",
       titleAbout: "SOLUTIONS JURIDIQUES INTERNATIONALES INTÉGRÉES",
       desAbout1:
         "LexDesk360 est une plateforme de solutions juridiques de nouvelle génération, conçue pour les entreprises à forte croissance, actives à l’international et qui ont besoin d’un accompagnement juridique et conformité en phase avec leur rythme.",

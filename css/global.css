@@ -1103,9 +1103,9 @@ body,
     #team-content .toggleTab .tab p {
         text-align: center;
     }
-    #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
+    /* #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
         text-align: center;
-    }
+    } */
     #network-content .network .content-text {
         width: 52vw;
     }
