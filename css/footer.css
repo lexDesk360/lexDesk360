@@ -5,24 +5,14 @@
   z-index: 10000;
 }
 #footer .content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-between;
   width: 100%;
 }
 #footer .content .col {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
 }
 #footer .content .col.w30f {
   width: 30%;
@@ -46,18 +36,13 @@
 #footer .content .col .list p {
   font-size: 1vw;
   font-family: Montserrat;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   margin-top: 0.8vw;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 #footer .content .col .list p::before {
   content: "";
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   background-image: url(../assets/images/point.png);
   width: 0.5vw;
   height: 0.5vw;
@@ -65,14 +50,9 @@
   margin: 0.5vw;
 }
 #footer .content .col .listServices .rowList {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  flex-wrap: wrap;
+  align-items: center;
   margin-top: 0.8vw;
 }
 #footer .content .col .listServices .rowList .point {
@@ -85,9 +65,7 @@
 #footer .content .col .listServices .rowList p {
   font-size: 1vw;
   font-family: Montserrat;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   margin: 0;
   width: 5vw;
   text-align: start;
@@ -99,12 +77,8 @@
   margin: 1vw 0;
 }
 #footer .content .col .groupInput {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   border-bottom: 0.1vw solid white;
   padding-bottom: 0.2vw;
   margin: 1vw 0;
@@ -163,28 +137,16 @@
 }
 
 .btns {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
 }
 .btns .btn-ploicy {
   width: 8vw;
   height: 2.5vw;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  align-items: center;
+  justify-content: center;
   border: 0.1vw solid #02153C;
   cursor: pointer;
 }
@@ -218,15 +180,9 @@
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.5);
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
 }
 #popupPolicey .popup-content {
   background: #fff;
@@ -342,12 +298,8 @@
     width: 20vw;
   }
   #footer .content .col .groupInput {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    align-items: center;
     border-bottom: 0.1vw solid white;
     padding-bottom: 0.2vw;
     margin: 2vw 0;
@@ -386,8 +338,7 @@
     font-size: 3.5vw;
   }
   .btns {
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
+    justify-content: space-around;
   }
   .btns .btn-ploicy {
     width: 20vw;
@@ -427,4 +378,4 @@
     height: 9.5vw;
     text-align: center;
   }
-}
+}/*# sourceMappingURL=footer.css.map */

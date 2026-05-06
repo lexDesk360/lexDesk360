@@ -47,7 +47,7 @@ let networkMidwest = [
       eng: "  Our Law Firms ",
       ar: "شركاؤنا من مكاتب المحاماة",
       it: "I nostri studi legali",
-      french: "Our Law Firms",
+      french: "NOS CABINETS D'AVOCATS",
       greek: "Our Law Firms"
     },
     about: {
@@ -205,7 +205,7 @@ let networkMidwest = [
     },
     sector: {
       eng: {
-        des: "Sowaidan & Partners’ experience spans a wide range of industries, including",
+        des: "Sowaidan & Associates’ experience spans a wide range of industries, including",
         content: [{
             des: "Banking, finance, and capital markets",
           },
@@ -374,7 +374,7 @@ let networkMidwest = [
       eng: "  Our Law Firms ",
       ar: "شركاؤنا من مكاتب المحاماة",
       it: "I nostri studi legali",
-      french: "Our Law Firms",
+      french: "NOS CABINETS D'AVOCATS",
       greek: "Our Law Firms"
     },
     about: {
@@ -653,7 +653,7 @@ const translationsData = {
   },
   french: {
     pathPage: "Accueil ",
-    titlePage: "Our Law Firms",
+    titlePage: "NOS CABINETS D'AVOCATS",
     moreToCome: "",
     cominfSoon: "",
     viewMore: "Voir plus",

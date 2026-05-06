@@ -45,7 +45,7 @@ const item =   {
     eng: "  Our Law Firms ",
     ar: "شركاؤنا من مكاتب المحاماة",
     it: "I nostri studi legali",
-    french: "Our Law Firms",
+    french: "NOS CABINETS D'AVOCATS",
     greek: "Our Law Firms"
   },
   about: {
@@ -203,7 +203,7 @@ const item =   {
   },
   sector: {
     eng: {
-      des: "Sowaidan & Partners’ experience spans a wide range of industries, including",
+      des: "Sowaidan & Associates’ experience spans a wide range of industries, including",
       content: [{
           des: "Banking, finance, and capital markets",
         },
@@ -356,7 +356,7 @@ const translations = {
     view: "View Partner Website",
     parac: "Practice Areas ",
     sector: "Sector Expertise",
-    name:"Sowaidan & Partners"
+    name:"Sowaidan & Associates"
   },
   ar: {
     home: "الصفحة الرئيسية",
@@ -374,7 +374,7 @@ const translations = {
     view: "",
     parac: "AREE DI ATTIVITÀ",
     sector: "COMPETENZE SETTORIALI",
-    name:"Sowaidan & Partners"
+    name:"Sowaidan & Associates"
   },
   greek: {
     home: "Αρχκή",
@@ -383,7 +383,7 @@ const translations = {
     view: "",
     parac: "ΤΟΜΕΙΣ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ  ",
     sector: "ΕΞΕΙΔΙΚΕΥΣΗ ΑΝΑ ΤΟΝ ΚΛΑΔΟ ",
-    name:"Sowaidan & Partners"
+    name:"Sowaidan & Associates"
   },
   french: {
     home: "Accueil",
@@ -392,7 +392,7 @@ const translations = {
     view: "",
     parac: "DOMAINES D'ACTIVITÉ",
     sector: "EXPERTISE SECTORIELLE",
-    name:"Sowaidan & Partners"
+    name:"Sowaidan & Associates"
   },
 };
 const translationsData = {

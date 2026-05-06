@@ -33,7 +33,7 @@ let networks = [
       ar: "مصر",
     },
     name: {
-      eng: "LexDesk360 - Sowaidan & Partners",
+      eng: "LexDesk360 - Sowaidan & Associates",
       ar: "LexDesk360 - سويدان وشركاؤه",
     },
     titlePage: {
@@ -42,7 +42,7 @@ let networks = [
     },
     about: {
       eng: [
-        "Sowaidan & Partners is a full-service Egyptian law firm founded in 2025 by Walid Sowaidan. The firm delivers business-critical counsel across corporate, commercial, and regulatory matters, complex disputes, and high-stakes investigations. Known for partner-led service and clear, actionable advice, the team helps clients anticipate risk, resolve disputes efficiently, and achieve strategic objectives",
+        "Sowaidan & Associates is a full-service Egyptian law firm founded in 2025 by Walid Sowaidan. The firm delivers business-critical counsel across corporate, commercial, and regulatory matters, complex disputes, and high-stakes investigations. Known for partner-led service and clear, actionable advice, the team helps clients anticipate risk, resolve disputes efficiently, and achieve strategic objectives",
       ],
       ar: [
         "سويدان وشركاه هي مكتب محاماة مصرية متكاملة الخدمات تأسست عام 2025 على يد وليد سويدان. تقدم الشركة استشارات مهمة في الشؤون المؤسسية والتجارية والتنظيمية، والنزاعات المعقدة، والتحقيقات عالية المخاطر. يشتهر المكتب بخدمات يقودها الشركاء ونصائح واضحة قابلة للتنفيذ تساعد العملاء على توقع المخاطر وحل النزاعات بكفاءة وتحقيق الأهداف الاستراتيجية. ",
@@ -110,7 +110,7 @@ let networks = [
     },
     sector: {
       eng: {
-        des: "Sowaidan & Partners’ experience spans a wide range of industries, including",
+        des: "Sowaidan & Associates’ experience spans a wide range of industries, including",
         content: [
           {
             des: "Banking, finance, and capital markets",
@@ -164,7 +164,7 @@ let networks = [
     },
     within: {
       eng: [
-        "As part of the LexDesk360 Global Network of Law Firms, Sowaidan & Partners provides on-the-ground counsel in Egypt while coordinating seamlessly with regional and international offices. All matters follow LexDesk360 standards for conflict checks, confidentiality, and reporting. The firm offers flexible engagement formats, monthly retainers, or project-based mandates, delivered by a dedicated multidisciplinary team.",
+        "As part of the LexDesk360 Global Network of Law Firms, Sowaidan & Associates provides on-the-ground counsel in Egypt while coordinating seamlessly with regional and international offices. All matters follow LexDesk360 standards for conflict checks, confidentiality, and reporting. The firm offers flexible engagement formats, monthly retainers, or project-based mandates, delivered by a dedicated multidisciplinary team.",
       ],
       ar: [
         "بصفته جزءًا من شبكة LexDesk360 العالمية لمكاتب المحاماة، يقدم مكتب سويدان وشركاه استشارات ميدانية في مصر مع تنسيق سلس مع المكاتب الإقليمية والدولية. تُدَار القضايا جميعها وفقًا لمعايير LexDesk360 الخاصة بفحص تضارب المصالح، والسرية، وإعداد التقارير. كما يقدم المكتب أشكالًا مرنة للتعاون، سواء عبر أتعاب شهرية أو مشروعات محددة، ينفذها فريق متعدد التخصصات.",

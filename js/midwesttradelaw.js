@@ -45,7 +45,7 @@ const item = {
     eng: "  Our Law Firms ",
     ar: "شركاؤنا من مكاتب المحاماة",
     it: "I nostri studi legali",
-    french: "Our Law Firms",
+    french: "NOS CABINETS D'AVOCATS",
     greek: "Our Law Firms"
   },
   about: {

@@ -734,7 +734,10 @@ body,
     }
 }
 
-
+#services-content .border-left {
+    height: auto;
+  
+}
 
 @media (orientation: portrait) {
     .logo {
@@ -1077,9 +1080,12 @@ body,
     #team-content .toggleTab .tab p {
         text-align: center;
     }
-    #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
+
+    #team-content .tab-content #group-members .member .title-small p,
+    #team-content .tab-content #our-people .member .title-small p {
         text-align: center;
     }
+
     #network-content .network .content-text {
         width: 52vw;
     }
@@ -1100,13 +1106,41 @@ body,
     .group.h40w {
         height: 48vw;
     }
+
     #team-content .toggleTab .tab p {
         text-align: center;
     }
+
     /* #team-content .tab-content #group-members .member .title-small p, #team-content .tab-content #our-people .member .title-small p {
         text-align: center;
     } */
     #network-content .network .content-text {
         width: 52vw;
     }
+}
+
+.french {
+    .container-bg .menu-content .col .page-name p {
+        font-family: Oswald;
+        font-size: 1.8vw;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-top: 1vw;
+    }
+
+    .container-bg {
+        & .opacityDiv {
+            & .path {
+                .title-page {
+                    font-size: 3.5vw;
+                }
+            }
+        }
+    }
+
+    #services-content .tabs .tab {
+        font-size: 1.2vw;
+    }
+    #services-content .content .big-title p {
+        font-size: 3.5vw;}
 }

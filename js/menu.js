@@ -40,7 +40,7 @@ const translations = {
     des1Menu: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
     titleMenu2Menu: "LexDesk360 - International Limited",
     des2Menu: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
-    titleMenu3Menu: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3Menu: "LexDesk360 - Sowaidan & Associates",
     des3Menu: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
   },
   ar: {
@@ -63,7 +63,7 @@ const translations = {
     des1Menu: "الفجيرة – الأبراج التوأم، ص.ب 4422 الفجيرة، الإمارات العربية المتحدة ",
     titleMenu2Menu: "  LexDesk360 - الدولية المحدودة",
     des2Menu: "غالاطاس، 5 أيوس أثناسيوس، 4106، ليماسول، قبرص ",
-    titleMenu3Menu: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3Menu: "LexDesk360 - Sowaidan & Associates",
     des3Menu: "مبنى ريحانة، زهراء المعادي، القاهرة، مصر  ",
   },
   greek: {
@@ -86,7 +86,7 @@ const translations = {
     des1Menu: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
     titleMenu2Menu: "LexDesk360 - International Limited",
     des2Menu: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
-    titleMenu3Menu: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3Menu: "LexDesk360 - Sowaidan & Associates",
     des3Menu: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
   },
   french: {
@@ -109,7 +109,7 @@ const translations = {
     des1Menu: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
     titleMenu2Menu: "LexDesk360 - International Limited",
     des2Menu: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
-    titleMenu3Menu: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3Menu: "LexDesk360 - Sowaidan & Associates",
     des3Menu: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
   },
   it: {
@@ -132,7 +132,7 @@ const translations = {
     des1Menu: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
     titleMenu2Menu: "LexDesk360 - International Limited",
     des2Menu: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
-    titleMenu3Menu: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3Menu: "LexDesk360 - Sowaidan & Associates",
     des3Menu: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
   },
 };
