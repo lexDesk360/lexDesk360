@@ -1,4 +1,126 @@
- [{
+ [
+     
+   {
+     "eng": {
+       "id": 16 ,
+       "name": "Is Your Contract Portfolio Protecting You — Or Exposing You?",
+       "date": "11th May, 2026",
+       "des": "For most businesses, the honest answer to the question above is: they don’t know. And not knowing, right now, is expensive.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "Problem With Contracts Written for Normal Times",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Commercial agreements are typically drafted when conditions are stable, and counterparties are motivated to perform. They set out timelines, payment obligations, penalties, and exclusivities — and they assume a world that functions more or less as expected. When that assumption breaks down, the contract does not disappear. It stays in force, and someone is left holding the risk. The question a contract audit answers is: in your portfolio, who is that someone? Under the UAE Civil Code(Federal Law No.5 of 1985), Article 249 gives courts the power to reduce a party’ s obligations to a“ reasonable level” where exceptional public circumstances make performance excessively burdensome— even if full impossibility cannot be proven.Article 273 goes further, extinguishing the obligation entirely where an external event renders performance impossible.These protections are real, but they are not automatic.They require the affected party to have documented their position, acted reasonably, and followed any procedural requirements set out in the contract.",
+             "Businesses that cannot demonstrate those things are unlikely to benefit from them."
+
+           ]
+         },
+         {
+           "name": "Force Majeure: Strong on Paper, Weak in Practice",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Most commercial contracts include a force majeure clause. In practice, many of those clauses are poorly drafted, operationally ignored, or procedurally defective the moment they are invoked. The most common failure is notice.UAE contracts routinely require prompt written notification of a force majeure event, followed by ongoing updates and evidence of mitigation.Missing those steps— even when the disruption itself is genuine and well documented— can defeat the claim before it reaches a court or arbitral panel.",
+             "For businesses operating in or through DIFC or ADGM, the bar is higher still. Under DIFC Law No. 6 of 2004 and the ADGM Contract Regulations, English common law principles apply: force majeure must render performance legally or physically impossible, not merely commercially inconvenient or more costly. A clause that would succeed under the UAE Civil Code may fail entirely under DIFC jurisdiction if the drafting is not precise. Across the broader GCC, the landscape varies further. Saudi Arabia’s Civil Transactions Law (Royal Decree M/191, 2021) recognizes frustration of contract but places the burden of proof firmly on the party seeking relief. Kuwait’s Civil Code (Law No. 67 of 1980) and Qatar’s Civil Code (Law No. 22 of 2004) each recognise hardship doctrines with different thresholds and notice requirements. If your business holds agreements governed by more than one jurisdiction — as most regionally active companies do — you are operating under materially different legal standards simultaneously."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "A contract audit maps those differences before they become disputes.",
+           "des": []
+         },
+         {
+           "name": "What a Contract Audit Actually Does",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "A structured contract audit is not a legal health check in the abstract. It is a systematic review of your active agreements against the specific conditions you are operating in, with three practical outputs.",
+             "First, it identifies which contracts carry enforceable protection and which do not. This means reviewing force majeure language, governing law clauses, dispute resolution mechanisms, and notice requirements across your portfolio — not just the headline agreements, but sub contracts, service agreements, and supplier terms where the liability chain is often longest. Second, it identifies where your obligations to third parties remain live even when your upstream suppliers have failed to perform. The fact that your logistics provider has successfully invoked force majeure does not release you from your obligations to your own customers. Many businesses discover this exposure only after a claim is filed. Third, it produces a priority action list: which contracts need protective variation now, which counterparties should be engaged proactively, and where formal notice of disruption should be issued without delay."
+           ]
+         },
+         {
+           "name": "The Cost of Waiting",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "Legal disputes arising from performance failures are slow, expensive, and reputationally damaging. An arbitration proceeding under the DIAC or ADGM courts can run for months or years. The cost of a well-documented contract audit — conducted before a dispute arises — is a fraction of the cost of defending or pursuing one. The businesses that emerge from periods of disruption in the strongest position are those that treat legal risk as operational risk: visible, measurable, and managed. A contract audit is how that process starts."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "LexDesk360 is a UAE based alternative legal services provider offering senior counsel at accessible pricing. Our LexFend Contract Audit reviews your active agreements, maps your force majeure exposure across jurisdictions, and delivers a clear action plan. Contact us to arrange an initial assessment."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 16,
+       "name": "هل تحميك محفظة عقودك أم تعرضك للخطر؟",
+       "date": "11 مايو 2026",
+       "des": "بالنسبة لمعظم الشركات، فإن الإجابة الصادقة على السؤال أعلاه هي: إنها لا تعرف. وعدم المعرفة، في الوقت الحالي، أمر مكلف.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "مشكلة العقود المكتوبة لأوقات عادية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "عادةً ما تُصاغ الاتفاقيات التجارية عندما تكون الظروف مستقرة، ويكون لدى الأطراف المقابلة الدافع للوفاء بالتزاماتها. وهي تحدد الجداول الزمنية، والتزامات الدفع، والعقوبات، وحقوق الحصرية — وتفترض أن العالم يسير بشكل أو بآخر كما هو متوقع. وعندما ينهار هذا الافتراض، لا يختفي العقد. بل يظل ساري المفعول، ويبقى شخص ما يتحمل المخاطر. السؤال الذي تجيب عليه مراجعة العقود هو: في محفظتك، من هو هذا الشخص؟ بموجب القانون المدني لدولة الإمارات العربية المتحدة (القانون الاتحادي رقم 5 لعام 1985)، تمنح المادة 249 المحاكم سلطة تخفيض التزامات أحد الأطراف إلى «مستوى معقول» عندما تجعل الظروف العامة الاستثنائية الأداء عبئًا مفرطًا — حتى لو تعذر إثبات الاستحالة التامة. وتذهب المادة 273 إلى أبعد من ذلك، حيث تلغي الالتزام تمامًا عندما يؤدي حدث خارجي إلى استحالة الأداء. هذه الحماية حقيقية، لكنها ليست تلقائية. فهي تتطلب من الطرف المتضرر أن يكون قد وثق موقفه، وتصرف بشكل معقول، واتبع أي متطلبات إجرائية منصوص عليها في العقد.",
+             "من غير المرجح أن تستفيد الشركات التي لا تستطيع إثبات هذه الأمور منها."
+           ]
+         },
+         {
+           "name": "القوة القاهرة: قوية على الورق، ضعيفة في الممارسة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تتضمن معظم العقود التجارية بنداً بشأن القوة القاهرة. في الممارسة العملية، تكون العديد من هذه البنود سيئة الصياغة، أو يتم تجاهلها من الناحية التشغيلية، أو تكون معيبة من الناحية الإجرائية لحظة الاحتجاج بها. أكثر الأخطاء شيوعاً هو الإخطار. تتطلب عقود الإمارات العربية المتحدة بشكل روتيني إخطاراً كتابياً فورياً بوقوع حدث القوة القاهرة، يتبعه تحديثات مستمرة وأدلة على التخفيف. إن إغفال هذه الخطوات — حتى عندما يكون الاضطراب نفسه حقيقياً وموثقاً جيداً — يمكن أن يؤدي إلى رفض المطالبة قبل وصولها إلى المحكمة أو هيئة التحكيم.",
+             "بالنسبة للشركات التي تعمل في أو من خلال مركز دبي المالي العالمي (DIFC) أو سوق أبوظبي العالمي (ADGM)، فإن المعايير أعلى من ذلك. بموجب قانون مركز دبي المالي العالمي رقم 6 لعام 2004 ولوائح العقود الخاصة بسوق أبوظبي العالمي، تنطبق مبادئ القانون العام الإنجليزي: يجب أن تجعل القوة القاهرة الأداء مستحيلاً من الناحية القانونية أو المادية، وليس مجرد إزعاج تجاري أو تكلفة أعلى. قد يفشل بند قد ينجح بموجب القانون المدني لدولة الإمارات العربية المتحدة تماماً في ظل اختصاص مركز دبي المالي العالمي إذا لم تكن صياغته دقيقة. وعلى نطاق دول مجلس التعاون الخليجي الأوسع، يختلف الوضع بشكل أكبر. يعترف قانون المعاملات المدنية في المملكة العربية السعودية (المرسوم الملكي رقم M/191، 2021) بإبطال العقد، لكنه يضع عبء الإثبات بشكل قاطع على الطرف الذي يسعى للحصول على تعويض. يعترف كل من القانون المدني الكويتي (القانون رقم 67 لعام 1980) والقانون المدني القطري (القانون رقم 22 لعام 2004) بمبادئ المشقة مع عتبات ومتطلبات إخطار مختلفة. إذا كانت شركتك تمتلك اتفاقيات تخضع لأكثر من ولاية قضائية واحدة — كما هو الحال مع معظم الشركات النشطة في المنطقة — فأنت تعمل في الوقت نفسه بموجب معايير قانونية مختلفة جوهريًا."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "تحدد مراجعة العقود هذه الاختلافات قبل أن تتحول إلى نزاعات.",
+           "des": []
+         },
+         {
+           "name": "ما الذي تفعله مراجعة العقود فعليًا",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "مراجعة العقود المنظمة ليست مجرد فحص قانوني نظري. إنها مراجعة منهجية لاتفاقياتك السارية مقارنة بالظروف المحددة التي تعمل فيها، مع ثلاث مخرجات عملية.",
+             "أولاً، تحدد العقود التي تنطوي على حماية قابلة للتنفيذ وتلك التي لا تنطوي عليها. وهذا يعني مراجعة بنود القوة القاهرة، وبنود القانون الحاكم، وآليات تسوية النزاعات، ومتطلبات الإخطار عبر محفظتك — ليس فقط الاتفاقيات الرئيسية، بل العقود الفرعية، واتفاقيات الخدمة، وشروط الموردين حيث تكون سلسلة المسؤولية أطول في الغالب. ثانياً، يحدد المراجعة الحالات التي تظل فيها التزاماتكم تجاه الأطراف الثالثة سارية حتى في حالة إخفاق مورديكم في الأطراف الأولى في الوفاء بالتزاماتهم. فحقيقة أن مزود الخدمات اللوجستية الخاص بكم قد نجح في التذرع بالقوة القاهرة لا تعفيكم من التزاماتكم تجاه عملائكم. ولا تكتشف العديد من الشركات هذا التعرض للمخاطر إلا بعد تقديم مطالبة. ثالثاً، تنتج المراجعة قائمة بالإجراءات ذات الأولوية: أي العقود تحتاج إلى تعديل وقائي الآن، وأي الأطراف المقابلة يجب إشراكها بشكل استباقي، وأين يجب إصدار إشعار رسمي بالانقطاع دون تأخير."
+           ]
+         },
+         {
+           "name": "تكلفة الانتظار",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تكون النزاعات القانونية الناشئة عن الإخفاق في الأداء بطيئة ومكلفة وتضر بالسمعة. وقد تستمر إجراءات التحكيم أمام محاكم DIAC أو ADGM لشهور أو سنوات. وتبلغ تكلفة مراجعة العقد الموثقة جيدًا — والتي تُجرى قبل نشوء النزاع — جزءًا بسيطًا من تكلفة الدفاع في النزاع أو السعي إليه. الشركات التي تخرج من فترات الاضطراب في وضع أقوى هي تلك التي تعامل المخاطر القانونية على أنها مخاطر تشغيلية: مرئية وقابلة للقياس وإدارتها. وتبدأ هذه العملية من خلال مراجعة العقود."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "LexDesk360 هي شركة مقرها الإمارات العربية المتحدة تقدم خدمات قانونية بديلة، وتوفر استشارات قانونية رفيعة المستوى بأسعار معقولة. وتقوم خدمة LexFend Contract Audit الخاصة بنا بمراجعة اتفاقياتكم السارية، وتحديد مدى تعرضكم لحالات القوة القاهرة عبر مختلف الولايات القضائية، وتقديم خطة عمل واضحة. اتصلوا بنا لترتيب إجراء تقييم أولي."
+           ]
+         }
+       ]
+     }
+   }
+     ,{
      "eng": {
        "id": 1,
        "name": "The Future of Legal Work Isn’t AI—It’s What We Build With It",
@@ -3530,126 +3652,6 @@
            "des": [
              "قد لا يكون إعداد وصية من الأمور المريحة نفسياً، لكنه من أهم الخطوات لحماية مستقبل أسرتك. سواء اخترت التسجيل في DIFC أو ADJD، فإن وجود وصية معترف بها قانونياً يضمن تنفيذ رغباتك، وحماية أصولك، وتجنّب أسرتك مواجهة نزاعات أو تحديات قانونية غير ضرورية.",
              "للاستفسارات أو الاستشارات، يمكنك التواصل مع LexDesk360، المتخصصين في التخطيط للإرث والوصايا للمغتربين في الإمارات. فريقهم سيساعدك في صياغة وصية متوافقة مع القانون الإماراتي ومسجلة بشكل صحيح."
-           ]
-         }
-       ]
-     }
-   },
-   {
-     "eng": {
-       "id": 16 ,
-       "name": "Is Your Contract Portfolio Protecting You — Or Exposing You?",
-       "date": "11th May, 2026",
-       "des": "For most businesses, the honest answer to the question above is: they don’t know. And not knowing, right now, is expensive.",
-       "img": "../assets/images/news/new16.jpeg",
-       "content": [{
-           "name": "Problem With Contracts Written for Normal Times",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "Commercial agreements are typically drafted when conditions are stable, and counterparties are motivated to perform. They set out timelines, payment obligations, penalties, and exclusivities — and they assume a world that functions more or less as expected. When that assumption breaks down, the contract does not disappear. It stays in force, and someone is left holding the risk. The question a contract audit answers is: in your portfolio, who is that someone? Under the UAE Civil Code(Federal Law No.5 of 1985), Article 249 gives courts the power to reduce a party’ s obligations to a“ reasonable level” where exceptional public circumstances make performance excessively burdensome— even if full impossibility cannot be proven.Article 273 goes further, extinguishing the obligation entirely where an external event renders performance impossible.These protections are real, but they are not automatic.They require the affected party to have documented their position, acted reasonably, and followed any procedural requirements set out in the contract.",
-             "Businesses that cannot demonstrate those things are unlikely to benefit from them."
-
-           ]
-         },
-         {
-           "name": "Force Majeure: Strong on Paper, Weak in Practice",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "Most commercial contracts include a force majeure clause. In practice, many of those clauses are poorly drafted, operationally ignored, or procedurally defective the moment they are invoked. The most common failure is notice.UAE contracts routinely require prompt written notification of a force majeure event, followed by ongoing updates and evidence of mitigation.Missing those steps— even when the disruption itself is genuine and well documented— can defeat the claim before it reaches a court or arbitral panel.",
-             "For businesses operating in or through DIFC or ADGM, the bar is higher still. Under DIFC Law No. 6 of 2004 and the ADGM Contract Regulations, English common law principles apply: force majeure must render performance legally or physically impossible, not merely commercially inconvenient or more costly. A clause that would succeed under the UAE Civil Code may fail entirely under DIFC jurisdiction if the drafting is not precise. Across the broader GCC, the landscape varies further. Saudi Arabia’s Civil Transactions Law (Royal Decree M/191, 2021) recognizes frustration of contract but places the burden of proof firmly on the party seeking relief. Kuwait’s Civil Code (Law No. 67 of 1980) and Qatar’s Civil Code (Law No. 22 of 2004) each recognise hardship doctrines with different thresholds and notice requirements. If your business holds agreements governed by more than one jurisdiction — as most regionally active companies do — you are operating under materially different legal standards simultaneously."
-           ]
-         },
-         {
-           "name": "",
-           "small": "",
-           "smallBold": "A contract audit maps those differences before they become disputes.",
-           "des": []
-         },
-         {
-           "name": "What a Contract Audit Actually Does",
-           "small": "",
-           "smallBold": "",
-
-           "des": [
-             "A structured contract audit is not a legal health check in the abstract. It is a systematic review of your active agreements against the specific conditions you are operating in, with three practical outputs.",
-             "First, it identifies which contracts carry enforceable protection and which do not. This means reviewing force majeure language, governing law clauses, dispute resolution mechanisms, and notice requirements across your portfolio — not just the headline agreements, but sub contracts, service agreements, and supplier terms where the liability chain is often longest. Second, it identifies where your obligations to third parties remain live even when your upstream suppliers have failed to perform. The fact that your logistics provider has successfully invoked force majeure does not release you from your obligations to your own customers. Many businesses discover this exposure only after a claim is filed. Third, it produces a priority action list: which contracts need protective variation now, which counterparties should be engaged proactively, and where formal notice of disruption should be issued without delay."
-           ]
-         },
-         {
-           "name": "The Cost of Waiting",
-           "small": "",
-           "smallBold": "",
-
-           "des": [
-             "Legal disputes arising from performance failures are slow, expensive, and reputationally damaging. An arbitration proceeding under the DIAC or ADGM courts can run for months or years. The cost of a well-documented contract audit — conducted before a dispute arises — is a fraction of the cost of defending or pursuing one. The businesses that emerge from periods of disruption in the strongest position are those that treat legal risk as operational risk: visible, measurable, and managed. A contract audit is how that process starts."
-           ]
-         },
-         {
-           "name": "",
-           "small": "",
-           "smallBold": "",
-
-           "des": [
-             "LexDesk360 is a UAE based alternative legal services provider offering senior counsel at accessible pricing. Our LexFend Contract Audit reviews your active agreements, maps your force majeure exposure across jurisdictions, and delivers a clear action plan. Contact us to arrange an initial assessment."
-           ]
-         }
-       ]
-     },
-     "ar": {
-       "id": 16,
-       "name": "هل تحميك محفظة عقودك أم تعرضك للخطر؟",
-       "date": "11 مايو 2026",
-       "des": "بالنسبة لمعظم الشركات، فإن الإجابة الصادقة على السؤال أعلاه هي: إنها لا تعرف. وعدم المعرفة، في الوقت الحالي، أمر مكلف.",
-       "img": "../assets/images/news/new16.jpeg",
-       "content": [{
-           "name": "مشكلة العقود المكتوبة لأوقات عادية",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "عادةً ما تُصاغ الاتفاقيات التجارية عندما تكون الظروف مستقرة، ويكون لدى الأطراف المقابلة الدافع للوفاء بالتزاماتها. وهي تحدد الجداول الزمنية، والتزامات الدفع، والعقوبات، وحقوق الحصرية — وتفترض أن العالم يسير بشكل أو بآخر كما هو متوقع. وعندما ينهار هذا الافتراض، لا يختفي العقد. بل يظل ساري المفعول، ويبقى شخص ما يتحمل المخاطر. السؤال الذي تجيب عليه مراجعة العقود هو: في محفظتك، من هو هذا الشخص؟ بموجب القانون المدني لدولة الإمارات العربية المتحدة (القانون الاتحادي رقم 5 لعام 1985)، تمنح المادة 249 المحاكم سلطة تخفيض التزامات أحد الأطراف إلى «مستوى معقول» عندما تجعل الظروف العامة الاستثنائية الأداء عبئًا مفرطًا — حتى لو تعذر إثبات الاستحالة التامة. وتذهب المادة 273 إلى أبعد من ذلك، حيث تلغي الالتزام تمامًا عندما يؤدي حدث خارجي إلى استحالة الأداء. هذه الحماية حقيقية، لكنها ليست تلقائية. فهي تتطلب من الطرف المتضرر أن يكون قد وثق موقفه، وتصرف بشكل معقول، واتبع أي متطلبات إجرائية منصوص عليها في العقد.",
-             "من غير المرجح أن تستفيد الشركات التي لا تستطيع إثبات هذه الأمور منها."
-           ]
-         },
-         {
-           "name": "القوة القاهرة: قوية على الورق، ضعيفة في الممارسة",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "تتضمن معظم العقود التجارية بنداً بشأن القوة القاهرة. في الممارسة العملية، تكون العديد من هذه البنود سيئة الصياغة، أو يتم تجاهلها من الناحية التشغيلية، أو تكون معيبة من الناحية الإجرائية لحظة الاحتجاج بها. أكثر الأخطاء شيوعاً هو الإخطار. تتطلب عقود الإمارات العربية المتحدة بشكل روتيني إخطاراً كتابياً فورياً بوقوع حدث القوة القاهرة، يتبعه تحديثات مستمرة وأدلة على التخفيف. إن إغفال هذه الخطوات — حتى عندما يكون الاضطراب نفسه حقيقياً وموثقاً جيداً — يمكن أن يؤدي إلى رفض المطالبة قبل وصولها إلى المحكمة أو هيئة التحكيم.",
-             "بالنسبة للشركات التي تعمل في أو من خلال مركز دبي المالي العالمي (DIFC) أو سوق أبوظبي العالمي (ADGM)، فإن المعايير أعلى من ذلك. بموجب قانون مركز دبي المالي العالمي رقم 6 لعام 2004 ولوائح العقود الخاصة بسوق أبوظبي العالمي، تنطبق مبادئ القانون العام الإنجليزي: يجب أن تجعل القوة القاهرة الأداء مستحيلاً من الناحية القانونية أو المادية، وليس مجرد إزعاج تجاري أو تكلفة أعلى. قد يفشل بند قد ينجح بموجب القانون المدني لدولة الإمارات العربية المتحدة تماماً في ظل اختصاص مركز دبي المالي العالمي إذا لم تكن صياغته دقيقة. وعلى نطاق دول مجلس التعاون الخليجي الأوسع، يختلف الوضع بشكل أكبر. يعترف قانون المعاملات المدنية في المملكة العربية السعودية (المرسوم الملكي رقم M/191، 2021) بإبطال العقد، لكنه يضع عبء الإثبات بشكل قاطع على الطرف الذي يسعى للحصول على تعويض. يعترف كل من القانون المدني الكويتي (القانون رقم 67 لعام 1980) والقانون المدني القطري (القانون رقم 22 لعام 2004) بمبادئ المشقة مع عتبات ومتطلبات إخطار مختلفة. إذا كانت شركتك تمتلك اتفاقيات تخضع لأكثر من ولاية قضائية واحدة — كما هو الحال مع معظم الشركات النشطة في المنطقة — فأنت تعمل في الوقت نفسه بموجب معايير قانونية مختلفة جوهريًا."
-           ]
-         },
-         {
-           "name": "",
-           "small": "",
-           "smallBold": "تحدد مراجعة العقود هذه الاختلافات قبل أن تتحول إلى نزاعات.",
-           "des": []
-         },
-         {
-           "name": "ما الذي تفعله مراجعة العقود فعليًا",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "مراجعة العقود المنظمة ليست مجرد فحص قانوني نظري. إنها مراجعة منهجية لاتفاقياتك السارية مقارنة بالظروف المحددة التي تعمل فيها، مع ثلاث مخرجات عملية.",
-             "أولاً، تحدد العقود التي تنطوي على حماية قابلة للتنفيذ وتلك التي لا تنطوي عليها. وهذا يعني مراجعة بنود القوة القاهرة، وبنود القانون الحاكم، وآليات تسوية النزاعات، ومتطلبات الإخطار عبر محفظتك — ليس فقط الاتفاقيات الرئيسية، بل العقود الفرعية، واتفاقيات الخدمة، وشروط الموردين حيث تكون سلسلة المسؤولية أطول في الغالب. ثانياً، يحدد المراجعة الحالات التي تظل فيها التزاماتكم تجاه الأطراف الثالثة سارية حتى في حالة إخفاق مورديكم في الأطراف الأولى في الوفاء بالتزاماتهم. فحقيقة أن مزود الخدمات اللوجستية الخاص بكم قد نجح في التذرع بالقوة القاهرة لا تعفيكم من التزاماتكم تجاه عملائكم. ولا تكتشف العديد من الشركات هذا التعرض للمخاطر إلا بعد تقديم مطالبة. ثالثاً، تنتج المراجعة قائمة بالإجراءات ذات الأولوية: أي العقود تحتاج إلى تعديل وقائي الآن، وأي الأطراف المقابلة يجب إشراكها بشكل استباقي، وأين يجب إصدار إشعار رسمي بالانقطاع دون تأخير."
-           ]
-         },
-         {
-           "name": "تكلفة الانتظار",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "تكون النزاعات القانونية الناشئة عن الإخفاق في الأداء بطيئة ومكلفة وتضر بالسمعة. وقد تستمر إجراءات التحكيم أمام محاكم DIAC أو ADGM لشهور أو سنوات. وتبلغ تكلفة مراجعة العقد الموثقة جيدًا — والتي تُجرى قبل نشوء النزاع — جزءًا بسيطًا من تكلفة الدفاع في النزاع أو السعي إليه. الشركات التي تخرج من فترات الاضطراب في وضع أقوى هي تلك التي تعامل المخاطر القانونية على أنها مخاطر تشغيلية: مرئية وقابلة للقياس وإدارتها. وتبدأ هذه العملية من خلال مراجعة العقود."
-           ]
-         },
-         {
-           "name": "",
-           "small": "",
-           "smallBold": "",
-           "des": [
-             "LexDesk360 هي شركة مقرها الإمارات العربية المتحدة تقدم خدمات قانونية بديلة، وتوفر استشارات قانونية رفيعة المستوى بأسعار معقولة. وتقوم خدمة LexFend Contract Audit الخاصة بنا بمراجعة اتفاقياتكم السارية، وتحديد مدى تعرضكم لحالات القوة القاهرة عبر مختلف الولايات القضائية، وتقديم خطة عمل واضحة. اتصلوا بنا لترتيب إجراء تقييم أولي."
            ]
          }
        ]
