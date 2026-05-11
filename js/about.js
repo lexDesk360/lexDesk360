@@ -10,6 +10,7 @@ if (lang == null && lang != "eng" && lang != "ar") {
   localStorage.setItem("lang", "eng");
   lang = "eng";
 }
+
 const values = {
   eng: [
     {
