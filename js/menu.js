@@ -29,7 +29,7 @@ const translations = {
     des1: "Fujairah – Twin Towers, P.O.Box 4422 Fujairah, UAE ",
     titleMenu2: "LexDesk360 - International Limited",
     des2: "Galatas, 5 Agios Athanasios, 4106, Limassol, Cyprus",
-    titleMenu3: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3: "LexDesk360 - Sowaidan & Associates",
     des3: "Rehana Plaza, Zahraa El Maadi, Cairo, Egypt",
   },
   ar: {
@@ -52,7 +52,7 @@ const translations = {
     des1: "الفجيرة – الأبراج التوأم، ص.ب 4422 الفجيرة، الإمارات العربية المتحدة ",
     titleMenu2: "  LexDesk360 - الدولية المحدودة",
     des2: "غالاطاس، 5 أيوس أثناسيوس، 4106، ليماسول، قبرص ",
-    titleMenu3: "LexDesk360 - Sowaidan & Partners",
+    titleMenu3: "LexDesk360 - Sowaidan & Associates",
     des3: "مبنى ريحانة، زهراء المعادي، القاهرة، مصر  ",
   },
 };

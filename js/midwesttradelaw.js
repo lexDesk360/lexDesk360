@@ -297,7 +297,7 @@ const item = {
   },
   within: {
     eng: [
-      "As part of the LexDesk360 Global Network of Law Firms, Sowaidan & Partners provides on-the-ground counsel in Egypt while coordinating seamlessly with regional and international offices. All matters follow LexDesk360 standards for conflict checks, confidentiality, and reporting. The firm offers flexible engagement formats, monthly retainers, or project-based mandates, delivered by a dedicated multidisciplinary team.",
+      "As part of the LexDesk360 Global Network of Law Firms, Sowaidan & Associates provides on-the-ground counsel in Egypt while coordinating seamlessly with regional and international offices. All matters follow LexDesk360 standards for conflict checks, confidentiality, and reporting. The firm offers flexible engagement formats, monthly retainers, or project-based mandates, delivered by a dedicated multidisciplinary team.",
     ],
     ar: [
       "تعمل Midwest Trade Law بصفتها الشركة الشقيقة في الولايات المتحدة ضمن منظومة LexDesk360 العالمية التي تضم شبكات من مكاتب المحاماة والخبراء القانونيين عبر عدة ولايات قضائية. وتوفر الشركة خبرة متقدمة في الامتثال التجاري والعقوبات والقواعد التنظيمية العابرة للحدود مع تنسيق كامل بين الفرق الإقليمية والدولية التابعة لـ LexDesk360.  تدار جميع الملفات وفق معايير LexDesk360 الخاصة بفحص تضارب المصالح، والسرية، وجودة التقارير. كما يقدم المكتب نماذج تعاون مرنة تشمل أتعابًا شهرية أو مشروعات محددة ينفذها فريق متعدد التخصصات.وتتيح هذه الشراكة للعملاء خدمات قانونية متكاملة وسلسة عبر جميع مراحل عملهم، من الحوكمة والامتثال إلى التجارة العالمية وتوسّع الأسواق، ضمن إطار موحد يضمن الجودة والاتساق على مستوى عالمي."
