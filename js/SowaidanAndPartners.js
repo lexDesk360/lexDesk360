@@ -3,6 +3,7 @@ localStorage.setItem("menuState", "false");
 let lang = localStorage.getItem("lang");
 let body = document.getElementById("body");
 
+
 if (lang == null && lang != "eng" && lang != "ar") {
   localStorage.setItem("lang", "eng");
   lang = "eng";
