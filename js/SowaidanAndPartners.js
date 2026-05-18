@@ -1,4 +1,4 @@
-localStorage.setItem("currentPage", "Sowaidan&Partners");
+localStorage.setItem("currentPage", "Sowaidan&Associates");
 localStorage.setItem("menuState", "false");
 let lang = localStorage.getItem("lang");
 let body = document.getElementById("body");
@@ -15,7 +15,7 @@ const item =  {
   image: "../assets/images/our-network/network1.png",
   image2: "../assets/images/our-network/n1-1.jpg",
   image3: "../assets/images/our-network/n1-2.jpg",
-  url: "./Sowaidan&Partners",
+  url: "./Sowaidan&Associates",
   counrty: {
     eng: "Egypt",
     ar: "مصر",
