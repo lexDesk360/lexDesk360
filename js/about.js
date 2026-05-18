@@ -114,8 +114,8 @@ const values = {
     },
     {
       id: 3,
-      name: "Innovation with Purpose",
-      des: "Smarter Solutions for Real Challenges",
+      name: "L'innovation au service d’un objectif Des solutions ",
+      des: "intelligentes pour relever de vrais défis",
       icon: "bi-lightbulb",
     },
     {
@@ -307,9 +307,9 @@ function renderData() {
       titlepage: "À propos",
       titleAbout: "SOLUTIONS JURIDIQUES INTERNATIONALES INTÉGRÉES",
       desAbout1:
-        "LexDesk360 est une plateforme de solutions juridiques de nouvelle génération, conçue pour les entreprises à forte croissance, actives à l’international et qui ont besoin d’un accompagnement juridique et conformité en phase avec leur rythme.",
+        "LexDesk360 est une plateforme de solutions juridiques de nouvelle génération, conçue pour les entreprises à forte croissance, actives à l’international et qui ont besoin d’un accompagnement juridique et conformité en conformite leur rythme.",
       desAbout2:
-        "Avec des hubs à Dubaï, Limassol et Le Caire, et un réseau couvrant les États-Unis, la région EMEA et l’Asie du Sud, LexDesk360 combine des standards juridiques internationaux avec une expertise locale pointue. Nos solutions sont conçues pour simplifier le business, minimiser les risques et soutenir la croissance. Qu’il s’agisse de conformité, de gestion des litiges ou de conseil juridique stratégique, LexDesk360 est le partenaire qui fait avancer votre entreprise sans obstacles.",
+        "Avec des hubs à Dubaï, Limassol et Le Caire, et un réseau couvrant les États-Unis, la région EMEA et l’Asie du Sud, LexDesk360 combine des standards juridiques internationaux avec une expertise locale pointue. Nos solutions sont conçues pour simplifier le business, minimiser les risques et soutenir la croissance. Qu’il s’agisse de conformité, de gestion des litiges ou de conseiller  juridique stratégique, LexDesk360 est le partenaire qui fait avancer votre entreprise sans obstacles.",
       Vision: "Vision",
       tilteVision: "LÀ OÙ LES AVOCATS PARLENT BUSINESS.",
       desVesion1:
@@ -334,7 +334,7 @@ function renderData() {
       e2: "Notre empreinte couvre le Moyen-Orient, l’Afrique, l’Europe, les États-Unis et au-delà. Nous combinons des standards internationaux avec une compréhension fine des réalités régionales pour que votre entreprise puisse entrer sur de nouveaux marchés en toute confiance.",
       e3: "Où que vous choisissiez de croître, vous aurez à vos côtés un partenaire de confiance qui maîtrise à la fois la scène internationale et les règles locales.",
       location1:
-        "LexDesk360, cabinets membres du réseau ou conseils juridiques",
+        "LexDesk360, cabinets membres du réseau ou conseillers juridiques",
       location2: "Partenaires d’alliance stratégique (TDJ)",
       OurFounder: "NOTRE FONDATEUR",
       positionJob: "Fondateur & CEO, LexDesk360",

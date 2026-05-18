@@ -1121,11 +1121,7 @@ body,
 
 .french {
     .container-bg .menu-content .col .page-name p {
-        font-family: Oswald;
         font-size: 1.8vw;
-        font-weight: 500;
-        text-transform: uppercase;
-        margin-top: 1vw;
     }
 
     .container-bg {
