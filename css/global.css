@@ -736,7 +736,7 @@ body,
 
 #services-content .border-left {
     height: auto;
-  
+
 }
 
 @media (orientation: portrait) {
@@ -1137,6 +1137,13 @@ body,
     #services-content .tabs .tab {
         font-size: 1.2vw;
     }
+
     #services-content .content .big-title p {
-        font-size: 3.5vw;}
+        font-size: 3.5vw;
+    }
+
+    /* p {
+        text-align: justify;
+
+    } */
 }

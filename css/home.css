@@ -105,6 +105,9 @@
 #home-content .content .data.w90f {
   width: 94%;
 }
+#home-content .content .data .title-small {
+  width: 37vw;
+}
 #home-content .content .data .descrbtion {
   margin-top: 2vw;
 }
@@ -373,6 +376,9 @@
   }
   #home-content .content .data .descrbtion {
     margin-top: 2vw;
+  }
+  #home-content .content .data .title-small {
+    width: 96vw;
   }
   #home-content .content .icons-row {
     width: 100%;

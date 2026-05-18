@@ -127,7 +127,7 @@ function renderData() {
       LATESTNEWS: "ACTUALITÉS & BLOG",
       Flexible: "FLEXIBLE. ÉVOLUTIF. AXÉ SUR LE BUSINESS.",
       flexDes:
-        "LA PLUPART VOIENT LE JURIDIQUE COMME UNE PÉDALE DE FREIN. POUR NOUS, C’EST LE VOLANT QUI VOUS GUIDE EN SÉCURITÉ ET VOUS AIDE À ALLER PLUS VITE.",
+        "DES PERSONNES VOIENT LE JURIDIQUE COMME UNE PÉDALE DE FREIN. POUR NOUS, C’EST LE VOLANT QUI VOUS GUIDE EN SÉCURITÉ ET VOUS AIDE À ALLER PLUS VITE.",
       disucss: "Discutons de votre dossier",
       ServicesName: Services[lang][activerServices].name,
       ServicesSubName: Services[lang][activerServices].subName,

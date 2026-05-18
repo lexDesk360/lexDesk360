@@ -317,7 +317,7 @@ function renderData() {
       desVesion2:
         "Nous donnons aux meilleurs talents juridiques les moyens de proposer des solutions agiles et rentables, qui aident les entreprises à prospérer, à se développer et à s’imposer au-delà des frontières.",
       desVesion3:
-        "Cette vision repense le rôle du conseil juridique comme un moteur stratégique de croissance, plutôt qu’un centre de coût. Nous nous engageons à transformer la conformité en avantage concurrentiel et les environnements réglementaires complexes en parcours clairs d’expansion.",
+        "Cette vision repense le rôle du conseiller juridique comme un moteur stratégique de croissance, plutôt qu’un centre de coût. Nous nous engageons à transformer la conformité en avantage concurrentiel et les environnements réglementaires complexes en parcours clairs d’expansion.",
       desVesion4:
         "Notre objectif est de faire en sorte que, des startups aux multinationales, chaque entreprise ait accès à des stratégies juridiques qui non seulement protègent la valeur, mais en créent activement, transformant l’ambition en réalité concrète.",
       Mission: "Mission",

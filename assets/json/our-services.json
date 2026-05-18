@@ -799,7 +799,9 @@
                 },
                 {
                     "name": "Dirigeants recherchant une mise en place sans stress",
-                    "des": "Des leaders qui souhaitent des fondations solides, mises en place efficacement et sans complexité juridique."
+                    "des": "Des leaders qui souhaitent des fondations solides, mises en place efficacement et sans complexité juridique.",
+                    "icon": "bi-search"
+
                 }
             ]
         },
