@@ -1,26 +1,207 @@
  [{
      "eng": {
+       "id": 18,
+       "name": "Trust Structures and VISTA Trusts: A Modern Approach to Wealth Planning",
+       "date": "20th May, 2026",
+       "des": "Among these, VISTA trusts have gained prominence for their ability to balance asset protection with operational continuity and governance stability.",
+       "img": "../assets/images/news/new18.png",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/new18.png",
+
+           "smallBold": " ",
+           "des": [
+             "As private wealth becomes increasingly international, often spanning operating businesses, real estate, and diversified investment portfolios, the need for structured and forward looking planning has never been more pronounced. In this environment, trust structures have evolved from niche legal tools into central components of effective wealth management and succession planning."
+           ]
+         },
+         {
+           "name": "Trusts as a Mechanism for Continuity and Control",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "At its core, a trust is a legal arrangement through which an individual transfers assets to a trustee, who holds and manages those assets for the benefit of designated beneficiaries. While commonly associated with succession planning, trusts are equally valuable during the settlor’s lifetime, offering continuity in ownership and governance.",
+             "Unlike a will, which takes effect only upon death, a trust operates as an ongoing legal structure. It allows assets to be managed under predefined terms, ensuring that wealth is preserved, distributed, and administered in accordance with the settlor’s intentions over time. This distinction becomes particularly important where assets are held across multiple jurisdictions or where family dynamics and business interests require a more nuanced approach than a standard testamentary arrangement."
+           ]
+         },
+         {
+           "name": "Trust structures are often used to:",
+           "small": "In practice, there are three main types of NDAs:",
+           "smallBold": "",
+           "des": ["• Facilitate the efficient transfer of wealth across generations",
+             "• Protect assets from external risks, including creditor claims and disputes",
+             "• Centralise ownership and governance of complex asset portfolios",
+             "• Provide a greater degree of privacy and structuring discretion than direct ownership arrangements",
+             "In addition, assets held within a trust generally fall outside probate processes, allowing for a more streamlined transition upon death."
+           ]
+         },
+         {
+           "name": "The Evolving Role of Trusts in Succession Planning",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "Modern wealth planning is no longer limited to the distribution of assets. It is equally concerned with preserving the long term integrity and functionality of those assets.",
+             "This is particularly relevant where wealth is closely tied to operating businesses. In such cases, the challenge lies not only in transferring ownership, but in doing so without disrupting management, fragmenting control, or undermining long term value.",
+             "Trusts address this by separating legal ownership from day to day management. This allows businesses to continue operating under stable leadership while ownership transitions in a structured and controlled manner.",
+             "At the same time, trusts can incorporate governance mechanisms that extend beyond the founder’s lifetime, helping reduce the potential for conflict and ensuring that decision making remains aligned with the original vision."
+           ]
+         },
+         {
+           "name": "The Role of VISTA Trusts: Balancing Control and Oversight",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "One of the most common concerns associated with traditional trust structures is the perceived loss of control. Trustees are typically subject to fiduciary duties that may require them to intervene in the management of underlying assets, including operating companies. VISTA trusts, established under the Virgin Islands Special Trusts Act, were specifically designed to address this issue.",
+             "They introduce a fundamental shift in approach. Where a trust holds shares in a BVI company, the trustee’s obligation to intervene in the day to day management of that company is substantially limited. Responsibility for operational management remains with the company’s directors, allowing established management structures to continue without disruption. This makes VISTA trusts particularly well suited to scenarios where the underlying value of the estate is derived from active business operations. Founders are able to implement a formal succession structure while preserving the operational autonomy of those responsible for running the business.",
+             "Importantly, this does not come at the expense of protection. The trust continues to provide the core benefits of asset segregation, succession planning, and long term stability. VISTA structures also allow for built in flexibility. They can be designed to evolve over time, including the ability to transition into more traditional trust arrangements upon the occurrence of defined events, ensuring that the structure remains aligned with changing circumstances. For example, a founder holding operating companies across the GCC and Europe may use a VISTA trust structure to maintain management continuity while centralising ownership within a long term succession framework."
+           ]
+         },
+         {
+           "name": "Trusts and Foundations: Complementary Tools",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "Alongside trusts, foundations have emerged as an increasingly popular structuring option, particularly in jurisdictions that blend elements of civil and common law systems. While trusts rely on a trustee beneficiary relationship, foundations are separate legal entities capable of holding assets in their own name. This distinction can make them more intuitive in certain contexts, particularly for individuals accustomed to corporate structures.",
+             "In practice, trusts and foundations are not mutually exclusive. They are often used in combination, with each serving a distinct role within a broader framework. The choice between them, or the decision to use both, depends on the specific objectives of the structure, including governance preferences, asset profile, and succession considerations."
+           ]
+         },
+         {
+           "name": " A Strategic Approach to Wealth Structuring",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "Effective wealth planning requires more than the selection of a particular legal vehicle. It involves a careful assessment of how legal structures can be used to preserve value, manage risk, and support continuity over time.",
+             "Trusts, and VISTA trusts in particular, provide a structured solution where there is a need to balance protection with operational autonomy. By allowing business continuity to coexist with a robust ownership framework, they address one of the most persistent challenges in succession planning.",
+             "When properly designed, these structures provide not only legal certainty, but also a foundation for long term stability, ensuring that wealth is not only transferred, but sustained across generations.",
+             "LexDesk360 is a UAE based alternative legal services provider offering senior legal counsel at accessible pricing. Through LexFound, we provide expert guidance in company setup, structuring, governance, and compliance. From incorporation to ongoing compliance, we help build a strong legal foundation for long term success."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 18,
+       "name": "هياكل الصناديق الاستئمانية وصناديق VISTA: نهج حديث لتخطيط الثروة",
+       "date": "20 مايو 2026",
+       "des": "ومن بين هذه الهياكل، اكتسبت صناديق VISTA أهمية كبيرة بفضل قدرتها على تحقيق التوازن بين حماية الأصول واستمرارية العمليات واستقرار الحوكمة.",
+       "img": "../assets/images/news/new18.png",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/new18.png",
+           "smallBold": " ",
+           "des": [
+             "مع تزايد الطابع الدولي للثروات الخاصة، التي غالبًا ما تشمل شركات عاملة وعقارات ومحافظ استثمارية متنوعة، أصبحت الحاجة إلى تخطيط منظم وتطلعي أكثر إلحاحًا من أي وقت مضى. وفي ظل هذه الظروف، تطورت هياكل الصناديق الاستئمانية من أدوات قانونية متخصصة إلى مكونات أساسية لإدارة الثروة وتخطيط الخلافة بشكل فعال."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية كآلية للاستمرارية والرقابة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في جوهرها، الصندوق الاستئماني هو ترتيب قانوني ينقل من خلاله الفرد الأصول إلى أمين، الذي يحتفظ بهذه الأصول ويديرها لصالح المستفيدين المعينين. ورغم ارتباطها عادةً بتخطيط الخلافة، فإن الصناديق الاستئمانية لا تقل قيمةً خلال حياة المؤسس، حيث توفر الاستمرارية في الملكية والحوكمة.",
+             "وعلى عكس الوصية، التي لا تصبح سارية المفعول إلا عند الوفاة، يعمل الصندوق الاستئماني كهيكل قانوني مستمر. وهي تسمح بإدارة الأصول بموجب شروط محددة مسبقًا، مما يضمن الحفاظ على الثروة وتوزيعها وإدارتها وفقًا لنوايا المؤسس على مر الزمن.",
+             "يصبح هذا التمييز مهمًا بشكل خاص عندما تكون الأصول موجودة في ولايات قضائية متعددة أو عندما تتطلب ديناميكيات الأسرة والمصالح التجارية نهجًا أكثر دقة من الترتيبات الوصائية القياسية."
+           ]
+         },
+         {
+           "name": "غالبًا ما تُستخدم هياكل الصناديق الاستئمانية من أجل:",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "• تسهيل النقل الفعال للثروة عبر الأجيال",
+             "• حماية الأصول من المخاطر الخارجية، بما في ذلك مطالبات الدائنين والنزاعات",
+             "• مركزية ملكية وإدارة محافظ الأصول المعقدة",
+             "• توفير درجة أكبر من الخصوصية والسلطة التقديرية في الهيكلة مقارنة بترتيبات الملكية المباشرة",
+             "بالإضافة إلى ذلك، لا تخضع الأصول المودعة في الصندوق الاستئماني عمومًا لإجراءات إثبات صحة الوصية، مما يتيح انتقالًا أكثر سلاسة عند الوفاة."
+           ]
+         },
+         {
+           "name": "الدور المتطور للصناديق الاستئمانية في تخطيط الخلافة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "لم يعد تخطيط الثروة الحديث يقتصر على توزيع الأصول. بل يهتم بنفس القدر بالحفاظ على سلامة ووظائف تلك الأصول على المدى الطويل.",
+             "ويكتسب هذا الأمر أهمية خاصة عندما تكون الثروة مرتبطة ارتباطًا وثيقًا بالأعمال التجارية الجارية. وفي مثل هذه الحالات، لا يكمن التحدي في نقل الملكية فحسب، بل في القيام بذلك دون تعطيل الإدارة أو تجزئة السيطرة أو المساس بالقيمة على المدى الطويل.",
+             "وتعالج الصناديق الاستئمانية هذه المسألة من خلال فصل الملكية القانونية عن الإدارة اليومية. وهذا يسمح للشركات بمواصلة العمل تحت قيادة مستقرة بينما تتم انتقالات الملكية بطريقة منظمة وخاضعة للرقابة.",
+             "وفي الوقت نفسه، يمكن للصناديق الاستئمانية أن تدمج آليات حوكمة تمتد إلى ما بعد عمر المؤسس، مما يساعد على تقليل احتمالية نشوب النزاعات ويضمن بقاء عملية صنع القرار متوافقة مع الرؤية الأصلية."
+           ]
+         },
+         {
+           "name": "دور صناديق VISTA الاستئمانية: تحقيق التوازن بين السيطرة والرقابة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "أحد أكثر المخاوف شيوعًا المرتبطة بهياكل الصناديق الاستئمانية التقليدية هو الشعور بفقدان السيطرة. عادةً ما يخضع الأمناء لواجبات ائتمانية قد تتطلب منهم التدخل في إدارة الأصول الأساسية، بما في ذلك الشركات العاملة.",
+             "صُممت صناديق VISTA الاستئمانية، التي أُنشئت بموجب قانون الصناديق الاستئمانية الخاصة لجزر فيرجن، خصيصًا لمعالجة هذه المشكلة.",
+             "وهي تُحدث تحولًا جوهريًا في النهج المتبع. فعندما تمتلك الصندوق الاستئماني أسهمًا في شركة في جزر فيرجن البريطانية، يكون التزام الوصي بالتدخل في الإدارة اليومية لتلك الشركة محدودًا بشكل كبير. وتبقى مسؤولية الإدارة التشغيلية على عاتق مديري الشركة، مما يسمح للهياكل الإدارية القائمة بالاستمرار دون انقطاع.",
+             "وهذا يجعل صناديق VISTA مناسبة بشكل خاص للسيناريوهات التي تستمد فيها القيمة الأساسية للممتلكات من العمليات التجارية النشطة. يمكن للمؤسسين تنفيذ هيكل خلافة رسمي مع الحفاظ على الاستقلالية التشغيلية للمسؤولين عن إدارة الأعمال.",
+             "والأهم من ذلك، أن هذا لا يأتي على حساب الحماية. تواصل الصناديق تقديم المزايا الأساسية لفصل الأصول، وتخطيط الخلافة، والاستقرار على المدى الطويل.",
+             "تسمح هياكل VISTA أيضًا بمرونة مدمجة. يمكن تصميمها لتتطور بمرور الوقت، بما في ذلك القدرة على الانتقال إلى ترتيبات ائتمانية أكثر تقليدية عند وقوع أحداث محددة، مما يضمن بقاء الهيكل متوافقًا مع الظروف المتغيرة.",
+             "على سبيل المثال، يمكن لمؤسس يمتلك شركات تشغيلية في دول مجلس التعاون الخليجي وأوروبا استخدام هيكل صندوق VISTA للحفاظ على استمرارية الإدارة مع مركزية الملكية ضمن إطار خلافة طويل الأجل."
+           ]
+         },
+         {
+           "name": "اعتبارات عملية بشأن الهيكلة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في الممارسة العملية، تُستخدم صناديق VISTA عادةً كجزء من هيكل قابضة أوسع، حيث يمتلك الصندوق أسهمًا في شركة أو أكثر من الشركات الأساسية.",
+             "سيتوقف تصميم هذه الهيكلية على طبيعة الأصول المعنية. فقد تنطوي الترتيبات الأبسط على ملكية مباشرة من قبل الصندوق الاستئماني، في حين أن هياكل الثروة العائلية الأكثر تعقيدًا، لا سيما تلك التي تشمل شركات عاملة، قد تستفيد من إدخال كيانات قابضة وسيطة لفصل السيطرة عن المخاطر.",
+             "وبالنسبة للعملاء المقيمين في الإمارات العربية المتحدة، غالبًا ما يقترن ذلك باستخدام شركات قابضة خارجية لتوحيد الأصول العالمية، بما في ذلك العقارات والاستثمارات والشركات التابعة العاملة.",
+             "هذه الهياكل مصممة خصيصًا بشكل كبير ويجب تكييفها بعناية لتعكس قاعدة أصول العميل وديناميكيات الأسرة وأهدافه طويلة الأجل."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية والمؤسسات: أدوات تكميلية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "إلى جانب الصناديق الاستئمانية، برزت المؤسسات كخيار هيكلي يزداد شعبية، لا سيما في الولايات القضائية التي تمزج بين عناصر أنظمة القانون المدني والقانون العام.",
+             "بينما تعتمد الصناديق الاستئمانية على علاقة بين الوصي والمستفيد، فإن المؤسسات هي كيانات قانونية منفصلة قادرة على الاحتفاظ بالأصول باسمها الخاص. يمكن أن يجعل هذا التمييز المؤسسات أكثر سهولة في سياقات معينة، لا سيما للأفراد المعتادين على الهياكل المؤسسية.",
+             "في الممارسة العملية، لا تستبعد الصناديق الاستئمانية والمؤسسات بعضها بعضًا. غالبًا ما تُستخدم معًا، حيث يؤدي كل منها دورًا متميزًا ضمن إطار أوسع. يعتمد الاختيار بينهما، أو قرار استخدام كليهما، على الأهداف المحددة للهيكل، بما في ذلك تفضيلات الحوكمة وخصائص الأصول واعتبارات الخلافة."
+           ]
+         },
+         {
+           "name": "نهج استراتيجي لهيكلة الثروة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يتطلب التخطيط الفعال للثروة أكثر من مجرد اختيار أداة قانونية معينة. فهو ينطوي على تقييم دقيق لكيفية استخدام الهياكل القانونية للحفاظ على القيمة وإدارة المخاطر ودعم الاستمرارية بمرور الوقت.",
+             "توفر الصناديق الاستئمانية، وصناديق VISTA الاستئمانية على وجه الخصوص، حلاً منظماً عندما تكون هناك حاجة إلى تحقيق التوازن بين الحماية والاستقلالية التشغيلية. ومن خلال السماح باستمرارية الأعمال جنباً إلى جنب مع إطار ملكية قوي، فإنها تعالج أحد التحديات الأكثر استمراراً في تخطيط الخلافة.",
+             "عندما يتم تصميم هذه الهياكل بشكل صحيح، فإنها لا توفر اليقين القانوني فحسب، بل توفر أيضًا أساسًا للاستقرار على المدى الطويل، مما يضمن أن الثروة لا يتم نقلها فحسب، بل يتم الحفاظ عليها عبر الأجيال.",
+             "LexDesk360 هي شركة مقرها الإمارات العربية المتحدة تقدم خدمات قانونية بديلة وتوفر استشارات قانونية رفيعة المستوى بأسعار معقولة. من خلال LexFound، نقدم إرشادات متخصصة في تأسيس الشركات وهيكلتها وحوكمتها والامتثال. من التأسيس إلى الامتثال المستمر، نساعد في بناء أساس قانوني قوي للنجاح على المدى الطويل."
+           ]
+         }
+       ]
+     }
+   }, {
+     "eng": {
        "id": 17,
        "name": "Why NDAs Matter More Than Ever (and What to Include in One)",
        "date": "14th May, 2026",
        "des": "This is where a Non Disclosure Agreement (NDA) comes in.",
-  "img": "../assets/images/news/Image.jpeg",
+       "img": "../assets/images/news/Image.jpeg",
        "content": [{
            "name": "",
-           "small": "",  "img": "../assets/images/news/Image.jpeg",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
 
            "smallBold": " ",
            "des": [
              "In today’s business world, information is often more valuable than physical assets. Whether you’re sharing a business idea, client data, financial information, or internal strategies, there is always a level of risk involved. One conversation, one email, or one document shared without protection can lead to serious consequences.",
-           "An NDA is not just a formality; it is a practical legal tool that allows individuals and businesses to share information while setting clear boundaries. It helps establish trust at an early stage, whether you are hiring an employee, working with a freelancer, or entering into business discussions."
-            ]
+             "An NDA is not just a formality; it is a practical legal tool that allows individuals and businesses to share information while setting clear boundaries. It helps establish trust at an early stage, whether you are hiring an employee, working with a freelancer, or entering into business discussions."
+           ]
          },
          {
            "name": "So why should you use an NDA?",
            "small": "",
            "smallBold": "",
            "des": [
-            "Simply put: to protect what gives you value. An NDA helps prevent the misuse of sensitive information and provides legal grounds to take action if that trust is broken. It also sets expectations from the beginning, which can help avoid misunderstandings later on."
+             "Simply put: to protect what gives you value. An NDA helps prevent the misuse of sensitive information and provides legal grounds to take action if that trust is broken. It also sets expectations from the beginning, which can help avoid misunderstandings later on."
            ]
          },
          {
@@ -28,8 +209,9 @@
            "small": "In practice, there are three main types of NDAs:",
            "smallBold": "",
            "des": ["• Unilateral (One Way) NDA: This is the most commonly used type. One party shares information, and the other agrees to keep it confidential. You will typically see this in employment or consultancy arrangements.",
-          "• Mutual (Bilateral) NDA: Here, both parties share confidential information, and both are obligated to protect it. This is common in partnerships, collaborations, and business negotiations.",
-        "• Multilateral NDA: This involves three or more parties. Instead of signing multiple agreements, all parties sign a single NDA. It is often used in complex projects or joint ventures."]
+             "• Mutual (Bilateral) NDA: Here, both parties share confidential information, and both are obligated to protect it. This is common in partnerships, collaborations, and business negotiations.",
+             "• Multilateral NDA: This involves three or more parties. Instead of signing multiple agreements, all parties sign a single NDA. It is often used in complex projects or joint ventures."
+           ]
          },
          {
            "name": "What Should Every NDA Include?",
@@ -37,15 +219,15 @@
            "smallBold": "",
 
            "des": [
-            "• Definition of confidential information: Clearly specify what information is protected.",
-            "• Permitted use of the information: Limit the use of the information to a specific purpose.",
-            "• Obligations of the receiving party: Explain how the receiving party should handle and protect the information.",
-            "• Exclusions from confidentiality: For example, information that is already publicly available.",
-            "• Duration: Specify how long the confidentiality obligations remain in effect.",
-            "• No license clause: Clarify that sharing information does not grant ownership rights or intellectual property licenses.",
-            "• Return or deletion of information: State what happens to the information once the relationship ends.",
-            "• Consequences of breach: Explain what happens if the agreement is violated.",
-            "• Governing law: Identify which legal system will apply."
+             "• Definition of confidential information: Clearly specify what information is protected.",
+             "• Permitted use of the information: Limit the use of the information to a specific purpose.",
+             "• Obligations of the receiving party: Explain how the receiving party should handle and protect the information.",
+             "• Exclusions from confidentiality: For example, information that is already publicly available.",
+             "• Duration: Specify how long the confidentiality obligations remain in effect.",
+             "• No license clause: Clarify that sharing information does not grant ownership rights or intellectual property licenses.",
+             "• Return or deletion of information: State what happens to the information once the relationship ends.",
+             "• Consequences of breach: Explain what happens if the agreement is violated.",
+             "• Governing law: Identify which legal system will apply."
            ]
          },
          {
@@ -54,76 +236,75 @@
            "smallBold": "",
 
            "des": [
-            "NDAs are often overlooked or treated as routine paperwork, but they play a critical role in shaping how business relationships begin and develop. In many cases, they are the first legal step before any meaningful exchange of information takes place.",
-            "A well drafted NDA does more than protect confidential information. It clearly defines expectations, reduces uncertainty, and helps prevent misunderstandings between parties. It ensures that sensitive information is shared within a controlled and legally protected framework, which is especially important during early stage discussions, partnerships, or investment negotiations.",
-            "More importantly, NDAs help build a foundation of trust. When both parties understand that clear legal boundaries are in place, they are more likely to communicate openly and explore opportunities with confidence. In this way, an NDA is not just a protective document; it is also an enabler of collaboration and growth."
+             "NDAs are often overlooked or treated as routine paperwork, but they play a critical role in shaping how business relationships begin and develop. In many cases, they are the first legal step before any meaningful exchange of information takes place.",
+             "A well drafted NDA does more than protect confidential information. It clearly defines expectations, reduces uncertainty, and helps prevent misunderstandings between parties. It ensures that sensitive information is shared within a controlled and legally protected framework, which is especially important during early stage discussions, partnerships, or investment negotiations.",
+             "More importantly, NDAs help build a foundation of trust. When both parties understand that clear legal boundaries are in place, they are more likely to communicate openly and explore opportunities with confidence. In this way, an NDA is not just a protective document; it is also an enabler of collaboration and growth."
            ]
          }
        ]
      },
      "ar": {
-  "id": 17,
-  "name": "لماذا أصبحت اتفاقيات عدم الإفشاء أكثر أهمية من أي وقت مضى (وما الذي يجب تضمينه فيها)",
-  "date": "14 مايو، 2026",
-  "des": "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
-  "img": "../assets/images/news/Image.jpeg",
-  "content": [
-    {
-      "name": "",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "في عالم الأعمال اليوم، غالبًا ما تكون المعلومات أكثر قيمة من الأصول المادية. وسواء كنت تشارك فكرة تجارية أو بيانات عملاء أو معلومات مالية أو استراتيجيات داخلية، فهناك دائمًا قدر من المخاطرة. فمجرد محادثة واحدة أو رسالة بريد إلكتروني واحدة أو مستند واحد يتم مشاركته دون حماية يمكن أن يؤدي إلى عواقب وخيمة.",
-        "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
-        "اتفاقية عدم الإفشاء ليست مجرد إجراء شكلي؛ بل هي أداة قانونية عملية تسمح للأفراد والشركات بمشاركة المعلومات مع وضع حدود واضحة. فهي تساعد في بناء الثقة في مرحلة مبكرة، سواء كنت تقوم بتعيين موظف، أو تعمل مع متعاقد مستقل، أو تدخل في مفاوضات تجارية."
-      ]
-    },
-    {
-      "name": "فلماذا يجب عليك استخدام اتفاقية عدم الإفشاء؟",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "ببساطة: لحماية ما يمنحك القيمة. تساعد اتفاقية عدم الإفشاء (NDA) على منع إساءة استخدام المعلومات الحساسة وتوفر أساسًا قانونيًا لاتخاذ الإجراءات اللازمة في حالة خرق تلك الثقة. كما أنها تحدد التوقعات منذ البداية، مما يساعد على تجنب سوء الفهم لاحقًا."
-      ]
-    },
-    {
-      "name": "أنواع اتفاقيات عدم الإفشاء (NDA)",
-      "small": "في الممارسة العملية، هناك ثلاثة أنواع رئيسية من اتفاقيات عدم الإفشاء (NDA):",
-      "smallBold": "",
-      "des": [
-        "• اتفاقية عدم الإفشاء (NDA) أحادية الجانب (أحادية الاتجاه): هذا هو النوع الأكثر استخدامًا. يشارك أحد الطرفين المعلومات، ويوافق الطرف الآخر على الحفاظ على سريتها. عادةً ما ترى هذا في ترتيبات التوظيف أو الاستشارات.",
-        "• اتفاقية عدم الإفشاء المتبادلة (ثنائية): هنا، يشارك الطرفان المعلومات السرية، وكلاهما ملزم بحمايتها. هذا شائع في الشراكات والتعاون والمفاوضات التجارية.",
-        "• اتفاقية عدم الإفشاء متعددة الأطراف: تشمل هذه ثلاثة أطراف أو أكثر. بدلاً من توقيع اتفاقيات متعددة، يوقع جميع الأطراف على اتفاقية عدم إفشاء واحدة. غالبًا ما تُستخدم في المشاريع المعقدة أو المشاريع المشتركة."
-      ]
-    },
-    {
-      "name": "ما الذي يجب أن تتضمنه كل اتفاقية عدم إفشاء؟",
-      "small": "لا تتوقف قوة اتفاقية عدم الإفشاء على طولها، بل على وضوحها. وعادةً ما تتضمن البنود الرئيسية ما يلي:",
-      "smallBold": "",
-      "des": [
-        "• تعريف المعلومات السرية: حدد بوضوح المعلومات التي يتم حمايتها.",
-        "• الاستخدام المسموح به للمعلومات: قصر استخدام المعلومات على غرض محدد.",
-        "• التزامات الطرف المتلقي: اشرح كيف يجب على الطرف المتلقي التعامل مع المعلومات وحمايتها.",
-        "• الاستثناءات من السرية: على سبيل المثال، المعلومات المتاحة للجمهور بالفعل.",
-        "• المدة: حدد المدة التي تظل فيها التزامات السرية سارية المفعول.",
-        "• بند عدم الترخيص: أوضح أن مشاركة المعلومات لا تمنح حقوق ملكية أو تراخيص ملكية فكرية.",
-        "• إعادة المعلومات أو حذفها: حدد ما يحدث للمعلومات بمجرد انتهاء العلاقة.",
-        "• عواقب الإخلال: اشرح ما يحدث في حالة انتهاك الاتفاقية.",
-        "• القانون الحاكم: حدد النظام القانوني الذي سيتم تطبيقه."
-      ]
-    },
-    {
-      "name": "الخلاصة",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "غالبًا ما يتم تجاهل اتفاقيات عدم الإفشاء أو التعامل معها على أنها إجراءات روتينية، لكنها تلعب دورًا حاسمًا في تشكيل كيفية بدء العلاقات التجارية وتطورها. في كثير من الحالات، تمثل هذه الاتفاقيات الخطوة القانونية الأولى قبل إجراء أي تبادل ذي مغزى للمعلومات.",
-        "تقوم اتفاقية عدم الإفشاء المصاغة جيدًا بأكثر من مجرد حماية المعلومات السرية. فهي تحدد التوقعات بوضوح، وتقلل من عدم اليقين، وتساعد على منع سوء الفهم بين الأطراف. فهي تضمن مشاركة المعلومات الحساسة ضمن إطار عمل خاضع للرقابة ومحمي قانونياً، وهو أمر مهم بشكل خاص خلال المناقشات في المراحل المبكرة، أو الشراكات، أو مفاوضات الاستثمار.",
-        "والأهم من ذلك، تساعد اتفاقيات عدم الإفشاء في بناء أساس من الثقة. فعندما يدرك الطرفان وجود حدود قانونية واضحة، يزداد احتمال تواصلهما بصراحة واستكشاف الفرص بثقة. وبهذه الطريقة، لا تكون اتفاقية عدم الإفشاء مجرد وثيقة وقائية؛ بل هي أيضاً عامل مساعد على التعاون والنمو."
-      ]
-    }
-  ]
-}
+       "id": 17,
+       "name": "لماذا أصبحت اتفاقيات عدم الإفشاء أكثر أهمية من أي وقت مضى (وما الذي يجب تضمينه فيها)",
+       "date": "14 مايو، 2026",
+       "des": "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في عالم الأعمال اليوم، غالبًا ما تكون المعلومات أكثر قيمة من الأصول المادية. وسواء كنت تشارك فكرة تجارية أو بيانات عملاء أو معلومات مالية أو استراتيجيات داخلية، فهناك دائمًا قدر من المخاطرة. فمجرد محادثة واحدة أو رسالة بريد إلكتروني واحدة أو مستند واحد يتم مشاركته دون حماية يمكن أن يؤدي إلى عواقب وخيمة.",
+             "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+             "اتفاقية عدم الإفشاء ليست مجرد إجراء شكلي؛ بل هي أداة قانونية عملية تسمح للأفراد والشركات بمشاركة المعلومات مع وضع حدود واضحة. فهي تساعد في بناء الثقة في مرحلة مبكرة، سواء كنت تقوم بتعيين موظف، أو تعمل مع متعاقد مستقل، أو تدخل في مفاوضات تجارية."
+           ]
+         },
+         {
+           "name": "فلماذا يجب عليك استخدام اتفاقية عدم الإفشاء؟",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ببساطة: لحماية ما يمنحك القيمة. تساعد اتفاقية عدم الإفشاء (NDA) على منع إساءة استخدام المعلومات الحساسة وتوفر أساسًا قانونيًا لاتخاذ الإجراءات اللازمة في حالة خرق تلك الثقة. كما أنها تحدد التوقعات منذ البداية، مما يساعد على تجنب سوء الفهم لاحقًا."
+           ]
+         },
+         {
+           "name": "أنواع اتفاقيات عدم الإفشاء (NDA)",
+           "small": "في الممارسة العملية، هناك ثلاثة أنواع رئيسية من اتفاقيات عدم الإفشاء (NDA):",
+           "smallBold": "",
+           "des": [
+             "• اتفاقية عدم الإفشاء (NDA) أحادية الجانب (أحادية الاتجاه): هذا هو النوع الأكثر استخدامًا. يشارك أحد الطرفين المعلومات، ويوافق الطرف الآخر على الحفاظ على سريتها. عادةً ما ترى هذا في ترتيبات التوظيف أو الاستشارات.",
+             "• اتفاقية عدم الإفشاء المتبادلة (ثنائية): هنا، يشارك الطرفان المعلومات السرية، وكلاهما ملزم بحمايتها. هذا شائع في الشراكات والتعاون والمفاوضات التجارية.",
+             "• اتفاقية عدم الإفشاء متعددة الأطراف: تشمل هذه ثلاثة أطراف أو أكثر. بدلاً من توقيع اتفاقيات متعددة، يوقع جميع الأطراف على اتفاقية عدم إفشاء واحدة. غالبًا ما تُستخدم في المشاريع المعقدة أو المشاريع المشتركة."
+           ]
+         },
+         {
+           "name": "ما الذي يجب أن تتضمنه كل اتفاقية عدم إفشاء؟",
+           "small": "لا تتوقف قوة اتفاقية عدم الإفشاء على طولها، بل على وضوحها. وعادةً ما تتضمن البنود الرئيسية ما يلي:",
+           "smallBold": "",
+           "des": [
+             "• تعريف المعلومات السرية: حدد بوضوح المعلومات التي يتم حمايتها.",
+             "• الاستخدام المسموح به للمعلومات: قصر استخدام المعلومات على غرض محدد.",
+             "• التزامات الطرف المتلقي: اشرح كيف يجب على الطرف المتلقي التعامل مع المعلومات وحمايتها.",
+             "• الاستثناءات من السرية: على سبيل المثال، المعلومات المتاحة للجمهور بالفعل.",
+             "• المدة: حدد المدة التي تظل فيها التزامات السرية سارية المفعول.",
+             "• بند عدم الترخيص: أوضح أن مشاركة المعلومات لا تمنح حقوق ملكية أو تراخيص ملكية فكرية.",
+             "• إعادة المعلومات أو حذفها: حدد ما يحدث للمعلومات بمجرد انتهاء العلاقة.",
+             "• عواقب الإخلال: اشرح ما يحدث في حالة انتهاك الاتفاقية.",
+             "• القانون الحاكم: حدد النظام القانوني الذي سيتم تطبيقه."
+           ]
+         },
+         {
+           "name": "الخلاصة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "غالبًا ما يتم تجاهل اتفاقيات عدم الإفشاء أو التعامل معها على أنها إجراءات روتينية، لكنها تلعب دورًا حاسمًا في تشكيل كيفية بدء العلاقات التجارية وتطورها. في كثير من الحالات، تمثل هذه الاتفاقيات الخطوة القانونية الأولى قبل إجراء أي تبادل ذي مغزى للمعلومات.",
+             "تقوم اتفاقية عدم الإفشاء المصاغة جيدًا بأكثر من مجرد حماية المعلومات السرية. فهي تحدد التوقعات بوضوح، وتقلل من عدم اليقين، وتساعد على منع سوء الفهم بين الأطراف. فهي تضمن مشاركة المعلومات الحساسة ضمن إطار عمل خاضع للرقابة ومحمي قانونياً، وهو أمر مهم بشكل خاص خلال المناقشات في المراحل المبكرة، أو الشراكات، أو مفاوضات الاستثمار.",
+             "والأهم من ذلك، تساعد اتفاقيات عدم الإفشاء في بناء أساس من الثقة. فعندما يدرك الطرفان وجود حدود قانونية واضحة، يزداد احتمال تواصلهما بصراحة واستكشاف الفرص بثقة. وبهذه الطريقة، لا تكون اتفاقية عدم الإفشاء مجرد وثيقة وقائية؛ بل هي أيضاً عامل مساعد على التعاون والنمو."
+           ]
+         }
+       ]
+     }
    },
 
    {
