@@ -1,26 +1,128 @@
  [{
      "eng": {
+       "id": 15,
+       "name": "AI Liability and Governance: Who Is Responsible When the Algorithm Decides?",
+       "date": "4th Jun, 2026",
+       "des": "The accountability gap in artificial intelligence has moved from theoretical debate to live regulatory obligation. Senior counsel advising boards and in-house teams need a clear picture of where liability falls in 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+
+         {
+           "name": "The Accountability Problem in Context",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "On 18 May 2026, a California jury dismissed Elon Musk's lawsuit against OpenAI and Sam Altman in under two hours, finding the claims time-barred under the applicable statute of limitations. The procedural outcome masked a far more significant governance question that remains unanswered: when an organisation constructs its entire commercial identity around a stated public mission and then quietly restructures to monetise that mission for private benefit, what legal obligations does it carry to those who relied on that representation?",
+             "The jury never reached the merits. OpenAI's legal team established in closing arguments that the donations were unrestricted and that no binding promise had been made to maintain the nonprofit structure. Both propositions may be legally accurate. They do not resolve whether the governance failure was actionable under a different theory, in a different jurisdiction, or against a differently drafted founding document.",
+             "For in-house counsel and boards advising on AI governance, the lesson is not that mission statements are irrelevant. It is that mission statements which are never documented as enforceable commitments create exactly the kind of liability gap that produces expensive litigation, even where that litigation ultimately fails."
+           ]
+         },
+         {
+           "name": "The UAE AI Act 2026: Operative Obligations",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The UAE AI Act 2026, which entered into force in March 2026, is the primary domestic framework governing AI liability in the UAE. It establishes a four-tier risk classification for AI systems: minimal risk, limited risk, high risk, and unacceptable risk. The classification determines the compliance obligations that attach.",
+             "High-risk AI systems, defined to include applications in healthcare, financial services, employment and recruitment, educational assessment, critical infrastructure management, law enforcement, and border control, carry the most demanding obligations. These include mandatory conformity assessments, technical documentation, data governance requirements, human oversight mechanisms, accuracy and robustness standards, and post-market monitoring obligations. The self-assessment deadline for high-risk systems falls in September 2026.",
+             "Penalties for non-compliance reach AED 10 million per violation. Where non-compliance involves an AI system that causes material harm, the penalty framework operates alongside civil liability under the UAE Civil Transactions Law, which may permit affected parties to seek damages independently of regulatory action. Companies should not treat the AED 10 million figure as a ceiling on total exposure. It is a floor on regulatory liability only."
+           ]
+         },
+         {
+           "name": "Extraterritorial Reach: The EU AI Act",
+           "small": "",
+           "smallBold": "",
+           "des": ["The EU AI Act becomes fully applicable on 2 August 2026. Its extraterritorial scope is explicit: any provider whose AI system produces outputs used within the European Union is subject to the Act, regardless of where that provider is incorporated or established. For GCC companies with European commercial relationships, distribution agreements, or digital services accessed by European users, EU AI Act compliance is not optional.",
+             "The Act's transparency obligations require that AI-generated content be labelled as such in certain use cases, and that users of high-risk AI systems be informed that they are interacting with an AI. These obligations apply to deployers as well as developers. A GCC business that licenses AI tools from a third-party provider and deploys them in customer-facing applications is a deployer within the meaning of the Act and carries corresponding obligations."
+           ]
+         },
+         {
+           "name": "Governance Documentation: The Practical Obligation",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The OpenAI litigation and the UAE and EU regulatory frameworks converge on a single practical point: governance documentation matters. The gap between what an AI system's published principles say it will do and what it actually does is a compliance surface, not merely a reputational one. Boards should ensure that AI governance policies are reviewed by legal counsel for internal consistency, that the obligations they create are understood by technical and operational teams, and that post-deployment monitoring is sufficient to identify divergence early.",
+             "For businesses in the GCC that are early in their AI governance journey, the most practical starting point is a system inventory: identify every AI application in use, classify it against the UAE AI Act framework, and document the basis for that classification. That documentation is itself a compliance asset, and its absence is an early indicator of systemic governance risk."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 15,
+       "name": "المسؤولية القانونية والحوكمة في مجال الذكاء الاصطناعي: من يتحمل المسؤولية عندما تتخذ الخوارزمية القرار؟",
+       "date": "4 يونيو 2026",
+       "des": "لقد انتقلت فجوة المساءلة في مجال الذكاء الاصطناعي من مجرد نقاش نظري إلى التزام تنظيمي فعلي. ويحتاج كبار المستشارين القانونيين الذين يقدمون المشورة لمجالس الإدارة والفرق الداخلية إلى صورة واضحة عن الجهة التي تقع عليها المسؤولية القانونية في عام 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "مشكلة المساءلة في سياقها",
+           "smallBold": "",
+           "des": [
+             "في 18 مايو 2026، رفضت هيئة محلفين في كاليفورنيا دعوى إيلون ماسك ضد OpenAI وسام ألتمان في أقل من ساعتين، ووجدت أن المطالبات قد سقطت بالتقادم بموجب قانون التقادم المعمول به. أخفت النتيجة الإجرائية مسألة حوكمة أكثر أهمية بكثير لا تزال دون إجابة: عندما تبني منظمة هويتها التجارية بالكامل حول مهمة عامة معلنة ثم تعيد هيكلتها بهدوء لتحويل تلك المهمة إلى ربح من أجل مصلحة خاصة، ما هي الالتزامات القانونية التي تتحملها تجاه أولئك الذين اعتمدوا على ذلك التمثيل؟",
+             "لم تصل هيئة المحلفين أبدًا إلى موضوع الدعوى. أثبت فريق OpenAI القانوني في المرافعات الختامية أن التبرعات كانت غير مقيدة وأنه لم يتم تقديم أي وعد ملزم بالحفاظ على الهيكل غير الربحي. قد يكون كلا الافتراضين دقيقين من الناحية القانونية. لكنهما لا يحسمان ما إذا كان فشل الحوكمة قابلاً للمقاضاة بموجب نظرية مختلفة، أو في ولاية قضائية مختلفة، أو بموجب وثيقة تأسيسية صيغت بشكل مختلف.",
+             "بالنسبة للمستشارين القانونيين الداخليين ومجالس الإدارة التي تقدم المشورة بشأن حوكمة الذكاء الاصطناعي، فإن الدرس المستفاد ليس أن بيانات المهمة غير ذات صلة. بل أن بيانات المهمة التي لا يتم توثيقها أبداً كالتزامات قابلة للتنفيذ تخلق بالضبط نوع الفجوة في المسؤولية التي تؤدي إلى دعاوى قضائية باهظة التكلفة، حتى عندما تفشل تلك الدعاوى في النهاية."
+           ]
+         },
+         {
+           "name": "قانون الذكاء الاصطناعي في الإمارات العربية المتحدة لعام 2026: الالتزامات التنفيذية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يُعد قانون الذكاء الاصطناعي في الإمارات العربية المتحدة لعام 2026، الذي دخل حيز التنفيذ في مارس 2026، الإطار المحلي الأساسي الذي يحكم مسؤولية الذكاء الاصطناعي في الإمارات العربية المتحدة. ويحدد تصنيفًا للمخاطر من أربعة مستويات لأنظمة الذكاء الاصطناعي: المخاطر الدنيا، والمخاطر المحدودة، والمخاطر العالية، والمخاطر غير المقبولة. ويحدد التصنيف التزامات الامتثال المرتبطة به.",
+             "تتحمل أنظمة الذكاء الاصطناعي عالية المخاطر، التي تشمل التطبيقات في الرعاية الصحية والخدمات المالية والتوظيف والتقييم التعليمي وإدارة البنية التحتية الحيوية وإنفاذ القانون ومراقبة الحدود، الالتزامات الأكثر صرامة. وتشمل هذه الالتزامات تقييمات المطابقة الإلزامية، والوثائق الفنية، ومتطلبات حوكمة البيانات، وآليات الإشراف البشري، ومعايير الدقة والمتانة، والتزامات المراقبة بعد طرح المنتج في السوق. ويقع الموعد النهائي للتقييم الذاتي للأنظمة عالية المخاطر في سبتمبر 2026.",
+             "تصل غرامات عدم الامتثال إلى 10 ملايين درهم إماراتي لكل مخالفة. وعندما ينطوي عدم الامتثال على نظام ذكاء اصطناعي يتسبب في ضرر مادي، فإن إطار العقوبات يعمل جنبًا إلى جنب مع المسؤولية المدنية بموجب قانون المعاملات المدنية في الإمارات العربية المتحدة، والذي قد يسمح للأطراف المتضررة بالمطالبة بالتعويضات بشكل مستقل عن الإجراءات التنظيمية. يجب ألا تعامل الشركات مبلغ 10 ملايين درهم إماراتي كحد أقصى للمخاطر الإجمالية. إنه حد أدنى للمسؤولية التنظيمية فقط."
+           ]
+         },
+         {
+           "name": "النطاق خارج الحدود الإقليمية: قانون الاتحاد الأوروبي للذكاء الاصطناعي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يصبح قانون الاتحاد الأوروبي للذكاء الاصطناعي ساري المفعول بالكامل في 2 أغسطس 2026. ونطاقه خارج الحدود الإقليمية واضح: يخضع للقانون أي مزود ينتج نظامه للذكاء الاصطناعي مخرجات تُستخدم داخل الاتحاد الأوروبي، بغض النظر عن مكان تأسيس أو تسجيل ذلك المزود. وبالنسبة لشركات دول مجلس التعاون الخليجي التي لديها علاقات تجارية أوروبية، أو اتفاقيات توزيع، أو خدمات رقمية يصل إليها مستخدمون أوروبيون، فإن الامتثال لقانون الاتحاد الأوروبي للذكاء الاصطناعي ليس اختياريًا.",
+             "تتطلب التزامات الشفافية المنصوص عليها في القانون أن يتم تمييز المحتوى الذي تم إنشاؤه بواسطة الذكاء الاصطناعي على هذا النحو في حالات استخدام معينة، وأن يتم إعلام مستخدمي أنظمة الذكاء الاصطناعي عالية المخاطر بأنهم يتفاعلون مع الذكاء الاصطناعي. تنطبق هذه الالتزامات على كل من القائمين بالنشر والمطورين. تعتبر شركة دول مجلس التعاون الخليجي التي تحصل على ترخيص لأدوات الذكاء الاصطناعي من مزود خارجي وتقوم بنشرها في تطبيقات موجهة للعملاء ",
+             " بالمعنى المقصود في القانون، وتتحمل الالتزامات المقابلة."
+           ]
+         },
+         {
+           "name": "وثائق الحوكمة: الالتزام العملي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تتلاقى دعوى OpenAI والأطر التنظيمية في الإمارات العربية المتحدة والاتحاد الأوروبي في نقطة عملية واحدة: أهمية وثائق الحوكمة. الفجوة بين ما تنص عليه المبادئ المنشورة لنظام الذكاء الاصطناعي وما يفعله فعليًا هي مسألة تتعلق بالامتثال، وليست مجرد مسألة تتعلق بالسمعة. يجب على مجالس الإدارة التأكد من مراجعة سياسات حوكمة الذكاء الاصطناعي من قبل المستشار القانوني للتأكد من اتساقها الداخلي، وأن الالتزامات التي تنشئها مفهومة من قبل الفرق الفنية والتشغيلية، وأن المراقبة بعد النشر كافية لتحديد أي تباين في وقت مبكر.",
+             "بالنسبة للشركات في دول مجلس التعاون الخليجي التي لا تزال في المراحل الأولى من رحلتها في حوكمة الذكاء الاصطناعي، فإن نقطة البداية الأكثر عملية هي جرد النظام: تحديد كل تطبيق للذكاء الاصطناعي قيد الاستخدام، وتصنيفه وفقًا لإطار قانون الذكاء الاصطناعي في الإمارات العربية المتحدة، وتوثيق أساس هذا التصنيف. هذه الوثائق هي في حد ذاتها أحد أصول الامتثال، وغيابها هو مؤشر مبكر على وجود مخاطر حوكمة نظامية."
+           ]
+         }
+       ]
+     }
+
+   }, {
+     "eng": {
        "id": 17,
        "name": "Why NDAs Matter More Than Ever (and What to Include in One)",
        "date": "14th May, 2026",
        "des": "This is where a Non Disclosure Agreement (NDA) comes in.",
-  "img": "../assets/images/news/Image.jpeg",
+       "img": "../assets/images/news/Image.jpeg",
        "content": [{
            "name": "",
-           "small": "",  "img": "../assets/images/news/Image.jpeg",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
 
            "smallBold": " ",
            "des": [
              "In today’s business world, information is often more valuable than physical assets. Whether you’re sharing a business idea, client data, financial information, or internal strategies, there is always a level of risk involved. One conversation, one email, or one document shared without protection can lead to serious consequences.",
-           "An NDA is not just a formality; it is a practical legal tool that allows individuals and businesses to share information while setting clear boundaries. It helps establish trust at an early stage, whether you are hiring an employee, working with a freelancer, or entering into business discussions."
-            ]
+             "An NDA is not just a formality; it is a practical legal tool that allows individuals and businesses to share information while setting clear boundaries. It helps establish trust at an early stage, whether you are hiring an employee, working with a freelancer, or entering into business discussions."
+           ]
          },
          {
            "name": "So why should you use an NDA?",
            "small": "",
            "smallBold": "",
            "des": [
-            "Simply put: to protect what gives you value. An NDA helps prevent the misuse of sensitive information and provides legal grounds to take action if that trust is broken. It also sets expectations from the beginning, which can help avoid misunderstandings later on."
+             "Simply put: to protect what gives you value. An NDA helps prevent the misuse of sensitive information and provides legal grounds to take action if that trust is broken. It also sets expectations from the beginning, which can help avoid misunderstandings later on."
            ]
          },
          {
@@ -28,8 +130,9 @@
            "small": "In practice, there are three main types of NDAs:",
            "smallBold": "",
            "des": ["• Unilateral (One Way) NDA: This is the most commonly used type. One party shares information, and the other agrees to keep it confidential. You will typically see this in employment or consultancy arrangements.",
-          "• Mutual (Bilateral) NDA: Here, both parties share confidential information, and both are obligated to protect it. This is common in partnerships, collaborations, and business negotiations.",
-        "• Multilateral NDA: This involves three or more parties. Instead of signing multiple agreements, all parties sign a single NDA. It is often used in complex projects or joint ventures."]
+             "• Mutual (Bilateral) NDA: Here, both parties share confidential information, and both are obligated to protect it. This is common in partnerships, collaborations, and business negotiations.",
+             "• Multilateral NDA: This involves three or more parties. Instead of signing multiple agreements, all parties sign a single NDA. It is often used in complex projects or joint ventures."
+           ]
          },
          {
            "name": "What Should Every NDA Include?",
@@ -37,15 +140,15 @@
            "smallBold": "",
 
            "des": [
-            "• Definition of confidential information: Clearly specify what information is protected.",
-            "• Permitted use of the information: Limit the use of the information to a specific purpose.",
-            "• Obligations of the receiving party: Explain how the receiving party should handle and protect the information.",
-            "• Exclusions from confidentiality: For example, information that is already publicly available.",
-            "• Duration: Specify how long the confidentiality obligations remain in effect.",
-            "• No license clause: Clarify that sharing information does not grant ownership rights or intellectual property licenses.",
-            "• Return or deletion of information: State what happens to the information once the relationship ends.",
-            "• Consequences of breach: Explain what happens if the agreement is violated.",
-            "• Governing law: Identify which legal system will apply."
+             "• Definition of confidential information: Clearly specify what information is protected.",
+             "• Permitted use of the information: Limit the use of the information to a specific purpose.",
+             "• Obligations of the receiving party: Explain how the receiving party should handle and protect the information.",
+             "• Exclusions from confidentiality: For example, information that is already publicly available.",
+             "• Duration: Specify how long the confidentiality obligations remain in effect.",
+             "• No license clause: Clarify that sharing information does not grant ownership rights or intellectual property licenses.",
+             "• Return or deletion of information: State what happens to the information once the relationship ends.",
+             "• Consequences of breach: Explain what happens if the agreement is violated.",
+             "• Governing law: Identify which legal system will apply."
            ]
          },
          {
@@ -54,76 +157,75 @@
            "smallBold": "",
 
            "des": [
-            "NDAs are often overlooked or treated as routine paperwork, but they play a critical role in shaping how business relationships begin and develop. In many cases, they are the first legal step before any meaningful exchange of information takes place.",
-            "A well drafted NDA does more than protect confidential information. It clearly defines expectations, reduces uncertainty, and helps prevent misunderstandings between parties. It ensures that sensitive information is shared within a controlled and legally protected framework, which is especially important during early stage discussions, partnerships, or investment negotiations.",
-            "More importantly, NDAs help build a foundation of trust. When both parties understand that clear legal boundaries are in place, they are more likely to communicate openly and explore opportunities with confidence. In this way, an NDA is not just a protective document; it is also an enabler of collaboration and growth."
+             "NDAs are often overlooked or treated as routine paperwork, but they play a critical role in shaping how business relationships begin and develop. In many cases, they are the first legal step before any meaningful exchange of information takes place.",
+             "A well drafted NDA does more than protect confidential information. It clearly defines expectations, reduces uncertainty, and helps prevent misunderstandings between parties. It ensures that sensitive information is shared within a controlled and legally protected framework, which is especially important during early stage discussions, partnerships, or investment negotiations.",
+             "More importantly, NDAs help build a foundation of trust. When both parties understand that clear legal boundaries are in place, they are more likely to communicate openly and explore opportunities with confidence. In this way, an NDA is not just a protective document; it is also an enabler of collaboration and growth."
            ]
          }
        ]
      },
      "ar": {
-  "id": 17,
-  "name": "لماذا أصبحت اتفاقيات عدم الإفشاء أكثر أهمية من أي وقت مضى (وما الذي يجب تضمينه فيها)",
-  "date": "14 مايو، 2026",
-  "des": "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
-  "img": "../assets/images/news/Image.jpeg",
-  "content": [
-    {
-      "name": "",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "في عالم الأعمال اليوم، غالبًا ما تكون المعلومات أكثر قيمة من الأصول المادية. وسواء كنت تشارك فكرة تجارية أو بيانات عملاء أو معلومات مالية أو استراتيجيات داخلية، فهناك دائمًا قدر من المخاطرة. فمجرد محادثة واحدة أو رسالة بريد إلكتروني واحدة أو مستند واحد يتم مشاركته دون حماية يمكن أن يؤدي إلى عواقب وخيمة.",
-        "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
-        "اتفاقية عدم الإفشاء ليست مجرد إجراء شكلي؛ بل هي أداة قانونية عملية تسمح للأفراد والشركات بمشاركة المعلومات مع وضع حدود واضحة. فهي تساعد في بناء الثقة في مرحلة مبكرة، سواء كنت تقوم بتعيين موظف، أو تعمل مع متعاقد مستقل، أو تدخل في مفاوضات تجارية."
-      ]
-    },
-    {
-      "name": "فلماذا يجب عليك استخدام اتفاقية عدم الإفشاء؟",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "ببساطة: لحماية ما يمنحك القيمة. تساعد اتفاقية عدم الإفشاء (NDA) على منع إساءة استخدام المعلومات الحساسة وتوفر أساسًا قانونيًا لاتخاذ الإجراءات اللازمة في حالة خرق تلك الثقة. كما أنها تحدد التوقعات منذ البداية، مما يساعد على تجنب سوء الفهم لاحقًا."
-      ]
-    },
-    {
-      "name": "أنواع اتفاقيات عدم الإفشاء (NDA)",
-      "small": "في الممارسة العملية، هناك ثلاثة أنواع رئيسية من اتفاقيات عدم الإفشاء (NDA):",
-      "smallBold": "",
-      "des": [
-        "• اتفاقية عدم الإفشاء (NDA) أحادية الجانب (أحادية الاتجاه): هذا هو النوع الأكثر استخدامًا. يشارك أحد الطرفين المعلومات، ويوافق الطرف الآخر على الحفاظ على سريتها. عادةً ما ترى هذا في ترتيبات التوظيف أو الاستشارات.",
-        "• اتفاقية عدم الإفشاء المتبادلة (ثنائية): هنا، يشارك الطرفان المعلومات السرية، وكلاهما ملزم بحمايتها. هذا شائع في الشراكات والتعاون والمفاوضات التجارية.",
-        "• اتفاقية عدم الإفشاء متعددة الأطراف: تشمل هذه ثلاثة أطراف أو أكثر. بدلاً من توقيع اتفاقيات متعددة، يوقع جميع الأطراف على اتفاقية عدم إفشاء واحدة. غالبًا ما تُستخدم في المشاريع المعقدة أو المشاريع المشتركة."
-      ]
-    },
-    {
-      "name": "ما الذي يجب أن تتضمنه كل اتفاقية عدم إفشاء؟",
-      "small": "لا تتوقف قوة اتفاقية عدم الإفشاء على طولها، بل على وضوحها. وعادةً ما تتضمن البنود الرئيسية ما يلي:",
-      "smallBold": "",
-      "des": [
-        "• تعريف المعلومات السرية: حدد بوضوح المعلومات التي يتم حمايتها.",
-        "• الاستخدام المسموح به للمعلومات: قصر استخدام المعلومات على غرض محدد.",
-        "• التزامات الطرف المتلقي: اشرح كيف يجب على الطرف المتلقي التعامل مع المعلومات وحمايتها.",
-        "• الاستثناءات من السرية: على سبيل المثال، المعلومات المتاحة للجمهور بالفعل.",
-        "• المدة: حدد المدة التي تظل فيها التزامات السرية سارية المفعول.",
-        "• بند عدم الترخيص: أوضح أن مشاركة المعلومات لا تمنح حقوق ملكية أو تراخيص ملكية فكرية.",
-        "• إعادة المعلومات أو حذفها: حدد ما يحدث للمعلومات بمجرد انتهاء العلاقة.",
-        "• عواقب الإخلال: اشرح ما يحدث في حالة انتهاك الاتفاقية.",
-        "• القانون الحاكم: حدد النظام القانوني الذي سيتم تطبيقه."
-      ]
-    },
-    {
-      "name": "الخلاصة",
-      "small": "",
-      "smallBold": "",
-      "des": [
-        "غالبًا ما يتم تجاهل اتفاقيات عدم الإفشاء أو التعامل معها على أنها إجراءات روتينية، لكنها تلعب دورًا حاسمًا في تشكيل كيفية بدء العلاقات التجارية وتطورها. في كثير من الحالات، تمثل هذه الاتفاقيات الخطوة القانونية الأولى قبل إجراء أي تبادل ذي مغزى للمعلومات.",
-        "تقوم اتفاقية عدم الإفشاء المصاغة جيدًا بأكثر من مجرد حماية المعلومات السرية. فهي تحدد التوقعات بوضوح، وتقلل من عدم اليقين، وتساعد على منع سوء الفهم بين الأطراف. فهي تضمن مشاركة المعلومات الحساسة ضمن إطار عمل خاضع للرقابة ومحمي قانونياً، وهو أمر مهم بشكل خاص خلال المناقشات في المراحل المبكرة، أو الشراكات، أو مفاوضات الاستثمار.",
-        "والأهم من ذلك، تساعد اتفاقيات عدم الإفشاء في بناء أساس من الثقة. فعندما يدرك الطرفان وجود حدود قانونية واضحة، يزداد احتمال تواصلهما بصراحة واستكشاف الفرص بثقة. وبهذه الطريقة، لا تكون اتفاقية عدم الإفشاء مجرد وثيقة وقائية؛ بل هي أيضاً عامل مساعد على التعاون والنمو."
-      ]
-    }
-  ]
-}
+       "id": 17,
+       "name": "لماذا أصبحت اتفاقيات عدم الإفشاء أكثر أهمية من أي وقت مضى (وما الذي يجب تضمينه فيها)",
+       "date": "14 مايو، 2026",
+       "des": "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في عالم الأعمال اليوم، غالبًا ما تكون المعلومات أكثر قيمة من الأصول المادية. وسواء كنت تشارك فكرة تجارية أو بيانات عملاء أو معلومات مالية أو استراتيجيات داخلية، فهناك دائمًا قدر من المخاطرة. فمجرد محادثة واحدة أو رسالة بريد إلكتروني واحدة أو مستند واحد يتم مشاركته دون حماية يمكن أن يؤدي إلى عواقب وخيمة.",
+             "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+             "اتفاقية عدم الإفشاء ليست مجرد إجراء شكلي؛ بل هي أداة قانونية عملية تسمح للأفراد والشركات بمشاركة المعلومات مع وضع حدود واضحة. فهي تساعد في بناء الثقة في مرحلة مبكرة، سواء كنت تقوم بتعيين موظف، أو تعمل مع متعاقد مستقل، أو تدخل في مفاوضات تجارية."
+           ]
+         },
+         {
+           "name": "فلماذا يجب عليك استخدام اتفاقية عدم الإفشاء؟",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ببساطة: لحماية ما يمنحك القيمة. تساعد اتفاقية عدم الإفشاء (NDA) على منع إساءة استخدام المعلومات الحساسة وتوفر أساسًا قانونيًا لاتخاذ الإجراءات اللازمة في حالة خرق تلك الثقة. كما أنها تحدد التوقعات منذ البداية، مما يساعد على تجنب سوء الفهم لاحقًا."
+           ]
+         },
+         {
+           "name": "أنواع اتفاقيات عدم الإفشاء (NDA)",
+           "small": "في الممارسة العملية، هناك ثلاثة أنواع رئيسية من اتفاقيات عدم الإفشاء (NDA):",
+           "smallBold": "",
+           "des": [
+             "• اتفاقية عدم الإفشاء (NDA) أحادية الجانب (أحادية الاتجاه): هذا هو النوع الأكثر استخدامًا. يشارك أحد الطرفين المعلومات، ويوافق الطرف الآخر على الحفاظ على سريتها. عادةً ما ترى هذا في ترتيبات التوظيف أو الاستشارات.",
+             "• اتفاقية عدم الإفشاء المتبادلة (ثنائية): هنا، يشارك الطرفان المعلومات السرية، وكلاهما ملزم بحمايتها. هذا شائع في الشراكات والتعاون والمفاوضات التجارية.",
+             "• اتفاقية عدم الإفشاء متعددة الأطراف: تشمل هذه ثلاثة أطراف أو أكثر. بدلاً من توقيع اتفاقيات متعددة، يوقع جميع الأطراف على اتفاقية عدم إفشاء واحدة. غالبًا ما تُستخدم في المشاريع المعقدة أو المشاريع المشتركة."
+           ]
+         },
+         {
+           "name": "ما الذي يجب أن تتضمنه كل اتفاقية عدم إفشاء؟",
+           "small": "لا تتوقف قوة اتفاقية عدم الإفشاء على طولها، بل على وضوحها. وعادةً ما تتضمن البنود الرئيسية ما يلي:",
+           "smallBold": "",
+           "des": [
+             "• تعريف المعلومات السرية: حدد بوضوح المعلومات التي يتم حمايتها.",
+             "• الاستخدام المسموح به للمعلومات: قصر استخدام المعلومات على غرض محدد.",
+             "• التزامات الطرف المتلقي: اشرح كيف يجب على الطرف المتلقي التعامل مع المعلومات وحمايتها.",
+             "• الاستثناءات من السرية: على سبيل المثال، المعلومات المتاحة للجمهور بالفعل.",
+             "• المدة: حدد المدة التي تظل فيها التزامات السرية سارية المفعول.",
+             "• بند عدم الترخيص: أوضح أن مشاركة المعلومات لا تمنح حقوق ملكية أو تراخيص ملكية فكرية.",
+             "• إعادة المعلومات أو حذفها: حدد ما يحدث للمعلومات بمجرد انتهاء العلاقة.",
+             "• عواقب الإخلال: اشرح ما يحدث في حالة انتهاك الاتفاقية.",
+             "• القانون الحاكم: حدد النظام القانوني الذي سيتم تطبيقه."
+           ]
+         },
+         {
+           "name": "الخلاصة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "غالبًا ما يتم تجاهل اتفاقيات عدم الإفشاء أو التعامل معها على أنها إجراءات روتينية، لكنها تلعب دورًا حاسمًا في تشكيل كيفية بدء العلاقات التجارية وتطورها. في كثير من الحالات، تمثل هذه الاتفاقيات الخطوة القانونية الأولى قبل إجراء أي تبادل ذي مغزى للمعلومات.",
+             "تقوم اتفاقية عدم الإفشاء المصاغة جيدًا بأكثر من مجرد حماية المعلومات السرية. فهي تحدد التوقعات بوضوح، وتقلل من عدم اليقين، وتساعد على منع سوء الفهم بين الأطراف. فهي تضمن مشاركة المعلومات الحساسة ضمن إطار عمل خاضع للرقابة ومحمي قانونياً، وهو أمر مهم بشكل خاص خلال المناقشات في المراحل المبكرة، أو الشراكات، أو مفاوضات الاستثمار.",
+             "والأهم من ذلك، تساعد اتفاقيات عدم الإفشاء في بناء أساس من الثقة. فعندما يدرك الطرفان وجود حدود قانونية واضحة، يزداد احتمال تواصلهما بصراحة واستكشاف الفرص بثقة. وبهذه الطريقة، لا تكون اتفاقية عدم الإفشاء مجرد وثيقة وقائية؛ بل هي أيضاً عامل مساعد على التعاون والنمو."
+           ]
+         }
+       ]
+     }
    },
 
    {
