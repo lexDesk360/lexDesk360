@@ -11,6 +11,7 @@ if (lang == null && lang != "eng" && lang != "ar") {
   lang = "eng";
 }
 
+
 const values = {
   eng: [
     {
