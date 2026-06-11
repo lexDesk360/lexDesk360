@@ -1,6 +1,191 @@
  [{
      "eng": {
        "id": 15,
+       "name": "Trust Structures and VISTA Trusts: A Modern Approach to Wealth Planning",
+       "date": "11th Jun, 2026",
+       "des": "As private wealth becomes increasingly international—often spanning operating businesses, real estate, diversified portfolios, and multi-jurisdictional holdings—the need for sophisticated, forward-looking structuring solutions has become more pronounced. In this environment, trusts and foundations have evolved from niche legal tools into core components of wealth management, succession planning, and governance.",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "By: Nada Dessouki - Associate",
+           "smallBold": "",
+           "des": ["Today’s clients are no longer focused solely on transferring assets upon. Instead, they want continuity, flexibility, protection, and long-term stability that can adapt to changing family and business dynamics across jurisdictions.",
+             "Among the most prominent solutions are discretionary trusts, VISTA trusts, international trusts, and private foundations established in jurisdictions such as the British Virgin Islands (BVI), Cyprus, the United Arab Emirates (UAE), and Mauritius."
+           ]
+         },
+
+         {
+           "name": "Trusts as a Mechanism for Continuity and Control",
+           "small": "",
+           "smallBold": "At its core, a trust is a legal arrangement through which an individual transfers assets to a trustee, who holds and manages those assets for the benefit of designated beneficiaries under defined terms.",
+           "des": [
+             "Unlike a will, which takes effect only on death, a trust is a living structure that can preserve and administer wealth during the settlor’s lifetime and across generations. This is especially important where assets span multiple jurisdictions or where family and business interests require a more nuanced approach than direct ownership.",
+             "Trust structures are commonly used to:",
+             "• Facilitate the efficient transfer of wealth across generations.",
+             "• Protect assets from external risks, including creditor claims and disputes.",
+             "• Centralise ownership and governance of complex asset portfolios.",
+             "• Preserve confidentiality and privacy in relation to family wealth.",
+             "• Ensure continuity of ownership and decision-making.",
+             "In many jurisdictions, assets held through properly established trusts may avoid probate processes, enabling a more streamlined transition upon death."
+           ]
+         },
+         {
+           "name": "The Evolving Role of Trusts in Succession Planning",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Modern wealth planning is no longer focused only on asset distribution—it also seeks to preserve the integrity and long-term sustainability of those assets.",
+             "This is particularly relevant where wealth is tied to operating businesses.The challenge is not just transferring ownership, but doing so without disrupting management, fragmenting control, or reducing enterprise value.",
+             "Trusts address this by separating legal ownership from day - to - day management.This allows businesses to continue operating under stable leadership, while ownership transitions occur within a structured framework.",
+             "Trusts can also incorporate governance mechanisms that extend beyond the founder’ s lifetime, helping to reduce the potential for conflict and ensuring that decision - making remains aligned with the original strategic vision."
+           ]
+         },
+         {
+           "name": "VISTA Trusts and Operational Autonomy",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "A common concern with traditional trust structures is the perceived loss of control. Trustees are usually subject to fiduciary duties that may require them to intervene in the management of underlying assets, including operating companies. VISTA trusts, established under the Virgin Islands Special Trusts Act, were specifically designed to address this issue.",
+             "Where a trust holds shares in a BVI company, the trustee’s duty to intervene in management is effectively disengaged. Day-to-day operations remain with the company’s directors, allowing established management structures to continue without disruption.",
+             "This makes VISTA trusts particularly well suited to estates built on active business operations. Founders can implement formal succession arrangements while preserving operational autonomy, alongside asset protection and long-term continuity."
+           ]
+         },
+         {
+           "name": "Cyprus, UAE, and Mauritius Structures",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Beyond BVI trusts, other jurisdictions have developed increasingly sophisticated wealth structuring frameworks.",
+             "Cyprus International Trusts remain popular with international families and entrepreneurs seeking flexible structures with strong asset protection and confidentiality features. The UAE has also emerged as a leading regional centre for private wealth structuring, particularly through DIFC and ADGM foundations, which are often used for family business succession planning and asset consolidation.",
+             "Mauritius also continues to play a significant role in international wealth planning, particularly for clients with interests across Africa, Asia, and the Middle East. Mauritius foundations and trusts are often incorporated into broader international holding structures focused on long-term continuity and cross-border investment management."
+           ]
+         },
+         {
+           "name": "Trusts and Foundations: Complementary Tools",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Although trusts and foundations differ in legal form, they are often used together within broader wealth planning frameworks.",
+             "Trusts rely on a trustee-beneficiary relationship, whereas foundations are separate legal entities capable of holding assets directly. For some clients, foundations provide a more familiar governance model, while trusts continue to offer significant flexibility in succession and asset protection planning.",
+             "The choice between them—or the decision to combine both—depends on the nature of the assets involved, governance preferences, family dynamics, and long-term strategic objectives."
+           ]
+         },
+         {
+           "name": "A Strategic Approach to Wealth Structuring",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Effective wealth planning requires more than choosing a vehicle or jurisdiction. It requires assessing how legal structures can preserve value, manage risk, maintain continuity, and support long-term family and business objectives.",
+             "Whether through BVI VISTA trusts, Cyprus International Trusts, UAE foundations, Mauritius structures, or integrated cross-border arrangements, well-designed frameworks can provide both legal certainty and long-term resilience."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "When properly designed, these structures provide not only legal certainty, but also a platform for long-term stability—ensuring that wealth is not only transferred but sustained."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 15,
+       "name": "الهياكل الاستئمانية وصناديق «فيستا» الاستئمانية: نهج حديث لتخطيط الثروة",
+       "date": "11 يونيو 2026",
+       "des": "مع تزايد الطابع الدولي للثروات الخاصة — التي غالبًا ما تشمل شركات عاملة وعقارات ومحافظ استثمارية متنوعة وممتلكات خاضعة لعدة ولايات قضائية — أصبحت الحاجة إلى حلول هيكلية متطورة وتطلعية أكثر إلحاحًا. وفي ظل هذه الظروف، تطورت الصناديق الاستئمانية والمؤسسات الخيرية من أدوات قانونية متخصصة إلى مكونات أساسية لإدارة الثروات وتخطيط الخلافة والحوكمة.",
+       "img": "../assets/images/news/new13.webp",
+
+       "ar": [{
+           "name": "",
+           "small": "بقلم: ندى دسوقي - محامية",
+           "smallBold": "",
+           "des": [
+             "مع تزايد الطابع الدولي للثروات الخاصة — التي غالبًا ما تشمل شركات عاملة وعقارات ومحافظ استثمارية متنوعة وممتلكات خاضعة لعدة ولايات قضائية — أصبحت الحاجة إلى حلول هيكلية متطورة وتطلعية أكثر إلحاحًا. وفي ظل هذه الظروف، تطورت الصناديق الاستئمانية والمؤسسات الخيرية من أدوات قانونية متخصصة إلى مكونات أساسية لإدارة الثروات وتخطيط الخلافة والحوكمة.",
+             "لم يعد عملاء اليوم يركزون فقط على نقل الأصول. بدلاً من ذلك، فإنهم يريدون الاستمرارية والمرونة والحماية والاستقرار على المدى الطويل الذي يمكن أن يتكيف مع ديناميكيات الأسرة والأعمال المتغيرة عبر الولايات القضائية.",
+             "من بين الحلول الأبرز الصناديق الاستئمانية التقديرية، وصناديق VISTA، والصناديق الاستئمانية الدولية، والمؤسسات الخاصة المنشأة في ولايات قضائية مثل جزر فيرجن البريطانية (BVI)، وقبرص، والإمارات العربية المتحدة (UAE)، وموريشيوس."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية كآلية للاستمرارية والسيطرة",
+           "small": "",
+           "smallBold": "في جوهرها، الصندوق الاستئماني هو ترتيب قانوني ينقل من خلاله الفرد الأصول إلى أمين، الذي يحتفظ بهذه الأصول ويديرها لصالح المستفيدين المعينين بموجب شروط محددة.",
+           "des": [
+             "على عكس الوصية، التي لا تصبح سارية المفعول إلا عند الوفاة، فإن الصندوق الاستئماني هو هيكل حي يمكنه الحفاظ على الثروة وإدارتها خلال حياة المؤسس وعبر الأجيال. وهذا مهم بشكل خاص عندما تمتد الأصول عبر ولايات قضائية متعددة أو عندما تتطلب مصالح الأسرة والأعمال نهجًا أكثر دقة من الملكية المباشرة.",
+             "تُستخدم هياكل الصناديق الاستئمانية عادةً من أجل:",
+             "• تسهيل النقل الفعال للثروة عبر الأجيال.",
+             "• حماية الأصول من المخاطر الخارجية، بما في ذلك مطالبات الدائنين والنزاعات.",
+             "• تركيز ملكية وإدارة محافظ الأصول المعقدة.",
+             "• الحفاظ على السرية والخصوصية فيما يتعلق بثروة العائلة.",
+             "• ضمان استمرارية الملكية واتخاذ القرار.",
+             "في العديد من الولايات القضائية، قد تتجنب الأصول المملوكة من خلال صناديق استئمانية منشأة بشكل صحيح إجراءات إثبات صحة الوصية، مما يتيح انتقالاً أكثر سلاسة عند الوفاة."
+           ]
+         },
+         {
+           "name": "الدور المتطور للصناديق الاستئمانية في تخطيط الخلافة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "لم يعد تخطيط الثروة الحديث يركز فقط على توزيع الأصول — بل يسعى أيضًا إلى الحفاظ على سلامة تلك الأصول واستدامتها على المدى الطويل.",
+             "ويكون هذا مهمًا بشكل خاص عندما تكون الثروة مرتبطة بأعمال تجارية عاملة. لا يقتصر التحدي على نقل الملكية فحسب، بل على القيام بذلك دون تعطيل الإدارة أو تجزئة السيطرة أو تقليل قيمة المؤسسة.",
+             "تعالج الصناديق الاستئمانية هذه المشكلة من خلال فصل الملكية القانونية عن الإدارة اليومية. وهذا يسمح للشركات بمواصلة العمل تحت قيادة مستقرة، بينما تتم عمليات انتقال الملكية ضمن إطار عمل منظم.",
+             "يمكن للصناديق الاستئمانية أيضًا أن تدمج آليات حوكمة تمتد إلى ما بعد عمر المؤسس، مما يساعد على تقليل احتمالية نشوب النزاعات ويضمن بقاء عملية صنع القرار متوافقة مع الرؤية الاستراتيجية الأصلية."
+           ]
+         },
+         {
+           "name": "صناديق VISTA والاستقلالية التشغيلية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "من المخاوف الشائعة بشأن الهياكل الاستئمانية التقليدية ما يُنظر إليه على أنه فقدان للسيطرة. عادةً ما يخضع الأمناء لواجبات ائتمانية قد تتطلب منهم التدخل في إدارة الأصول الأساسية، بما في ذلك الشركات العاملة.",
+             "صُممت صناديق VISTA الاستئمانية، التي أُنشئت بموجب قانون الصناديق الاستئمانية الخاصة لجزر فيرجن، خصيصًا لمعالجة هذه المشكلة.",
+             "عندما تمتلك الصندوق الاستئماني أسهمًا في شركة في جزر فيرجن البريطانية، يُعفى الأمين فعليًا من واجب التدخل في الإدارة. تظل العمليات اليومية من اختصاص مديري الشركة، مما يسمح للهياكل الإدارية القائمة بالاستمرار دون انقطاع.",
+             "وهذا يجعل صناديق VISTA مناسبة بشكل خاص للممتلكات المبنية على عمليات تجارية نشطة. يمكن للمؤسسين تنفيذ ترتيبات الخلافة الرسمية مع الحفاظ على الاستقلالية التشغيلية، إلى جانب حماية الأصول والاستمرارية على المدى الطويل."
+           ]
+         },
+         {
+           "name": "الهياكل في قبرص والإمارات العربية المتحدة وموريشيوس",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "بالإضافة إلى صناديق جزر فيرجن البريطانية، طورت ولايات قضائية أخرى أطر عمل متطورة بشكل متزايد لهيكلة الثروة.",
+             "لا تزال صناديق قبرص الدولية تحظى بشعبية لدى العائلات الدولية ورجال الأعمال الذين يبحثون عن هياكل مرنة تتمتع بميزات قوية لحماية الأصول والسرية. كما برزت الإمارات العربية المتحدة كمركز إقليمي رائد لهيكلة الثروة الخاصة، لا سيما من خلال مؤسسات مركز دبي المالي العالمي (DIFC) وسوق أبوظبي العالمي (ADGM)، والتي غالبًا ما تُستخدم لتخطيط خلافة الأعمال العائلية وتوحيد الأصول.",
+             "كما تواصل موريشيوس لعب دور مهم في تخطيط الثروة الدولية، لا سيما للعملاء الذين لديهم مصالح في أنحاء أفريقيا وآسيا والشرق الأوسط. غالبًا ما يتم دمج المؤسسات والصناديق الاستئمانية في موريشيوس ضمن هياكل قابضة دولية أوسع نطاقًا تركز على الاستمرارية طويلة الأجل وإدارة الاستثمارات عبر الحدود."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية والمؤسسات الخيرية: أدوات متكاملة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "على الرغم من اختلاف الصناديق الاستئمانية والمؤسسات الخيرية من حيث الشكل القانوني، إلا أنه غالبًا ما يتم استخدامهما معًا ضمن أطر أوسع لتخطيط الثروة.",
+             "تعتمد الصناديق الاستئمانية على علاقة بين الوصي والمستفيد، في حين أن المؤسسات الخيرية هي كيانات قانونية مستقلة قادرة على حيازة الأصول مباشرةً. بالنسبة لبعض العملاء، توفر المؤسسات الخيرية نموذجًا إداريًا أكثر مألوفة، بينما تظل الصناديق الاستئمانية توفر مرونة كبيرة في تخطيط الخلافة وحماية الأصول.",
+             "يعتمد الاختيار بينهما — أو قرار الجمع بينهما — على طبيعة الأصول المعنية، وتفضيلات الحوكمة، وديناميكيات الأسرة، والأهداف الاستراتيجية طويلة الأجل."
+           ]
+         },
+         {
+           "name": "نهج استراتيجي لهيكلة الثروة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يتطلب التخطيط الفعال للثروة أكثر من مجرد اختيار أداة أو ولاية قضائية. فهو يتطلب تقييم كيفية قيام الهياكل القانونية بالحفاظ على القيمة، وإدارة المخاطر، والحفاظ على الاستمرارية، ودعم الأهداف العائلية والتجارية طويلة الأجل.",
+             "سواء كان ذلك من خلال صناديق BVI VISTA الاستئمانية، أو الصناديق الاستئمانية الدولية في قبرص، أو المؤسسات في الإمارات العربية المتحدة، أو الهياكل في موريشيوس، أو الترتيبات المتكاملة عبر الحدود، يمكن للأطر المصممة جيدًا أن توفر اليقين القانوني والمرونة على المدى الطويل."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "عندما يتم تصميم هذه الهياكل بشكل صحيح، فإنها لا توفر اليقين القانوني فحسب، بل توفر أيضًا منصة للاستقرار على المدى الطويل — مما يضمن أن الثروة لا يتم نقلها فحسب، بل يتم الحفاظ عليها أيضًا."
+           ]
+         }
+       ]
+     }
+
+   }, {
+     "eng": {
+       "id": 15,
        "name": "AI Liability and Governance: Who Is Responsible When the Algorithm Decides?",
        "date": "4th Jun, 2026",
        "des": "The accountability gap in artificial intelligence has moved from theoretical debate to live regulatory obligation. Senior counsel advising boards and in-house teams need a clear picture of where liability falls in 2026.",
