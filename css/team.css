@@ -43,7 +43,7 @@
 }
 #team-content .tab-content #group-members .member,
 #team-content .tab-content #our-people .member {
-  width: 25vw;
+  width: 28vw;
   align-items: start;
   display: flex;
   flex-direction: column;
