@@ -6,6 +6,14 @@
   padding: 0 5vw;
   position: relative;
 }
+#team-content .descrbtion-title {
+  width: 100%;
+  text-align: center;
+}
+#team-content .title-small {
+  width: 100%;
+  text-align: center;
+}
 #team-content .toggleTab {
   width: 90%;
   display: flex;
