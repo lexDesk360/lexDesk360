@@ -11,6 +11,7 @@ if (lang == "ar") {
   body.classList.add("rtl");
 }
 
+
 let translationsData ={
   "eng": {
     "pathPage": "Home",
