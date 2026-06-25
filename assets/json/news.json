@@ -1,5 +1,101 @@
  [{
      "eng": {
+       "id": 20,
+       "name": "AI, Copyright and Intellectual Property: Protecting Innovation in the GCC",
+       "date": "25th Jun, 2026",
+       "des": "Ninety-two percent of S&P 500 market value is now intangible. The legal frameworks governing that value in the GCC have changed materially. Businesses that have not updated their IP strategy are carrying risk they have not yet priced.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "The Value Migration",
+           "smallBold": "",
+           "des": [
+             "Ocean Tomo's 2025 Intangible Asset Market Value Study establishes that intangible assets now constitute approximately 92 percent of the market capitalisation of the S&P 500, up from 17 percent in 1975. Among the largest index constituents, Apple, Nvidia, Mastercard and their peers, the figure approaches 98 percent. That value is constituted, in legal terms, by a bundle of enforceable rights: patents, trademarks, trade secrets, copyright, database rights, and the contractual frameworks that govern how those rights are licensed, assigned, and defended.",
+             "The GCC is not immune to this dynamic. The UAE has climbed to 30th in the WIPO Global Innovation Index 2025, the highest position any Arab economy has held. Saudi Arabia's institutional patent applications rose approximately 80 percent year-on-year in 2025. The GCC Unified Trademark Law is now operational across all six member states, creating for the first time a single enforceable trademark territory across the region. The enforcement infrastructure is improving. The question is whether businesses are using it."
+           ]
+         },
+
+         {
+           "name": "The Authorship Problem in AI-Generated Content",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Copyright protection in the UAE is governed by Federal Law No. 38 of 2021 on Copyrights and Related Rights. The law protects original works of authorship. \"Author\" is defined as the natural person who creates the work. Where an AI system generates text, images, music, code, or other content without determinative human creative input, the question of copyright subsistence is legally unresolved under UAE law.",
+             "This is not a theoretical concern. If your business produces AI-generated marketing materials, legal documents, technical specifications, or creative content and uses that content commercially, you may be asserting copyright in material that does not qualify for protection. Conversely, if a competitor reproduces your AI-generated content, your ability to enforce against that reproduction may be compromised if you cannot demonstrate the human authorship elements that give rise to protection.",
+             "The UAE AI Act 2026 intersects with this question through its transparency and documentation requirements. AI systems that produce content in regulated use cases must, in certain circumstances, disclose the AI origin of that content. That disclosure obligation creates an evidentiary record that will be relevant in future IP disputes. Businesses should document their content production workflows now, identifying which elements involve determinative human authorship and which are AI-generated."
+           ]
+         },
+         {
+           "name": "Patent Strategy: The Updated GCC Infrastructure",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In July 2025, the UAE signed an Accelerated Patent Grant Agreement with the US Patent and Trademark Office. This agreement enables applicants who have filed in the USPTO and meet the qualifying criteria to obtain accelerated examination in the UAE, materially shortening the time between application and grant. For businesses with active R&D programmes, this is a commercially significant development.",
+             "In Saudi Arabia, SAIP achieved accreditation as an International Searching and Preliminary Examining Authority under the Patent Cooperation Treaty in 2025, the first IP office in the Middle East to do so, and joined WIPO's Digital Access Service. The practical implication is that Saudi patent filings are now more efficiently linked to international prosecution strategies.",
+             "Software-implemented inventions and AI-driven methods are patentable in the GCC under specific conditions. The application must claim a technical effect beyond the software itself. Businesses with proprietary algorithms, machine learning models, or automated decision systems should obtain specialist IP counsel to assess patentability before public disclosure, which starts the clock on prior art."
+           ]
+         },
+         {
+           "name": "IP Audit: The Minimum Compliance Position",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Businesses operating in the GCC should conduct an IP audit that covers four questions. First, what assets does the business own or use that qualify as IP, including AI-generated outputs, training data, models, brand elements, and confidential know-how? Second, what rights have been registered, and are those registrations current and correctly owned by the intended entity? Third, what contractual arrangements govern IP created by employees, contractors, or in joint ventures, and do those arrangements reflect current law? Fourth, where the business uses third-party AI tools, what do the applicable licence terms say about ownership of outputs?",
+             "That fourth question is increasingly material. Major AI platform providers have adopted varying positions on output ownership in their terms of service. A business that uses a third-party AI tool to generate a product design, a legal document, or a marketing campaign needs to understand what rights it actually holds before it asserts, assigns, or licences that output."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 20,
+       "name": "الذكاء الاصطناعي وحقوق النشر والملكية الفكرية: حماية الابتكار في دول مجلس التعاون الخليجي",
+       "date": "25 يونيو 2026",
+       "des": "تبلغ نسبة الأصول غير الملموسة حالياً 92 في المائة من القيمة السوقية لمؤشر S&P 500. وقد طرأت تغييرات جوهرية على الأطر القانونية التي تحكم هذه القيمة في دول مجلس التعاون الخليجي. وتواجه الشركات التي لم تقم بتحديث استراتيجيتها المتعلقة بالملكية الفكرية مخاطر لم تحدد قيمتها بعد.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "تحول القيمة",
+           "smallBold": "",
+           "des": [
+             "تؤكد دراسة «أوشن تومو» (Ocean Tomo) لعام 2025 حول القيمة السوقية للأصول غير الملموسة أن الأصول غير الملموسة تشكل حالياً ما يقارب 92 في المائة من القيمة السوقية لمؤشر S&P 500، بعد أن كانت 17 في المائة في عام 1975. وبين أكبر الشركات المكونة للمؤشر، مثل «آبل» و«إنفيديا» و«ماستركارد» وشركات أخرى مماثلة، تقترب هذه النسبة من 98 في المائة. وتتكون هذه القيمة، من الناحية القانونية، من مجموعة من الحقوق القابلة للتنفيذ: براءات الاختراع، والعلامات التجارية، والأسرار التجارية، وحقوق النشر، وحقوق قواعد البيانات، والأطر التعاقدية التي تحكم كيفية ترخيص تلك الحقوق وتخصيصها والدفاع عنها.",
+             "ولا يُستثنى مجلس التعاون الخليجي من هذه الديناميكية. فقد صعدت الإمارات العربية المتحدة إلى المرتبة 30 في مؤشر الابتكار العالمي لعام 2025 الصادر عن المنظمة العالمية للملكية الفكرية (WIPO)، وهو أعلى ترتيب حققته أي اقتصاد عربي على الإطلاق. وارتفعت طلبات براءات الاختراع المؤسسية في المملكة العربية السعودية بنسبة 80 في المائة تقريبًا على أساس سنوي في عام 2025. وأصبح قانون العلامات التجارية الموحد لدول مجلس التعاون الخليجي ساري المفعول الآن في جميع الدول الأعضاء الست، مما أدى لأول مرة إلى إنشاء منطقة واحدة قابلة للتنفيذ للعلامات التجارية في جميع أنحاء المنطقة. كما أن البنية التحتية للتنفيذ آخذة في التحسن. والسؤال المطروح هو: هل تستخدم الشركات هذه البنية التحتية؟"
+           ]
+         },
+         {
+           "name": "مشكلة التأليف في المحتوى الذي تولده الذكاء الاصطناعي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تخضع حماية حقوق النشر في الإمارات العربية المتحدة للقانون الاتحادي رقم 38 لعام 2021 بشأن حقوق النشر والحقوق المرتبطة بها. يحمي القانون الأعمال الأصلية للمؤلفين. يُعرَّف «المؤلف» بأنه الشخص الطبيعي الذي يبتكر العمل. وعندما يقوم نظام الذكاء الاصطناعي بإنشاء نصوص أو صور أو موسيقى أو أكواد برمجية أو أي محتوى آخر دون مدخلات إبداعية بشرية حاسمة، فإن مسألة استمرارية حقوق النشر تظل غير محسومة قانونياً بموجب قانون الإمارات العربية المتحدة.",
+             "وهذا ليس مجرد قلق نظري. فإذا كانت شركتك تنتج مواد تسويقية أو مستندات قانونية أو مواصفات فنية أو محتوى إبداعيًّا تم إنشاؤه بواسطة الذكاء الاصطناعي وتستخدم هذا المحتوى تجاريًّا، فقد تكون تدعي حقوق النشر في مادة لا تستوفي شروط الحماية. وعلى العكس من ذلك، إذا قام أحد المنافسين بإعادة إنتاج المحتوى الذي أنتجته شركتك بواسطة الذكاء الاصطناعي، فقد تتعرض قدرتك على اتخاذ إجراءات قانونية ضد هذا الاستنساخ للخطر إذا لم تتمكن من إثبات عناصر التأليف البشري التي تستوجب الحماية.",
+             "يتقاطع قانون الذكاء الاصطناعي لدولة الإمارات العربية المتحدة لعام 2026 مع هذه المسألة من خلال متطلبات الشفافية والتوثيق التي ينص عليها. يجب على أنظمة الذكاء الاصطناعي التي تنتج محتوى في حالات الاستخدام الخاضعة للتنظيم، في ظروف معينة، الكشف عن أصل الذكاء الاصطناعي لهذا المحتوى. ويخلق هذا الالتزام بالكشف سجلاً إثباتياً سيكون ذا صلة في النزاعات المستقبلية المتعلقة بالملكية الفكرية. يجب على الشركات توثيق سير عمل إنتاج المحتوى لديها الآن، وتحديد العناصر التي تنطوي على تأليف بشري حاسم وتلك التي تم إنشاؤها بواسطة الذكاء الاصطناعي."
+           ]
+         },
+         {
+           "name": "استراتيجية براءات الاختراع: البنية التحتية المحدثة لدول مجلس التعاون الخليجي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في يوليو 2025، وقعت الإمارات العربية المتحدة اتفاقية منح براءات الاختراع المعجلة مع مكتب براءات الاختراع والعلامات التجارية الأمريكي (USPTO). تتيح هذه الاتفاقية للمتقدمين الذين قدموا طلباتهم إلى مكتب براءات الاختراع والعلامات التجارية الأمريكي ويستوفون معايير الأهلية الحصول على فحص معجل في الإمارات العربية المتحدة، مما يقصر بشكل جوهري الفترة الزمنية بين تقديم الطلب ومنح البراءة. بالنسبة للشركات التي لديها برامج بحث وتطوير نشطة، يعد هذا تطورًا ذا أهمية تجارية كبيرة.",
+             "في المملكة العربية السعودية، حصلت المؤسسة السعودية للبراءات والعلامات التجارية (SAIP) على الاعتماد كسلطة بحث دولية وفحص أولي بموجب معاهدة التعاون في مجال البراءات في عام 2025، لتكون أول مكتب للملكية الفكرية في الشرق الأوسط يحقق ذلك، وانضمت إلى خدمة الوصول الرقمي التابعة للمنظمة العالمية للملكية الفكرية (WIPO). ويتمثل الأثر العملي في أن طلبات البراءات السعودية أصبحت الآن مرتبطة بشكل أكثر كفاءة باستراتيجيات المتابعة الدولية.",
+             "تُعتبر الاختراعات التي تُنفَّذ بواسطة البرمجيات والأساليب التي تعتمد على الذكاء الاصطناعي قابلة للحصول على براءة اختراع في دول مجلس التعاون الخليجي في ظل شروط محددة. يجب أن يدعي الطلب وجود تأثير تقني يتجاوز البرمجيات نفسها. وينبغي على الشركات التي تمتلك خوارزميات خاصة بها، أو نماذج التعلم الآلي، أو أنظمة اتخاذ القرار الآلية، الحصول على مشورة متخصصة في مجال الملكية الفكرية لتقييم قابلية الحصول على براءة الاختراع قبل الإفصاح العلني، الذي يبدأ من خلاله احتساب فترة «الحالة الفنية السابقة»."
+           ]
+         },
+         {
+           "name": "تدقيق الملكية الفكرية: الحد الأدنى من الامتثال",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ينبغي على الشركات العاملة في دول مجلس التعاون الخليجي إجراء تدقيق للملكية الفكرية يغطي أربعة أسئلة. أولاً، ما هي الأصول التي تمتلكها الشركة أو تستخدمها والتي تُعتبر ملكية فكرية، بما في ذلك المخرجات الناتجة عن الذكاء الاصطناعي، وبيانات التدريب، والنماذج، وعناصر العلامة التجارية، والمعرفة الفنية السرية؟ ثانياً، ما هي الحقوق التي تم تسجيلها، وهل هذه التسجيلات سارية المفعول ومملوكة بشكل صحيح للكيان المقصود؟ ثالثاً، ما هي الترتيبات التعاقدية التي تحكم الملكية الفكرية التي ينشئها الموظفون أو المتعاقدون أو في المشاريع المشتركة، وهل تعكس هذه الترتيبات القانون الساري؟ رابعاً، في الحالات التي تستخدم فيها الشركة أدوات الذكاء الاصطناعي الخاصة بأطراف ثالثة، ماذا تنص شروط الترخيص المعمول بها بشأن ملكية المخرجات؟",
+             "وقد أصبح هذا السؤال الرابع ذو أهمية متزايدة. فقد اتخذت كبرى شركات توفير منصات الذكاء الاصطناعي مواقف متباينة بشأن ملكية النتائج في شروط الخدمة الخاصة بها. وعلى أي شركة تستخدم أداة ذكاء اصطناعي تابعة لجهة خارجية لإنشاء تصميم منتج أو وثيقة قانونية أو حملة تسويقية أن تفهم الحقوق التي تمتلكها فعليًّا قبل أن تدعي ملكية تلك النتائج أو تتنازل عنها أو تمنح ترخيصًا لاستخدامها."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
        "id": 19,
        "name": "Trust Structures and VISTA Trusts: A Modern Approach to Wealth Planning",
        "date": "11th Jun, 2026",
