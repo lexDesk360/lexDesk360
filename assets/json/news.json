@@ -7,6 +7,13 @@
        "img": "../assets/images/news/Image19.jpg",
        "content": [{
            "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": [
+           ]
+         },
+         {
+           "name": "",
            "small": "The Value Migration",
            "smallBold": "",
            "des": [
@@ -14,7 +21,6 @@
              "The GCC is not immune to this dynamic. The UAE has climbed to 30th in the WIPO Global Innovation Index 2025, the highest position any Arab economy has held. Saudi Arabia's institutional patent applications rose approximately 80 percent year-on-year in 2025. The GCC Unified Trademark Law is now operational across all six member states, creating for the first time a single enforceable trademark territory across the region. The enforcement infrastructure is improving. The question is whether businesses are using it."
            ]
          },
-
          {
            "name": "The Authorship Problem in AI-Generated Content",
            "small": "",
@@ -53,6 +59,13 @@
        "des": "تبلغ نسبة الأصول غير الملموسة حالياً 92 في المائة من القيمة السوقية لمؤشر S&P 500. وقد طرأت تغييرات جوهرية على الأطر القانونية التي تحكم هذه القيمة في دول مجلس التعاون الخليجي. وتواجه الشركات التي لم تقم بتحديث استراتيجيتها المتعلقة بالملكية الفكرية مخاطر لم تحدد قيمتها بعد.",
        "img": "../assets/images/news/Image19.jpg",
        "content": [{
+           "name": "",
+           "small": "بقلم: جوناثان هيراساوا أشتون – الشريك الإداري، الإمارات العربية المتحدة",
+           "smallBold": "",
+           "des": [
+           ]
+         },
+         {
            "name": "",
            "small": "تحول القيمة",
            "smallBold": "",
