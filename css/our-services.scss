@@ -1,5 +1,5 @@
 .container-bg {
-    background-image: url(./assets/images/our-services.png);
+    background-image: url(../assets/images/our-services.png);
 }
 
 #services-content {
@@ -74,7 +74,7 @@
                 &::before {
                     content: '';
                     flex-wrap: wrap;
-                    background-image: url(./assets/images/point.png);
+                    background-image: url(../assets/images/point.png);
                     width: 0.8vw;
                     height: 0.8vw;
                     background-size: 100% 100%;
@@ -140,15 +140,15 @@
                         color: white;
 
                         &.sme {
-                            background-image: url(./assets/images/sme.png);
+                            background-image: url(../assets/images/sme.png);
                         }
 
                         &.entrepren {
-                            background-image: url(./assets/images/inter.png);
+                            background-image: url(../assets/images/inter.png);
                         }
 
                         &.individual {
-                            background-image: url(./assets/images/individual.png);
+                            background-image: url(../assets/images/individual.png);
                         }
                     }
                     .data{
@@ -173,7 +173,7 @@
     .legal {
         width: 100%;
         height: 40vw;
-        background-image: url(./assets/images/legal-concept.png);
+        background-image: url(../assets/images/legal-concept.png);
         background-size: 100% 100%;
         position: relative;
         margin-top: 3vw;
@@ -224,7 +224,7 @@
 
 @media (orientation: portrait) {
     .container-bg {
-        background-image: url(./assets/images/our-services-mob.png);
+        background-image: url(../assets/images/our-services-mob.png);
     }
 
     #services-content {
@@ -326,7 +326,7 @@
 
         .legal {
             height: 100vw;
-            background-image: url(./assets/images/legal-concept-mob.png);
+            background-image: url(../assets/images/legal-concept-mob.png);
 
             .opacityDiv {
                 height: 30vw;

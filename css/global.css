@@ -79,7 +79,7 @@ body {
     .spinner {
         width: 30vw;
         height: 30vw;
-        background-image: url(./assets/images/website.gif);
+        background-image: url(../assets/images/website.gif);
         background-size: 100% 100%;
     }
 
@@ -363,7 +363,7 @@ button {
             .resume-icon {
                 width: 1.8vw;
                 height: 2vw;
-                background-image: url(./assets/images/resume.png);
+                background-image: url(../assets/images/resume.png);
                 background-size: 100% 100%;
                 margin: 0 1vw 0 0;
             }
@@ -399,27 +399,27 @@ button {
         height: 2vw;
 
         &.faceBook {
-            background-image: url(./assets/images/facebook.png);
+            background-image: url(../assets/images/facebook.png);
             width: 1.2vw;
         }
 
         &.xapp {
-            background-image: url(./assets/images/xapp.png);
+            background-image: url(../assets/images/xapp.png);
             width: 1.5vw;
         }
 
         &.linkedin {
-            background-image: url(./assets/images/linkedin.png);
+            background-image: url(../assets/images/linkedin.png);
             width: 2vw;
         }
 
         &.instagram {
-            background-image: url(./assets/images/instagram.png);
+            background-image: url(../assets/images/instagram.png);
             width: 1.6vw;
         }
 
         &.link {
-            background-image: url(./assets/images/link.png);
+            background-image: url(../assets/images/link.png);
             width: 1.8vw;
         }
     }

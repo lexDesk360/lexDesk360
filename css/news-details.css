@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(./assets/images/news.png);
+  background-image: url(../assets/images/news.png);
 }
 
 #news-content {
@@ -70,7 +70,7 @@
 
 @media (orientation: portrait) {
   .container-bg {
-    background-image: url(./assets/images/news-mo.png);
+    background-image: url(../assets/images/news-mo.png);
   }
   #news-content {
     top: -20vw;
@@ -85,7 +85,7 @@
     height: 45vw;
   }
   #news-content .content .new-image.second {
-    background-image: url(./assets/images/new2.png);
+    background-image: url(../assets/images/new2.png);
     height: 55vw;
   }
   #news-content .content .title-small {

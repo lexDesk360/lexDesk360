@@ -1,5 +1,5 @@
 .container-bg {
-    background-image: url(./assets/images/join-us.png);
+    background-image: url(../assets/images/join-us.png);
 }
 
 #services-content {
@@ -48,7 +48,7 @@
                 &::before {
                     content: "";
                     flex-wrap: wrap;
-                    background-image: url(./assets/images/point.png);
+                    background-image: url(../assets/images/point.png);
                     width: 0.8vw;
                     height: 0.8vw;
                     background-size: 100% 100%;
@@ -114,7 +114,7 @@
 
 @media (orientation: portrait) {
     .container-bg {
-        background-image: url(./assets/images/join-us-mob.png);
+        background-image: url(../assets/images/join-us-mob.png);
     }
 
     #services-content {

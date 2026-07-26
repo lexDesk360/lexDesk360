@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(./assets/images/contact-us.png);
+  background-image: url(../assets/images/contact-us.png);
 }
 
 #services-content {
@@ -63,7 +63,7 @@
 #services-content .tabs .tab.active::before {
   content: "";
   flex-wrap: wrap;
-  background-image: url(./assets/images/point.png);
+  background-image: url(../assets/images/point.png);
   width: 0.8vw;
   height: 0.8vw;
   background-size: 100% 100%;
@@ -104,7 +104,7 @@
           user-select: none;
 }
 #services-content .content .tab-content .row .bg-blue {
-  background-image: url(./assets/images/div.png);
+  background-image: url(../assets/images/div.png);
   background-size: 100% 100%;
   display: flex;
   justify-content: center;
@@ -156,7 +156,7 @@
 
 @media (orientation: portrait) {
   .container-bg {
-    background-image: url(./assets/images/contact-us-mob.png);
+    background-image: url(../assets/images/contact-us-mob.png);
   }
   #services-content {
     top: -25vw;

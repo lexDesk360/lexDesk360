@@ -25,7 +25,7 @@
   height: 2vw;
 }
 #navbar .navbar-content .content-right .icon.linkedin {
-  background-image: url(./assets/images/linkedin.png);
+  background-image: url(../assets/images/linkedin.png);
   width: 2vw;
 }
 #navbar .navbar-content .content-right .line {

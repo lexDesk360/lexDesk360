@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(./assets/images/menu.png);
+  background-image: url(../assets/images/menu.png);
   height: 100vh !important;
   width: 100%;
 }
