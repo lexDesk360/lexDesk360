@@ -1,5 +1,5 @@
 [{
-        "image": "../assets/images/members/member10.png",
+        "image": "./assets/images/members/member10.png",
         "name": {
             "eng": "Amro Taher Maghrabi ",
             "ar": "عمرو طاهر المغربي "
@@ -24,7 +24,7 @@
         "linkedin": "https://www.linkedin.com/in/amro-maghrabi-595629184/"
     },
     {
-        "image": "../assets/images/members/member11.png",
+        "image": "./assets/images/members/member11.png",
         "name": {
             "eng": "Abdulla Al Nuaimi",
             "ar": "عبد الله النعيمي"

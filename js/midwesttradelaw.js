@@ -23,9 +23,9 @@ if (lang == "french") {
 }
 const item = {
   id: 5,
-  image: "../assets/images/our-network/network6.png",
-  image2: "../assets/images/our-network/n4-1.png",
-  image3: "../assets/images/our-network/n4-3.png",
+  image: "./assets/images/our-network/network6.png",
+  image2: "./assets/images/our-network/n4-1.png",
+  image3: "./assets/images/our-network/n4-3.png",
   url: "./midwesttradelaw",
   counrty: {
     eng: "United States Of America",

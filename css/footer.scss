@@ -52,7 +52,7 @@
           &::before {
             content: '';
             flex-wrap: wrap;
-            background-image: url(../assets/images/point.png);
+            background-image: url(./assets/images/point.png);
             width: 0.5vw;
             height: 0.5vw;
             background-size: 100% 100%;
@@ -70,7 +70,7 @@
           margin-top: 0.8vw;
 
           .point {
-            background-image: url(../assets/images/point.png);
+            background-image: url(./assets/images/point.png);
             width: 0.5vw;
             height: 0.5vw;
             background-size: 100% 100%;
@@ -230,7 +230,7 @@
   left: 2%;
   width: 6vh;
   height: 6vh;
-  background-image: url(../assets/images/revisit.svg);
+  background-image: url(./assets/images/revisit.svg);
   background-size: 100% 100%;
   cursor: pointer;
   z-index: 100000000;
@@ -263,7 +263,7 @@
       position: absolute;
       top: 4%;
       right: 2%;
-      background-image: url(../assets/images/close.svg);
+      background-image: url(./assets/images/close.svg);
       background-size: 100% 100%;
       width: 3%;
       height: 3%;

@@ -1,5 +1,5 @@
 [{
-        "image": "../assets/images/people/mostafa.png",
+        "image": "./assets/images/people/mostafa.png",
         "name": {
             "eng": "Mustafa Abbass",
             "ar": "مصطفى عباس",
@@ -34,7 +34,7 @@
         "linkedin": "https://www.linkedin.com/in/mostafaa-abbas-/"
     },
     {
-        "image": "../assets/images/people/no.png",
+        "image": "./assets/images/people/no.png",
         "name": {
             "eng": "Ahmed Shamandy",
             "ar": "أحمد شمندي",
@@ -82,7 +82,7 @@
         "linkedin": ""
     },
     {
-        "image": "../assets/images/people/may.png",
+        "image": "./assets/images/people/may.png",
         "name": {
             "eng": "May Reda",
             "ar": "مي رضا",
@@ -118,7 +118,7 @@
         "linkedin": "https://www.linkedin.com/in/may-reda-/"
     },
     {
-        "image": "../assets/images/people/alaa.png",
+        "image": "./assets/images/people/alaa.png",
         "name": {
             "eng": "Alaa Kahmes Abood",
             "ar": "علاء خميس عبود",
@@ -154,7 +154,7 @@
         "linkedin": "https://www.linkedin.com/in/alaa-kames/?locale=en_US"
     },
     {
-        "image": "../assets/images/people/khloud.png",
+        "image": "./assets/images/people/khloud.png",
         "name": {
             "eng": "Khloud Aboelnour",
             "ar": "خلود أبوالنور",
@@ -189,7 +189,7 @@
         "linkedin": "https://www.linkedin.com/in/khloud-aboelnour/"
     },
     {
-        "image": "../assets/images/people/amira.png",
+        "image": "./assets/images/people/amira.png",
         "name": {
             "eng": "Amira Osama Rashad",
             "ar": "أميرة أسامة رشاد",
@@ -225,7 +225,7 @@
         "linkedin": "https://www.linkedin.com/in/amira-osama-877416234/"
     },
     {
-        "image": "../assets/images/people/nora.png",
+        "image": "./assets/images/people/nora.png",
         "name": {
             "eng": "Nora Khaled Rashad",
             "ar": "نورا خالد رشاد",
@@ -262,7 +262,7 @@
         "linkedin": "https://www.linkedin.com/in/nora-khaled-893295221/"
     },
     {
-        "image": "../assets/images/people/aya.png",
+        "image": "./assets/images/people/aya.png",
         "name": {
             "eng": "Aya Khaled Rashad",
             "ar": "آية خالد رشاد",
@@ -300,7 +300,7 @@
         "linkedin": "https://www.linkedin.com/in/aya-khaled-a385652a7/"
     },
     {
-        "image": "../assets/images/people/no.png",
+        "image": "./assets/images/people/no.png",
         "name": {
             "eng": "Ismail Abbas",
             "ar": "إسماعيل عباس",
@@ -338,7 +338,7 @@
         "linkedin": ""
     },
     {
-        "image": "../assets/images/people/maha.png",
+        "image": "./assets/images/people/maha.png",
         "name": {
             "eng": "Maha Kamal Hassan",
             "ar": "مها كمال حسن ",

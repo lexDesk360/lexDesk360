@@ -145,22 +145,22 @@
           height: 1.6vw;
 
           &.faceBook {
-            background-image: url(../assets/images/facebook.png);
+            background-image: url(./assets/images/facebook.png);
             width: 0.8vw;
           }
 
           &.xapp {
-            background-image: url(../assets/images/xapp.png);
+            background-image: url(./assets/images/xapp.png);
             width: 1.2vw;
           }
 
           &.linkedin {
-            background-image: url(../assets/images/linkedin.png);
+            background-image: url(./assets/images/linkedin.png);
             width: 1.4vw;
           }
 
           &.instagram {
-            background-image: url(../assets/images/instagram.png);
+            background-image: url(./assets/images/instagram.png);
             width: 1.4vw;
           }
         }
@@ -175,7 +175,7 @@
         .image {
           width: 1.6vw;
           height: 2.6vw;
-          background-image: url(../assets/images/mouse.png);
+          background-image: url(./assets/images/mouse.png);
           background-size: 100% 100%;
         }
 
@@ -198,7 +198,7 @@
       width: 27vw;
       height: 25vw;
       position: absolute;
-      background-image: url(../assets/images/div.png);
+      background-image: url(./assets/images/div.png);
       background-size: 100% 100%;
       bottom: -10vw;
       left: -7vw;
@@ -227,7 +227,7 @@
       flex-direction: column;
 
       .next {
-        background-image: url(../assets/images/next.png);
+        background-image: url(./assets/images/next.png);
         background-size: 100% 100%;
         width: 5vw;
         height: 5vw;
@@ -235,7 +235,7 @@
       }
 
       .prev {
-        background-image: url(../assets/images/prev.png);
+        background-image: url(./assets/images/prev.png);
         background-size: 100% 100%;
         width: 5vw;
         height: 5vw;
@@ -295,7 +295,7 @@
 .legal {
   width: 100%;
   height: 40vw;
-  background-image: url(../assets/images/legal-concept.png);
+  background-image: url(./assets/images/legal-concept.png);
   background-size: 100% 100%;
   position: relative;
   margin-top: 3vw;
@@ -540,7 +540,7 @@
 
   .legal {
     height: 100vw;
-    background-image: url(../assets/images/legal-concept-mob.png);
+    background-image: url(./assets/images/legal-concept-mob.png);
 
     .opacityDiv {
       height: 40vw;

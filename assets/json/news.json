@@ -4,7 +4,7 @@
        "name": "The Future of Legal Work Isn’t AI—It’s What We Build With It",
        "date": "6th May, 2025",
        "des": "AI isn’t replacing lawyers—it’s reshaping how smarter, faster legal work gets done.",
-       "img": "../assets/images/news/new1.webp",
+       "img": "./assets/images/news/new1.webp",
        "content": [{
            "name": "",
            "small": "By Walid Sowaidan",
@@ -67,7 +67,7 @@
        "name": "مستقبل العمل القانوني ليس الذكاء الاصطناعي، بل ما نبنيه من خلاله",
        "date": "6 مايو، 2025",
        "des": "الذكاء الاصطناعي لا يحل محل المحامين، بل يعيد تشكيل كيفية إنجاز العمل القانوني بشكل أذكى وأسرع.",
-       "img": "../assets/images/news/new1.webp",
+       "img": "./assets/images/news/new1.webp",
        "content": [{
            "name": "",
            "small": "بقلم: وليد سويدان",
@@ -136,7 +136,7 @@
        "name": "Το Μέλλον της Νομικής Εργασίας Δεν Είναι η Τεχνητή Νοημοσύνη — Είναι Ό,τι Δημιουργούμε Μαζί της",
        "date": "6 Μαΐου 2025",
        "des": "Η Τεχνητή Νοημοσύνη δεν αντικαθιστά τους δικηγόρους — αναδιαμορφώνει τον τρόπο με τον οποίο γίνεται πιο έξυπνη και γρηγορότερη νομική εργασία.",
-       "img": "../assets/images/news/new1.webp",
+       "img": "./assets/images/news/new1.webp",
        "content": [{
            "name": "",
            "small": "Του Walid Sowaidan",
@@ -196,7 +196,7 @@
        "name": "L'avenir du travail juridique ne réside pas dans l'IA, mais dans ce que nous construisons grâce à elle",
        "date": "6 mai 2025",
        "des": "Pourquoi l'IA ne remplace pas les avocats, mais redéfinit la manière dont les services juridiques sont fournis.",
-       "img": "../assets/images/news/new1.webp",
+       "img": "./assets/images/news/new1.webp",
        "content": [{
            "name": "",
            "small": "Par Walid Sowaidan",
@@ -256,7 +256,7 @@
        "name": "Il futuro del lavoro legale non è l’AI — è ciò che costruiamo con essa",
        "date": "6 maggio 2025",
        "des": "Perché l’AI non sta sostituendo gli avvocati, ma sta ridefinendo il modo in cui vengono erogati i servizi legali.",
-       "img": "../assets/images/news/new1.webp",
+       "img": "./assets/images/news/new1.webp",
        "content": [{
            "name": "",
            "small": "Di Walid Sowaidan",
@@ -319,7 +319,7 @@
        "name": "Egypt’s New Labor Law: Advancing Equity and Workplace Stability.",
        "date": "22nd Apr, 2025",
        "des": "Egypt’s new labor law boosts worker protections, contract security, and women’s rights.",
-       "img": "../assets/images/news/new2.webp",
+       "img": "./assets/images/news/new2.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -421,7 +421,7 @@
        "name": "قانون العمل الجديد في مصر: نحو تعزيز العدالة والاستقرار في بيئة العمل",
        "date": "22 إبريل، 2025",
        "des": "قانون العمل الجديد في مصر يعزز حماية العمال، وأمن العقود، وحقوق المرأة.",
-       "img": "../assets/images/news/new2.webp",
+       "img": "./assets/images/news/new2.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -513,7 +513,7 @@
        "name": "Ο Νέος Εργατικός Νόμος της Αιγύπτου: Προώθηση της Ισότητας και της Σταθερότητας στον Χώρο Εργασίας",
        "date": "22 Απριλίου 2025",
        "des": "Ο νέος εργατικός νόμος της Αιγύπτου ενισχύει την προστασία των εργαζομένων, την ασφάλεια των συμβάσεων και τα δικαιώματα των γυναικών.",
-       "img": "../assets/images/news/new2.webp",
+       "img": "./assets/images/news/new2.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -605,7 +605,7 @@
        "name": "La nouvelle loi sur le travail en Égypte : promouvoir l'équité et la stabilité sur le lieu de travail.",
        "date": "22 avril 2025",
        "des": "Réformes clés en matière de protection de l'emploi, de sécurité contractuelle et de droits des femmes.",
-       "img": "../assets/images/news/new2.webp",
+       "img": "./assets/images/news/new2.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -697,7 +697,7 @@
        "name": "La nuova legge sul lavoro in Egitto: promuovere equità e stabilità sul lavoro.",
        "date": "22 aprile 2025",
        "des": "Riforme chiave in materia di tutele dei lavoratori, sicurezza dei contratti e diritti delle donne.",
-       "img": "../assets/images/news/new2.webp",
+       "img": "./assets/images/news/new2.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -792,7 +792,7 @@
        "name": "UAE’s New Personal Status Law Comes Into Effect – April 2025",
        "date": "15th Apr, 2025",
        "des": "Key updates under UAE’s new Personal Status Law (Federal Decree Law No. 41 of 2024) now in effect—marriage, custody, and more explained.",
-       "img": "../assets/images/news/new3.webp",
+       "img": "./assets/images/news/new3.webp",
 
        "content": [{
            "name": "",
@@ -889,7 +889,7 @@
        "name": "بدء النفاذ: فصل جديد في قانون الأحوال الشخصية الإماراتي",
        "date": "15 إبريل 2025",
        "des": "أبرز التحديثات في المرسوم بقانون اتحادي رقم 41 لسنة 2024 النافذ اعتبارًا من 15 أبريل 2025",
-       "img": "../assets/images/news/new3.webp",
+       "img": "./assets/images/news/new3.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -975,7 +975,7 @@
        "name": "Ο Νέος Νόμος Προσωπικού Καθεστώτος των ΗΑΕ Τίθεται σε Ισχύ – Απρίλιος 2025",
        "date": "15 Απριλίου 2025",
        "des": "Κύριες Επικαιροποιήσεις βάσει του Ομοσπονδιακού Διατάγματος-Νόμου υπ’ αριθμ. 41 του 2024, σε ισχύ από τις 15 Απριλίου 2025",
-       "img": "../assets/images/news/new3.webp",
+       "img": "./assets/images/news/new3.webp",
        "content": [{
            "name": "",
            "small": "Της Amal Fatima Parekh – Senior Counsel στη LexDesk360 (15 Απριλίου 2025)",
@@ -1047,7 +1047,7 @@
        "name": "Entrée en vigueur de la nouvelle loi sur le statut personnel aux Émirats arabes unis – avril 2025",
        "date": "15 avril 2025",
        "des": "Principales modifications apportées par le décret-loi fédéral n° 41 de 2024, désormais en vigueur depuis le 15 avril 2025",
-       "img": "../assets/images/news/new3.webp",
+       "img": "./assets/images/news/new3.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1133,7 +1133,7 @@
        "name": "Entra in vigore la nuova legge sullo stato personale negli EAU – aprile 2025",
        "date": "15 aprile 2025",
        "des": "Aggiornamenti chiave del Federal Decree Law No. 41 of 2024 ora in vigore dal 15 aprile 2025",
-       "img": "../assets/images/news/new3.webp",
+       "img": "./assets/images/news/new3.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1222,7 +1222,7 @@
        "name": "Doing Business in Egypt: A Comprehensive Legal Guide",
        "date": "20th Mar, 2025",
        "des": "Learn the essential legal requirements for establishing and operating a business in Egypt.",
-       "img": "../assets/images/news/new4.webp",
+       "img": "./assets/images/news/new4.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1364,7 +1364,7 @@
        "name": "ممارسة الأعمال في مصر: دليل قانوني شامل",
        "date": "20 مارس 2025",
        "des": "دليلك الكامل لفهم قوانين ولوائح الأعمال في مصر.",
-       "img": "../assets/images/news/new4.webp",
+       "img": "./assets/images/news/new4.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1504,7 +1504,7 @@
        "name": "Επιχειρηματική Δραστηριότητα στην Αίγυπτο: Ολοκληρωμένος Νομικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Ο πλήρης οδηγός για την κατανόηση του επιχειρηματικού και ρυθμιστικού πλαισίου της Αιγύπτου",
-       "img": "../assets/images/news/new4.webp",
+       "img": "./assets/images/news/new4.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1650,7 +1650,7 @@
        "name": "Faire des affaires en Égypte : un guide juridique complet",
        "date": "20 mars 2025",
        "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales égyptiennes",
-       "img": "../assets/images/news/new4.webp",
+       "img": "./assets/images/news/new4.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1792,7 +1792,7 @@
        "name": "Fare business in Egitto: una guida legale completa",
        "date": "20 marzo 2025",
        "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Egitto",
-       "img": "../assets/images/news/new4.webp",
+       "img": "./assets/images/news/new4.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -1938,7 +1938,7 @@
        "name": "Doing Business in Saudi Arabia: A Comprehensive Legal Guide",
        "date": "20th Mar, 2025",
        "des": "Explore the essential legal requirements for establishing and operating a business in Saudi Arabia.",
-       "img": "../assets/images/news/new5.webp",
+       "img": "./assets/images/news/new5.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2080,7 +2080,7 @@
        "name": "ممارسة الأعمال في المملكة العربية السعودية: دليل قانوني شامل",
        "date": "20 مارس 2025",
        "des": "دليلك الكامل لفهم قوانين ولوائح الأعمال في السعودية.",
-       "img": "../assets/images/news/new5.webp",
+       "img": "./assets/images/news/new5.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2220,7 +2220,7 @@
        "name": "Επιχειρηματική Δραστηριότητα στη Σαουδική Αραβία: Ολοκληρωμένος Νομικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Ολοκληρωμένος οδηγός για τις νομικές απαιτήσεις ίδρυσης και λειτουργίας επιχείρησης στη Σαουδική Αραβία.",
-       "img": "../assets/images/news/new5.webp",
+       "img": "./assets/images/news/new5.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2362,7 +2362,7 @@
        "name": "Faire des affaires en Arabie saoudite : un guide juridique complet",
        "date": "20 mars 2025",
        "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales de l'Arabie saoudite",
-       "img": "../assets/images/news/new5.webp",
+       "img": "./assets/images/news/new5.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2504,7 +2504,7 @@
        "name": "Fare business in Arabia Saudita: una guida legale completa",
        "date": "20 marzo 2025",
        "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Arabia Saudita",
-       "img": "../assets/images/news/new5.webp",
+       "img": "./assets/images/news/new5.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2649,7 +2649,7 @@
        "name": "Doing Business in Morocco: A Comprehensive Legal Guide",
        "date": "20th Mar, 2025",
        "des": "Discover the essential legal requirements for starting and operating a business in Morocco.",
-       "img": "../assets/images/news/new6.webp",
+       "img": "./assets/images/news/new6.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2793,7 +2793,7 @@
        "name": "ممارسة الأعمال في المغرب: دليل قانوني شامل",
        "date": "20 مارس 2025",
        "des": "دليلك الكامل لفهم قوانين ولوائح الأعمال في المغرب.",
-       "img": "../assets/images/news/new6.webp",
+       "img": "./assets/images/news/new6.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -2935,7 +2935,7 @@
        "name": "Επιχειρηματική Δραστηριότητα στο Μαρόκο: Ολοκληρωμένος Νομικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Ο πλήρης οδηγός για την κατανόηση του επιχειρηματικού και ρυθμιστικού πλαισίου του Μαρόκου.",
-       "img": "../assets/images/news/new6.webp",
+       "img": "./assets/images/news/new6.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3079,7 +3079,7 @@
        "name": "Faire des affaires au Maroc : un guide juridique complet",
        "date": "20 mars 2025",
        "des": "Votre guide complet pour s'y retrouver dans la législation et la réglementation commerciales marocaines",
-       "img": "../assets/images/news/new6.webp",
+       "img": "./assets/images/news/new6.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3223,7 +3223,7 @@
        "name": "Fare business in Marocco: una guida legale completa",
        "date": "20 marzo 2025",
        "des": "La tua guida completa per orientarti tra le leggi e i regolamenti commerciali in Marocco",
-       "img": "../assets/images/news/new6.webp",
+       "img": "./assets/images/news/new6.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3370,7 +3370,7 @@
        "name": "Doing Business in the UAE: A Comprehensive Legal Guide",
        "date": "20th Mar, 2025",
        "des": "Discover the essential legal requirements for starting and operating a business in the UAE.",
-       "img": "../assets/images/news/new7.webp",
+       "img": "./assets/images/news/new7.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3504,7 +3504,7 @@
        "name": "ممارسة الأعمال في دولة الإمارات العربية المتحدة: دليل قانوني شامل",
        "date": "20 مارس 2025",
        "des": "دليلك الأساسي لفهم قوانين ولوائح الأعمال في دولة الإمارات.",
-       "img": "../assets/images/news/new7.webp",
+       "img": "./assets/images/news/new7.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3635,7 +3635,7 @@
        "name": "Επιχειρηματική Δραστηριότητα στα ΗΑΕ: Ολοκληρωμένος Νομικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Ο απαραίτητος οδηγός για την κατανόηση του επιχειρηματικού και ρυθμιστικού πλαισίου των ΗΑΕ",
-       "img": "../assets/images/news/new7.webp",
+       "img": "./assets/images/news/new7.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3768,7 +3768,7 @@
        "name": "Faire des affaires aux Émirats arabes unis : un guide juridique complet",
        "date": "20 mars 2025",
        "des": "Découvrez les exigences juridiques essentielles pour créer et exploiter une entreprise aux Émirats arabes unis.",
-       "img": "../assets/images/news/new7.webp",
+       "img": "./assets/images/news/new7.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -3901,7 +3901,7 @@
        "name": "Fare business negli Emirati Arabi Uniti (UAE): una guida legale completa",
        "date": "20 marzo 2025",
        "des": "La tua guida essenziale per orientarti tra le leggi e i regolamenti commerciali degli UAE",
-       "img": "../assets/images/news/new7.webp",
+       "img": "./assets/images/news/new7.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4037,7 +4037,7 @@
        "name": "Fighting Fraud in the UAE: Protecting Yourself from Interior Decoration Scams",
        "date": "20th Mar, 2025",
        "des": "Learn how to identify and combat fraudulent interior decoration companies in the UAE.",
-       "img": "../assets/images/news/new8.webp",
+       "img": "./assets/images/news/new8.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4140,7 +4140,7 @@
        "name": "مكافحة الاحتيال في الإمارات: كيف تحمي نفسك من شركات الديكور الداخلي الوهمية",
        "date": "20 مارس، 2025",
        "des": "تعرّف على كيفية كشف الاحتيال، اتخاذ الإجراءات القانونية، واسترداد أموالك في الإمارات.",
-       "img": "../assets/images/news/new8.webp",
+       "img": "./assets/images/news/new8.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4242,7 +4242,7 @@
        "name": "Καταπολέμηση της Απάτης στα ΗΑΕ: Πώς να Προστατευθείτε από Απατεώνες στον Κλάδο Εσωτερικής Διακόσμησης",
        "date": "20 Μαρτίου 2025",
        "des": "Μάθετε πώς να εντοπίζετε και να αντιμετωπίζετε απατηλές εταιρείες εσωτερικής διακόσμησης στα ΗΑΕ.",
-       "img": "../assets/images/news/new8.webp",
+       "img": "./assets/images/news/new8.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4350,7 +4350,7 @@
        "name": "Lutter contre la fraude aux Émirats arabes unis : comment se protéger contre les escroqueries dans le domaine de la décoration d'intérieur",
        "date": "20 mars 2025",
        "des": "Apprenez à identifier et à combattre les entreprises frauduleuses de décoration d'intérieur aux Émirats arabes unis.",
-       "img": "../assets/images/news/new8.webp",
+       "img": "./assets/images/news/new8.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4452,7 +4452,7 @@
        "name": "Combattere le frodi negli UAE: come proteggersi dalle truffe delle società di interior design",
        "date": "20 marzo 2025",
        "des": "Come identificare le truffe, intraprendere azioni legali e recuperare i tuoi soldi negli UAE",
-       "img": "../assets/images/news/new8.webp",
+       "img": "./assets/images/news/new8.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4557,7 +4557,7 @@
        "name": "Electronic Crime Laws in the UAE, Egypt, and Saudi Arabia: What You Need to Know",
        "date": "20th Mar, 2025",
        "des": "Understand the cybercrime laws and consequences in the UAE, Egypt, and Saudi Arabia.",
-       "img": "../assets/images/news/new9.webp",
+       "img": "./assets/images/news/new9.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4706,7 +4706,7 @@
        "name": "قوانين الجرائم الإلكترونية في الإمارات ومصر والسعودية: ما الذي تحتاج إلى معرفته",
        "date": "20 مارس 2025",
        "des": "دليل شامل لفهم القوانين والعقوبات المتعلقة بالجرائم الإلكترونية في الشرق الأوسط",
-       "img": "../assets/images/news/new9.webp",
+       "img": "./assets/images/news/new9.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4846,7 +4846,7 @@
        "name": "Νομοθεσία για τα Ηλεκτρονικά Εγκλήματα στα ΗΑΕ, την Αίγυπτο και τη Σαουδική Αραβία: Όσα Πρέπει να Γνωρίζετε",
        "date": "20th Mar, 2025",
        "des": "Κατανοήστε τη νομοθεσία για τα κυβερνοεγκλήματα και τις συνέπειες στα ΗΑΕ, την Αίγυπτο και τη Σαουδική Αραβία.",
-       "img": "../assets/images/news/new9.webp",
+       "img": "./assets/images/news/new9.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -4986,7 +4986,7 @@
        "name": "Législation sur la cybercriminalité aux Émirats arabes unis, en Égypte et en Arabie saoudite : ce qu'il faut savoir",
        "date": "20 mars 2025",
        "des": "Comprenez les lois sur la cybercriminalité et leurs conséquences aux Émirats arabes unis, en Égypte et en Arabie saoudite.",
-       "img": "../assets/images/news/new9.webp",
+       "img": "./assets/images/news/new9.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5126,7 +5126,7 @@
        "name": "Leggi sui crimini informatici negli UAE, in Egitto e in Arabia Saudita: cosa devi sapere",
        "date": "20 marzo 2025",
        "des": "Una guida completa alle leggi sul cybercrime e alle sanzioni in Medio Oriente",
-       "img": "../assets/images/news/new9.webp",
+       "img": "./assets/images/news/new9.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5269,7 +5269,7 @@
        "name": "Professional Liability in Healthcare in the UAE: A Legal Guide",
        "date": "20th Mar, 2025",
        "des": "Explore the legal framework governing professional liability in the UAE healthcare sector.",
-       "img": "../assets/images/news/new10.webp",
+       "img": "./assets/images/news/new10.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5369,7 +5369,7 @@
        "name": "المسؤولية المهنية في القطاع الصحي في الإمارات: دليل قانوني",
        "date": "20 مارس 2025",
        "des": "استكشف الإطار القانوني المنظم للمسؤولية المهنية في قطاع الرعاية الصحية بالإمارات.",
-       "img": "../assets/images/news/new10.webp",
+       "img": "./assets/images/news/new10.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5469,7 +5469,7 @@
        "name": "Επαγγελματική Ευθύνη στον Τομέα Υγείας στα ΗΑΕ: Νομικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Κατανόηση της νομοθεσίας περί ιατρικής αμέλειας και των νομικών προστασιών στα Ηνωμένα Αραβικά Εμιράτα.",
-       "img": "../assets/images/news/new10.webp",
+       "img": "./assets/images/news/new10.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5569,7 +5569,7 @@
        "name": "La responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis : un guide juridique",
        "date": "20 mars 2025",
        "des": "Découvrez le cadre juridique régissant la responsabilité professionnelle dans le secteur de la santé aux Émirats arabes unis.",
-       "img": "../assets/images/news/new10.webp",
+       "img": "./assets/images/news/new10.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5669,7 +5669,7 @@
        "name": "Responsabilità professionale nel settore sanitario negli Emirati Arabi Uniti: una guida legale",
        "date": "20th Mar, 2025",
        "des": "Comprendere le leggi sulla negligenza medica e le tutele legali negli Emirati Arabi Uniti",
-       "img": "../assets/images/news/new10.webp",
+       "img": "./assets/images/news/new10.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5771,7 +5771,7 @@
        "name": "Resolving Health Insurance Disputes in the UAE",
        "date": "20th Mar, 2025",
        "des": "Learn about common health insurance disputes in the UAE, including claim denials, delayed approvals, and reimbursement issues.",
-       "img": "../assets/images/news/new11.webp",
+       "img": "./assets/images/news/new11.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -5891,7 +5891,7 @@
        "name": "حل النزاعات المتعلقة بالتأمين الصحي في دولة الإمارات",
        "date": "20 مارس 2025",
        "des": "دليل شامل لمعالجة نزاعات التأمين الصحي في دولة الإمارات، بما في ذلك رفض المطالبات، تأخير الموافقات، ومشكلات الاسترداد.",
-       "img": "../assets/images/news/new11.webp",
+       "img": "./assets/images/news/new11.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6009,7 +6009,7 @@
        "name": "Επίλυση Διαφορών Ασφάλισης Υγείας στα Ηνωμένα Αραβικά Εμιράτα",
        "date": "20 Μαρτίου 2025",
        "des": "Μάθετε για τις συχνές διαφορές ασφάλισης υγείας στα ΗΑΕ, όπως απορριφθέντα αιτήματα, καθυστερημένες εγκρίσεις και προβλήματα αποζημίωσης.",
-       "img": "../assets/images/news/new11.webp",
+       "img": "./assets/images/news/new11.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6129,7 +6129,7 @@
        "name": "Résolution des litiges liés à l'assurance maladie aux Émirats arabes unis",
        "date": "20 mars 2025",
        "des": "Découvrez les litiges courants en matière d'assurance maladie aux Émirats arabes unis, y compris les refus de remboursement, les retards d'approbation et les problèmes de remboursement.",
-       "img": "../assets/images/news/new11.webp",
+       "img": "./assets/images/news/new11.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6249,7 +6249,7 @@
        "name": "Risoluzione delle controversie in materia di assicurazione sanitaria negli Emirati Arabi Uniti",
        "date": "20th Mar, 2025",
        "des": "Guida completa alla gestione delle controversie in materia di assicurazione sanitaria negli Emirati Arabi Uniti",
-       "img": "../assets/images/news/new11.webp",
+       "img": "./assets/images/news/new11.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6372,7 +6372,7 @@
        "name": "Corporate Governance Compliance in the UAE: A Practical Guide",
        "date": "20th Mar, 2025",
        "des": "Discover the essential corporate governance requirements for businesses in the UAE.",
-       "img": "../assets/images/news/new12.webp",
+       "img": "./assets/images/news/new12.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6525,7 +6525,7 @@
        "name": "الامتثال لحوكمة الشركات في دولة الإمارات: دليل عملي",
        "date": "20 مارس 2025",
        "des": "اكتشف المتطلبات الأساسية لحوكمة الشركات للأعمال في دولة الإمارات.",
-       "img": "../assets/images/news/new12.webp",
+       "img": "./assets/images/news/new12.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6678,7 +6678,7 @@
        "name": "Συμμόρφωση με την Εταιρική Διακυβέρνηση στα ΗΑΕ: Πρακτικός Οδηγός",
        "date": "20 Μαρτίου 2025",
        "des": "Ένας ολοκληρωμένος οδηγός για τη συμμόρφωση και την οικοδόμηση εμπιστοσύνης στα Ηνωμένα Αραβικά Εμιράτα.",
-       "img": "../assets/images/news/new12.webp",
+       "img": "./assets/images/news/new12.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6832,7 +6832,7 @@
        "name": "La conformité en matière de gouvernance d'entreprise aux Émirats arabes unis : un guide pratique",
        "date": "20 mars 2025",
        "des": "Découvrez les exigences essentielles en matière de gouvernance d'entreprise pour les entreprises aux Émirats arabes unis.",
-       "img": "../assets/images/news/new12.webp",
+       "img": "./assets/images/news/new12.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -6985,7 +6985,7 @@
        "name": "Conformità alla governance societaria negli Emirati Arabi Uniti: una guida pratica",
        "date": "20th Mar, 2025",
        "des": "Una guida completa per garantire la conformità e rafforzare la fiducia negli Emirati Arabi Uniti",
-       "img": "../assets/images/news/new12.webp",
+       "img": "./assets/images/news/new12.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7140,7 +7140,7 @@
        "name": "Navigating Legal Challenges in UAE Real Estate",
        "date": "20th Mar, 2025",
        "des": "Discover the essential legal considerations for buying, selling, renting, or investing in UAE real estate",
-       "img": "../assets/images/news/new13.webp",
+       "img": "./assets/images/news/new13.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7256,7 +7256,7 @@
        "name": "مواجهة التحديات القانونية في قطاع العقارات بالإمارات",
        "date": "20 مارس 2025",
        "des": "اكتشف أهم الاعتبارات القانونية عند شراء أو بيع أو استئجار أو الاستثمار في العقارات بالإمارات.",
-       "img": "../assets/images/news/new13.webp",
+       "img": "./assets/images/news/new13.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7372,7 +7372,7 @@
        "name": "Αντιμετωπίζοντας τα Νομικά Ζητήματα στην Αγορά Ακινήτων των ΗΑΕ",
        "date": "20 Μαρτίου 2025",
        "des": "Βασικές νομικές γνώσεις για αγοραστές, πωλητές, ενοικιαστές και επενδυτές στα Ηνωμένα Αραβικά Εμιράτα",
-       "img": "../assets/images/news/new13.webp",
+       "img": "./assets/images/news/new13.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7489,7 +7489,7 @@
        "name": "Faire face aux défis juridiques dans le secteur immobilier aux Émirats arabes unis",
        "date": "20 mars 2025",
        "des": "Découvrez les considérations juridiques essentielles pour acheter, vendre, louer ou investir dans l'immobilier aux Émirats arabes unis",
-       "img": "../assets/images/news/new13.webp",
+       "img": "./assets/images/news/new13.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7605,7 +7605,7 @@
        "name": "Affrontare le sfide legali nel settore immobiliare degli Emirati Arabi Uniti",
        "date": "20th Mar, 2025",
        "des": "Informazioni legali fondamentali per acquirenti, venditori, inquilini e investitori immobiliari negli Emirati Arabi Uniti",
-       "img": "../assets/images/news/new13.webp",
+       "img": "./assets/images/news/new13.webp",
        "content": [{
            "name": "",
            "small": "",
@@ -7724,7 +7724,7 @@
        "name": "The Impact of Export Controls on UAE Businesses",
        "date": "20th Mar, 2025",
        "des": "Understanding how export control regulations affect companies operating in the UAE’s global trade environment.",
-       "img": "../assets/images/news/new14.webp",
+       "img": "./assets/images/news/new14.webp",
        "content": [{
            "name": "",
            "small": "Navigating Export Control Regulations for Business Compliance and Growth in the UAE",
@@ -7849,7 +7849,7 @@
        "name": "تأثير ضوابط التصدير على الشركات في دولة الإمارات",
        "date": "20 مارس 2025",
        "des": "فهم كيفية تأثير أنظمة الرقابة على الصادرات على الشركات العاملة في بيئة التجارة العالمية بالإمارات.",
-       "img": "../assets/images/news/new14.webp",
+       "img": "./assets/images/news/new14.webp",
        "content": [{
            "name": "",
            "small": "التعامل مع أنظمة الرقابة على الصادرات لضمان الامتثال والنمو للأعمال في الإمارات",
@@ -7974,7 +7974,7 @@
        "name": "Ο Αντίκτυπος των Ελέγχων Εξαγωγών στις Επιχειρήσεις των ΗΑΕ",
        "date": "20 Μαρτίου 2025",
        "des": "Καθοδήγηση για τη συμμόρφωση με τους κανονισμούς ελέγχου εξαγωγών και την ανάπτυξη επιχειρήσεων στα Ηνωμένα Αραβικά Εμιράτα",
-       "img": "../assets/images/news/new14.webp",
+       "img": "./assets/images/news/new14.webp",
        "content": [{
            "name": "",
            "small": "Οι Έλεγχοι Εξαγωγών και η Επίδρασή τους στις Επιχειρήσεις των ΗΑΕ",
@@ -8102,7 +8102,7 @@
        "name": "L'impact des contrôles à l'exportation sur les entreprises des Émirats arabes unis",
        "date": "20 mars 2025",
        "des": "Comprendre comment les réglementations sur le contrôle des exportations affectent les entreprises opérant dans l'environnement commercial mondial des Émirats arabes unis.",
-       "img": "../assets/images/news/new14.webp",
+       "img": "./assets/images/news/new14.webp",
        "content": [{
            "name": "",
            "small": "Maîtriser la réglementation en matière de contrôle des exportations pour assurer la conformité et la croissance des entreprises aux Émirats arabes unis",
@@ -8227,7 +8227,7 @@
        "name": "L'impatto dei controlli sulle esportazioni sulle imprese degli Emirati Arabi Uniti",
        "date": "20th Mar, 2025",
        "des": "Come orientarsi tra le normative sui controlli alle esportazioni per garantire la conformità e la crescita delle imprese negli Emirati Arabi Uniti",
-       "img": "../assets/images/news/new14.webp",
+       "img": "./assets/images/news/new14.webp",
        "content": [{
            "name": "",
            "small": "Come orientarsi tra le normative sui controlli alle esportazioni per garantire la conformità e la crescita delle imprese negli Emirati Arabi Uniti",
@@ -8354,7 +8354,7 @@
        "name": "Wills and Testaments for Non-Muslims in the UAE: Essential Guide",
        "date": "20th Mar, 2025",
        "des": "Learn how non-Muslims in the UAE can protect their assets and loved ones by creating legally recognized wills.",
-       "img": "../assets/images/news/new15.webp",
+       "img": "./assets/images/news/new15.webp",
        "content": [{
            "name": "",
            "small": "A Comprehensive Guide to Estate Planning for Non-Muslims in the UAE",
@@ -8435,7 +8435,7 @@
        "name": "الوصايا لغير المسلمين في دولة الإمارات: دليل أساسي",
        "date": "20 مارس 2025",
        "des": "تعرّف على كيفية حماية الأصول والأسرة لغير المسلمين في الإمارات من خلال إعداد وصايا معترف بها قانونياً.",
-       "img": "../assets/images/news/new15.webp",
+       "img": "./assets/images/news/new15.webp",
        "content": [{
            "name": "",
            "small": "دليل شامل للتخطيط للإرث لغير المسلمين في الإمارات",
@@ -8516,7 +8516,7 @@
        "name": "Διαθήκες και Κληρονομιές για Μη Μουσουλμάνους στα ΗΑΕ: Ουσιαστικός Οδηγός",
        "date": "20th Mar, 2025",
        "des": "Μάθετε πώς οι μη Μουσουλμάνοι στα ΗΑΕ μπορούν να προστατεύσουν την περιουσία και τους αγαπημένους τους μέσω της δημιουργίας νομικά αναγνωρισμένων διαθηκών.",
-       "img": "../assets/images/news/new15.webp",
+       "img": "./assets/images/news/new15.webp",
        "content": [{
            "name": "",
            "small": "Ένας ολοκληρωμένος οδηγός για τον σχεδιασμό κληρονομιάς για μη Μουσουλμάνους στα ΗΑΕ",
@@ -8597,7 +8597,7 @@
        "name": "Testaments et successions pour les non-musulmans aux Émirats arabes unis : guide essentiel",
        "date": "20 mars 2025",
        "des": "Découvrez comment les non-musulmans aux Émirats arabes unis peuvent protéger leurs biens et leurs proches en rédigeant des testaments légalement reconnus.",
-       "img": "../assets/images/news/new15.webp",
+       "img": "./assets/images/news/new15.webp",
        "content": [{
            "name": "",
            "small": "Guide complet sur la planification successorale pour les non-musulmans aux Émirats arabes unis",
@@ -8678,7 +8678,7 @@
        "name": "Testamenti per i non musulmani negli Emirati Arabi Uniti: guida essenziale",
        "date": "20th Mar, 2025",
        "des": "Scopri come i non musulmani negli Emirati Arabi Uniti possono proteggere i propri beni e i propri cari creando testamenti legalmente riconosciuti.",
-       "img": "../assets/images/news/new15.webp",
+       "img": "./assets/images/news/new15.webp",
        "content": [{
            "name": "",
            "small": "Guida completa alla pianificazione successoria per i non musulmani negli Emirati Arabi Uniti",

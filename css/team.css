@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(../assets/images/team.png);
+  background-image: url(./assets/images/team.png);
 }
 
 #team-content {
@@ -92,7 +92,7 @@
 
 @media (orientation: portrait) {
   .container-bg {
-    background-image: url(../assets/images/team-mo.png);
+    background-image: url(./assets/images/team-mo.png);
   }
   #team-content {
     top: -20vw;

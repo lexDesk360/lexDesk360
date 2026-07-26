@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(../assets/images/network-firms.png);
+  background-image: url(./assets/images/network-firms.png);
 }
 
 #network-details-content {
@@ -40,7 +40,7 @@
   position: relative;
 }
 #network-details-content .group .bgImage .bigImage {
-  background-image: url(../assets/images/our-network/n1-3.png);
+  background-image: url(./assets/images/our-network/n1-3.png);
   background-size: 100% 100%;
   width: 100%;
   height: 100%;
@@ -55,7 +55,7 @@
 #network-details-content .group .bgImage .vedio .icon {
   width: 4vw;
   height: 4vw;
-  background-image: url(../assets/images/vedio.png);
+  background-image: url(./assets/images/vedio.png);
   background-size: 100% 100%;
   margin-right: 0.5vw;
 }
@@ -106,7 +106,7 @@
 #network-details-content .group .list p.bold::before {
   content: "";
   flex-wrap: wrap;
-  background-image: url(../assets/images/point.png);
+  background-image: url(./assets/images/point.png);
   width: 0.8vw;
   height: 0.8vw;
   background-size: 100% 100%;
@@ -120,7 +120,7 @@
 
 @media (orientation: portrait) {
   .container-bg {
-    background-image: url(../assets/images/network-firms-mob.png);
+    background-image: url(./assets/images/network-firms-mob.png);
   }
   #network-details-content {
     top: -8vw;
@@ -143,7 +143,7 @@
     position: relative;
   }
   #network-details-content .group .bgImage .bigImage {
-    background-image: url(../assets/images/our-network/n1-3-mob.png);
+    background-image: url(./assets/images/our-network/n1-3-mob.png);
   }
   #network-details-content .group .bgImage .vedio {
     left: 24%;

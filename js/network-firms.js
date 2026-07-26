@@ -25,9 +25,9 @@ if(lang == "french"){
 let networks = [
   {
     id: 1,
-    image: "../assets/images/our-network/network1.png",
-    image2: "../assets/images/our-network/n1-1.jpg",
-    image3: "../assets/images/our-network/n1-2.jpg",
+    image: "./assets/images/our-network/network1.png",
+    image2: "./assets/images/our-network/n1-1.jpg",
+    image3: "./assets/images/our-network/n1-2.jpg",
     counrty: {
       eng: "Egypt",
       ar: "مصر",
@@ -174,9 +174,9 @@ let networks = [
   },
   {
     id: 2,
-    image: "../assets/images/our-network/network2.png",
-    image2: "../assets/images/our-network/n2-1.jpg",
-    image3: "../assets/images/our-network/n2-2.jpg",
+    image: "./assets/images/our-network/network2.png",
+    image2: "./assets/images/our-network/n2-1.jpg",
+    image3: "./assets/images/our-network/n2-2.jpg",
     counrty: {
       eng: "UAE",
       ar: "الإمارات",
@@ -297,9 +297,9 @@ let networks = [
   },
   {
     id: 3,
-    image: "../assets/images/our-network/network3.png",
-    image2: "../assets/images/our-network/n3-1.jpg",
-    image3: "../assets/images/our-network/n3-2.jpg",
+    image: "./assets/images/our-network/network3.png",
+    image2: "./assets/images/our-network/n3-1.jpg",
+    image3: "./assets/images/our-network/n3-2.jpg",
     counrty: {
       eng: "Pakistan",
       ar: "باكستان",
@@ -428,9 +428,9 @@ let networks = [
   },
   {
     id: 4,
-    image: "../assets/images/our-network/network4.png",
-    image2: "../assets/images/our-network/n1-1.jpg",
-    image3: "../assets/images/our-network/n2-2.jpg",
+    image: "./assets/images/our-network/network4.png",
+    image2: "./assets/images/our-network/n1-1.jpg",
+    image3: "./assets/images/our-network/n2-2.jpg",
     counrty: {
       eng: "Saudi Arabia",
       ar: "المملكة العربية السعودية ",

@@ -1,5 +1,5 @@
 .container-bg {
-  background-image: url(../assets/images/news.png);
+  background-image: url(./assets/images/news.png);
 }
 
 #news-content {
@@ -45,10 +45,10 @@
   cursor: pointer;
 }
 #news-content .pagination .btn.next {
-  background-image: url(../assets/images/next.png);
+  background-image: url(./assets/images/next.png);
 }
 #news-content .pagination .btn.prev {
-  background-image: url(../assets/images/prev.png);
+  background-image: url(./assets/images/prev.png);
 }
 #news-content .pagination p {
   font-family: Oswald;
@@ -57,7 +57,7 @@
 
 @media (orientation: portrait) {
   .container-bg {
-    background-image: url(../assets/images/news-mo.png);
+    background-image: url(./assets/images/news-mo.png);
   }
   #news-content {
     top: -20vw;

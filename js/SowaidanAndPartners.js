@@ -24,9 +24,9 @@ if(lang == "french"){
 }
 const item =   {
   id: 1,
-  image: "../assets/images/our-network/network1.png",
-  image2: "../assets/images/our-network/n1-1.jpg",
-  image3: "../assets/images/our-network/n1-2.jpg",
+  image: "./assets/images/our-network/network1.png",
+  image2: "./assets/images/our-network/n1-1.jpg",
+  image3: "./assets/images/our-network/n1-2.jpg",
   url: "./Sowaidan&Partners",
   counrty: {
     eng: "Egypt",

@@ -137,7 +137,7 @@ localStorage.setItem("currentPageNew", 1);
 localStorage.setItem("activeForm", null);
 
 // {
-//     "image": "../assets/images/members/member8.png",
+//     "image": "./assets/images/members/member8.png",
 //     "name": {
 //         "eng": "Mahmoud Nassef ",
 //         "ar": "محمود ناصف "
