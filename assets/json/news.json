@@ -1,5 +1,275 @@
  [{
      "eng": {
+       "id": 21,
+       "name": "Access to Justice and Legal Technology in the GCC: The Landscape, the Gaps, and the Legal Implications",
+       "date": "25th Jun, 2026",
+       "des": "The UAE's investment in digital legal infrastructure is genuine and significant. It has not, however, resolved the structural barriers to justice that affect the most vulnerable users of the legal system. Understanding both realities is essential for businesses, practitioners, and policymakers.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "By: ....",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "What the UAE Has Built",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The UAE has made sustained investment in its judicial and dispute resolution technology infrastructure. Dubai Courts operates an AI-assisted case management system that has materially reduced average resolution times in lower-value commercial disputes. The smart judge dashboard and the automated small claims procedures have simplified case progression for represented parties. The Abu Dhabi Judicial Department has digitised significant portions of its filing and hearing processes, with e-service of process, electronic evidence submission, and virtual hearing capabilities now standard.",
+             "Within the financial free zones, the DIFC Courts' smart arbitration platform and the ADGM's online dispute resolution framework offer genuinely sophisticated technology-mediated access to high-quality commercial justice. For international businesses with DIFC or ADGM nexus, these platforms represent world-class infrastructure.",
+             "The question that courts technology cannot answer is whether users who lack legal representation, financial resources, or Arabic language proficiency can meaningfully access the system at all. Digital efficiency and substantive access to justice are related but distinct objectives, and the UAE's progress on the former has not been matched by equivalent progress on the latter."
+           ]
+         },
+         {
+           "name": "The Access Deficit",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The UAE's population is approximately 90 percent non-national. A significant proportion of that population, including low-wage workers, domestic employees, and small business operators, faces the combination of limited financial resources, language barriers, and unfamiliarity with procedural requirements that has historically characterised access to justice deficits globally.",
+             "Legal aid frameworks exist but are limited in scope and reach. The Dubai Legal Aid Centre provides representation in certain criminal and family matters. Free zone authorities offer some dispute resolution assistance for businesses within their jurisdiction. For civil commercial disputes outside the free zones, however, the practical requirement for Arabic-language pleadings, the cost of local legal representation, and the complexity of navigating parallel mainland and emirate-level rules create barriers that technology has not addressed.",
+             "For practitioners advising clients on dispute risk, this structural reality has practical implications. Where a counterparty is an individual or small business without access to quality legal representation, the ability to enforce a contract or collect a judgment is not merely a legal question. It is a practical one that depends on whether the counterparty can engage the system at all."
+           ]
+         },
+         {
+           "name": "AI Legal Tools: Genuine Utility and Real Risk",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "AI-powered legal research, contract review, and document drafting tools have become commercially available and are increasingly deployed by UAE law firms and in-house legal teams. These tools can materially reduce the cost and time of routine legal work. Contract abstraction, due diligence support, regulatory horizon scanning, and precedent analysis are all use cases where AI tools currently deliver genuine value with appropriate human oversight.",
+             "The risk profile is specific and manageable. UAE law operates across multiple parallel frameworks: federal law, emirate-level regulation, free zone rules, and Shari'a-compliant structuring principles, each with its own body of authority and interpretive tradition. AI tools trained primarily on common law or European civil law datasets may produce outputs that are technically coherent but jurisdictionally incorrect. A contract clause that is enforceable under English law may be unenforceable under UAE Civil Transactions Law. A compliance checklist generated for an EU regulated entity may not reflect UAE CBUAE or DFSA requirements.",
+             "The minimum safe use standard for AI legal tools in a UAE context is human review by a qualified UAE-admitted practitioner before any output is relied upon for a consequential decision. That standard is not burdensome. It is the appropriate allocation of technology and judgment in a complex multi-jurisdictional environment."
+           ]
+         },
+         {
+           "name": "The Policy Direction",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The UAE Ministry of Justice has signalled intent to expand digital access to legal resources, including through online legal information platforms and expanded e-filing capabilities. The Emirates Legal Network and various bar association initiatives have begun to address the pro bono gap, though provision remains episodic rather than systematic.",
+             "For businesses, the practical implication is straightforward: the legal technology tools available in the UAE market in 2026 are useful adjuncts to qualified legal counsel, not substitutes for it. Businesses that deploy AI legal tools without adequate human oversight, in the expectation that the tool will identify every material jurisdiction-specific issue, are misallocating their risk management resources."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 21,
+       "name": "الوصول إلى العدالة والتكنولوجيا القانونية في دول مجلس التعاون الخليجي: الوضع الراهن، والثغرات، والآثار القانونية",
+       "date": "25th Jun, 2026",
+       "des": "إن استثمار الإمارات العربية المتحدة في البنية التحتية القانونية الرقمية حقيقي وكبير. إلا أنه لم يحل العوائق الهيكلية التي تحول دون الوصول إلى العدالة، والتي تؤثر على الفئات الأكثر ضعفاً من مستخدمي النظام القانوني. ويعد فهم هذين الواقعين أمراً ضرورياً للشركات والممارسين وصانعي السياسات.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "بقلم: ....",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "ما أنجزته الإمارات العربية المتحدة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "قامت الإمارات العربية المتحدة باستثمارات مستمرة في بنيتها التحتية التكنولوجية القضائية وتلك الخاصة بتسوية المنازعات. وتدير محاكم دبي نظامًا لإدارة القضايا مدعومًا بالذكاء الاصطناعي، مما أدى إلى تقليل متوسط مدة تسوية المنازعات التجارية ذات القيمة المنخفضة بشكل ملموس. كما ساهمت لوحة التحكم الذكية للقاضي وإجراءات المطالبات الصغيرة الآلية في تبسيط سير القضايا للأطراف التي يمثلها محامون. وقامت دائرة أبوظبي القضائية برقمنة أجزاء كبيرة من عمليات التسجيل والجلسات، حيث أصبحت خدمات التبليغ الإلكتروني وتقديم الأدلة الإلكترونية وإمكانيات عقد الجلسات الافتراضية أمورًا معتادة الآن.",
+             "داخل المناطق الحرة المالية، توفر منصة التحكيم الذكية التابعة لمحاكم مركز دبي المالي العالمي (DIFC) وإطار عمل تسوية المنازعات عبر الإنترنت التابع لسوق أبوظبي العالمي (ADGM) وصولاً متطوراً حقاً، بوساطة التكنولوجيا، إلى عدالة تجارية عالية الجودة. وبالنسبة للشركات الدولية التي لها صلة بمركز دبي المالي العالمي أو سوق أبوظبي العالمي، تمثل هذه المنصات بنية تحتية عالمية المستوى.",
+             "والسؤال الذي لا تستطيع تكنولوجيا المحاكم الإجابة عليه هو ما إذا كان بإمكان المستخدمين الذين يفتقرون إلى التمثيل القانوني أو الموارد المالية أو إتقان اللغة العربية الوصول إلى النظام بشكل فعال على الإطلاق. فالكفاءة الرقمية والوصول الفعلي إلى العدالة هدفان مرتبطان ولكنهما منفصلان، ولم يواكب التقدم الذي أحرزته الإمارات العربية المتحدة في الهدف الأول تقدمًا مماثلًا في الهدف الثاني."
+           ]
+         },
+         {
+           "name": "العجز في الوصول إلى العدالة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يبلغ نسبة السكان غير المواطنين في الإمارات العربية المتحدة حوالي 90 في المائة. وتواجه نسبة كبيرة من هؤلاء السكان، بما في ذلك العمال ذوو الأجور المنخفضة، والعاملون في الخدمة المنزلية، وأصحاب الأعمال الصغيرة، مزيجاً من الموارد المالية المحدودة، والحواجز اللغوية، وعدم الإلمام بالمتطلبات الإجرائية، وهو ما ميز تاريخياً العجز في الوصول إلى العدالة على الصعيد العالمي.",
+             "توجد أطر للمساعدة القانونية، لكن نطاقها ومداها محدودان. يوفر مركز دبي للمساعدة القانونية التمثيل في بعض القضايا الجنائية والأسرية. وتقدم سلطات المناطق الحرة بعض المساعدة في تسوية المنازعات للشركات الواقعة ضمن نطاق اختصاصها. أما بالنسبة للنزاعات المدنية التجارية خارج المناطق الحرة، فإن الشرط العملي لتقديم المرافعات باللغة العربية، وتكلفة التمثيل القانوني المحلي، وتعقيد التعامل مع القواعد المتوازية على مستوى البر الرئيسي ومستوى الإمارات، كل ذلك يخلق حواجز لم تعالجها التكنولوجيا بعد.",
+             "وبالنسبة للممارسين الذين يقدمون المشورة للعملاء بشأن مخاطر النزاعات، فإن لهذه الحقيقة الهيكلية آثاراً عملية. فعندما يكون الطرف المقابل فرداً أو شركة صغيرة لا تتوفر له إمكانية الحصول على تمثيل قانوني جيد، فإن القدرة على إنفاذ العقد أو تحصيل حكم قضائي لا تقتصر على كونها مسألة قانونية فحسب، بل هي مسألة عملية تعتمد على ما إذا كان الطرف المقابل قادراً على التعامل مع النظام من الأساس."
+           ]
+         },
+         {
+           "name": "أدوات الذكاء الاصطناعي القانونية: فائدة حقيقية ومخاطر حقيقية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "أصبحت أدوات البحث القانوني ومراجعة العقود وصياغة المستندات المدعومة بالذكاء الاصطناعي متاحة تجاريًا، ويتم استخدامها بشكل متزايد من قبل مكاتب المحاماة في الإمارات العربية المتحدة والفرق القانونية الداخلية. يمكن لهذه الأدوات أن تقلل بشكل جوهري من تكلفة ووقت الأعمال القانونية الروتينية. ويُعد استخلاص بنود العقود، ودعم إجراءات العناية الواجبة، ومسح الأفق التنظيمي، وتحليل السوابق القضائية، حالات استخدام تقدم فيها أدوات الذكاء الاصطناعي حاليًا قيمة حقيقية مع الإشراف البشري المناسب.",
+             "إن مخاطر استخدام هذه الأدوات محددة وقابلة للإدارة. يعمل القانون في الإمارات العربية المتحدة عبر أطر عمل متوازية متعددة: القانون الاتحادي، واللوائح على مستوى الإمارات، وقواعد المناطق الحرة، ومبادئ الهيكلة المتوافقة مع الشريعة الإسلامية، ولكل منها سلطة وتقاليد تفسيرية خاصة بها. قد تنتج أدوات الذكاء الاصطناعي التي تم تدريبها بشكل أساسي على قواعد بيانات القانون العام أو القانون المدني الأوروبي نتائج متسقة من الناحية الفنية ولكنها غير صحيحة من الناحية القضائية. فقد يكون بند تعاقدي قابل للتنفيذ بموجب القانون الإنجليزي غير قابل للتنفيذ بموجب قانون المعاملات المدنية في الإمارات العربية المتحدة. قد لا تعكس قائمة مراجعة الامتثال التي تم إنشاؤها لكيان خاضع للتنظيم في الاتحاد الأوروبي متطلبات هيئة السلوك المهني للمحامين في الإمارات (CBUAE) أو هيئة دبي للخدمات المالية (DFSA).",
+             "يتمثل المعيار الأدنى للاستخدام الآمن لأدوات الذكاء الاصطناعي القانونية في سياق الإمارات العربية المتحدة في المراجعة البشرية من قبل ممارس مؤهل ومعترف به في الإمارات قبل الاعتماد على أي ناتج لاتخاذ قرار ذي آثار. وهذا المعيار ليس مرهقاً. إنه التوزيع المناسب بين التكنولوجيا والحكم في بيئة معقدة متعددة الاختصاصات القضائية."
+           ]
+         },
+         {
+           "name": "التوجه السياسي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "أبدت وزارة العدل الإماراتية نيتها توسيع نطاق الوصول الرقمي إلى الموارد القانونية، بما في ذلك من خلال منصات المعلومات القانونية عبر الإنترنت وتوسيع قدرات التسجيل الإلكتروني. وقد بدأت «الشبكة القانونية الإماراتية» ومبادرات مختلفة لنقابة المحامين في معالجة الفجوة في الخدمات القانونية التطوعية، على الرغم من أن تقديم هذه الخدمات لا يزال متقطعًا وليس منهجيًا.",
+             "بالنسبة للشركات، فإن الآثار العملية واضحة ومباشرة: أدوات التكنولوجيا القانونية المتوفرة في سوق الإمارات العربية المتحدة عام 2026 هي أدوات مساعدة مفيدة للمستشار القانوني المؤهل، وليست بديلاً عنه. والشركات التي تستخدم أدوات الذكاء الاصطناعي القانونية دون إشراف بشري كافٍ، على أمل أن تحدد الأداة كل مسألة جوهرية خاصة بالولاية القضائية المعنية، فإنها تقوم بتخصيص موارد إدارة المخاطر بشكل خاطئ."
+           ]
+         }
+       ]
+     },
+
+     "greek": {
+       "id": 21,
+       "name": "Πρόσβαση στη δικαιοσύνη και νομική τεχνολογία στον ΣΣΚ: Το τοπίο, τα κενά και οι νομικές επιπτώσεις",
+       "date": "25th Jun, 2026",
+       "des": "Η επένδυση των ΗΑΕ στην ψηφιακή νομική υποδομή είναι ουσιαστική και σημαντική. Ωστόσο, δεν έχει επιλύσει τα διαρθρωτικά εμπόδια στην πρόσβαση στη δικαιοσύνη που επηρεάζουν τους πιο ευάλωτους χρήστες του νομικού συστήματος. Η κατανόηση και των δύο αυτών πραγματικοτήτων είναι απαραίτητη για τις επιχειρήσεις, τους επαγγελματίες του κλάδου και τους υπεύθυνους χάραξης πολιτικής.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Τι έχουν δημιουργήσει τα ΗΑΕ",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Τα ΗΑΕ έχουν πραγματοποιήσει συνεχείς επενδύσεις στην τεχνολογική υποδομή του δικαστικού συστήματος και της επίλυσης διαφορών. Τα Δικαστήρια του Ντουμπάι λειτουργούν ένα σύστημα διαχείρισης υποθέσεων με τη βοήθεια τεχνητής νοημοσύνης (AI), το οποίο έχει μειώσει ουσιαστικά τον μέσο χρόνο επίλυσης εμπορικών διαφορών χαμηλής αξίας. Ο έξυπνος πίνακας ελέγχου δικαστή και οι αυτοματοποιημένες διαδικασίες για μικρές αξιώσεις έχουν απλοποιήσει την πορεία των υποθέσεων για τα εκπροσωπούμενα μέρη. Το Δικαστικό Τμήμα του Αμπού Ντάμπι έχει ψηφιοποιήσει σημαντικά τμήματα των διαδικασιών κατάθεσης και ακροάσεων, με την ηλεκτρονική επίδοση εγγράφων, την ηλεκτρονική υποβολή αποδεικτικών στοιχείων και τις δυνατότητες εικονικής ακρόασης να αποτελούν πλέον τον κανόνα.",
+             "Εντός των χρηματοοικονομικών ελεύθερων ζωνών, η έξυπνη πλατφόρμα διαιτησίας των Δικαστηρίων του DIFC και το πλαίσιο ηλεκτρονικής επίλυσης διαφορών του ADGM προσφέρουν πραγματικά εξελιγμένη, τεχνολογικά υποστηριζόμενη πρόσβαση σε εμπορική δικαιοσύνη υψηλής ποιότητας. Για τις διεθνείς επιχειρήσεις που έχουν σύνδεση με το DIFC ή το ADGM, αυτές οι πλατφόρμες αντιπροσωπεύουν υποδομή παγκόσμιας κλάσης.",
+             "Το ερώτημα στο οποίο η τεχνολογία των δικαστηρίων δεν μπορεί να απαντήσει είναι αν οι χρήστες που στερούνται νομικής εκπροσώπησης, οικονομικών πόρων ή γνώσης της αραβικής γλώσσας μπορούν καθόλου να έχουν ουσιαστική πρόσβαση στο σύστημα. Η ψηφιακή αποδοτικότητα και η ουσιαστική πρόσβαση στη δικαιοσύνη είναι συναφείς αλλά διακριτοί στόχοι, και η πρόοδος των ΗΑΕ στον πρώτο τομέα δεν έχει συνοδευτεί από αντίστοιχη πρόοδο στον δεύτερο."
+           ]
+         },
+         {
+           "name": "Το έλλειμμα πρόσβασης",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Το 90% περίπου του πληθυσμού των ΗΑΕ αποτελείται από αλλοδαπούς. Ένα σημαντικό ποσοστό αυτού του πληθυσμού, συμπεριλαμβανομένων των εργαζομένων με χαμηλούς μισθούς, των οικιακών βοηθών και των ιδιοκτητών μικρών επιχειρήσεων, αντιμετωπίζει τον συνδυασμό περιορισμένων οικονομικών πόρων, γλωσσικών φραγμών και άγνοιας των διαδικαστικών απαιτήσεων, ο οποίος ιστορικά έχει χαρακτηρίσει τα ελλείμματα πρόσβασης στη δικαιοσύνη σε παγκόσμιο επίπεδο.",
+             "Υπάρχουν πλαίσια νομικής αρωγής, αλλά το εύρος και η εμβέλειά τους είναι περιορισμένα. Το Κέντρο Νομικής Αρωγής του Ντουμπάι παρέχει εκπροσώπηση σε ορισμένες ποινικές και οικογενειακές υποθέσεις. Οι αρχές των ελεύθερων ζωνών προσφέρουν κάποια βοήθεια στην επίλυση διαφορών για επιχειρήσεις εντός της δικαιοδοσίας τους. Ωστόσο, για αστικές εμπορικές διαφορές εκτός των ελεύθερων ζωνών, η πρακτική απαίτηση για υπομνήματα στην αραβική γλώσσα, το κόστος της τοπικής νομικής εκπροσώπησης και η πολυπλοκότητα της πλοήγησης μεταξύ παράλληλων κανόνων σε επίπεδο ηπειρωτικής χώρας και εμιράτου δημιουργούν εμπόδια τα οποία η τεχνολογία δεν έχει αντιμετωπίσει.",
+             "Για τους επαγγελματίες που συμβουλεύουν πελάτες σχετικά με τον κίνδυνο διαφορών, αυτή η δομική πραγματικότητα έχει πρακτικές επιπτώσεις. Όταν ο αντισυμβαλλόμενος είναι φυσικό πρόσωπο ή μικρή επιχείρηση χωρίς πρόσβαση σε ποιοτική νομική εκπροσώπηση, η δυνατότητα εκτέλεσης μιας σύμβασης ή είσπραξης δικαστικής απόφασης δεν αποτελεί απλώς νομικό ζήτημα. Πρόκειται για πρακτικό ζήτημα που εξαρτάται από το αν ο αντισυμβαλλόμενος μπορεί καθόλου να προσφύγει στο σύστημα."
+           ]
+         },
+         {
+           "name": "Νομικά εργαλεία τεχνητής νοημοσύνης: Πραγματική χρησιμότητα και πραγματικός κίνδυνος",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Τα εργαλεία νομικής έρευνας, ελέγχου συμβάσεων και σύνταξης εγγράφων που βασίζονται στην τεχνητή νοημοσύνη έχουν καταστεί εμπορικά διαθέσιμα και χρησιμοποιούνται όλο και περισσότερο από δικηγορικά γραφεία και εσωτερικές νομικές ομάδες στα ΗΑΕ. Τα εργαλεία αυτά μπορούν να μειώσουν ουσιαστικά το κόστος και τον χρόνο των συνήθων νομικών εργασιών. Η εξαγωγή στοιχείων από συμβάσεις, η υποστήριξη στη διαδικασία δέουσας επιμέλειας, η ανίχνευση ρυθμιστικών εξελίξεων και η ανάλυση προηγούμενων υποθέσεων αποτελούν όλες περιπτώσεις χρήσης όπου τα εργαλεία τεχνητής νοημοσύνης προσφέρουν επί του παρόντος πραγματική αξία με την κατάλληλη ανθρώπινη εποπτεία.",
+             "Το προφίλ κινδύνου είναι συγκεκριμένο και διαχειρίσιμο. Η νομοθεσία των ΗΑΕ λειτουργεί σε πολλαπλά παράλληλα πλαίσια: ομοσπονδιακό δίκαιο, κανονισμοί σε επίπεδο εμιράτου, κανόνες ελεύθερων ζωνών και αρχές δομής σύμφωνες με τη Σαρία, καθένα με το δικό του σώμα αρχών και ερμηνευτική παράδοση. Τα εργαλεία τεχνητής νοημοσύνης που έχουν εκπαιδευτεί κυρίως σε σύνολα δεδομένων του κοινού δικαίου ή του ευρωπαϊκού αστικού δικαίου ενδέχεται να παράγουν αποτελέσματα που είναι τεχνικά συνεπή αλλά δικαιοδοτικά εσφαλμένα. Μια ρήτρα σύμβασης που είναι εκτελεστή σύμφωνα με το αγγλικό δίκαιο ενδέχεται να μην είναι εκτελεστή σύμφωνα με τον Νόμο περί Αστικών Συναλλαγών των ΗΑΕ. Ένας κατάλογος ελέγχου συμμόρφωσης που έχει δημιουργηθεί για μια οντότητα που υπόκειται στη νομοθεσία της ΕΕ ενδέχεται να μην αντανακλά τις απαιτήσεις της CBUAE ή της DFSA των ΗΑΕ.",
+             "Το ελάχιστο πρότυπο ασφαλούς χρήσης για τα νομικά εργαλεία τεχνητής νοημοσύνης στο πλαίσιο των ΗΑΕ είναι η ανθρώπινη επανεξέταση από εξειδικευμένο επαγγελματία που είναι εγγεγραμμένος στα ΗΑΕ, προτού οποιοδήποτε αποτέλεσμα χρησιμοποιηθεί ως βάση για μια απόφαση με σημαντικές συνέπειες. Το πρότυπο αυτό δεν είναι επαχθές. Αποτελεί την κατάλληλη κατανομή της τεχνολογίας και της κρίσης σε ένα πολύπλοκο περιβάλλον πολλαπλών δικαιοδοσιών."
+           ]
+         },
+         {
+           "name": "Η κατεύθυνση της πολιτικής",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Το Υπουργείο Δικαιοσύνης των ΗΑΕ έχει εκφράσει την πρόθεσή του να επεκτείνει την ψηφιακή πρόσβαση σε νομικούς πόρους, μεταξύ άλλων μέσω διαδικτυακών πλατφορμών νομικών πληροφοριών και διευρυμένων δυνατοτήτων ηλεκτρονικής κατάθεσης εγγράφων. Το Emirates Legal Network και διάφορες πρωτοβουλίες δικηγορικών συλλόγων έχουν αρχίσει να αντιμετωπίζουν το κενό στην παροχή δωρεάν νομικών υπηρεσιών, αν και η παροχή αυτή παραμένει περιστασιακή και όχι συστηματική.",
+             "Για τις επιχειρήσεις, η πρακτική συνέπεια είναι σαφής: τα εργαλεία νομικής τεχνολογίας που θα είναι διαθέσιμα στην αγορά των ΗΑΕ το 2026 αποτελούν χρήσιμα συμπληρώματα της εξειδικευμένης νομικής συμβουλευτικής, και όχι υποκατάστατά της. Οι επιχειρήσεις που χρησιμοποιούν νομικά εργαλεία τεχνητής νοημοσύνης χωρίς επαρκή ανθρώπινη εποπτεία, με την προσδοκία ότι το εργαλείο θα εντοπίσει κάθε ουσιώδες ζήτημα που αφορά συγκεκριμένη δικαιοδοσία, καταχρώνται τους πόρους τους στον τομέα της διαχείρισης κινδύνων."
+           ]
+         }
+       ]
+     },
+
+     "french": {
+       "id": 21,
+       "name": "Accès à la justice et technologies juridiques dans les pays du CCG : état des lieux, lacunes et implications juridiques",
+       "date": "25th Jun, 2026",
+       "des": "Les investissements des Émirats arabes unis dans les infrastructures juridiques numériques sont réels et considérables. Ils n’ont toutefois pas permis de lever les obstacles structurels à l’accès à la justice qui touchent les usagers les plus vulnérables du système juridique. Il est essentiel que les entreprises, les praticiens et les décideurs politiques prennent conscience de ces deux réalités.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "Par : ....",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Ce que les Émirats arabes unis ont mis en place",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les Émirats arabes unis ont réalisé des investissements soutenus dans leur infrastructure technologique judiciaire et de résolution des litiges. Les tribunaux de Dubaï exploitent un système de gestion des dossiers assisté par l’intelligence artificielle qui a considérablement réduit les délais moyens de résolution des litiges commerciaux de faible valeur. Le tableau de bord intelligent destiné aux juges et les procédures automatisées pour les petits litiges ont simplifié le déroulement des affaires pour les parties représentées. Le département judiciaire d’Abou Dhabi a numérisé une grande partie de ses procédures de dépôt et d’audience ; la signification électronique des actes de procédure, la soumission électronique des preuves et les audiences virtuelles sont désormais la norme.",
+             "Au sein des zones franches financières, la plateforme d’arbitrage intelligente des tribunaux du DIFC et le cadre de règlement en ligne des litiges de l’ADGM offrent un accès véritablement sophistiqué, facilité par la technologie, à une justice commerciale de haute qualité. Pour les entreprises internationales ayant un lien avec le DIFC ou l’ADGM, ces plateformes constituent une infrastructure de classe mondiale.",
+             "La question à laquelle la technologie judiciaire ne peut répondre est de savoir si les utilisateurs qui ne disposent pas d’une représentation juridique, de ressources financières ou de compétences en langue arabe peuvent réellement accéder au système. L’efficacité numérique et l’accès effectif à la justice sont des objectifs liés mais distincts, et les progrès réalisés par les Émirats arabes unis sur le premier n’ont pas été accompagnés de progrès équivalents sur le second."
+           ]
+         },
+         {
+           "name": "Le déficit d’accès",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La population des Émirats arabes unis est composée à environ 90 % de non-ressortissants. Une part importante de cette population, notamment les travailleurs à bas salaire, les employés de maison et les exploitants de petites entreprises, est confrontée à la combinaison de ressources financières limitées, de barrières linguistiques et d’une méconnaissance des exigences procédurales qui a historiquement caractérisé les déficits d’accès à la justice à l’échelle mondiale.",
+             "Des dispositifs d’aide juridictionnelle existent, mais leur champ d’application et leur portée sont limités. Le Centre d’aide juridictionnelle de Dubaï assure la représentation dans certaines affaires pénales et familiales. Les autorités des zones franches offrent une aide au règlement des litiges aux entreprises relevant de leur juridiction. Toutefois, pour les litiges civils et commerciaux en dehors des zones franches, l’exigence pratique de plaidoiries en arabe, le coût de la représentation juridique locale et la complexité liée à la navigation entre les règles parallèles applicables au niveau du continent et au niveau des émirats créent des obstacles que la technologie n’a pas permis de surmonter.",
+             "Pour les praticiens qui conseillent leurs clients sur les risques de litige, cette réalité structurelle a des implications pratiques. Lorsqu’une contrepartie est un particulier ou une petite entreprise n’ayant pas accès à une représentation juridique de qualité, la capacité à faire respecter un contrat ou à recouvrer une somme due en vertu d’un jugement n’est pas seulement une question juridique. Il s’agit d’un enjeu pratique qui dépend de la capacité même de la contrepartie à s’engager dans le système."
+           ]
+         },
+         {
+           "name": "Outils juridiques basés sur l’IA : utilité réelle et risques concrets",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les outils basés sur l’IA destinés à la recherche juridique, à l’examen des contrats et à la rédaction de documents sont désormais disponibles sur le marché et sont de plus en plus utilisés par les cabinets d’avocats et les services juridiques internes des Émirats arabes unis. Ces outils peuvent réduire considérablement le coût et la durée des tâches juridiques courantes. L’extraction des éléments essentiels des contrats, l’assistance à la diligence raisonnable, l’analyse des évolutions réglementaires et l’analyse des précédents sont autant de cas d’utilisation dans lesquels les outils d’IA apportent actuellement une réelle valeur ajoutée, sous réserve d’une supervision humaine appropriée.",
+             "Le profil de risque est spécifique et gérable. Le droit des Émirats arabes unis s’applique selon plusieurs cadres parallèles : le droit fédéral, la réglementation au niveau des émirats, les règles des zones franches et les principes de structuration conformes à la charia, chacun disposant de son propre corpus juridique et de sa propre tradition d’interprétation. Les outils d’IA entraînés principalement sur des ensembles de données issus de la common law ou du droit civil européen peuvent produire des résultats techniquement cohérents mais juridiquement incorrects. Une clause contractuelle exécutoire en vertu du droit anglais peut s’avérer inapplicable au regard de la loi sur les transactions civiles des Émirats arabes unis. Une liste de contrôle de conformité générée pour une entité réglementée de l’UE peut ne pas refléter les exigences de la CBUAE ou de la DFSA des Émirats arabes unis.",
+             "La norme minimale d’utilisation sûre des outils juridiques basés sur l’IA dans le contexte des Émirats arabes unis consiste en une révision humaine par un praticien qualifié et agréé aux Émirats arabes unis avant que tout résultat ne soit utilisé pour prendre une décision importante. Cette norme n’est pas contraignante. Il s’agit de la répartition appropriée entre technologie et jugement dans un environnement complexe et multijuridictionnel."
+           ]
+         },
+         {
+           "name": "Orientations politiques",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le ministère de la Justice des Émirats arabes unis a fait part de son intention d’élargir l’accès numérique aux ressources juridiques, notamment par le biais de plateformes d’information juridique en ligne et de capacités accrues de dépôt électronique. Le Réseau juridique des Émirats (Emirates Legal Network) et diverses initiatives des barreaux ont commencé à combler le déficit en matière d’aide juridique gratuite, bien que cette offre reste ponctuelle plutôt que systématique.",
+             "Pour les entreprises, les implications pratiques sont claires : les outils technologiques juridiques disponibles sur le marché des Émirats arabes unis en 2026 constituent des compléments utiles à un conseil juridique qualifié, et non des substituts à celui-ci. Les entreprises qui déploient des outils juridiques basés sur l'IA sans supervision humaine adéquate, en espérant que l'outil identifie toutes les questions importantes spécifiques à une juridiction, affectent de manière inappropriée leurs ressources en matière de gestion des risques."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 21,
+       "name": "Accesso alla giustizia e tecnologia legale nel CCG: il panorama, le lacune e le implicazioni giuridiche",
+       "date": "25th Jun, 2026",
+       "des": "L’investimento degli Emirati Arabi Uniti nelle infrastrutture legali digitali è concreto e significativo. Tuttavia, non ha risolto gli ostacoli strutturali all’accesso alla giustizia che colpiscono gli utenti più vulnerabili del sistema giuridico. Comprendere entrambe queste realtà è essenziale per le imprese, i professionisti del settore e i responsabili politici.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Cosa hanno realizzato gli Emirati Arabi Uniti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli Emirati Arabi Uniti hanno effettuato investimenti costanti nelle infrastrutture tecnologiche relative al sistema giudiziario e alla risoluzione delle controversie. I tribunali di Dubai gestiscono un sistema di gestione dei casi assistito dall’intelligenza artificiale che ha ridotto in modo sostanziale i tempi medi di risoluzione nelle controversie commerciali di modesto valore. La dashboard intelligente per i giudici e le procedure automatizzate per le controversie di modesto valore hanno semplificato lo svolgimento dei procedimenti per le parti rappresentate. Il Dipartimento Giudiziario di Abu Dhabi ha digitalizzato parti significative dei propri processi di deposito e udienza; la notifica elettronica degli atti, la presentazione elettronica delle prove e le udienze virtuali sono ormai la norma.",
+             "All’interno delle zone franche finanziarie, la piattaforma di arbitrato intelligente dei tribunali del DIFC e il quadro di risoluzione delle controversie online dell’ADGM offrono un accesso realmente sofisticato, mediato dalla tecnologia, a una giustizia commerciale di alta qualità. Per le imprese internazionali con un nesso con il DIFC o l’ADGM, queste piattaforme rappresentano un’infrastruttura di livello mondiale.",
+             "La domanda a cui la tecnologia giudiziaria non può rispondere è se gli utenti privi di rappresentanza legale, risorse finanziarie o padronanza della lingua araba possano effettivamente accedere al sistema in modo significativo. L’efficienza digitale e l’accesso sostanziale alla giustizia sono obiettivi correlati ma distinti, e i progressi degli Emirati Arabi Uniti sul primo fronte non sono stati accompagnati da progressi equivalenti sul secondo."
+           ]
+         },
+         {
+           "name": "Il deficit di accesso",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La popolazione degli Emirati Arabi Uniti è composta per circa il 90% da cittadini stranieri. Una parte significativa di tale popolazione, compresi i lavoratori a basso reddito, i collaboratori domestici e i titolari di piccole imprese, deve affrontare una combinazione di risorse finanziarie limitate, barriere linguistiche e scarsa familiarità con i requisiti procedurali che storicamente ha caratterizzato i deficit di accesso alla giustizia a livello globale.",
+             "Esistono sistemi di patrocinio a spese dello Stato, ma la loro portata e il loro raggio d’azione sono limitati. Il Centro di patrocinio a spese dello Stato di Dubai fornisce assistenza legale in determinate cause penali e di diritto di famiglia. Le autorità delle zone franche offrono un certo supporto nella risoluzione delle controversie per le imprese soggette alla loro giurisdizione. Per le controversie civili commerciali al di fuori delle zone franche, tuttavia, l’obbligo pratico di redigere memorie in lingua araba, il costo della rappresentanza legale locale e la complessità di districarsi tra le norme parallele a livello continentale e a livello degli emirati creano ostacoli che la tecnologia non ha ancora superato.",
+             "Per i professionisti che forniscono consulenza ai clienti sul rischio di contenzioso, questa realtà strutturale ha implicazioni pratiche. Quando la controparte è un privato o una piccola impresa senza accesso a una rappresentanza legale di qualità, la capacità di far rispettare un contratto o di ottenere l’esecuzione di una sentenza non è solo una questione giuridica. È una questione pratica che dipende dal fatto che la controparte possa o meno avvalersi del sistema."
+           ]
+         },
+         {
+           "name": "Strumenti legali basati sull’IA: utilità concreta e rischio reale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli strumenti basati sull’IA per la ricerca giuridica, la revisione dei contratti e la redazione di documenti sono ormai disponibili in commercio e vengono sempre più utilizzati dagli studi legali degli Emirati Arabi Uniti e dai team legali interni alle aziende. Questi strumenti possono ridurre in modo significativo i costi e i tempi del lavoro legale di routine. L’estrazione di elementi contrattuali, il supporto alla due diligence, l’analisi delle prospettive normative e l’analisi dei precedenti sono tutti casi d’uso in cui gli strumenti basati sull’IA offrono attualmente un valore concreto, con un’adeguata supervisione umana.",
+             "Il profilo di rischio è specifico e gestibile. Il diritto degli Emirati Arabi Uniti opera in diversi quadri normativi paralleli: diritto federale, regolamentazione a livello di emirato, norme delle zone franche e principi di strutturazione conformi alla Sharia, ciascuno con il proprio corpus giurisprudenziale e la propria tradizione interpretativa. Gli strumenti di IA addestrati principalmente su set di dati del common law o del diritto civile europeo possono produrre risultati tecnicamente coerenti ma giuridicamente errati. Una clausola contrattuale applicabile ai sensi del diritto inglese potrebbe risultare inapplicabile ai sensi della Legge sulle transazioni civili degli Emirati Arabi Uniti. Una checklist di conformità generata per un soggetto regolamentato nell’UE potrebbe non riflettere i requisiti della CBUAE o della DFSA degli Emirati Arabi Uniti.",
+             "Lo standard minimo di sicurezza per l’uso degli strumenti legali basati sull’IA nel contesto degli Emirati Arabi Uniti consiste nella revisione umana da parte di un professionista qualificato e abilitato negli Emirati Arabi Uniti prima che qualsiasi risultato venga utilizzato come base per una decisione di rilievo. Tale standard non è oneroso. Rappresenta l’adeguata combinazione di tecnologia e giudizio in un ambiente complesso e multigiurisdizionale."
+           ]
+         },
+         {
+           "name": "L’orientamento politico",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il Ministero della Giustizia degli Emirati Arabi Uniti ha manifestato l’intenzione di ampliare l’accesso digitale alle risorse giuridiche, anche attraverso piattaforme di informazione giuridica online e maggiori capacità di deposito elettronico. L’Emirates Legal Network e varie iniziative degli ordini degli avvocati hanno iniziato ad affrontare il divario nell’assistenza legale pro bono, sebbene l’offerta rimanga sporadica piuttosto che sistematica.",
+             "Per le imprese, l’implicazione pratica è chiara: gli strumenti di tecnologia legale disponibili sul mercato degli Emirati Arabi Uniti nel 2026 sono utili integrazioni alla consulenza legale qualificata, non sostituti della stessa. Le imprese che utilizzano strumenti legali basati sull’intelligenza artificiale senza un’adeguata supervisione umana, nella speranza che lo strumento identifichi ogni questione rilevante specifica della giurisdizione, stanno allocando in modo errato le proprie risorse destinate alla gestione del rischio."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
        "id": 20,
        "name": "AI, Copyright and Intellectual Property: Protecting Innovation in the GCC",
        "date": "25th Jun, 2026",
