@@ -149,7 +149,7 @@ function getDetailsNews(index) {
   let filteredArr = news.filter((_, i) => i !== index);
   let randomTwoNews = filteredArr.sort(() => 0.5 - Math.random()).slice(0, 2);
   localStorage.setItem("randomTwoNews", JSON.stringify(randomTwoNews));
-  window.location.href = "./news-details.html";
+  window.location.href = `./news-details?id=${news[index][lang].id}`;
 }
 // Initialize
   localStorage.setItem("activeForm", null);
