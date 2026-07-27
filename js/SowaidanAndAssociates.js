@@ -27,7 +27,7 @@ const item =   {
   image: "./assets/images/our-network/network1.png",
   image2: "./assets/images/our-network/n1-1.jpg",
   image3: "./assets/images/our-network/n1-2.jpg",
-  url: "./Sowaidan&Partners",
+  url: "./sowaidan&associates",
   counrty: {
     eng: "Egypt",
     ar: "مصر",
