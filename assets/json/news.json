@@ -1,5 +1,1601 @@
  [{
      "eng": {
+       "id": 20,
+       "name": "AI, Copyright and Intellectual Property: Protecting Innovation in the GCC",
+       "date": "25th Jun, 2026",
+       "des": "Ninety-two percent of S&P 500 market value is now intangible. The legal frameworks governing that value in the GCC have changed materially. Businesses that have not updated their IP strategy are carrying risk they have not yet priced.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "The Value Migration",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ocean Tomo's 2025 Intangible Asset Market Value Study establishes that intangible assets now constitute approximately 92 percent of the market capitalisation of the S&P 500, up from 17 percent in 1975. Among the largest index constituents, Apple, Nvidia, Mastercard and their peers, the figure approaches 98 percent. That value is constituted, in legal terms, by a bundle of enforceable rights: patents, trademarks, trade secrets, copyright, database rights, and the contractual frameworks that govern how those rights are licensed, assigned, and defended.",
+             "The GCC is not immune to this dynamic. The UAE has climbed to 30th in the WIPO Global Innovation Index 2025, the highest position any Arab economy has held. Saudi Arabia's institutional patent applications rose approximately 80 percent year-on-year in 2025. The GCC Unified Trademark Law is now operational across all six member states, creating for the first time a single enforceable trademark territory across the region. The enforcement infrastructure is improving. The question is whether businesses are using it."
+           ]
+         },
+         {
+           "name": "The Authorship Problem in AI-Generated Content",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Copyright protection in the UAE is governed by Federal Law No. 38 of 2021 on Copyrights and Related Rights. The law protects original works of authorship. \"Author\" is defined as the natural person who creates the work. Where an AI system generates text, images, music, code, or other content without determinative human creative input, the question of copyright subsistence is legally unresolved under UAE law.",
+             "This is not a theoretical concern. If your business produces AI-generated marketing materials, legal documents, technical specifications, or creative content and uses that content commercially, you may be asserting copyright in material that does not qualify for protection. Conversely, if a competitor reproduces your AI-generated content, your ability to enforce against that reproduction may be compromised if you cannot demonstrate the human authorship elements that give rise to protection.",
+             "The UAE AI Act 2026 intersects with this question through its transparency and documentation requirements. AI systems that produce content in regulated use cases must, in certain circumstances, disclose the AI origin of that content. That disclosure obligation creates an evidentiary record that will be relevant in future IP disputes. Businesses should document their content production workflows now, identifying which elements involve determinative human authorship and which are AI-generated."
+           ]
+         },
+         {
+           "name": "Patent Strategy: The Updated GCC Infrastructure",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In July 2025, the UAE signed an Accelerated Patent Grant Agreement with the US Patent and Trademark Office. This agreement enables applicants who have filed in the USPTO and meet the qualifying criteria to obtain accelerated examination in the UAE, materially shortening the time between application and grant. For businesses with active R&D programmes, this is a commercially significant development.",
+             "In Saudi Arabia, SAIP achieved accreditation as an International Searching and Preliminary Examining Authority under the Patent Cooperation Treaty in 2025, the first IP office in the Middle East to do so, and joined WIPO's Digital Access Service. The practical implication is that Saudi patent filings are now more efficiently linked to international prosecution strategies.",
+             "Software-implemented inventions and AI-driven methods are patentable in the GCC under specific conditions. The application must claim a technical effect beyond the software itself. Businesses with proprietary algorithms, machine learning models, or automated decision systems should obtain specialist IP counsel to assess patentability before public disclosure, which starts the clock on prior art."
+           ]
+         },
+         {
+           "name": "IP Audit: The Minimum Compliance Position",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Businesses operating in the GCC should conduct an IP audit that covers four questions. First, what assets does the business own or use that qualify as IP, including AI-generated outputs, training data, models, brand elements, and confidential know-how? Second, what rights have been registered, and are those registrations current and correctly owned by the intended entity? Third, what contractual arrangements govern IP created by employees, contractors, or in joint ventures, and do those arrangements reflect current law? Fourth, where the business uses third-party AI tools, what do the applicable licence terms say about ownership of outputs?",
+             "That fourth question is increasingly material. Major AI platform providers have adopted varying positions on output ownership in their terms of service. A business that uses a third-party AI tool to generate a product design, a legal document, or a marketing campaign needs to understand what rights it actually holds before it asserts, assigns, or licences that output."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 20,
+       "name": "الذكاء الاصطناعي وحقوق النشر والملكية الفكرية: حماية الابتكار في دول مجلس التعاون الخليجي",
+       "date": "25 يونيو 2026",
+       "des": "تبلغ نسبة الأصول غير الملموسة حالياً 92 في المائة من القيمة السوقية لمؤشر S&P 500. وقد طرأت تغييرات جوهرية على الأطر القانونية التي تحكم هذه القيمة في دول مجلس التعاون الخليجي. وتواجه الشركات التي لم تقم بتحديث استراتيجيتها المتعلقة بالملكية الفكرية مخاطر لم تحدد قيمتها بعد.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "بقلم: جوناثان هيراساوا أشتون – الشريك الإداري، الإمارات العربية المتحدة",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "تحول القيمة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تؤكد دراسة «أوشن تومو» (Ocean Tomo) لعام 2025 حول القيمة السوقية للأصول غير الملموسة أن الأصول غير الملموسة تشكل حالياً ما يقارب 92 في المائة من القيمة السوقية لمؤشر S&P 500، بعد أن كانت 17 في المائة في عام 1975. وبين أكبر الشركات المكونة للمؤشر، مثل «آبل» و«إنفيديا» و«ماستركارد» وشركات أخرى مماثلة، تقترب هذه النسبة من 98 في المائة. وتتكون هذه القيمة، من الناحية القانونية، من مجموعة من الحقوق القابلة للتنفيذ: براءات الاختراع، والعلامات التجارية، والأسرار التجارية، وحقوق النشر، وحقوق قواعد البيانات، والأطر التعاقدية التي تحكم كيفية ترخيص تلك الحقوق وتخصيصها والدفاع عنها.",
+             "ولا يُستثنى مجلس التعاون الخليجي من هذه الديناميكية. فقد صعدت الإمارات العربية المتحدة إلى المرتبة 30 في مؤشر الابتكار العالمي لعام 2025 الصادر عن المنظمة العالمية للملكية الفكرية (WIPO)، وهو أعلى ترتيب حققته أي اقتصاد عربي على الإطلاق. وارتفعت طلبات براءات الاختراع المؤسسية في المملكة العربية السعودية بنسبة 80 في المائة تقريبًا على أساس سنوي في عام 2025. وأصبح قانون العلامات التجارية الموحد لدول مجلس التعاون الخليجي ساري المفعول الآن في جميع الدول الأعضاء الست، مما أدى لأول مرة إلى إنشاء منطقة واحدة قابلة للتنفيذ للعلامات التجارية في جميع أنحاء المنطقة. كما أن البنية التحتية للتنفيذ آخذة في التحسن. والسؤال المطروح هو: هل تستخدم الشركات هذه البنية التحتية؟"
+           ]
+         },
+         {
+           "name": "مشكلة التأليف في المحتوى الذي تولده الذكاء الاصطناعي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تخضع حماية حقوق النشر في الإمارات العربية المتحدة للقانون الاتحادي رقم 38 لعام 2021 بشأن حقوق النشر والحقوق المرتبطة بها. يحمي القانون الأعمال الأصلية للمؤلفين. يُعرَّف «المؤلف» بأنه الشخص الطبيعي الذي يبتكر العمل. وعندما يقوم نظام الذكاء الاصطناعي بإنشاء نصوص أو صور أو موسيقى أو أكواد برمجية أو أي محتوى آخر دون مدخلات إبداعية بشرية حاسمة، فإن مسألة استمرارية حقوق النشر تظل غير محسومة قانونياً بموجب قانون الإمارات العربية المتحدة.",
+             "وهذا ليس مجرد قلق نظري. فإذا كانت شركتك تنتج مواد تسويقية أو مستندات قانونية أو مواصفات فنية أو محتوى إبداعيًّا تم إنشاؤه بواسطة الذكاء الاصطناعي وتستخدم هذا المحتوى تجاريًّا، فقد تكون تدعي حقوق النشر في مادة لا تستوفي شروط الحماية. وعلى العكس من ذلك، إذا قام أحد المنافسين بإعادة إنتاج المحتوى الذي أنتجته شركتك بواسطة الذكاء الاصطناعي، فقد تتعرض قدرتك على اتخاذ إجراءات قانونية ضد هذا الاستنساخ للخطر إذا لم تتمكن من إثبات عناصر التأليف البشري التي تستوجب الحماية.",
+             "يتقاطع قانون الذكاء الاصطناعي لدولة الإمارات العربية المتحدة لعام 2026 مع هذه المسألة من خلال متطلبات الشفافية والتوثيق التي ينص عليها. يجب على أنظمة الذكاء الاصطناعي التي تنتج محتوى في حالات الاستخدام الخاضعة للتنظيم، في ظروف معينة، الكشف عن أصل الذكاء الاصطناعي لهذا المحتوى. ويخلق هذا الالتزام بالكشف سجلاً إثباتياً سيكون ذا صلة في النزاعات المستقبلية المتعلقة بالملكية الفكرية. يجب على الشركات توثيق سير عمل إنتاج المحتوى لديها الآن، وتحديد العناصر التي تنطوي على تأليف بشري حاسم وتلك التي تم إنشاؤها بواسطة الذكاء الاصطناعي."
+           ]
+         },
+         {
+           "name": "استراتيجية براءات الاختراع: البنية التحتية المحدثة لدول مجلس التعاون الخليجي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في يوليو 2025، وقعت الإمارات العربية المتحدة اتفاقية منح براءات الاختراع المعجلة مع مكتب براءات الاختراع والعلامات التجارية الأمريكي (USPTO). تتيح هذه الاتفاقية للمتقدمين الذين قدموا طلباتهم إلى مكتب براءات الاختراع والعلامات التجارية الأمريكي ويستوفون معايير الأهلية الحصول على فحص معجل في الإمارات العربية المتحدة، مما يقصر بشكل جوهري الفترة الزمنية بين تقديم الطلب ومنح البراءة. بالنسبة للشركات التي لديها برامج بحث وتطوير نشطة، يعد هذا تطورًا ذا أهمية تجارية كبيرة.",
+             "في المملكة العربية السعودية، حصلت المؤسسة السعودية للبراءات والعلامات التجارية (SAIP) على الاعتماد كسلطة بحث دولية وفحص أولي بموجب معاهدة التعاون في مجال البراءات في عام 2025، لتكون أول مكتب للملكية الفكرية في الشرق الأوسط يحقق ذلك، وانضمت إلى خدمة الوصول الرقمي التابعة للمنظمة العالمية للملكية الفكرية (WIPO). ويتمثل الأثر العملي في أن طلبات البراءات السعودية أصبحت الآن مرتبطة بشكل أكثر كفاءة باستراتيجيات المتابعة الدولية.",
+             "تُعتبر الاختراعات التي تُنفَّذ بواسطة البرمجيات والأساليب التي تعتمد على الذكاء الاصطناعي قابلة للحصول على براءة اختراع في دول مجلس التعاون الخليجي في ظل شروط محددة. يجب أن يدعي الطلب وجود تأثير تقني يتجاوز البرمجيات نفسها. وينبغي على الشركات التي تمتلك خوارزميات خاصة بها، أو نماذج التعلم الآلي، أو أنظمة اتخاذ القرار الآلية، الحصول على مشورة متخصصة في مجال الملكية الفكرية لتقييم قابلية الحصول على براءة الاختراع قبل الإفصاح العلني، الذي يبدأ من خلاله احتساب فترة «الحالة الفنية السابقة»."
+           ]
+         },
+         {
+           "name": "تدقيق الملكية الفكرية: الحد الأدنى من الامتثال",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ينبغي على الشركات العاملة في دول مجلس التعاون الخليجي إجراء تدقيق للملكية الفكرية يغطي أربعة أسئلة. أولاً، ما هي الأصول التي تمتلكها الشركة أو تستخدمها والتي تُعتبر ملكية فكرية، بما في ذلك المخرجات الناتجة عن الذكاء الاصطناعي، وبيانات التدريب، والنماذج، وعناصر العلامة التجارية، والمعرفة الفنية السرية؟ ثانياً، ما هي الحقوق التي تم تسجيلها، وهل هذه التسجيلات سارية المفعول ومملوكة بشكل صحيح للكيان المقصود؟ ثالثاً، ما هي الترتيبات التعاقدية التي تحكم الملكية الفكرية التي ينشئها الموظفون أو المتعاقدون أو في المشاريع المشتركة، وهل تعكس هذه الترتيبات القانون الساري؟ رابعاً، في الحالات التي تستخدم فيها الشركة أدوات الذكاء الاصطناعي الخاصة بأطراف ثالثة، ماذا تنص شروط الترخيص المعمول بها بشأن ملكية المخرجات؟",
+             "وقد أصبح هذا السؤال الرابع ذو أهمية متزايدة. فقد اتخذت كبرى شركات توفير منصات الذكاء الاصطناعي مواقف متباينة بشأن ملكية النتائج في شروط الخدمة الخاصة بها. وعلى أي شركة تستخدم أداة ذكاء اصطناعي تابعة لجهة خارجية لإنشاء تصميم منتج أو وثيقة قانونية أو حملة تسويقية أن تفهم الحقوق التي تمتلكها فعليًّا قبل أن تدعي ملكية تلك النتائج أو تتنازل عنها أو تمنح ترخيصًا لاستخدامها."
+           ]
+         }
+       ]
+     },
+     "greeK": {
+       "id": 20,
+       "name": "Τεχνητή Νοημοσύνη, Πνευματικά Δικαιώματα και Πνευματική Ιδιοκτησία: Προστασία της Καινοτομίας στον ΣΣΚ",
+       "date": "25th Jun, 2026",
+       "des": "Το 92% της αγοραίας αξίας του S&P 500 αποτελείται πλέον από άυλα περιουσιακά στοιχεία. Τα νομικά πλαίσια που διέπουν την αξία αυτή στον ΣΣΚ έχουν αλλάξει ουσιαστικά. Οι επιχειρήσεις που δεν έχουν επικαιροποιήσει τη στρατηγική τους για την πνευματική ιδιοκτησία αναλαμβάνουν κίνδυνο τον οποίο δεν έχουν ακόμη αποτιμήσει.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Η μετατόπιση της αξίας",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Η μελέτη της Ocean Tomo για την αγοραία αξία των άυλων περιουσιακών στοιχείων το 2025 διαπιστώνει ότι τα άυλα περιουσιακά στοιχεία αποτελούν πλέον περίπου το 92% της κεφαλαιοποίησης του δείκτη S&P 500, από 17% το 1975. Μεταξύ των μεγαλύτερων εταιρειών του δείκτη, όπως η Apple, η Nvidia, η Mastercard και οι ομόλογές τους, το ποσοστό αυτό πλησιάζει το 98%. Από νομική άποψη, η αξία αυτή αποτελείται από ένα σύνολο εκτελεστών δικαιωμάτων: διπλώματα ευρεσιτεχνίας, εμπορικά σήματα, εμπορικά μυστικά, πνευματικά δικαιώματα, δικαιώματα βάσεων δεδομένων, καθώς και τα συμβατικά πλαίσια που διέπουν τον τρόπο αδειοδότησης, εκχώρησης και υπεράσπισης των εν λόγω δικαιωμάτων.",
+             "Ο ΣΣΚ δεν εξαιρείται από αυτή τη δυναμική. Τα ΗΑΕ ανέβηκαν στην 30ή θέση στον Παγκόσμιο Δείκτη Καινοτομίας του WIPO για το 2025, την υψηλότερη θέση που έχει καταλάβει ποτέ οποιαδήποτε αραβική οικονομία. Οι αιτήσεις για θεσμικά διπλώματα ευρεσιτεχνίας στη Σαουδική Αραβία αυξήθηκαν κατά περίπου 80% σε ετήσια βάση το 2025. Ο Ενιαίος Νόμος περί Εμπορικών Σημάτων του ΣΣΚ εφαρμόζεται πλέον και στα έξι κράτη μέλη, δημιουργώντας για πρώτη φορά μια ενιαία περιοχή με εκτελεστά δικαιώματα εμπορικών σημάτων σε ολόκληρη την περιοχή. Η υποδομή επιβολής βελτιώνεται. Το ερώτημα είναι αν οι επιχειρήσεις την αξιοποιούν."
+           ]
+         },
+         {
+           "name": "Το ζήτημα της πατρότητας στο περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Η προστασία των πνευματικών δικαιωμάτων στα ΗΑΕ διέπεται από τον Ομοσπονδιακό Νόμο αριθ. 38 του 2021 περί Πνευματικών Δικαιωμάτων και Συναφών Δικαιωμάτων. Ο νόμος προστατεύει τα πρωτότυπα έργα πνευματικής δημιουργίας. Ως «δημιουργός» ορίζεται το φυσικό πρόσωπο που δημιουργεί το έργο. Όταν ένα σύστημα τεχνητής νοημοσύνης δημιουργεί κείμενο, εικόνες, μουσική, κώδικα ή άλλο περιεχόμενο χωρίς καθοριστική ανθρώπινη δημιουργική συμβολή, το ζήτημα της ύπαρξης πνευματικών δικαιωμάτων παραμένει νομικά ανεπίλυτο σύμφωνα με τη νομοθεσία των ΗΑΕ.",
+             "Δεν πρόκειται για θεωρητικό ζήτημα. Εάν η επιχείρησή σας παράγει υλικό μάρκετινγκ, νομικά έγγραφα, τεχνικές προδιαγραφές ή δημιουργικό περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη και χρησιμοποιεί το περιεχόμενο αυτό για εμπορικούς σκοπούς, ενδέχεται να διεκδικείτε πνευματικά δικαιώματα σε υλικό που δεν πληροί τις προϋποθέσεις για προστασία. Αντίστροφα, εάν ένας ανταγωνιστής αναπαράγει το περιεχόμενό σας που δημιουργήθηκε από τεχνητή νοημοσύνη, η δυνατότητά σας να ασκήσετε ένδικα μέσα κατά της εν λόγω αναπαραγωγής ενδέχεται να τεθεί σε κίνδυνο, εάν δεν μπορείτε να αποδείξετε τα στοιχεία ανθρώπινης δημιουργίας που δικαιολογούν την προστασία.",
+             "Ο Νόμος περί ΤΝ των ΗΑΕ του 2026 συνδέεται με αυτό το ζήτημα μέσω των απαιτήσεων διαφάνειας και τεκμηρίωσης που προβλέπει. Τα συστήματα ΤΝ που παράγουν περιεχόμενο σε ρυθμιζόμενες περιπτώσεις χρήσης πρέπει, υπό ορισμένες συνθήκες, να γνωστοποιούν την προέλευση του περιεχομένου αυτού από την ΤΝ. Αυτή η υποχρέωση γνωστοποίησης δημιουργεί ένα αποδεικτικό αρχείο που θα είναι σημαντικό σε μελλοντικές διαφορές περί πνευματικής ιδιοκτησίας. Οι επιχειρήσεις θα πρέπει να τεκμηριώσουν από τώρα τις ροές εργασίας παραγωγής περιεχομένου τους, προσδιορίζοντας ποια στοιχεία συνεπάγονται καθοριστική ανθρώπινη συγγραφή και ποια παράγονται από την ΤΝ."
+           ]
+         },
+         {
+           "name": "Στρατηγική για τα διπλώματα ευρεσιτεχνίας: Η αναβαθμισμένη υποδομή του Συμβουλίου Συνεργασίας του Κόλπου (GCC)",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Τον Ιούλιο του 2025, τα ΗΑΕ υπέγραψαν Συμφωνία Ταχείας Χορήγησης Διπλωμάτων Ευρεσιτεχνίας με το Γραφείο Διπλωμάτων Ευρεσιτεχνίας και Εμπορικών Σημάτων των ΗΠΑ (USPTO). Η συμφωνία αυτή επιτρέπει στους αιτούντες που έχουν υποβάλει αίτηση στο USPTO και πληρούν τα κριτήρια επιλεξιμότητας να λάβουν ταχεία εξέταση στα ΗΑΕ, μειώνοντας σημαντικά το χρονικό διάστημα μεταξύ της αίτησης και της χορήγησης. Για τις επιχειρήσεις με ενεργά προγράμματα έρευνας και ανάπτυξης, πρόκειται για μια εμπορικά σημαντική εξέλιξη.",
+             "Στη Σαουδική Αραβία, το SAIP έλαβε πιστοποίηση ως Διεθνής Αρχή Έρευνας και Προκαταρκτικής Εξέτασης στο πλαίσιο της Συνθήκης Συνεργασίας για τα Διπλώματα Ευρεσιτεχνίας (PCT) το 2025, ως το πρώτο γραφείο πνευματικής ιδιοκτησίας στη Μέση Ανατολή που το πέτυχε, και εντάχθηκε στην Υπηρεσία Ψηφιακής Πρόσβασης του WIPO. Η πρακτική συνέπεια είναι ότι οι αιτήσεις για διπλώματα ευρεσιτεχνίας στη Σαουδική Αραβία συνδέονται πλέον πιο αποτελεσματικά με τις διεθνείς στρατηγικές διεκδίκησης.",
+             "Οι εφευρέσεις που υλοποιούνται μέσω λογισμικού και οι μέθοδοι που βασίζονται στην τεχνητή νοημοσύνη (AI) είναι κατοχυρώσιμες με δίπλωμα ευρεσιτεχνίας στον ΣΣΚ υπό συγκεκριμένες προϋποθέσεις. Η αίτηση πρέπει να διεκδικεί ένα τεχνικό αποτέλεσμα πέραν του ίδιου του λογισμικού. Οι επιχειρήσεις που διαθέτουν ιδιόκτητους αλγόριθμους, μοντέλα μηχανικής μάθησης ή αυτοματοποιημένα συστήματα λήψης αποφάσεων θα πρέπει να ζητήσουν τη συμβουλή εξειδικευμένου νομικού συμβούλου σε θέματα πνευματικής ιδιοκτησίας για να αξιολογήσουν την κατοχυρωσιμότητα πριν από τη δημόσια αποκάλυψη, η οποία σηματοδοτεί την έναρξη της προθεσμίας για την προγενέστερη τεχνική."
+           ]
+         },
+         {
+           "name": "Έλεγχος Διανοητικής Ιδιοκτησίας: Η Ελάχιστη Θέση Συμμόρφωσης",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Οι επιχειρήσεις που δραστηριοποιούνται στον ΣΣΚ θα πρέπει να διενεργούν έλεγχο διανοητικής ιδιοκτησίας που να καλύπτει τέσσερα ερωτήματα. Πρώτον, ποια περιουσιακά στοιχεία κατέχει ή χρησιμοποιεί η επιχείρηση που μπορούν να χαρακτηριστούν ως διανοητική ιδιοκτησία, συμπεριλαμβανομένων των αποτελεσμάτων που παράγονται από τεχνητή νοημοσύνη, των δεδομένων εκπαίδευσης, των μοντέλων, των στοιχείων της επωνυμίας και της εμπιστευτικής τεχνογνωσίας; Δεύτερον, ποια δικαιώματα έχουν καταχωριστεί και είναι αυτές οι καταχωρίσεις εν ισχύ και ανήκουν ορθώς στην προβλεπόμενη οντότητα; Τρίτον, ποιες συμβατικές ρυθμίσεις διέπουν τη διανοητική ιδιοκτησία που δημιουργείται από υπαλλήλους, εργολάβους ή στο πλαίσιο κοινοπραξιών, και αντανακλούν αυτές οι ρυθμίσεις την ισχύουσα νομοθεσία; Τέταρτον, όταν η επιχείρηση χρησιμοποιεί εργαλεία τεχνητής νοημοσύνης τρίτων, τι ορίζουν οι ισχύοντες όροι άδειας χρήσης σχετικά με την ιδιοκτησία των αποτελεσμάτων;",
+             "Αυτό το τέταρτο ερώτημα αποκτά ολοένα και μεγαλύτερη σημασία. Οι μεγάλοι πάροχοι πλατφορμών τεχνητής νοημοσύνης έχουν υιοθετήσει διαφορετικές θέσεις όσον αφορά την κυριότητα των αποτελεσμάτων στους όρους χρήσης τους. Μια επιχείρηση που χρησιμοποιεί ένα εργαλείο τεχνητής νοημοσύνης τρίτου μέρους για τη δημιουργία ενός σχεδίου προϊόντος, ενός νομικού εγγράφου ή μιας διαφημιστικής καμπάνιας πρέπει να κατανοήσει ποια δικαιώματα κατέχει πράγματι πριν διεκδικήσει, εκχωρήσει ή παραχωρήσει άδεια χρήσης για το εν λόγω αποτέλεσμα."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 20,
+       "name": "IA, droits d’auteur et propriété intellectuelle : protéger l’innovation dans les pays du CCG",
+       "date": "25th Jun, 2026",
+       "des": "92 % de la capitalisation boursière de l’indice S&P 500 est désormais constituée d’actifs incorporels. Les cadres juridiques régissant cette valeur dans les pays du CCG ont considérablement évolué. Les entreprises qui n’ont pas actualisé leur stratégie en matière de propriété intellectuelle s’exposent à des risques dont elles n’ont pas encore évalué le coût.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "La migration de la valeur",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’étude d’Ocean Tomo sur la valeur de marché des actifs incorporels à l’horizon 2025 établit que les actifs incorporels représentent désormais environ 92 % de la capitalisation boursière du S&P 500, contre 17 % en 1975. Parmi les plus grandes sociétés composant l’indice, telles qu’Apple, Nvidia, Mastercard et leurs homologues, ce chiffre avoisine les 98 %. Cette valeur est constituée, en termes juridiques, d’un ensemble de droits exécutoires : brevets, marques, secrets d’affaires, droits d’auteur, droits sur les bases de données, ainsi que les cadres contractuels qui régissent la manière dont ces droits sont concédés sous licence, cédés et défendus.",
+             "Le CCG n’échappe pas à cette dynamique. Les Émirats arabes unis se sont hissés à la 30e place de l’Indice mondial de l’innovation 2025 de l’OMPI, la meilleure position jamais atteinte par une économie arabe. En Arabie saoudite, les demandes de brevets déposées par des institutions ont augmenté d’environ 80 % en glissement annuel en 2025. La loi unifiée sur les marques du CCG est désormais en vigueur dans les six États membres, créant pour la première fois un territoire unique de protection des marques dans toute la région. Les infrastructures chargées de faire respecter ces droits s’améliorent. La question est de savoir si les entreprises en font usage."
+           ]
+         },
+         {
+           "name": "Le problème de la paternité des œuvres dans les contenus générés par l’IA",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Aux Émirats arabes unis, la protection du droit d’auteur est régie par la loi fédérale n° 38 de 2021 relative au droit d’auteur et aux droits voisins. Cette loi protège les œuvres originales de l’esprit. Le terme « auteur » désigne la personne physique qui crée l’œuvre. Lorsqu’un système d’IA génère du texte, des images, de la musique, du code ou tout autre contenu sans apport créatif humain déterminant, la question de l’existence du droit d’auteur reste juridiquement en suspens en vertu de la législation des Émirats arabes unis.",
+             "Il ne s’agit pas d’une préoccupation purement théorique. Si votre entreprise produit des supports marketing, des documents juridiques, des spécifications techniques ou du contenu créatif générés par l’IA et utilise ce contenu à des fins commerciales, vous pourriez faire valoir des droits d’auteur sur des éléments qui ne remplissent pas les conditions requises pour bénéficier d’une protection. À l’inverse, si un concurrent reproduit votre contenu généré par l’IA, votre capacité à faire valoir vos droits contre cette reproduction pourrait être compromise si vous ne parvenez pas à démontrer les éléments de paternité humaine qui justifient cette protection.",
+             "La loi émiratie de 2026 sur l’IA aborde cette question à travers ses exigences en matière de transparence et de documentation. Les systèmes d’IA qui produisent du contenu dans des cas d’utilisation réglementés doivent, dans certaines circonstances, divulguer l’origine IA de ce contenu. Cette obligation de divulgation crée un dossier probatoire qui sera pertinent dans les futurs litiges en matière de propriété intellectuelle. Les entreprises devraient dès à présent documenter leurs processus de production de contenu, en identifiant les éléments qui impliquent une contribution humaine déterminante et ceux qui sont générés par l’IA."
+           ]
+         },
+         {
+           "name": "Stratégie en matière de brevets : la mise à jour de l’infrastructure du CCG",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "En juillet 2025, les Émirats arabes unis ont signé un accord de délivrance accélérée de brevets avec l’Office américain des brevets et des marques (USPTO). Cet accord permet aux déposants ayant déposé une demande auprès de l’USPTO et remplissant les critères d’éligibilité de bénéficier d’un examen accéléré aux Émirats arabes unis, ce qui réduit considérablement le délai entre le dépôt de la demande et la délivrance du brevet. Pour les entreprises menant des programmes de R&D actifs, il s’agit d’une avancée commercialement significative.",
+             "En Arabie saoudite, le SAIP a obtenu en 2025 l’accréditation en tant qu’autorité de recherche internationale et d’examen préliminaire au titre du Traité de coopération en matière de brevets, devenant ainsi le premier office de propriété intellectuelle du Moyen-Orient à le faire, et a rejoint le service d’accès numérique de l’OMPI. Concrètement, cela signifie que les dépôts de brevets saoudiens s’inscrivent désormais plus efficacement dans des stratégies de poursuite internationale.",
+             "Les inventions mises en œuvre par logiciel et les méthodes fondées sur l’IA sont brevetables au sein du CCG sous certaines conditions spécifiques. La demande doit revendiquer un effet technique allant au-delà du logiciel lui-même. Les entreprises disposant d’algorithmes propriétaires, de modèles d’apprentissage automatique ou de systèmes de décision automatisés devraient faire appel à un conseiller spécialisé en propriété intellectuelle pour évaluer la brevetabilité avant toute divulgation publique, qui marque le début du délai de l’état de la technique."
+           ]
+         },
+         {
+           "name": "Audit de la propriété intellectuelle : le minimum requis en matière de conformité",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les entreprises opérant dans les pays du CCG devraient réaliser un audit de la propriété intellectuelle portant sur quatre questions. Premièrement, quels actifs l’entreprise possède-t-elle ou utilise-t-elle qui relèvent de la propriété intellectuelle, y compris les résultats générés par l’IA, les données d’entraînement, les modèles, les éléments de marque et le savoir-faire confidentiel ? Deuxièmement, quels droits ont été enregistrés, et ces enregistrements sont-ils à jour et correctement détenus par l’entité prévue ? Troisièmement, quelles dispositions contractuelles régissent la propriété intellectuelle créée par les salariés, les prestataires ou dans le cadre de coentreprises, et ces dispositions reflètent-elles la législation en vigueur ? Quatrièmement, lorsque l’entreprise utilise des outils d’IA tiers, que stipulent les conditions de licence applicables concernant la propriété des résultats ?",
+             "Cette quatrième question revêt une importance croissante. Les principaux fournisseurs de plateformes d’IA ont adopté des positions divergentes concernant la propriété des résultats dans leurs conditions générales d’utilisation. Une entreprise qui utilise un outil d’IA tiers pour générer un design de produit, un document juridique ou une campagne marketing doit comprendre quels droits elle détient réellement avant de faire valoir, de céder ou de concéder sous licence ces résultats."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 20,
+       "name": "IA, diritto d’autore e proprietà intellettuale: proteggere l’innovazione nel CCG",
+       "date": "25th Jun, 2026",
+       "des": "Il 92% del valore di mercato dell’indice S&P 500 è ormai costituito da beni immateriali. I quadri giuridici che regolano tale valore nel CCG sono cambiati in modo sostanziale. Le aziende che non hanno aggiornato la propria strategia in materia di proprietà intellettuale si espongono a rischi di cui non hanno ancora quantificato il costo.",
+       "img": "../assets/images/news/Image19.jpg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "La migrazione del valore",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Lo studio di Ocean Tomo del 2025 sul valore di mercato delle attività immateriali stabilisce che le attività immateriali costituiscono oggi circa il 92% della capitalizzazione di mercato dell’indice S&P 500, in aumento rispetto al 17% del 1975. Tra i principali componenti dell’indice, quali Apple, Nvidia, Mastercard e le loro controparti, la percentuale si avvicina al 98%. Tale valore è costituito, in termini giuridici, da un insieme di diritti esercitabili: brevetti, marchi, segreti commerciali, diritti d’autore, diritti sulle banche dati e i quadri contrattuali che regolano le modalità di concessione in licenza, cessione e tutela di tali diritti.",
+             "Il CCG non è immune da questa dinamica. Gli Emirati Arabi Uniti sono saliti al 30° posto nell’Indice globale dell’innovazione 2025 dell’OMPI, la posizione più alta mai raggiunta da un’economia araba. Nel 2025 le domande di brevetto presentate da istituzioni saudite sono aumentate di circa l’80% rispetto all’anno precedente. La Legge unificata sui marchi del CCG è ora operativa in tutti e sei gli Stati membri, creando per la prima volta un unico territorio in cui i marchi sono tutelabili in tutta la regione. L’infrastruttura di tutela si sta migliorando. La domanda è: le imprese la stanno utilizzando?"
+           ]
+         },
+         {
+           "name": "Il problema della paternità dei contenuti generati dall’intelligenza artificiale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La protezione del diritto d’autore negli Emirati Arabi Uniti è disciplinata dalla Legge federale n. 38 del 2021 sul diritto d’autore e i diritti connessi. La legge tutela le opere originali di autore. Per “autore” si intende la persona fisica che crea l’opera. Laddove un sistema di IA generi testi, immagini, musica, codice o altri contenuti senza un contributo creativo umano determinante, la questione della sussistenza del diritto d’autore rimane giuridicamente irrisolta ai sensi della legislazione degli Emirati Arabi Uniti.",
+             "Non si tratta di una questione puramente teorica. Se la vostra azienda produce materiali di marketing, documenti legali, specifiche tecniche o contenuti creativi generati dall’IA e utilizza tali contenuti a fini commerciali, potreste rivendicare il diritto d’autore su materiale che non soddisfa i requisiti per la protezione. Al contrario, se un concorrente riproduce i vostri contenuti generati dall’IA, la vostra capacità di far valere i propri diritti contro tale riproduzione potrebbe essere compromessa se non siete in grado di dimostrare gli elementi di paternità umana che danno origine alla protezione.",
+             "La legge sugli Emirati Arabi Uniti sull’IA del 2026 si ricollega a questa questione attraverso i suoi requisiti di trasparenza e documentazione. I sistemi di IA che producono contenuti in casi d’uso regolamentati devono, in determinate circostanze, rivelare l’origine IA di tali contenuti. Tale obbligo di divulgazione crea una traccia probatoria che sarà rilevante nelle future controversie in materia di proprietà intellettuale. Le aziende dovrebbero documentare fin da ora i propri flussi di lavoro relativi alla produzione di contenuti, identificando quali elementi comportano una paternità umana determinante e quali sono generati dall’IA."
+           ]
+         },
+         {
+           "name": "Strategia in materia di brevetti: l’infrastruttura aggiornata del CCG",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Nel luglio 2025, gli Emirati Arabi Uniti hanno firmato un accordo per la concessione accelerata dei brevetti con l’Ufficio brevetti e marchi degli Stati Uniti (USPTO). Tale accordo consente ai richiedenti che hanno presentato domanda presso l’USPTO e soddisfano i criteri di ammissibilità di ottenere un esame accelerato negli Emirati Arabi Uniti, riducendo in modo significativo il tempo che intercorre tra la presentazione della domanda e la concessione del brevetto. Per le imprese con programmi di ricerca e sviluppo attivi, si tratta di uno sviluppo commercialmente significativo.",
+             "In Arabia Saudita, nel 2025 il SAIP ha ottenuto l’accreditamento come Autorità di ricerca internazionale e di esame preliminare ai sensi del Trattato di cooperazione in materia di brevetti (PCT), diventando il primo ufficio di proprietà intellettuale del Medio Oriente a farlo, e ha aderito al Servizio di accesso digitale dell’OMPI. L’implicazione pratica è che i depositi di brevetti sauditi sono ora collegati in modo più efficiente alle strategie di prosecuzione internazionale.",
+             "Le invenzioni implementate tramite software e i metodi basati sull’intelligenza artificiale sono brevettabili nel CCG a determinate condizioni. La domanda deve rivendicare un effetto tecnico che vada oltre il software stesso. Le imprese che dispongono di algoritmi proprietari, modelli di apprendimento automatico o sistemi decisionali automatizzati dovrebbero avvalersi della consulenza di un esperto in proprietà intellettuale per valutare la brevettabilità prima della divulgazione al pubblico, che fa scattare il termine per la definizione dello stato dell’arte."
+           ]
+         },
+         {
+           "name": "Audit sulla proprietà intellettuale: la posizione minima di conformità",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le aziende che operano nel CCG dovrebbero condurre un audit sulla proprietà intellettuale che copra quattro aspetti. In primo luogo, quali beni l’azienda possiede o utilizza che possano essere qualificati come proprietà intellettuale, inclusi i risultati generati dall’intelligenza artificiale, i dati di addestramento, i modelli, gli elementi del marchio e il know-how riservato? In secondo luogo, quali diritti sono stati registrati e tali registrazioni sono aggiornate e correttamente intestate al soggetto previsto? In terzo luogo, quali accordi contrattuali regolano la proprietà intellettuale creata da dipendenti, appaltatori o nell’ambito di joint venture, e tali accordi riflettono la normativa vigente? In quarto luogo, laddove l’azienda utilizzi strumenti di IA di terze parti, cosa prevedono i termini di licenza applicabili in merito alla titolarità dei risultati?",
+             "Questa quarta questione sta assumendo un’importanza sempre maggiore. I principali fornitori di piattaforme di IA hanno adottato posizioni diverse in merito alla titolarità dei risultati nei propri termini di servizio. Un’azienda che utilizza uno strumento di IA di terze parti per generare il design di un prodotto, un documento legale o una campagna di marketing deve comprendere quali diritti detiene effettivamente prima di rivendicare, cedere o concedere in licenza tali risultati."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
+       "id": 19,
+       "name": "Trust Structures and VISTA Trusts: A Modern Approach to Wealth Planning",
+       "date": "11th Jun, 2026",
+       "des": "As private wealth becomes increasingly international—often spanning operating businesses, real estate, diversified portfolios, and multi-jurisdictional holdings—the need for sophisticated, forward-looking structuring solutions has become more pronounced. In this environment, trusts and foundations have evolved from niche legal tools into core components of wealth management, succession planning, and governance.",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "By: Nada Dessouki - Associate",
+           "smallBold": "",
+           "des": ["Today’s clients are no longer focused solely on transferring assets upon. Instead, they want continuity, flexibility, protection, and long-term stability that can adapt to changing family and business dynamics across jurisdictions.",
+             "Among the most prominent solutions are discretionary trusts, VISTA trusts, international trusts, and private foundations established in jurisdictions such as the British Virgin Islands (BVI), Cyprus, the United Arab Emirates (UAE), and Mauritius."
+           ]
+         },
+
+         {
+           "name": "Trusts as a Mechanism for Continuity and Control",
+           "small": "",
+           "smallBold": "At its core, a trust is a legal arrangement through which an individual transfers assets to a trustee, who holds and manages those assets for the benefit of designated beneficiaries under defined terms.",
+           "des": [
+             "Unlike a will, which takes effect only on death, a trust is a living structure that can preserve and administer wealth during the settlor’s lifetime and across generations. This is especially important where assets span multiple jurisdictions or where family and business interests require a more nuanced approach than direct ownership.",
+             "Trust structures are commonly used to:",
+             "• Facilitate the efficient transfer of wealth across generations.",
+             "• Protect assets from external risks, including creditor claims and disputes.",
+             "• Centralise ownership and governance of complex asset portfolios.",
+             "• Preserve confidentiality and privacy in relation to family wealth.",
+             "• Ensure continuity of ownership and decision-making.",
+             "In many jurisdictions, assets held through properly established trusts may avoid probate processes, enabling a more streamlined transition upon death."
+           ]
+         },
+         {
+           "name": "The Evolving Role of Trusts in Succession Planning",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Modern wealth planning is no longer focused only on asset distribution—it also seeks to preserve the integrity and long-term sustainability of those assets.",
+             "This is particularly relevant where wealth is tied to operating businesses.The challenge is not just transferring ownership, but doing so without disrupting management, fragmenting control, or reducing enterprise value.",
+             "Trusts address this by separating legal ownership from day - to - day management.This allows businesses to continue operating under stable leadership, while ownership transitions occur within a structured framework.",
+             "Trusts can also incorporate governance mechanisms that extend beyond the founder’ s lifetime, helping to reduce the potential for conflict and ensuring that decision - making remains aligned with the original strategic vision."
+           ]
+         },
+         {
+           "name": "VISTA Trusts and Operational Autonomy",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "A common concern with traditional trust structures is the perceived loss of control. Trustees are usually subject to fiduciary duties that may require them to intervene in the management of underlying assets, including operating companies. VISTA trusts, established under the Virgin Islands Special Trusts Act, were specifically designed to address this issue.",
+             "Where a trust holds shares in a BVI company, the trustee’s duty to intervene in management is effectively disengaged. Day-to-day operations remain with the company’s directors, allowing established management structures to continue without disruption.",
+             "This makes VISTA trusts particularly well suited to estates built on active business operations. Founders can implement formal succession arrangements while preserving operational autonomy, alongside asset protection and long-term continuity."
+           ]
+         },
+         {
+           "name": "Cyprus, UAE, and Mauritius Structures",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Beyond BVI trusts, other jurisdictions have developed increasingly sophisticated wealth structuring frameworks.",
+             "Cyprus International Trusts remain popular with international families and entrepreneurs seeking flexible structures with strong asset protection and confidentiality features. The UAE has also emerged as a leading regional centre for private wealth structuring, particularly through DIFC and ADGM foundations, which are often used for family business succession planning and asset consolidation.",
+             "Mauritius also continues to play a significant role in international wealth planning, particularly for clients with interests across Africa, Asia, and the Middle East. Mauritius foundations and trusts are often incorporated into broader international holding structures focused on long-term continuity and cross-border investment management."
+           ]
+         },
+         {
+           "name": "Trusts and Foundations: Complementary Tools",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Although trusts and foundations differ in legal form, they are often used together within broader wealth planning frameworks.",
+             "Trusts rely on a trustee-beneficiary relationship, whereas foundations are separate legal entities capable of holding assets directly. For some clients, foundations provide a more familiar governance model, while trusts continue to offer significant flexibility in succession and asset protection planning.",
+             "The choice between them—or the decision to combine both—depends on the nature of the assets involved, governance preferences, family dynamics, and long-term strategic objectives."
+           ]
+         },
+         {
+           "name": "A Strategic Approach to Wealth Structuring",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Effective wealth planning requires more than choosing a vehicle or jurisdiction. It requires assessing how legal structures can preserve value, manage risk, maintain continuity, and support long-term family and business objectives.",
+             "Whether through BVI VISTA trusts, Cyprus International Trusts, UAE foundations, Mauritius structures, or integrated cross-border arrangements, well-designed frameworks can provide both legal certainty and long-term resilience."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "When properly designed, these structures provide not only legal certainty, but also a platform for long-term stability—ensuring that wealth is not only transferred but sustained."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 19,
+       "name": "الهياكل الاستئمانية وصناديق «فيستا» الاستئمانية: نهج حديث لتخطيط الثروة",
+       "date": "11 يونيو 2026",
+       "des": "مع تزايد الطابع الدولي للثروات الخاصة — التي غالبًا ما تشمل شركات عاملة وعقارات ومحافظ استثمارية متنوعة وممتلكات خاضعة لعدة ولايات قضائية — أصبحت الحاجة إلى حلول هيكلية متطورة وتطلعية أكثر إلحاحًا. وفي ظل هذه الظروف، تطورت الصناديق الاستئمانية والمؤسسات الخيرية من أدوات قانونية متخصصة إلى مكونات أساسية لإدارة الثروات وتخطيط الخلافة والحوكمة.",
+       "img": "../assets/images/news/new13.webp",
+
+       "content": [{
+           "name": "",
+           "small": "بقلم: ندى دسوقي - محامية",
+           "smallBold": "",
+           "des": [
+             "مع تزايد الطابع الدولي للثروات الخاصة — التي غالبًا ما تشمل شركات عاملة وعقارات ومحافظ استثمارية متنوعة وممتلكات خاضعة لعدة ولايات قضائية — أصبحت الحاجة إلى حلول هيكلية متطورة وتطلعية أكثر إلحاحًا. وفي ظل هذه الظروف، تطورت الصناديق الاستئمانية والمؤسسات الخيرية من أدوات قانونية متخصصة إلى مكونات أساسية لإدارة الثروات وتخطيط الخلافة والحوكمة.",
+             "لم يعد عملاء اليوم يركزون فقط على نقل الأصول. بدلاً من ذلك، فإنهم يريدون الاستمرارية والمرونة والحماية والاستقرار على المدى الطويل الذي يمكن أن يتكيف مع ديناميكيات الأسرة والأعمال المتغيرة عبر الولايات القضائية.",
+             "من بين الحلول الأبرز الصناديق الاستئمانية التقديرية، وصناديق VISTA، والصناديق الاستئمانية الدولية، والمؤسسات الخاصة المنشأة في ولايات قضائية مثل جزر فيرجن البريطانية (BVI)، وقبرص، والإمارات العربية المتحدة (UAE)، وموريشيوس."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية كآلية للاستمرارية والسيطرة",
+           "small": "",
+           "smallBold": "في جوهرها، الصندوق الاستئماني هو ترتيب قانوني ينقل من خلاله الفرد الأصول إلى أمين، الذي يحتفظ بهذه الأصول ويديرها لصالح المستفيدين المعينين بموجب شروط محددة.",
+           "des": [
+             "على عكس الوصية، التي لا تصبح سارية المفعول إلا عند الوفاة، فإن الصندوق الاستئماني هو هيكل حي يمكنه الحفاظ على الثروة وإدارتها خلال حياة المؤسس وعبر الأجيال. وهذا مهم بشكل خاص عندما تمتد الأصول عبر ولايات قضائية متعددة أو عندما تتطلب مصالح الأسرة والأعمال نهجًا أكثر دقة من الملكية المباشرة.",
+             "تُستخدم هياكل الصناديق الاستئمانية عادةً من أجل:",
+             "• تسهيل النقل الفعال للثروة عبر الأجيال.",
+             "• حماية الأصول من المخاطر الخارجية، بما في ذلك مطالبات الدائنين والنزاعات.",
+             "• تركيز ملكية وإدارة محافظ الأصول المعقدة.",
+             "• الحفاظ على السرية والخصوصية فيما يتعلق بثروة العائلة.",
+             "• ضمان استمرارية الملكية واتخاذ القرار.",
+             "في العديد من الولايات القضائية، قد تتجنب الأصول المملوكة من خلال صناديق استئمانية منشأة بشكل صحيح إجراءات إثبات صحة الوصية، مما يتيح انتقالاً أكثر سلاسة عند الوفاة."
+           ]
+         },
+         {
+           "name": "الدور المتطور للصناديق الاستئمانية في تخطيط الخلافة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "لم يعد تخطيط الثروة الحديث يركز فقط على توزيع الأصول — بل يسعى أيضًا إلى الحفاظ على سلامة تلك الأصول واستدامتها على المدى الطويل.",
+             "ويكون هذا مهمًا بشكل خاص عندما تكون الثروة مرتبطة بأعمال تجارية عاملة. لا يقتصر التحدي على نقل الملكية فحسب، بل على القيام بذلك دون تعطيل الإدارة أو تجزئة السيطرة أو تقليل قيمة المؤسسة.",
+             "تعالج الصناديق الاستئمانية هذه المشكلة من خلال فصل الملكية القانونية عن الإدارة اليومية. وهذا يسمح للشركات بمواصلة العمل تحت قيادة مستقرة، بينما تتم عمليات انتقال الملكية ضمن إطار عمل منظم.",
+             "يمكن للصناديق الاستئمانية أيضًا أن تدمج آليات حوكمة تمتد إلى ما بعد عمر المؤسس، مما يساعد على تقليل احتمالية نشوب النزاعات ويضمن بقاء عملية صنع القرار متوافقة مع الرؤية الاستراتيجية الأصلية."
+           ]
+         },
+         {
+           "name": "صناديق VISTA والاستقلالية التشغيلية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "من المخاوف الشائعة بشأن الهياكل الاستئمانية التقليدية ما يُنظر إليه على أنه فقدان للسيطرة. عادةً ما يخضع الأمناء لواجبات ائتمانية قد تتطلب منهم التدخل في إدارة الأصول الأساسية، بما في ذلك الشركات العاملة.",
+             "صُممت صناديق VISTA الاستئمانية، التي أُنشئت بموجب قانون الصناديق الاستئمانية الخاصة لجزر فيرجن، خصيصًا لمعالجة هذه المشكلة.",
+             "عندما تمتلك الصندوق الاستئماني أسهمًا في شركة في جزر فيرجن البريطانية، يُعفى الأمين فعليًا من واجب التدخل في الإدارة. تظل العمليات اليومية من اختصاص مديري الشركة، مما يسمح للهياكل الإدارية القائمة بالاستمرار دون انقطاع.",
+             "وهذا يجعل صناديق VISTA مناسبة بشكل خاص للممتلكات المبنية على عمليات تجارية نشطة. يمكن للمؤسسين تنفيذ ترتيبات الخلافة الرسمية مع الحفاظ على الاستقلالية التشغيلية، إلى جانب حماية الأصول والاستمرارية على المدى الطويل."
+           ]
+         },
+         {
+           "name": "الهياكل في قبرص والإمارات العربية المتحدة وموريشيوس",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "بالإضافة إلى صناديق جزر فيرجن البريطانية، طورت ولايات قضائية أخرى أطر عمل متطورة بشكل متزايد لهيكلة الثروة.",
+             "لا تزال صناديق قبرص الدولية تحظى بشعبية لدى العائلات الدولية ورجال الأعمال الذين يبحثون عن هياكل مرنة تتمتع بميزات قوية لحماية الأصول والسرية. كما برزت الإمارات العربية المتحدة كمركز إقليمي رائد لهيكلة الثروة الخاصة، لا سيما من خلال مؤسسات مركز دبي المالي العالمي (DIFC) وسوق أبوظبي العالمي (ADGM)، والتي غالبًا ما تُستخدم لتخطيط خلافة الأعمال العائلية وتوحيد الأصول.",
+             "كما تواصل موريشيوس لعب دور مهم في تخطيط الثروة الدولية، لا سيما للعملاء الذين لديهم مصالح في أنحاء أفريقيا وآسيا والشرق الأوسط. غالبًا ما يتم دمج المؤسسات والصناديق الاستئمانية في موريشيوس ضمن هياكل قابضة دولية أوسع نطاقًا تركز على الاستمرارية طويلة الأجل وإدارة الاستثمارات عبر الحدود."
+           ]
+         },
+         {
+           "name": "الصناديق الاستئمانية والمؤسسات الخيرية: أدوات متكاملة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "على الرغم من اختلاف الصناديق الاستئمانية والمؤسسات الخيرية من حيث الشكل القانوني، إلا أنه غالبًا ما يتم استخدامهما معًا ضمن أطر أوسع لتخطيط الثروة.",
+             "تعتمد الصناديق الاستئمانية على علاقة بين الوصي والمستفيد، في حين أن المؤسسات الخيرية هي كيانات قانونية مستقلة قادرة على حيازة الأصول مباشرةً. بالنسبة لبعض العملاء، توفر المؤسسات الخيرية نموذجًا إداريًا أكثر مألوفة، بينما تظل الصناديق الاستئمانية توفر مرونة كبيرة في تخطيط الخلافة وحماية الأصول.",
+             "يعتمد الاختيار بينهما — أو قرار الجمع بينهما — على طبيعة الأصول المعنية، وتفضيلات الحوكمة، وديناميكيات الأسرة، والأهداف الاستراتيجية طويلة الأجل."
+           ]
+         },
+         {
+           "name": "نهج استراتيجي لهيكلة الثروة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يتطلب التخطيط الفعال للثروة أكثر من مجرد اختيار أداة أو ولاية قضائية. فهو يتطلب تقييم كيفية قيام الهياكل القانونية بالحفاظ على القيمة، وإدارة المخاطر، والحفاظ على الاستمرارية، ودعم الأهداف العائلية والتجارية طويلة الأجل.",
+             "سواء كان ذلك من خلال صناديق BVI VISTA الاستئمانية، أو الصناديق الاستئمانية الدولية في قبرص، أو المؤسسات في الإمارات العربية المتحدة، أو الهياكل في موريشيوس، أو الترتيبات المتكاملة عبر الحدود، يمكن للأطر المصممة جيدًا أن توفر اليقين القانوني والمرونة على المدى الطويل."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "عندما يتم تصميم هذه الهياكل بشكل صحيح، فإنها لا توفر اليقين القانوني فحسب، بل توفر أيضًا منصة للاستقرار على المدى الطويل — مما يضمن أن الثروة لا يتم نقلها فحسب، بل يتم الحفاظ عليها أيضًا."
+           ]
+         }
+
+       ]
+     },
+     "greek": {
+       "id": 19,
+       "name": "Δομές καταπιστευμάτων και καταπιστεύματα VISTA: Μια σύγχρονη προσέγγιση στον σχεδιασμό περιουσίας",
+       "date": "11th Jun, 2026",
+       "des": "Καθώς η ιδιωτική περιουσία αποκτά όλο και πιο διεθνή χαρακτήρα —συχνά καλύπτοντας επιχειρήσεις σε λειτουργία, ακίνητα, διαφοροποιημένα χαρτοφυλάκια και συμμετοχές σε πολλαπλές δικαιοδοσίες— η ανάγκη για εξελιγμένες, προοδευτικές λύσεις δομικής οργάνωσης έχει γίνει πιο έντονη. Σε αυτό το περιβάλλον, τα καταπιστεύματα και τα ιδρύματα έχουν εξελιχθεί από εξειδικευμένα νομικά εργαλεία σε βασικά συστατικά της διαχείρισης περιουσίας, του σχεδιασμού διαδοχής και της εταιρικής διακυβέρνησης.",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "By: Nada Dessouki - Associate",
+           "smallBold": "",
+           "des": [
+             "Οι σημερινοί πελάτες δεν επικεντρώνονται πλέον αποκλειστικά στη μεταβίβαση περιουσιακών στοιχείων. Αντίθετα, επιθυμούν συνέχεια, ευελιξία, προστασία και μακροπρόθεσμη σταθερότητα που να μπορούν να προσαρμοστούν στις μεταβαλλόμενες δυναμικές της οικογένειας και της επιχείρησης σε διάφορες δικαιοδοσίες.",
+             "Μεταξύ των πιο σημαντικών λύσεων συγκαταλέγονται τα διακριτικά καταπιστεύματα, τα καταπιστεύματα VISTA, τα διεθνή καταπιστεύματα και τα ιδιωτικά ιδρύματα που έχουν συσταθεί σε δικαιοδοσίες όπως οι Βρετανικές Παρθένοι Νήσοι (BVI), η Κύπρος, τα Ηνωμένα Αραβικά Εμιράτα (ΗΑΕ) και ο Μαυρίκιος."
+           ]
+         },
+         {
+           "name": "Τα καταπιστεύματα ως μηχανισμός συνέχειας και ελέγχου",
+           "small": "",
+           "smallBold": "Στην ουσία, ένα καταπίστευμα είναι μια νομική ρύθμιση μέσω της οποίας ένα άτομο μεταβιβάζει περιουσιακά στοιχεία σε έναν διαχειριστή, ο οποίος κατέχει και διαχειρίζεται τα εν λόγω περιουσιακά στοιχεία προς όφελος καθορισμένων δικαιούχων σύμφωνα με καθορισμένους όρους.",
+           "des": [
+             "Σε αντίθεση με τη διαθήκη, η οποία τίθεται σε ισχύ μόνο μετά το θάνατο, ένα καταπίστευμα είναι μια δομή που μπορεί να διατηρήσει και να διαχειριστεί τον πλούτο κατά τη διάρκεια της ζωής του ιδρυτή και μεταξύ γενεών. Αυτό είναι ιδιαίτερα σημαντικό όταν τα περιουσιακά στοιχεία εκτείνονται σε πολλαπλές δικαιοδοσίες ή όταν τα οικογενειακά και επιχειρηματικά συμφέροντα απαιτούν μια πιο λεπτή προσέγγιση από την άμεση ιδιοκτησία.",
+             "Οι δομές καταπιστευμάτων χρησιμοποιούνται συνήθως για:",
+             "• Την διευκόλυνση της αποτελεσματικής μεταβίβασης πλούτου μεταξύ γενεών.",
+             "• Προστασία των περιουσιακών στοιχείων από εξωτερικούς κινδύνους, συμπεριλαμβανομένων των απαιτήσεων πιστωτών και των διαφορών.",
+             "• Συγκέντρωση της ιδιοκτησίας και της διακυβέρνησης σύνθετων χαρτοφυλακίων περιουσιακών στοιχείων.",
+             "• Διατήρηση της εμπιστευτικότητας και της ιδιωτικότητας σε σχέση με την οικογενειακή περιουσία.",
+             "• Διασφάλιση της συνέχειας της ιδιοκτησίας και της λήψης αποφάσεων.",
+             "Σε πολλές δικαιοδοσίες, τα περιουσιακά στοιχεία που κατέχονται μέσω σωστά συσταθέντων καταπιστευμάτων μπορούν να αποφύγουν τις διαδικασίες κληρονομικής διαδοχής, επιτρέποντας μια πιο απρόσκοπτη μετάβαση μετά τον θάνατο."
+           ]
+         },
+         {
+           "name": "Ο εξελισσόμενος ρόλος των καταπιστευμάτων στον σχεδιασμό διαδοχής",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ο σύγχρονος σχεδιασμός περιουσίας δεν επικεντρώνεται πλέον μόνο στη διανομή περιουσιακών στοιχείων, αλλά επιδιώκει επίσης να διατηρήσει την ακεραιότητα και τη μακροπρόθεσμη βιωσιμότητα αυτών των περιουσιακών στοιχείων.",
+             "Αυτό είναι ιδιαίτερα σημαντικό όταν η περιουσία συνδέεται με επιχειρήσεις που βρίσκονται σε λειτουργία. Η πρόκληση δεν είναι απλώς η μεταβίβαση της ιδιοκτησίας, αλλά η πραγματοποίησή της χωρίς να διαταραχθεί η διοίκηση, να κατακερματιστεί ο έλεγχος ή να μειωθεί η αξία της επιχείρησης.",
+             "Τα καταπιστεύματα αντιμετωπίζουν αυτό το ζήτημα διαχωρίζοντας τη νομική ιδιοκτησία από την καθημερινή διαχείριση. Αυτό επιτρέπει στις επιχειρήσεις να συνεχίσουν να λειτουργούν υπό σταθερή ηγεσία, ενώ οι μεταβιβάσεις ιδιοκτησίας πραγματοποιούνται εντός ενός δομημένου πλαισίου.",
+             "Τα καταπιστεύματα μπορούν επίσης να ενσωματώνουν μηχανισμούς διακυβέρνησης που εκτείνονται πέρα από τη διάρκεια ζωής του ιδρυτή, συμβάλλοντας στη μείωση του ενδεχόμενου σύγκρουσης συμφερόντων και διασφαλίζοντας ότι η λήψη αποφάσεων παραμένει ευθυγραμμισμένη με την αρχική στρατηγική όραση."
+           ]
+         },
+         {
+           "name": "Καταπιστεύματα VISTA και λειτουργική αυτονομία",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Μια κοινή ανησυχία σχετικά με τις παραδοσιακές δομές καταπιστευμάτων είναι η αντιληπτή απώλεια ελέγχου. Οι διαχειριστές υπόκεινται συνήθως σε καταπιστευματικές υποχρεώσεις που ενδέχεται να απαιτούν την παρέμβασή τους στη διαχείριση των υποκείμενων περιουσιακών στοιχείων, συμπεριλαμβανομένων των εταιρειών εκμετάλλευσης.",
+             "Τα καταπιστεύματα VISTA, που ιδρύθηκαν βάσει του Νόμου περί Ειδικών Καταπιστευμάτων των Παρθένων Νήσων, σχεδιάστηκαν ειδικά για να αντιμετωπίσουν αυτό το ζήτημα.",
+             "Όταν ένα καταπίστευμα κατέχει μετοχές σε εταιρεία των Βρετανικών Παρθένων Νήσων, η υποχρέωση του διαχειριστή να παρεμβαίνει στη διαχείριση ουσιαστικά δεν ισχύει. Οι καθημερινές λειτουργίες παραμένουν στην αρμοδιότητα των διευθυντών της εταιρείας, επιτρέποντας στις καθιερωμένες δομές διαχείρισης να συνεχίσουν χωρίς διακοπή.",
+             "Αυτό καθιστά τα καταπιστεύματα VISTA ιδιαίτερα κατάλληλα για περιουσίες που βασίζονται σε ενεργές επιχειρηματικές δραστηριότητες. Οι ιδρυτές μπορούν να εφαρμόσουν επίσημες ρυθμίσεις διαδοχής, διατηρώντας παράλληλα την επιχειρησιακή αυτονομία, καθώς και την προστασία των περιουσιακών στοιχείων και τη μακροπρόθεσμη συνέχεια."
+           ]
+         },
+         {
+           "name": "Δομές Κύπρου, ΗΑΕ και Μαυρίκιου",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Πέρα από τα καταπιστεύματα των Βρετανικών Παρθένων Νήσων, άλλες δικαιοδοσίες έχουν αναπτύξει όλο και πιο εξελιγμένα πλαίσια διαμόρφωσης περιουσίας.",
+             "Τα Διεθνή Καταπιστεύματα της Κύπρου παραμένουν δημοφιλή μεταξύ διεθνών οικογενειών και επιχειρηματιών που αναζητούν ευέλικτες δομές με ισχυρά χαρακτηριστικά προστασίας περιουσιακών στοιχείων και εμπιστευτικότητας. Τα ΗΑΕ έχουν επίσης αναδειχθεί σε κορυφαίο περιφερειακό κέντρο για τη διάρθρωση ιδιωτικής περιουσίας, ιδίως μέσω των ιδρυμάτων DIFC και ADGM, τα οποία χρησιμοποιούνται συχνά για τον σχεδιασμό διαδοχής οικογενειακών επιχειρήσεων και την ενοποίηση περιουσιακών στοιχείων.",
+             "Ο Μαυρίκιος συνεχίζει επίσης να διαδραματίζει σημαντικό ρόλο στον διεθνή σχεδιασμό περιουσίας, ιδίως για πελάτες με συμφέροντα σε όλη την Αφρική, την Ασία και τη Μέση Ανατολή. Τα ιδρύματα και τα καταπιστεύματα του Μαυρίκιου ενσωματώνονται συχνά σε ευρύτερες διεθνείς δομές χαρτοφυλακίου που εστιάζουν στη μακροπρόθεσμη συνέχεια και τη διασυνοριακή διαχείριση επενδύσεων."
+           ]
+         },
+         {
+           "name": "Καταπιστεύματα και Ιδρύματα: Συμπληρωματικά Εργαλεία",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Αν και τα καταπιστεύματα και τα ιδρύματα διαφέρουν ως προς τη νομική τους μορφή, συχνά χρησιμοποιούνται από κοινού στο πλαίσιο ευρύτερων σχεδίων διαχείρισης περιουσίας.",
+             "Τα καταπιστεύματα βασίζονται στη σχέση διαχειριστή-δικαιούχου, ενώ τα ιδρύματα αποτελούν ξεχωριστές νομικές οντότητες ικανές να κατέχουν περιουσιακά στοιχεία απευθείας. Για ορισμένους πελάτες, τα ιδρύματα προσφέρουν ένα πιο οικείο μοντέλο διακυβέρνησης, ενώ τα καταπιστεύματα εξακολουθούν να παρέχουν σημαντική ευελιξία στον προγραμματισμό της διαδοχής και της προστασίας των περιουσιακών στοιχείων.",
+             "Η επιλογή μεταξύ τους — ή η απόφαση να συνδυαστούν και τα δύο — εξαρτάται από τη φύση των εμπλεκόμενων περιουσιακών στοιχείων, τις προτιμήσεις διακυβέρνησης, τη δυναμική της οικογένειας και τους μακροπρόθεσμους στρατηγικούς στόχους."
+           ]
+         },
+         {
+           "name": "Μια στρατηγική προσέγγιση στη διάρθρωση του πλούτου",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ο αποτελεσματικός σχεδιασμός περιουσίας απαιτεί κάτι περισσότερο από την επιλογή ενός μέσου ή μιας δικαιοδοσίας. Απαιτεί την αξιολόγηση του τρόπου με τον οποίο οι νομικές δομές μπορούν να διατηρήσουν την αξία, να διαχειριστούν τον κίνδυνο, να διατηρήσουν τη συνέχεια και να υποστηρίξουν τους μακροπρόθεσμους οικογενειακούς και επιχειρηματικούς στόχους.",
+             "Είτε μέσω καταπιστευμάτων BVI VISTA, διεθνών καταπιστευμάτων Κύπρου, ιδρυμάτων των ΗΑΕ, δομών του Μαυρίκιου ή ολοκληρωμένων διασυνοριακών ρυθμίσεων, τα καλά σχεδιασμένα πλαίσια μπορούν να προσφέρουν τόσο νομική βεβαιότητα όσο και μακροπρόθεσμη ανθεκτικότητα."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Όταν σχεδιάζονται σωστά, αυτές οι δομές παρέχουν όχι μόνο νομική βεβαιότητα, αλλά και μια πλατφόρμα για μακροπρόθεσμη σταθερότητα, διασφαλίζοντας ότι ο πλούτος δεν μεταβιβάζεται απλώς, αλλά και διατηρείται."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 19,
+       "name": "Strutture fiduciarie e VISTA Trust: un approccio moderno alla pianificazione patrimoniale",
+       "date": "11th Jun, 2026",
+       "des": "Con la crescente internazionalizzazione del patrimonio privato — che spesso comprende attività operative, immobili, portafogli diversificati e partecipazioni in diverse giurisdizioni — è diventata sempre più evidente la necessità di soluzioni strutturali sofisticate e lungimiranti. In questo contesto, i trust e le fondazioni si sono evoluti da strumenti giuridici di nicchia a componenti fondamentali della gestione patrimoniale, della pianificazione successoria e della governance.",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "By: Nada Dessouki - Associate",
+           "smallBold": "",
+           "des": [
+             "I clienti di oggi non si concentrano più esclusivamente sul trasferimento di beni. Al contrario, desiderano continuità, flessibilità, protezione e stabilità a lungo termine in grado di adattarsi alle mutevoli dinamiche familiari e aziendali nelle diverse giurisdizioni.",
+             "Tra le soluzioni più rilevanti figurano i trust discrezionali, i trust VISTA, i trust internazionali e le fondazioni private costituite in giurisdizioni quali le Isole Vergini Britanniche (BVI), Cipro, gli Emirati Arabi Uniti (EAU) e Mauritius."
+           ]
+         },
+         {
+           "name": "I trust come meccanismo di continuità e controllo",
+           "small": "",
+           "smallBold": "In sostanza, un trust è un accordo legale attraverso il quale un individuo trasferisce beni a un trustee, che detiene e gestisce tali beni a beneficio di beneficiari designati secondo termini definiti.",
+           "des": [
+             "A differenza di un testamento, che ha effetto solo al momento del decesso, un trust è una struttura vivente in grado di preservare e amministrare il patrimonio durante la vita del disponente e attraverso le generazioni. Ciò è particolarmente importante quando i beni si estendono su più giurisdizioni o quando gli interessi familiari e aziendali richiedono un approccio più sfumato rispetto alla proprietà diretta.",
+             "Le strutture fiduciarie sono comunemente utilizzate per:",
+             "• Facilitare il trasferimento efficiente del patrimonio attraverso le generazioni.",
+             "• Proteggere i beni dai rischi esterni, comprese le rivendicazioni dei creditori e le controversie.",
+             "• Centralizzare la proprietà e la governance di portafogli patrimoniali complessi.",
+             "• Preservare la riservatezza e la privacy in relazione al patrimonio familiare.",
+             "• Garantire la continuità della proprietà e del processo decisionale.",
+             "In molte giurisdizioni, i beni detenuti tramite trust correttamente costituiti possono evitare le procedure di omologazione testamentaria, consentendo una transizione più snella in caso di decesso."
+           ]
+         },
+         {
+           "name": "L'evoluzione del ruolo dei trust nella pianificazione successoria",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La moderna pianificazione patrimoniale non si concentra più solo sulla distribuzione degli asset, ma mira anche a preservarne l'integrità e la sostenibilità a lungo termine.",
+             "Ciò è particolarmente rilevante quando il patrimonio è legato ad attività operative. La sfida non consiste solo nel trasferire la proprietà, ma nel farlo senza interrompere la gestione, frammentare il controllo o ridurre il valore dell'impresa.",
+             "I trust risolvono questo problema separando la proprietà legale dalla gestione quotidiana. Ciò consente alle imprese di continuare a operare sotto una leadership stabile, mentre le transizioni di proprietà avvengono all’interno di un quadro strutturato.",
+             "I trust possono anche incorporare meccanismi di governance che si estendono oltre la vita del fondatore, contribuendo a ridurre il potenziale di conflitto e garantendo che il processo decisionale rimanga allineato alla visione strategica originale."
+           ]
+         },
+         {
+           "name": "Trust VISTA e autonomia operativa",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Una preoccupazione comune con le strutture fiduciarie tradizionali è la percezione di una perdita di controllo. I trustee sono solitamente soggetti a obblighi fiduciari che possono richiedere loro di intervenire nella gestione delle attività sottostanti, comprese le società operative.",
+             "I trust VISTA, istituiti ai sensi del Virgin Islands Special Trusts Act, sono stati specificamente progettati per affrontare questa questione.",
+             "Laddove un trust detiene azioni in una società delle Isole Vergini Britanniche (BVI), l’obbligo del trustee di intervenire nella gestione è di fatto sospeso. Le operazioni quotidiane rimangono di competenza degli amministratori della società, consentendo alle strutture di gestione consolidate di continuare senza interruzioni.",
+             "Ciò rende i trust VISTA particolarmente adatti ai patrimoni basati su attività commerciali attive. I fondatori possono attuare accordi formali di successione preservando l’autonomia operativa, insieme alla protezione patrimoniale e alla continuità a lungo termine."
+           ]
+         },
+         {
+           "name": "Strutture a Cipro, negli Emirati Arabi Uniti e a Mauritius",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Oltre ai trust delle Isole Vergini Britanniche, altre giurisdizioni hanno sviluppato quadri di strutturazione patrimoniale sempre più sofisticati.",
+             "I trust internazionali di Cipro rimangono popolari tra le famiglie internazionali e gli imprenditori che cercano strutture flessibili con solide caratteristiche di protezione patrimoniale e riservatezza. Anche gli Emirati Arabi Uniti sono emersi come centro regionale leader per la strutturazione del patrimonio privato, in particolare attraverso le fondazioni DIFC e ADGM, spesso utilizzate per la pianificazione della successione aziendale familiare e il consolidamento patrimoniale.",
+             "Anche Mauritius continua a svolgere un ruolo significativo nella pianificazione patrimoniale internazionale, in particolare per i clienti con interessi in Africa, Asia e Medio Oriente. Le fondazioni e i trust di Mauritius sono spesso integrati in strutture holding internazionali più ampie, incentrate sulla continuità a lungo termine e sulla gestione degli investimenti transfrontalieri."
+           ]
+         },
+         {
+           "name": "Trust e fondazioni: strumenti complementari",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Sebbene i trust e le fondazioni differiscano nella forma giuridica, vengono spesso utilizzati congiuntamente nell’ambito di più ampi programmi di pianificazione patrimoniale.",
+             "I trust si basano su un rapporto tra trustee e beneficiario, mentre le fondazioni sono entità giuridiche autonome in grado di detenere direttamente i beni. Per alcuni clienti, le fondazioni rappresentano un modello di governance più familiare, mentre i trust continuano a offrire una notevole flessibilità nella pianificazione successoria e nella protezione patrimoniale.",
+             "La scelta tra i due strumenti – o la decisione di combinarli entrambi – dipende dalla natura dei beni coinvolti, dalle preferenze di governance, dalle dinamiche familiari e dagli obiettivi strategici a lungo termine."
+           ]
+         },
+         {
+           "name": "Un approccio strategico alla strutturazione patrimoniale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Una pianificazione patrimoniale efficace richiede molto più della semplice scelta di uno strumento o di una giurisdizione. Richiede una valutazione di come le strutture giuridiche possano preservare il valore, gestire il rischio, mantenere la continuità e sostenere gli obiettivi familiari e aziendali a lungo termine.",
+             "Che si tratti di trust VISTA delle Isole Vergini Britanniche, trust internazionali di Cipro, fondazioni degli Emirati Arabi Uniti, strutture di Mauritius o accordi transfrontalieri integrati, quadri ben progettati possono fornire sia certezza giuridica che resilienza a lungo termine."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Se progettate correttamente, queste strutture forniscono non solo certezza giuridica, ma anche una piattaforma per la stabilità a lungo termine, garantendo che il patrimonio non venga solo trasferito, ma anche preservato."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 19,
+       "name": "Structures fiduciaires et fiducies VISTA : une approche moderne de la planification patrimoniale",
+       "date": "11th Jun, 2026",
+       "des": "À mesure que le patrimoine privé s'internationalise – englobant souvent des entreprises en activité, des biens immobiliers, des portefeuilles diversifiés et des participations réparties dans plusieurs juridictions –, le besoin de solutions de structuration sophistiquées et tournées vers l'avenir s'est fait plus pressant. Dans ce contexte, les fiducies et les fondations sont passées du statut d'outils juridiques de niche à celui d'éléments essentiels de la gestion de patrimoine, de la planification successorale et de la gouvernance.",
+       "img": "../assets/images/news/new13.webp",
+       "content": [{
+           "name": "",
+           "small": "By: Nada Dessouki - Associate",
+           "smallBold": "",
+           "des": [
+             "Les clients d'aujourd'hui ne se concentrent plus uniquement sur le transfert d'actifs. Ils recherchent plutôt la continuité, la flexibilité, la protection et la stabilité à long terme, capables de s'adapter à l'évolution des dynamiques familiales et commerciales à travers les différentes juridictions.",
+             "Parmi les solutions les plus courantes figurent les trusts discrétionnaires, les trusts VISTA, les trusts internationaux et les fondations privées établis dans des juridictions telles que les Îles Vierges britanniques (IVB), Chypre, les Émirats arabes unis (EAU) et Maurice."
+           ]
+         },
+         {
+           "name": "Les fiducies : un mécanisme de continuité et de contrôle",
+           "small": "",
+           "smallBold": "À la base, une fiducie est un dispositif juridique par lequel un particulier transfère des actifs à un fiduciaire, qui détient et gère ces actifs au profit de bénéficiaires désignés selon des conditions définies.",
+           "des": [
+             "Contrairement à un testament, qui ne prend effet qu’au décès, une fiducie est une structure vivante qui permet de préserver et d’administrer le patrimoine pendant la vie du constituant et à travers les générations. Cela est particulièrement important lorsque les actifs s’étendent sur plusieurs juridictions ou lorsque les intérêts familiaux et commerciaux nécessitent une approche plus nuancée que la propriété directe.",
+             "Les structures de fiducie sont couramment utilisées pour :",
+             "• Faciliter le transfert efficace du patrimoine d’une génération à l’autre.",
+             "• Protéger les actifs contre les risques externes, notamment les créances et les litiges.",
+             "• Centraliser la propriété et la gouvernance de portefeuilles d’actifs complexes.",
+             "• Préserver la confidentialité et la vie privée en ce qui concerne le patrimoine familial.",
+             "• Assurer la continuité de la propriété et de la prise de décision.",
+             "Dans de nombreuses juridictions, les actifs détenus par l’intermédiaire de fiducies dûment constituées peuvent échapper aux procédures d’homologation, ce qui permet une transition plus fluide au décès."
+           ]
+         },
+         {
+           "name": "L'évolution du rôle des fiducies dans la planification successorale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La planification patrimoniale moderne ne se concentre plus uniquement sur la répartition des actifs ; elle vise également à préserver l'intégrité et la viabilité à long terme de ces actifs.",
+             "Cela est particulièrement pertinent lorsque le patrimoine est lié à des entreprises en activité. Le défi ne consiste pas seulement à transférer la propriété, mais à le faire sans perturber la gestion, fragmenter le contrôle ou réduire la valeur de l'entreprise.",
+             "Les fiducies répondent à ce défi en séparant la propriété légale de la gestion quotidienne. Cela permet aux entreprises de poursuivre leurs activités sous une direction stable, tandis que les transitions de propriété s’effectuent dans un cadre structuré.",
+             "Les fiducies peuvent également intégrer des mécanismes de gouvernance qui s’étendent au-delà de la durée de vie du fondateur, contribuant ainsi à réduire les risques de conflit et garantissant que la prise de décision reste alignée sur la vision stratégique initiale."
+           ]
+         },
+         {
+           "name": "Les fiducies VISTA et l’autonomie opérationnelle",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Une préoccupation courante concernant les structures fiduciaires traditionnelles est la perception d’une perte de contrôle. Les administrateurs sont généralement soumis à des obligations fiduciaires qui peuvent les obliger à intervenir dans la gestion des actifs sous-jacents, y compris les sociétés d’exploitation.",
+             "Les trusts VISTA, créés en vertu de la loi sur les trusts spéciaux des Îles Vierges (Virgin Islands Special Trusts Act), ont été spécialement conçus pour répondre à ce problème.",
+             "Lorsqu’un trust détient des actions dans une société des Îles Vierges britanniques (BVI), l’obligation de l’administrateur d’intervenir dans la gestion est effectivement levée. Les opérations quotidiennes restent du ressort des administrateurs de la société, ce qui permet aux structures de gestion établies de se poursuivre sans interruption.",
+             "Cela rend les trusts VISTA particulièrement adaptés aux patrimoines reposant sur des activités commerciales actives. Les fondateurs peuvent mettre en place des dispositions formelles de succession tout en préservant l’autonomie opérationnelle, ainsi que la protection des actifs et la continuité à long terme."
+           ]
+         },
+         {
+           "name": "Structures à Chypre, aux Émirats arabes unis et à Maurice",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Au-delà des trusts des Îles Vierges britanniques, d’autres juridictions ont développé des cadres de structuration patrimoniale de plus en plus sophistiqués.",
+             "Les trusts internationaux chypriotes restent populaires auprès des familles et des entrepreneurs internationaux à la recherche de structures flexibles offrant une protection solide des actifs et une confidentialité élevée. Les Émirats arabes unis se sont également imposés comme un centre régional de premier plan pour la structuration du patrimoine privé, notamment grâce aux fondations du DIFC et de l'ADGM, souvent utilisées pour la planification de la succession d'entreprises familiales et la consolidation d'actifs.",
+             "L'île Maurice continue également de jouer un rôle important dans la planification patrimoniale internationale, en particulier pour les clients ayant des intérêts en Afrique, en Asie et au Moyen-Orient. Les fondations et les trusts mauriciens sont souvent intégrés dans des structures de holding internationales plus larges axées sur la continuité à long terme et la gestion d'investissements transfrontaliers."
+           ]
+         },
+         {
+           "name": "Trusts et fondations : des outils complémentaires",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Bien que les trusts et les fondations diffèrent par leur forme juridique, ils sont souvent utilisés conjointement dans le cadre d’une planification patrimoniale plus large.",
+             "Les trusts reposent sur une relation entre un fiduciaire et un bénéficiaire, tandis que les fondations sont des entités juridiques distinctes capables de détenir directement des actifs. Pour certains clients, les fondations offrent un modèle de gouvernance plus familier, tandis que les trusts continuent d’offrir une grande flexibilité en matière de planification successorale et de protection des actifs.",
+             "Le choix entre les deux — ou la décision de les combiner — dépend de la nature des actifs concernés, des préférences en matière de gouvernance, de la dynamique familiale et des objectifs stratégiques à long terme."
+           ]
+         },
+         {
+           "name": "Une approche stratégique de la structuration patrimoniale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Une planification patrimoniale efficace ne se limite pas au choix d’un véhicule ou d’une juridiction. Elle nécessite d’évaluer comment les structures juridiques peuvent préserver la valeur, gérer les risques, assurer la continuité et soutenir les objectifs familiaux et commerciaux à long terme.",
+             "Que ce soit par le biais de trusts VISTA des Îles Vierges britanniques, de trusts internationaux chypriotes, de fondations des Émirats arabes unis, de structures mauriciennes ou d’arrangements transfrontaliers intégrés, des cadres bien conçus peuvent offrir à la fois une sécurité juridique et une résilience à long terme."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Lorsqu’elles sont correctement conçues, ces structures offrent non seulement une sécurité juridique, mais aussi une plateforme pour une stabilité à long terme, garantissant que le patrimoine est non seulement transféré, mais aussi préservé."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
+       "id": 18,
+       "name": "AI Liability and Governance: Who Is Responsible When the Algorithm Decides?",
+       "date": "4th Jun, 2026",
+       "des": "The accountability gap in artificial intelligence has moved from theoretical debate to live regulatory obligation. Senior counsel advising boards and in-house teams need a clear picture of where liability falls in 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+
+         {
+           "name": "The Accountability Problem in Context",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "On 18 May 2026, a California jury dismissed Elon Musk's lawsuit against OpenAI and Sam Altman in under two hours, finding the claims time-barred under the applicable statute of limitations. The procedural outcome masked a far more significant governance question that remains unanswered: when an organisation constructs its entire commercial identity around a stated public mission and then quietly restructures to monetise that mission for private benefit, what legal obligations does it carry to those who relied on that representation?",
+             "The jury never reached the merits. OpenAI's legal team established in closing arguments that the donations were unrestricted and that no binding promise had been made to maintain the nonprofit structure. Both propositions may be legally accurate. They do not resolve whether the governance failure was actionable under a different theory, in a different jurisdiction, or against a differently drafted founding document.",
+             "For in-house counsel and boards advising on AI governance, the lesson is not that mission statements are irrelevant. It is that mission statements which are never documented as enforceable commitments create exactly the kind of liability gap that produces expensive litigation, even where that litigation ultimately fails."
+           ]
+         },
+         {
+           "name": "The UAE AI Act 2026: Operative Obligations",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The UAE AI Act 2026, which entered into force in March 2026, is the primary domestic framework governing AI liability in the UAE. It establishes a four-tier risk classification for AI systems: minimal risk, limited risk, high risk, and unacceptable risk. The classification determines the compliance obligations that attach.",
+             "High-risk AI systems, defined to include applications in healthcare, financial services, employment and recruitment, educational assessment, critical infrastructure management, law enforcement, and border control, carry the most demanding obligations. These include mandatory conformity assessments, technical documentation, data governance requirements, human oversight mechanisms, accuracy and robustness standards, and post-market monitoring obligations. The self-assessment deadline for high-risk systems falls in September 2026.",
+             "Penalties for non-compliance reach AED 10 million per violation. Where non-compliance involves an AI system that causes material harm, the penalty framework operates alongside civil liability under the UAE Civil Transactions Law, which may permit affected parties to seek damages independently of regulatory action. Companies should not treat the AED 10 million figure as a ceiling on total exposure. It is a floor on regulatory liability only."
+           ]
+         },
+         {
+           "name": "Extraterritorial Reach: The EU AI Act",
+           "small": "",
+           "smallBold": "",
+           "des": ["The EU AI Act becomes fully applicable on 2 August 2026. Its extraterritorial scope is explicit: any provider whose AI system produces outputs used within the European Union is subject to the Act, regardless of where that provider is incorporated or established. For GCC companies with European commercial relationships, distribution agreements, or digital services accessed by European users, EU AI Act compliance is not optional.",
+             "The Act's transparency obligations require that AI-generated content be labelled as such in certain use cases, and that users of high-risk AI systems be informed that they are interacting with an AI. These obligations apply to deployers as well as developers. A GCC business that licenses AI tools from a third-party provider and deploys them in customer-facing applications is a deployer within the meaning of the Act and carries corresponding obligations."
+           ]
+         },
+         {
+           "name": "Governance Documentation: The Practical Obligation",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The OpenAI litigation and the UAE and EU regulatory frameworks converge on a single practical point: governance documentation matters. The gap between what an AI system's published principles say it will do and what it actually does is a compliance surface, not merely a reputational one. Boards should ensure that AI governance policies are reviewed by legal counsel for internal consistency, that the obligations they create are understood by technical and operational teams, and that post-deployment monitoring is sufficient to identify divergence early.",
+             "For businesses in the GCC that are early in their AI governance journey, the most practical starting point is a system inventory: identify every AI application in use, classify it against the UAE AI Act framework, and document the basis for that classification. That documentation is itself a compliance asset, and its absence is an early indicator of systemic governance risk."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 18,
+       "name": "المسؤولية القانونية والحوكمة في مجال الذكاء الاصطناعي: من يتحمل المسؤولية عندما تتخذ الخوارزمية القرار؟",
+       "date": "4 يونيو 2026",
+       "des": "لقد انتقلت فجوة المساءلة في مجال الذكاء الاصطناعي من مجرد نقاش نظري إلى التزام تنظيمي فعلي. ويحتاج كبار المستشارين القانونيين الذين يقدمون المشورة لمجالس الإدارة والفرق الداخلية إلى صورة واضحة عن الجهة التي تقع عليها المسؤولية القانونية في عام 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "مشكلة المساءلة في سياقها",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في 18 مايو 2026، رفضت هيئة محلفين في كاليفورنيا دعوى إيلون ماسك ضد OpenAI وسام ألتمان في أقل من ساعتين، ووجدت أن المطالبات قد سقطت بالتقادم بموجب قانون التقادم المعمول به. أخفت النتيجة الإجرائية مسألة حوكمة أكثر أهمية بكثير لا تزال دون إجابة: عندما تبني منظمة هويتها التجارية بالكامل حول مهمة عامة معلنة ثم تعيد هيكلتها بهدوء لتحويل تلك المهمة إلى ربح من أجل مصلحة خاصة، ما هي الالتزامات القانونية التي تتحملها تجاه أولئك الذين اعتمدوا على ذلك التمثيل؟",
+             "لم تصل هيئة المحلفين أبدًا إلى موضوع الدعوى. أثبت فريق OpenAI القانوني في المرافعات الختامية أن التبرعات كانت غير مقيدة وأنه لم يتم تقديم أي وعد ملزم بالحفاظ على الهيكل غير الربحي. قد يكون كلا الافتراضين دقيقين من الناحية القانونية. لكنهما لا يحسمان ما إذا كان فشل الحوكمة قابلاً للمقاضاة بموجب نظرية مختلفة، أو في ولاية قضائية مختلفة، أو بموجب وثيقة تأسيسية صيغت بشكل مختلف.",
+             "بالنسبة للمستشارين القانونيين الداخليين ومجالس الإدارة التي تقدم المشورة بشأن حوكمة الذكاء الاصطناعي، فإن الدرس المستفاد ليس أن بيانات المهمة غير ذات صلة. بل أن بيانات المهمة التي لا يتم توثيقها أبداً كالتزامات قابلة للتنفيذ تخلق بالضبط نوع الفجوة في المسؤولية التي تؤدي إلى دعاوى قضائية باهظة التكلفة، حتى عندما تفشل تلك الدعاوى في النهاية."
+           ]
+         },
+         {
+           "name": "قانون الذكاء الاصطناعي في الإمارات العربية المتحدة لعام 2026: الالتزامات التنفيذية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يُعد قانون الذكاء الاصطناعي في الإمارات العربية المتحدة لعام 2026، الذي دخل حيز التنفيذ في مارس 2026، الإطار المحلي الأساسي الذي يحكم مسؤولية الذكاء الاصطناعي في الإمارات العربية المتحدة. ويحدد تصنيفًا للمخاطر من أربعة مستويات لأنظمة الذكاء الاصطناعي: المخاطر الدنيا، والمخاطر المحدودة، والمخاطر العالية، والمخاطر غير المقبولة. ويحدد التصنيف التزامات الامتثال المرتبطة به.",
+             "تتحمل أنظمة الذكاء الاصطناعي عالية المخاطر، التي تشمل التطبيقات في الرعاية الصحية والخدمات المالية والتوظيف والتقييم التعليمي وإدارة البنية التحتية الحيوية وإنفاذ القانون ومراقبة الحدود، الالتزامات الأكثر صرامة. وتشمل هذه الالتزامات تقييمات المطابقة الإلزامية، والوثائق الفنية، ومتطلبات حوكمة البيانات، وآليات الإشراف البشري، ومعايير الدقة والمتانة، والتزامات المراقبة بعد طرح المنتج في السوق. ويقع الموعد النهائي للتقييم الذاتي للأنظمة عالية المخاطر في سبتمبر 2026.",
+             "تصل غرامات عدم الامتثال إلى 10 ملايين درهم إماراتي لكل مخالفة. وعندما ينطوي عدم الامتثال على نظام ذكاء اصطناعي يتسبب في ضرر مادي، فإن إطار العقوبات يعمل جنبًا إلى جنب مع المسؤولية المدنية بموجب قانون المعاملات المدنية في الإمارات العربية المتحدة، والذي قد يسمح للأطراف المتضررة بالمطالبة بالتعويضات بشكل مستقل عن الإجراءات التنظيمية. يجب ألا تعامل الشركات مبلغ 10 ملايين درهم إماراتي كحد أقصى للمخاطر الإجمالية. إنه حد أدنى للمسؤولية التنظيمية فقط."
+           ]
+         },
+         {
+           "name": "النطاق خارج الحدود الإقليمية: قانون الاتحاد الأوروبي للذكاء الاصطناعي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "يصبح قانون الاتحاد الأوروبي للذكاء الاصطناعي ساري المفعول بالكامل في 2 أغسطس 2026. ونطاقه خارج الحدود الإقليمية واضح: يخضع للقانون أي مزود ينتج نظامه للذكاء الاصطناعي مخرجات تُستخدم داخل الاتحاد الأوروبي، بغض النظر عن مكان تأسيس أو تسجيل ذلك المزود. وبالنسبة لشركات دول مجلس التعاون الخليجي التي لديها علاقات تجارية أوروبية، أو اتفاقيات توزيع، أو خدمات رقمية يصل إليها مستخدمون أوروبيون، فإن الامتثال لقانون الاتحاد الأوروبي للذكاء الاصطناعي ليس اختياريًا.",
+             "تتطلب التزامات الشفافية المنصوص عليها في القانون أن يتم تمييز المحتوى الذي تم إنشاؤه بواسطة الذكاء الاصطناعي على هذا النحو في حالات استخدام معينة، وأن يتم إعلام مستخدمي أنظمة الذكاء الاصطناعي عالية المخاطر بأنهم يتفاعلون مع الذكاء الاصطناعي. تنطبق هذه الالتزامات على كل من القائمين بالنشر والمطورين. تعتبر شركة دول مجلس التعاون الخليجي التي تحصل على ترخيص لأدوات الذكاء الاصطناعي من مزود خارجي وتقوم بنشرها في تطبيقات موجهة للعملاء ",
+             " بالمعنى المقصود في القانون، وتتحمل الالتزامات المقابلة."
+           ]
+         },
+         {
+           "name": "وثائق الحوكمة: الالتزام العملي",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تتلاقى دعوى OpenAI والأطر التنظيمية في الإمارات العربية المتحدة والاتحاد الأوروبي في نقطة عملية واحدة: أهمية وثائق الحوكمة. الفجوة بين ما تنص عليه المبادئ المنشورة لنظام الذكاء الاصطناعي وما يفعله فعليًا هي مسألة تتعلق بالامتثال، وليست مجرد مسألة تتعلق بالسمعة. يجب على مجالس الإدارة التأكد من مراجعة سياسات حوكمة الذكاء الاصطناعي من قبل المستشار القانوني للتأكد من اتساقها الداخلي، وأن الالتزامات التي تنشئها مفهومة من قبل الفرق الفنية والتشغيلية، وأن المراقبة بعد النشر كافية لتحديد أي تباين في وقت مبكر.",
+             "بالنسبة للشركات في دول مجلس التعاون الخليجي التي لا تزال في المراحل الأولى من رحلتها في حوكمة الذكاء الاصطناعي، فإن نقطة البداية الأكثر عملية هي جرد النظام: تحديد كل تطبيق للذكاء الاصطناعي قيد الاستخدام، وتصنيفه وفقًا لإطار قانون الذكاء الاصطناعي في الإمارات العربية المتحدة، وتوثيق أساس هذا التصنيف. هذه الوثائق هي في حد ذاتها أحد أصول الامتثال، وغيابها هو مؤشر مبكر على وجود مخاطر حوكمة نظامية."
+           ]
+         }
+       ]
+     },
+     "greek": {
+       "id": 18,
+       "name": "Ευθύνη και διακυβέρνηση της τεχνητής νοημοσύνης: Ποιος φέρει την ευθύνη όταν αποφασίζει ο αλγόριθμος;",
+       "date": "4th Jun, 2026",
+       "des": "Το κενό ευθύνης στον τομέα της τεχνητής νοημοσύνης έχει μετατραπεί από θεωρητική συζήτηση σε πραγματική κανονιστική υποχρέωση. Οι ανώτεροι νομικοί σύμβουλοι που παρέχουν συμβουλές σε διοικητικά συμβούλια και εσωτερικές ομάδες πρέπει να έχουν σαφή εικόνα σχετικά με το ποιος φέρει την ευθύνη το 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Το πρόβλημα της ευθύνης στο πλαίσιο",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Στις 18 Μαΐου 2026, μια επιτροπή ενόρκων στην Καλιφόρνια απέρριψε την αγωγή του Elon Musk κατά της OpenAI και του Sam Altman σε λιγότερο από δύο ώρες, κρίνοντας ότι οι αξιώσεις είχαν παραγραφεί σύμφωνα με τον ισχύοντα νόμο περί παραγραφής. Το διαδικαστικό αποτέλεσμα έκρυψε ένα πολύ πιο σημαντικό ζήτημα διακυβέρνησης που παραμένει αναπάντητο: όταν ένας οργανισμός χτίζει ολόκληρη την εμπορική του ταυτότητα γύρω από μια δηλωμένη δημόσια αποστολή και στη συνέχεια αναδιαρθρώνεται αθόρυβα για να κερδοσκοπήσει από αυτή την αποστολή προς ιδιωτικό όφελος, ποιες νομικές υποχρεώσεις έχει απέναντι σε όσους βασίστηκαν σε αυτή τη δήλωση;",
+             "Η επιτροπή ενόρκων δεν έφτασε ποτέ στο ουσιαστικό ζήτημα. Η νομική ομάδα της OpenAI απέδειξε στις τελικές αγορεύσεις ότι οι δωρεές ήταν χωρίς περιορισμούς και ότι δεν είχε δοθεί καμία δεσμευτική υπόσχεση για τη διατήρηση της μη κερδοσκοπικής δομής. Και οι δύο προτάσεις μπορεί να είναι νομικά ακριβείς. Δεν επιλύουν το ζήτημα αν η αποτυχία στη διακυβέρνηση ήταν προσβλητή βάσει διαφορετικής θεωρίας, σε διαφορετική δικαιοδοσία ή έναντι διαφορετικά διατυπωμένου ιδρυτικού εγγράφου.",
+             "Για τους εσωτερικούς νομικούς συμβούλους και τα διοικητικά συμβούλια που παρέχουν συμβουλές σχετικά με τη διακυβέρνηση της τεχνητής νοημοσύνης, το δίδαγμα δεν είναι ότι οι δηλώσεις αποστολής είναι άσχετες. Είναι ότι οι δηλώσεις αποστολής που δεν τεκμηριώνονται ποτέ ως εκτελεστές δεσμεύσεις δημιουργούν ακριβώς το είδος του κενού ευθύνης που οδηγεί σε δαπανηρές δικαστικές διαμάχες, ακόμη και όταν αυτές τελικά αποτυγχάνουν."
+           ]
+         },
+         {
+           "name": "Ο Νόμος για την ΤΝ των ΗΑΕ του 2026: Λειτουργικές υποχρεώσεις",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ο Νόμος για την ΤΝ των ΗΑΕ του 2026, ο οποίος τέθηκε σε ισχύ τον Μάρτιο του 2026, αποτελεί το κύριο εθνικό πλαίσιο που διέπει την ευθύνη για την ΤΝ στα ΗΑΕ. Καθορίζει μια τετραβάθμια ταξινόμηση κινδύνου για τα συστήματα ΤΝ: ελάχιστος κίνδυνος, περιορισμένος κίνδυνος, υψηλός κίνδυνος και απαράδεκτος κίνδυνος. Η ταξινόμηση καθορίζει τις υποχρεώσεις συμμόρφωσης που επιβάλλονται.",
+             "Τα συστήματα τεχνητής νοημοσύνης υψηλού κινδύνου, τα οποία ορίζονται ως εφαρμογές στους τομείς της υγειονομικής περίθαλψης, των χρηματοοικονομικών υπηρεσιών, της απασχόλησης και της πρόσληψης, της εκπαιδευτικής αξιολόγησης, της διαχείρισης κρίσιμων υποδομών, της επιβολής του νόμου και του συνοριακού ελέγχου, φέρουν τις πιο απαιτητικές υποχρεώσεις. Αυτές περιλαμβάνουν υποχρεωτικές αξιολογήσεις συμμόρφωσης, τεχνική τεκμηρίωση, απαιτήσεις διακυβέρνησης δεδομένων, μηχανισμούς ανθρώπινης εποπτείας, πρότυπα ακρίβειας και ανθεκτικότητας, καθώς και υποχρεώσεις παρακολούθησης μετά τη διάθεση στην αγορά. Η προθεσμία αυτοαξιολόγησης για τα συστήματα υψηλού κινδύνου λήγει τον Σεπτέμβριο του 2026.",
+             "Οι κυρώσεις για μη συμμόρφωση φτάνουν τα 10 εκατομμύρια AED ανά παράβαση. Όταν η μη συμμόρφωση αφορά σύστημα τεχνητής νοημοσύνης που προκαλεί ουσιώδη βλάβη, το πλαίσιο κυρώσεων λειτουργεί παράλληλα με την αστική ευθύνη βάσει του Νόμου περί Αστικών Συναλλαγών των ΗΑΕ, ο οποίος μπορεί να επιτρέπει στα θιγόμενα μέρη να ζητήσουν αποζημίωση ανεξάρτητα από ρυθμιστικές ενέργειες. Οι εταιρείες δεν πρέπει να αντιμετωπίζουν το ποσό των 10 εκατομμυρίων AED ως ανώτατο όριο της συνολικής έκθεσης. Αποτελεί κατώτατο όριο μόνο για τη ρυθμιστική ευθύνη."
+           ]
+         },
+         {
+           "name": "Εξωεδαφική εμβέλεια: Ο νόμος της ΕΕ για την τεχνητή νοημοσύνη",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ο νόμος της ΕΕ για την τεχνητή νοημοσύνη τίθεται πλήρως σε ισχύ στις 2 Αυγούστου 2026. Το εξωεδαφικό πεδίο εφαρμογής του είναι σαφές: κάθε πάροχος του οποίου το σύστημα τεχνητής νοημοσύνης παράγει αποτελέσματα που χρησιμοποιούνται εντός της Ευρωπαϊκής Ένωσης υπόκειται στον νόμο, ανεξάρτητα από τον τόπο σύστασης ή εγκατάστασης του εν λόγω παρόχου. Για τις εταιρείες του Συμβουλίου Συνεργασίας του Κόλπου (GCC) που έχουν εμπορικές σχέσεις με την Ευρώπη, συμφωνίες διανομής ή ψηφιακές υπηρεσίες στις οποίες έχουν πρόσβαση Ευρωπαίοι χρήστες, η συμμόρφωση με τον νόμο της ΕΕ για την τεχνητή νοημοσύνη δεν είναι προαιρετική.",
+             "Οι υποχρεώσεις διαφάνειας του νόμου απαιτούν το περιεχόμενο που παράγεται από τεχνητή νοημοσύνη να επισημαίνεται ως τέτοιο σε συγκεκριμένες περιπτώσεις χρήσης, και οι χρήστες συστημάτων τεχνητής νοημοσύνης υψηλού κινδύνου να ενημερώνονται ότι αλληλεπιδρούν με τεχνητή νοημοσύνη. Αυτές οι υποχρεώσεις ισχύουν τόσο για τους χρήστες όσο και για τους προγραμματιστές. Μια επιχείρηση του ΣΣΚ που αποκτά άδεια χρήσης εργαλείων τεχνητής νοημοσύνης από τρίτο πάροχο και τα χρησιμοποιεί σε εφαρμογές που απευθύνονται σε πελάτες αποτελεί χρήστη κατά την έννοια του νόμου και φέρει τις αντίστοιχες υποχρεώσεις."
+           ]
+         },
+         {
+           "name": "Τεκμηρίωση διακυβέρνησης: Η πρακτική υποχρέωση",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Η δικαστική διαμάχη της OpenAI και τα ρυθμιστικά πλαίσια των ΗΑΕ και της ΕΕ συγκλίνουν σε ένα μόνο πρακτικό σημείο: η τεκμηρίωση της διακυβέρνησης έχει σημασία. Το χάσμα μεταξύ του τι δηλώνει ότι θα κάνει ένα σύστημα τεχνητής νοημοσύνης σύμφωνα με τις δημοσιευμένες αρχές του και του τι κάνει στην πραγματικότητα αποτελεί θέμα συμμόρφωσης, όχι απλώς θέμα φήμης. Τα διοικητικά συμβούλια πρέπει να διασφαλίζουν ότι οι πολιτικές διακυβέρνησης της τεχνητής νοημοσύνης ελέγχονται από νομικό σύμβουλο ως προς την εσωτερική τους συνέπεια, ότι οι υποχρεώσεις που δημιουργούν γίνονται κατανοητές από τις τεχνικές και επιχειρησιακές ομάδες και ότι η παρακολούθηση μετά την ανάπτυξη είναι επαρκής για την έγκαιρη αναγνώριση αποκλίσεων.",
+             "Για τις επιχειρήσεις στον ΣΣΚ που βρίσκονται στα πρώτα στάδια της πορείας τους προς τη διακυβέρνηση της τεχνητής νοημοσύνης, το πιο πρακτικό σημείο εκκίνησης είναι η απογραφή του συστήματος: εντοπισμός κάθε εφαρμογής τεχνητής νοημοσύνης που χρησιμοποιείται, ταξινόμησή της σύμφωνα με το πλαίσιο του νόμου για την τεχνητή νοημοσύνη των ΗΑΕ και τεκμηρίωση της βάσης για την εν λόγω ταξινόμηση. Η εν λόγω τεκμηρίωση αποτελεί από μόνη της περιουσιακό στοιχείο συμμόρφωσης, ενώ η απουσία της αποτελεί πρώιμο δείκτη συστημικού κινδύνου διακυβέρνησης."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 18,
+       "name": "Responsabilità e governance dell'IA: chi è responsabile quando è l'algoritmo a decidere?",
+       "date": "4th Jun, 2026",
+       "des": "Il problema della responsabilità nell'ambito dell'intelligenza artificiale è passato dall'essere un dibattito teorico a diventare un obbligo normativo concreto. I consulenti legali senior che assistono i consigli di amministrazione e i team interni devono avere un quadro chiaro di chi sarà responsabile nel 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Il problema della responsabilità nel contesto",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il 18 maggio 2026, una giuria della California ha respinto la causa intentata da Elon Musk contro OpenAI e Sam Altman in meno di due ore, ritenendo che le richieste fossero prescritte ai sensi della normativa applicabile. L'esito procedurale ha mascherato una questione di governance ben più significativa che rimane senza risposta: quando un'organizzazione costruisce la propria identità commerciale attorno a una missione pubblica dichiarata e poi si ristruttura silenziosamente per monetizzare tale missione a proprio vantaggio, quali obblighi legali ha nei confronti di coloro che hanno fatto affidamento su tale dichiarazione?",
+             "La giuria non è mai entrata nel merito. Il team legale di OpenAI ha stabilito nelle argomentazioni finali che le donazioni erano senza vincoli e che non era stata fatta alcuna promessa vincolante di mantenere la struttura senza scopo di lucro. Entrambe le affermazioni possono essere giuridicamente corrette. Esse non risolvono la questione se il fallimento della governance fosse perseguibile in base a una teoria diversa, in una giurisdizione diversa o in relazione a un documento costitutivo redatto in modo diverso.",
+             "Per i consulenti legali interni e i consigli di amministrazione che forniscono consulenza sulla governance dell'IA, la lezione non è che le dichiarazioni di missione siano irrilevanti. È che le dichiarazioni di missione che non vengono mai documentate come impegni esecutivi creano esattamente quel tipo di lacuna di responsabilità che genera costosi contenziosi, anche quando tali contenziosi alla fine falliscono."
+           ]
+         },
+         {
+           "name": "La legge sull'IA degli Emirati Arabi Uniti del 2026: obblighi operativi",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La legge sull'IA degli Emirati Arabi Uniti del 2026, entrata in vigore nel marzo 2026, è il principale quadro normativo nazionale che disciplina la responsabilità in materia di IA negli Emirati Arabi Uniti. Essa stabilisce una classificazione del rischio a quattro livelli per i sistemi di IA: rischio minimo, rischio limitato, rischio elevato e rischio inaccettabile. La classificazione determina gli obblighi di conformità che ne derivano.",
+             "I sistemi di IA ad alto rischio, definiti in modo da includere applicazioni nei settori della sanità, dei servizi finanziari, dell’occupazione e del reclutamento, della valutazione educativa, della gestione delle infrastrutture critiche, delle forze dell’ordine e del controllo delle frontiere, comportano gli obblighi più stringenti. Questi includono valutazioni di conformità obbligatorie, documentazione tecnica, requisiti di governance dei dati, meccanismi di supervisione umana, standard di accuratezza e robustezza e obblighi di monitoraggio post-commercializzazione. Il termine per l’autovalutazione dei sistemi ad alto rischio scade a settembre 2026.",
+             "Le sanzioni per la non conformità raggiungono i 10 milioni di AED per ogni violazione. Laddove la non conformità coinvolga un sistema di IA che causi un danno materiale, il quadro sanzionatorio opera parallelamente alla responsabilità civile ai sensi della Legge sulle transazioni civili degli Emirati Arabi Uniti, che può consentire alle parti interessate di richiedere il risarcimento dei danni indipendentemente dall’azione normativa. Le aziende non dovrebbero considerare la cifra di 10 milioni di AED come un limite massimo dell’esposizione totale. Si tratta solo di un limite minimo della responsabilità normativa."
+           ]
+         },
+         {
+           "name": "Portata extraterritoriale: la legge UE sull'IA",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La legge UE sull'IA entrerà pienamente in vigore il 2 agosto 2026. La sua portata extraterritoriale è esplicita: qualsiasi fornitore il cui sistema di IA produca output utilizzati all'interno dell'Unione Europea è soggetto alla legge, indipendentemente dal luogo in cui tale fornitore sia costituito o stabilito. Per le aziende del CCG con relazioni commerciali europee, accordi di distribuzione o servizi digitali accessibili agli utenti europei, la conformità alla legge UE sull'IA non è facoltativa.",
+             "Gli obblighi di trasparenza previsti dalla legge richiedono che i contenuti generati dall'IA siano etichettati come tali in determinati casi d'uso e che gli utenti di sistemi di IA ad alto rischio siano informati del fatto che stanno interagendo con un'IA. Questi obblighi si applicano sia ai distributori che agli sviluppatori. Un'azienda del CCG che acquisisce in licenza strumenti di IA da un fornitore terzo e li implementa in applicazioni rivolte ai clienti è un distributore ai sensi della legge e ha i corrispondenti obblighi."
+           ]
+         },
+         {
+           "name": "Documentazione sulla governance: l'obbligo pratico",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Il contenzioso OpenAI e i quadri normativi degli Emirati Arabi Uniti e dell'UE convergono su un unico punto pratico: la documentazione sulla governance è importante. Il divario tra ciò che i principi pubblicati di un sistema di IA dicono che farà e ciò che effettivamente fa è una questione di conformità, non solo di reputazione. I consigli di amministrazione dovrebbero garantire che le politiche di governance dell'IA siano esaminate da un consulente legale per verificarne la coerenza interna, che gli obblighi che esse creano siano compresi dai team tecnici e operativi e che il monitoraggio post-implementazione sia sufficiente per identificare tempestivamente eventuali divergenze.",
+             "Per le aziende del CCG che sono all'inizio del loro percorso di governance dell'IA, il punto di partenza più pratico è un inventario del sistema: identificare ogni applicazione di IA in uso, classificarla in base al quadro normativo della legge sull'IA degli Emirati Arabi Uniti e documentare le basi di tale classificazione. Tale documentazione è di per sé una risorsa di conformità e la sua assenza è un indicatore precoce di rischio sistemico di governance."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 18,
+       "name": "Responsabilité et gouvernance en matière d'IA : qui est responsable lorsque l'algorithme prend la décision ?",
+       "date": "4th Jun, 2026",
+       "des": "La question de la responsabilité en matière d'intelligence artificielle est passée du stade du débat théorique à celui d'une obligation réglementaire concrète. Les juristes seniors qui conseillent les conseils d'administration et les équipes juridiques internes doivent avoir une vision claire de la répartition des responsabilités en 2026.",
+       "img": "../assets/images/news/new15.jpeg",
+       "content": [{
+           "name": "",
+           "small": "By: Jonathan Hirasawa Ashton – Managing Partner, UAE",
+           "smallBold": "",
+           "des": []
+         },
+         {
+           "name": "Le problème de la responsabilité dans son contexte",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le 18 mai 2026, un jury californien a rejeté en moins de deux heures le procès intenté par Elon Musk contre OpenAI et Sam Altman, estimant que les plaintes étaient prescrites en vertu du délai de prescription applicable. L'issue procédurale a masqué une question de gouvernance bien plus importante qui reste sans réponse : lorsqu'une organisation construit toute son identité commerciale autour d'une mission publique déclarée, puis se restructure discrètement pour monétiser cette mission à des fins privées, quelles obligations légales a-t-elle envers ceux qui se sont fiés à cette déclaration ?",
+             "Le jury n'a jamais examiné le fond de l'affaire. L'équipe juridique d'OpenAI a établi dans ses conclusions finales que les dons étaient sans restriction et qu'aucune promesse contraignante n'avait été faite de maintenir la structure à but non lucratif. Ces deux affirmations sont peut-être juridiquement exactes. Elles ne permettent toutefois pas de déterminer si la défaillance de gouvernance était susceptible de donner lieu à une action en justice en vertu d’une théorie différente, dans une juridiction différente, ou au regard d’un acte constitutif rédigé différemment.",
+             "Pour les juristes d’entreprise et les conseils d’administration chargés de conseiller sur la gouvernance de l’IA, la leçon à tirer n’est pas que les déclarations de mission sont sans importance. Elle est que les déclarations de mission qui ne sont jamais consignées sous forme d’engagements exécutoires créent précisément le type de vide juridique en matière de responsabilité qui engendre des litiges coûteux, même lorsque ces litiges aboutissent finalement à un échec."
+           ]
+         },
+         {
+           "name": "La loi de 2026 des Émirats arabes unis sur l’IA : obligations opérationnelles",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La loi de 2026 des Émirats arabes unis sur l’IA, entrée en vigueur en mars 2026, constitue le principal cadre national régissant la responsabilité en matière d’IA aux Émirats arabes unis. Elle établit une classification des risques en quatre niveaux pour les systèmes d’IA : risque minimal, risque limité, risque élevé et risque inacceptable. Cette classification détermine les obligations de conformité qui s’y rattachent.",
+             "Les systèmes d'IA à haut risque, définis comme incluant les applications dans les domaines de la santé, des services financiers, de l'emploi et du recrutement, de l'évaluation éducative, de la gestion des infrastructures critiques, de l'application de la loi et du contrôle des frontières, sont soumis aux obligations les plus strictes. Celles-ci comprennent des évaluations de conformité obligatoires, une documentation technique, des exigences en matière de gouvernance des données, des mécanismes de supervision humaine, des normes de précision et de robustesse, ainsi que des obligations de surveillance post-commercialisation. La date limite pour l'auto-évaluation des systèmes à haut risque est fixée à septembre 2026.",
+             "Les sanctions en cas de non-conformité peuvent atteindre 10 millions d'AED par infraction. Lorsque la non-conformité concerne un système d'IA causant un préjudice matériel, le régime de sanctions s'applique parallèlement à la responsabilité civile prévue par la loi sur les transactions civiles des Émirats arabes unis, qui peut permettre aux parties lésées de demander des dommages-intérêts indépendamment de toute action réglementaire. Les entreprises ne doivent pas considérer le montant de 10 millions d'AED comme un plafond de leur exposition totale. Il s'agit uniquement d'un seuil minimal de responsabilité réglementaire."
+           ]
+         },
+         {
+           "name": "Portée extraterritoriale : la loi européenne sur l'IA",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La loi européenne sur l'IA entrera pleinement en vigueur le 2 août 2026. Son champ d'application extraterritorial est explicite : tout fournisseur dont le système d'IA produit des résultats utilisés au sein de l'Union européenne est soumis à la loi, quel que soit le lieu où ce fournisseur est constitué ou établi. Pour les entreprises du CCG ayant des relations commerciales avec l'Europe, des accords de distribution ou des services numériques accessibles aux utilisateurs européens, la conformité à la loi européenne sur l'IA n'est pas facultative.",
+             "Les obligations de transparence de la loi exigent que le contenu généré par l'IA soit étiqueté comme tel dans certains cas d'utilisation, et que les utilisateurs de systèmes d'IA à haut risque soient informés qu'ils interagissent avec une IA. Ces obligations s'appliquent aussi bien aux déployeurs qu'aux développeurs. Une entreprise du CCG qui acquiert sous licence des outils d'IA auprès d'un fournisseur tiers et les déploie dans des applications destinées aux clients est un déployeur au sens de la loi et est soumise aux obligations correspondantes."
+           ]
+         },
+         {
+           "name": "Documentation relative à la gouvernance : l'obligation pratique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le litige OpenAI et les cadres réglementaires des Émirats arabes unis et de l'UE convergent sur un point pratique : la documentation relative à la gouvernance est importante. L'écart entre ce qu'un système d'IA promet de faire selon ses principes publiés et ce qu'il fait réellement constitue un risque de non-conformité, et pas seulement un risque pour la réputation. Les conseils d'administration doivent s'assurer que les politiques de gouvernance de l'IA sont examinées par un conseiller juridique pour vérifier leur cohérence interne, que les obligations qu'elles créent sont comprises par les équipes techniques et opérationnelles, et que la surveillance post-déploiement est suffisante pour identifier rapidement toute divergence.",
+             "Pour les entreprises du CCG qui en sont aux prémices de leur parcours en matière de gouvernance de l'IA, le point de départ le plus pratique est un inventaire des systèmes : identifier chaque application d'IA en usage, la classer selon le cadre de la loi sur l'IA des Émirats arabes unis et documenter le fondement de cette classification. Cette documentation constitue en soi un atout de conformité, et son absence est un indicateur précoce d'un risque systémique de gouvernance."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
+       "id": 17,
+       "name": "Why NDAs Matter More Than Ever (and What to Include in One)",
+       "date": "14th May, 2026",
+       "des": "This is where a Non Disclosure Agreement (NDA) comes in.",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
+
+           "smallBold": " ",
+           "des": [
+             "In today’s business world, information is often more valuable than physical assets. Whether you’re sharing a business idea, client data, financial information, or internal strategies, there is always a level of risk involved. One conversation, one email, or one document shared without protection can lead to serious consequences.",
+             "An NDA is not just a formality; it is a practical legal tool that allows individuals and businesses to share information while setting clear boundaries. It helps establish trust at an early stage, whether you are hiring an employee, working with a freelancer, or entering into business discussions."
+           ]
+         },
+         {
+           "name": "So why should you use an NDA?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Simply put: to protect what gives you value. An NDA helps prevent the misuse of sensitive information and provides legal grounds to take action if that trust is broken. It also sets expectations from the beginning, which can help avoid misunderstandings later on."
+           ]
+         },
+         {
+           "name": "Types of NDAs",
+           "small": "In practice, there are three main types of NDAs:",
+           "smallBold": "",
+           "des": ["• Unilateral (One Way) NDA: This is the most commonly used type. One party shares information, and the other agrees to keep it confidential. You will typically see this in employment or consultancy arrangements.",
+             "• Mutual (Bilateral) NDA: Here, both parties share confidential information, and both are obligated to protect it. This is common in partnerships, collaborations, and business negotiations.",
+             "• Multilateral NDA: This involves three or more parties. Instead of signing multiple agreements, all parties sign a single NDA. It is often used in complex projects or joint ventures."
+           ]
+         },
+         {
+           "name": "What Should Every NDA Include?",
+           "small": "A strong NDA is not about length; it is about clarity. The key clauses usually include:",
+           "smallBold": "",
+
+           "des": [
+             "• Definition of confidential information: Clearly specify what information is protected.",
+             "• Permitted use of the information: Limit the use of the information to a specific purpose.",
+             "• Obligations of the receiving party: Explain how the receiving party should handle and protect the information.",
+             "• Exclusions from confidentiality: For example, information that is already publicly available.",
+             "• Duration: Specify how long the confidentiality obligations remain in effect.",
+             "• No license clause: Clarify that sharing information does not grant ownership rights or intellectual property licenses.",
+             "• Return or deletion of information: State what happens to the information once the relationship ends.",
+             "• Consequences of breach: Explain what happens if the agreement is violated.",
+             "• Governing law: Identify which legal system will apply."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "NDAs are often overlooked or treated as routine paperwork, but they play a critical role in shaping how business relationships begin and develop. In many cases, they are the first legal step before any meaningful exchange of information takes place.",
+             "A well drafted NDA does more than protect confidential information. It clearly defines expectations, reduces uncertainty, and helps prevent misunderstandings between parties. It ensures that sensitive information is shared within a controlled and legally protected framework, which is especially important during early stage discussions, partnerships, or investment negotiations.",
+             "More importantly, NDAs help build a foundation of trust. When both parties understand that clear legal boundaries are in place, they are more likely to communicate openly and explore opportunities with confidence. In this way, an NDA is not just a protective document; it is also an enabler of collaboration and growth."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 17,
+       "name": "لماذا أصبحت اتفاقيات عدم الإفشاء أكثر أهمية من أي وقت مضى (وما الذي يجب تضمينه فيها)",
+       "date": "14 مايو، 2026",
+       "des": "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "في عالم الأعمال اليوم، غالبًا ما تكون المعلومات أكثر قيمة من الأصول المادية. وسواء كنت تشارك فكرة تجارية أو بيانات عملاء أو معلومات مالية أو استراتيجيات داخلية، فهناك دائمًا قدر من المخاطرة. فمجرد محادثة واحدة أو رسالة بريد إلكتروني واحدة أو مستند واحد يتم مشاركته دون حماية يمكن أن يؤدي إلى عواقب وخيمة.",
+             "وهنا يأتي دور اتفاقية عدم الإفشاء (NDA).",
+             "اتفاقية عدم الإفشاء ليست مجرد إجراء شكلي؛ بل هي أداة قانونية عملية تسمح للأفراد والشركات بمشاركة المعلومات مع وضع حدود واضحة. فهي تساعد في بناء الثقة في مرحلة مبكرة، سواء كنت تقوم بتعيين موظف، أو تعمل مع متعاقد مستقل، أو تدخل في مفاوضات تجارية."
+           ]
+         },
+         {
+           "name": "فلماذا يجب عليك استخدام اتفاقية عدم الإفشاء؟",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ببساطة: لحماية ما يمنحك القيمة. تساعد اتفاقية عدم الإفشاء (NDA) على منع إساءة استخدام المعلومات الحساسة وتوفر أساسًا قانونيًا لاتخاذ الإجراءات اللازمة في حالة خرق تلك الثقة. كما أنها تحدد التوقعات منذ البداية، مما يساعد على تجنب سوء الفهم لاحقًا."
+           ]
+         },
+         {
+           "name": "أنواع اتفاقيات عدم الإفشاء (NDA)",
+           "small": "في الممارسة العملية، هناك ثلاثة أنواع رئيسية من اتفاقيات عدم الإفشاء (NDA):",
+           "smallBold": "",
+           "des": [
+             "• اتفاقية عدم الإفشاء (NDA) أحادية الجانب (أحادية الاتجاه): هذا هو النوع الأكثر استخدامًا. يشارك أحد الطرفين المعلومات، ويوافق الطرف الآخر على الحفاظ على سريتها. عادةً ما ترى هذا في ترتيبات التوظيف أو الاستشارات.",
+             "• اتفاقية عدم الإفشاء المتبادلة (ثنائية): هنا، يشارك الطرفان المعلومات السرية، وكلاهما ملزم بحمايتها. هذا شائع في الشراكات والتعاون والمفاوضات التجارية.",
+             "• اتفاقية عدم الإفشاء متعددة الأطراف: تشمل هذه ثلاثة أطراف أو أكثر. بدلاً من توقيع اتفاقيات متعددة، يوقع جميع الأطراف على اتفاقية عدم إفشاء واحدة. غالبًا ما تُستخدم في المشاريع المعقدة أو المشاريع المشتركة."
+           ]
+         },
+         {
+           "name": "ما الذي يجب أن تتضمنه كل اتفاقية عدم إفشاء؟",
+           "small": "لا تتوقف قوة اتفاقية عدم الإفشاء على طولها، بل على وضوحها. وعادةً ما تتضمن البنود الرئيسية ما يلي:",
+           "smallBold": "",
+           "des": [
+             "• تعريف المعلومات السرية: حدد بوضوح المعلومات التي يتم حمايتها.",
+             "• الاستخدام المسموح به للمعلومات: قصر استخدام المعلومات على غرض محدد.",
+             "• التزامات الطرف المتلقي: اشرح كيف يجب على الطرف المتلقي التعامل مع المعلومات وحمايتها.",
+             "• الاستثناءات من السرية: على سبيل المثال، المعلومات المتاحة للجمهور بالفعل.",
+             "• المدة: حدد المدة التي تظل فيها التزامات السرية سارية المفعول.",
+             "• بند عدم الترخيص: أوضح أن مشاركة المعلومات لا تمنح حقوق ملكية أو تراخيص ملكية فكرية.",
+             "• إعادة المعلومات أو حذفها: حدد ما يحدث للمعلومات بمجرد انتهاء العلاقة.",
+             "• عواقب الإخلال: اشرح ما يحدث في حالة انتهاك الاتفاقية.",
+             "• القانون الحاكم: حدد النظام القانوني الذي سيتم تطبيقه."
+           ]
+         },
+         {
+           "name": "الخلاصة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "غالبًا ما يتم تجاهل اتفاقيات عدم الإفشاء أو التعامل معها على أنها إجراءات روتينية، لكنها تلعب دورًا حاسمًا في تشكيل كيفية بدء العلاقات التجارية وتطورها. في كثير من الحالات، تمثل هذه الاتفاقيات الخطوة القانونية الأولى قبل إجراء أي تبادل ذي مغزى للمعلومات.",
+             "تقوم اتفاقية عدم الإفشاء المصاغة جيدًا بأكثر من مجرد حماية المعلومات السرية. فهي تحدد التوقعات بوضوح، وتقلل من عدم اليقين، وتساعد على منع سوء الفهم بين الأطراف. فهي تضمن مشاركة المعلومات الحساسة ضمن إطار عمل خاضع للرقابة ومحمي قانونياً، وهو أمر مهم بشكل خاص خلال المناقشات في المراحل المبكرة، أو الشراكات، أو مفاوضات الاستثمار.",
+             "والأهم من ذلك، تساعد اتفاقيات عدم الإفشاء في بناء أساس من الثقة. فعندما يدرك الطرفان وجود حدود قانونية واضحة، يزداد احتمال تواصلهما بصراحة واستكشاف الفرص بثقة. وبهذه الطريقة، لا تكون اتفاقية عدم الإفشاء مجرد وثيقة وقائية؛ بل هي أيضاً عامل مساعد على التعاون والنمو."
+           ]
+         }
+       ]
+     },
+     "greek": {
+       "id": 17,
+       "name": "Γιατί οι συμφωνίες εμπιστευτικότητας (NDA) είναι πιο σημαντικές από ποτέ (και τι πρέπει να περιλαμβάνουν)",
+       "date": "14th May, 2026",
+       "des": "Εδώ είναι που μπαίνει στο παιχνίδι η Συμφωνία Μη Αποκάλυψης (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
+           "smallBold": "",
+           "des": [
+             "Στον σημερινό επιχειρηματικό κόσμο, οι πληροφορίες είναι συχνά πιο πολύτιμες από τα υλικά περιουσιακά στοιχεία. Είτε μοιράζεστε μια επιχειρηματική ιδέα, δεδομένα πελατών, οικονομικές πληροφορίες ή εσωτερικές στρατηγικές, πάντα υπάρχει κάποιος βαθμός κινδύνου. Μια συζήτηση, ένα email ή ένα έγγραφο που μοιράζεται χωρίς προστασία μπορεί να οδηγήσει σε σοβαρές συνέπειες.",
+             "Μια NDA δεν είναι απλώς μια τυπική διαδικασία· είναι ένα πρακτικό νομικό εργαλείο που επιτρέπει σε άτομα και επιχειρήσεις να μοιράζονται πληροφορίες, θέτοντας παράλληλα σαφή όρια. Βοηθά στην εδραίωση της εμπιστοσύνης από νωρίς, είτε προσλαμβάνετε έναν υπάλληλο, συνεργάζεστε με έναν ελεύθερο επαγγελματία, είτε ξεκινάτε επιχειρηματικές συζητήσεις."
+           ]
+         },
+         {
+           "name": "Γιατί λοιπόν πρέπει να χρησιμοποιήσετε μια NDA;",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Με απλά λόγια: για να προστατεύσετε αυτό που σας προσφέρει αξία. Μια NDA βοηθά στην πρόληψη της κατάχρησης ευαίσθητων πληροφοριών και παρέχει νομική βάση για τη λήψη μέτρων σε περίπτωση παραβίασης αυτής της εμπιστοσύνης. Επίσης, καθορίζει τις προσδοκίες από την αρχή, κάτι που μπορεί να βοηθήσει στην αποφυγή παρεξηγήσεων αργότερα."
+           ]
+         },
+         {
+           "name": "Τύποι NDA",
+           "small": "Στην πράξη, υπάρχουν τρεις κύριοι τύποι NDA:",
+           "smallBold": "",
+           "des": [
+             "• Μονομερής (One Way) NDA: Αυτός είναι ο πιο συνηθισμένος τύπος. Το ένα μέρος μοιράζεται πληροφορίες και το άλλο συμφωνεί να τις διατηρήσει εμπιστευτικές. Αυτό συναντάται συνήθως σε συμβάσεις εργασίας ή συμβάσεις παροχής συμβουλευτικών υπηρεσιών.",
+             "• Αμοιβαία (διμερής) συμφωνία εμπιστευτικότητας: Εδώ, και τα δύο μέρη μοιράζονται εμπιστευτικές πληροφορίες και αμφότερα είναι υποχρεωμένα να τις προστατεύσουν. Αυτό είναι συνηθισμένο σε εταιρικές σχέσεις, συνεργασίες και επιχειρηματικές διαπραγματεύσεις.",
+             "• Πολυμερής συμφωνία εμπιστευτικότητας: Αυτή περιλαμβάνει τρία ή περισσότερα μέρη. Αντί να υπογράφουν πολλαπλές συμφωνίες, όλα τα μέρη υπογράφουν μία μόνο συμφωνία εμπιστευτικότητας. Χρησιμοποιείται συχνά σε σύνθετα έργα ή κοινοπραξίες."
+           ]
+         },
+         {
+           "name": "Τι πρέπει να περιλαμβάνει κάθε NDA;",
+           "small": "Μια ισχυρή NDA δεν έχει να κάνει με το μήκος, αλλά με τη σαφήνεια. Οι βασικές ρήτρες συνήθως περιλαμβάνουν:",
+           "smallBold": "",
+           "des": [
+             "• Ορισμός των εμπιστευτικών πληροφοριών: Προσδιορίστε με σαφήνεια ποιες πληροφορίες προστατεύονται.",
+             "• Επιτρεπόμενη χρήση των πληροφοριών: Περιορίστε τη χρήση των πληροφοριών σε συγκεκριμένο σκοπό.",
+             "• Υποχρεώσεις του παραλήπτη: Εξηγήστε πώς πρέπει ο παραλήπτης να χειρίζεται και να προστατεύει τις πληροφορίες.",
+             "• Εξαιρέσεις από την εμπιστευτικότητα: Για παράδειγμα, πληροφορίες που είναι ήδη διαθέσιμες στο κοινό.",
+             "• Διάρκεια: Προσδιορίστε για πόσο χρονικό διάστημα παραμένουν σε ισχύ οι υποχρεώσεις εμπιστευτικότητας.",
+             "• Ρήτρα μη παραχώρησης άδειας: Διευκρινίστε ότι η κοινοποίηση πληροφοριών δεν παραχωρεί δικαιώματα ιδιοκτησίας ή άδειες πνευματικής ιδιοκτησίας.",
+             "• Επιστροφή ή διαγραφή πληροφοριών: Αναφέρετε τι συμβαίνει με τις πληροφορίες μόλις λήξει η σχέση.",
+             "• Συνέπειες παραβίασης: Εξηγήστε τι συμβαίνει σε περίπτωση παραβίασης της συμφωνίας.",
+             "• Εφαρμοστέο δίκαιο: Προσδιορίστε ποιο νομικό σύστημα θα ισχύει."
+           ]
+         },
+         {
+           "name": "Συμπέρασμα",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Οι συμφωνίες εμπιστευτικότητας συχνά παραβλέπονται ή αντιμετωπίζονται ως συνηθισμένη γραφειοκρατία, αλλά διαδραματίζουν κρίσιμο ρόλο στη διαμόρφωση του τρόπου με τον οποίο ξεκινούν και αναπτύσσονται οι επιχειρηματικές σχέσεις. Σε πολλές περιπτώσεις, αποτελούν το πρώτο νομικό βήμα πριν από οποιαδήποτε ουσιαστική ανταλλαγή πληροφοριών.",
+             "Μια καλά συνταγμένη συμφωνία εμπιστευτικότητας δεν περιορίζεται στην προστασία εμπιστευτικών πληροφοριών. Καθορίζει με σαφήνεια τις προσδοκίες, μειώνει την αβεβαιότητα και συμβάλλει στην αποφυγή παρεξηγήσεων μεταξύ των μερών. Εξασφαλίζει ότι οι ευαίσθητες πληροφορίες κοινοποιούνται εντός ενός ελεγχόμενου και νομικά προστατευμένου πλαισίου, κάτι που είναι ιδιαίτερα σημαντικό κατά τη διάρκεια συζητήσεων σε αρχικό στάδιο, συνεργασιών ή διαπραγματεύσεων για επενδύσεις.",
+             "Ακόμη πιο σημαντικό, οι συμφωνίες εμπιστευτικότητας συμβάλλουν στη δημιουργία μιας βάσης εμπιστοσύνης. Όταν και τα δύο μέρη κατανοούν ότι υπάρχουν σαφή νομικά όρια, είναι πιο πιθανό να επικοινωνούν ανοιχτά και να διερευνούν ευκαιρίες με αυτοπεποίθηση. Με αυτόν τον τρόπο, μια συμφωνία εμπιστευτικότητας δεν είναι απλώς ένα προστατευτικό έγγραφο, αλλά και ένας καταλύτης συνεργασίας και ανάπτυξης."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 17,
+       "name": "Perché gli accordi di riservatezza sono più importanti che mai (e cosa includere in uno di essi)",
+       "date": "14th May, 2026",
+       "des": "È qui che entra in gioco un accordo di non divulgazione (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
+           "smallBold": " ",
+           "des": [
+             "Nel mondo degli affari odierno, le informazioni hanno spesso più valore dei beni materiali. Che si tratti di condividere un'idea imprenditoriale, i dati dei clienti, informazioni finanziarie o strategie interne, c'è sempre un certo livello di rischio. Una conversazione, un'e-mail o un documento condiviso senza protezione possono portare a gravi conseguenze.",
+             "È qui che entra in gioco un accordo di non divulgazione (NDA).",
+             "Un NDA non è solo una formalità; è uno strumento legale pratico che consente a individui e aziende di condividere informazioni stabilendo al contempo dei limiti chiari. Aiuta a instaurare la fiducia sin dalle prime fasi, sia che si tratti di assumere un dipendente, di lavorare con un libero professionista o di avviare trattative commerciali."
+           ]
+         },
+         {
+           "name": "Allora, perché dovreste utilizzare un NDA?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "In parole povere: per proteggere ciò che vi dà valore. Un NDA aiuta a prevenire l'uso improprio di informazioni sensibili e fornisce una base giuridica per agire qualora tale fiducia venisse tradita. Inoltre, definisce le aspettative fin dall'inizio, il che può aiutare a evitare malintesi in seguito."
+           ]
+         },
+         {
+           "name": "Tipi di NDA",
+           "small": "In pratica, esistono tre tipi principali di NDA:",
+           "smallBold": "",
+           "des": [
+             "• NDA unilaterale (a senso unico): è il tipo più comunemente utilizzato. Una parte condivide le informazioni e l'altra si impegna a mantenerle riservate. Questo tipo di accordo è tipico dei contratti di lavoro o di consulenza.",
+             "• Accordo di riservatezza reciproco (bilaterale): in questo caso, entrambe le parti condividono informazioni riservate ed entrambe sono obbligate a proteggerle. È comune nelle partnership, nelle collaborazioni e nelle trattative commerciali.",
+             "• Accordo di riservatezza multilaterale: coinvolge tre o più parti. Invece di firmare più accordi, tutte le parti firmano un unico accordo di riservatezza. Viene spesso utilizzato in progetti complessi o joint venture."
+           ]
+         },
+         {
+           "name": "Cosa dovrebbe includere ogni NDA?",
+           "small": "Un NDA efficace non dipende dalla lunghezza, ma dalla chiarezza. Le clausole chiave di solito includono:",
+           "smallBold": "",
+           "des": [
+             "• Definizione di informazioni riservate: specificare chiaramente quali informazioni sono protette.",
+             "• Uso consentito delle informazioni: limitare l'uso delle informazioni a uno scopo specifico.",
+             "• Obblighi della parte ricevente: spiegare come la parte ricevente deve gestire e proteggere le informazioni.",
+             "• Esclusioni dalla riservatezza: ad esempio, le informazioni già disponibili al pubblico.",
+             "• Durata: specificare per quanto tempo rimangono in vigore gli obblighi di riservatezza.",
+             "• Clausola di non concessione di licenze: chiarire che la condivisione delle informazioni non conferisce diritti di proprietà o licenze di proprietà intellettuale.",
+             "• Restituzione o cancellazione delle informazioni: indicare cosa succede alle informazioni una volta terminato il rapporto.",
+             "• Conseguenze della violazione: spiegare cosa succede se l'accordo viene violato.",
+             "• Legge applicabile: identificare quale ordinamento giuridico si applicherà."
+           ]
+         },
+         {
+           "name": "Conclusione",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli accordi di riservatezza (NDA) sono spesso trascurati o trattati come semplici formalità burocratiche, ma svolgono un ruolo fondamentale nel definire come iniziano e si sviluppano i rapporti commerciali. In molti casi, rappresentano il primo passo legale prima che abbia luogo qualsiasi scambio significativo di informazioni.",
+             "Un accordo di riservatezza ben redatto non si limita a proteggere le informazioni riservate. Definisce chiaramente le aspettative, riduce l’incertezza e aiuta a prevenire malintesi tra le parti. Garantisce che le informazioni sensibili vengano condivise all'interno di un quadro controllato e protetto legalmente, il che è particolarmente importante durante le discussioni iniziali, le partnership o le trattative di investimento.",
+             "Ancora più importante, gli accordi di riservatezza aiutano a costruire una base di fiducia. Quando entrambe le parti comprendono che esistono chiari limiti legali, sono più propense a comunicare apertamente e a esplorare le opportunità con fiducia. In questo modo, un accordo di riservatezza non è solo un documento di protezione, ma è anche un fattore che favorisce la collaborazione e la crescita."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 17,
+       "name": "Pourquoi les accords de confidentialité sont plus importants que jamais (et ce qu’il faut y inclure)",
+       "date": "14th May, 2026",
+       "des": "C'est là qu'intervient l'accord de confidentialité (NDA).",
+       "img": "../assets/images/news/Image.jpeg",
+       "content": [{
+           "name": "",
+           "small": "",
+           "img": "../assets/images/news/Image.jpeg",
+           "smallBold": "",
+           "des": [
+             "Dans le monde des affaires actuel, l’information a souvent plus de valeur que les actifs matériels. Que vous partagiez une idée commerciale, des données clients, des informations financières ou des stratégies internes, cela comporte toujours un certain niveau de risque. Une simple conversation, un e-mail ou un document partagé sans protection peut avoir de graves conséquences.",
+             "Un accord de confidentialité n'est pas une simple formalité ; c'est un outil juridique pratique qui permet aux particuliers et aux entreprises de partager des informations tout en fixant des limites claires. Il aide à établir la confiance dès le début, que vous embauchiez un employé, travailliez avec un freelance ou entamiez des discussions commerciales."
+           ]
+         },
+         {
+           "name": "Alors, pourquoi devriez-vous utiliser un accord de confidentialité ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "En bref : pour protéger ce qui vous apporte de la valeur. Un accord de confidentialité permet d'éviter l'utilisation abusive d'informations sensibles et fournit une base juridique pour agir si cette confiance est rompue. Il définit également les attentes dès le départ, ce qui peut aider à éviter les malentendus par la suite."
+           ]
+         },
+         {
+           "name": "Types d'accords de confidentialité",
+           "small": "Dans la pratique, il existe trois principaux types d'accords de confidentialité :",
+           "smallBold": "",
+           "des": [
+             "• Accord de confidentialité unilatéral (à sens unique) : c'est le type le plus couramment utilisé. Une partie partage des informations et l'autre s'engage à les garder confidentielles. On le retrouve généralement dans les contrats de travail ou de conseil.",
+             "• Accord de confidentialité mutuel (bilatéral) : ici, les deux parties partagent des informations confidentielles et sont toutes deux tenues de les protéger. Ce type d’accord est courant dans les partenariats, les collaborations et les négociations commerciales.",
+             "• Accord de confidentialité multilatéral : il implique trois parties ou plus. Au lieu de signer plusieurs accords, toutes les parties signent un seul accord de confidentialité. Il est souvent utilisé dans le cadre de projets complexes ou de coentreprises."
+           ]
+         },
+         {
+           "name": "Que doit contenir tout accord de confidentialité ?",
+           "small": "Un accord de confidentialité solide ne se mesure pas à sa longueur, mais à sa clarté. Les clauses clés comprennent généralement :",
+           "smallBold": "",
+           "des": [
+             "• Définition des informations confidentielles : précisez clairement quelles informations sont protégées.",
+             "• Utilisation autorisée des informations : limitez l’utilisation des informations à un objectif spécifique.",
+             "• Obligations de la partie destinataire : expliquez comment la partie destinataire doit traiter et protéger les informations.",
+             "• Exclusions de la confidentialité : par exemple, les informations déjà accessibles au public.",
+             "• Durée : précisez pendant combien de temps les obligations de confidentialité restent en vigueur.",
+             "• Clause de non-concession de licence : précisez que le partage d’informations ne confère aucun droit de propriété ni aucune licence de propriété intellectuelle.",
+             "• Restitution ou suppression des informations : indiquez ce qu’il advient des informations une fois la relation terminée.",
+             "• Conséquences d’une violation : expliquez ce qui se passe en cas de violation de l’accord.",
+             "• Droit applicable : identifiez le système juridique qui s'appliquera."
+           ]
+         },
+         {
+           "name": "Conclusion",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les accords de confidentialité sont souvent négligés ou considérés comme de simples formalités administratives, mais ils jouent un rôle essentiel dans la manière dont les relations commerciales s'établissent et se développent. Dans de nombreux cas, ils constituent la première étape juridique avant tout échange d'informations significatif.",
+             "Un accord de confidentialité bien rédigé ne se contente pas de protéger les informations confidentielles. Il définit clairement les attentes, réduit l'incertitude et aide à prévenir les malentendus entre les parties. Il garantit que les informations sensibles sont partagées dans un cadre contrôlé et protégé juridiquement, ce qui est particulièrement important lors des discussions préliminaires, des partenariats ou des négociations d'investissement.",
+             "Plus important encore, les accords de confidentialité contribuent à établir une base de confiance. Lorsque les deux parties comprennent que des limites juridiques claires sont en place, elles sont plus enclines à communiquer ouvertement et à explorer les opportunités en toute confiance. En ce sens, un accord de confidentialité n'est pas seulement un document de protection ; c'est aussi un catalyseur de collaboration et de croissance."
+           ]
+         }
+       ]
+     }
+
+   },
+
+   {
+     "eng": {
+       "id": 16,
+       "name": "Is Your Contract Portfolio Protecting You — Or Exposing You?",
+       "date": "11th May, 2026",
+       "des": "For most businesses, the honest answer to the question above is: they don’t know. And not knowing, right now, is expensive.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "Problem With Contracts Written for Normal Times",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Commercial agreements are typically drafted when conditions are stable, and counterparties are motivated to perform. They set out timelines, payment obligations, penalties, and exclusivities — and they assume a world that functions more or less as expected. When that assumption breaks down, the contract does not disappear. It stays in force, and someone is left holding the risk. The question a contract audit answers is: in your portfolio, who is that someone? Under the UAE Civil Code(Federal Law No.5 of 1985), Article 249 gives courts the power to reduce a party’ s obligations to a“ reasonable level” where exceptional public circumstances make performance excessively burdensome— even if full impossibility cannot be proven.Article 273 goes further, extinguishing the obligation entirely where an external event renders performance impossible.These protections are real, but they are not automatic.They require the affected party to have documented their position, acted reasonably, and followed any procedural requirements set out in the contract.",
+             "Businesses that cannot demonstrate those things are unlikely to benefit from them."
+
+           ]
+         },
+         {
+           "name": "Force Majeure: Strong on Paper, Weak in Practice",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Most commercial contracts include a force majeure clause. In practice, many of those clauses are poorly drafted, operationally ignored, or procedurally defective the moment they are invoked. The most common failure is notice.UAE contracts routinely require prompt written notification of a force majeure event, followed by ongoing updates and evidence of mitigation.Missing those steps— even when the disruption itself is genuine and well documented— can defeat the claim before it reaches a court or arbitral panel.",
+             "For businesses operating in or through DIFC or ADGM, the bar is higher still. Under DIFC Law No. 6 of 2004 and the ADGM Contract Regulations, English common law principles apply: force majeure must render performance legally or physically impossible, not merely commercially inconvenient or more costly. A clause that would succeed under the UAE Civil Code may fail entirely under DIFC jurisdiction if the drafting is not precise. Across the broader GCC, the landscape varies further. Saudi Arabia’s Civil Transactions Law (Royal Decree M/191, 2021) recognizes frustration of contract but places the burden of proof firmly on the party seeking relief. Kuwait’s Civil Code (Law No. 67 of 1980) and Qatar’s Civil Code (Law No. 22 of 2004) each recognise hardship doctrines with different thresholds and notice requirements. If your business holds agreements governed by more than one jurisdiction — as most regionally active companies do — you are operating under materially different legal standards simultaneously."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "A contract audit maps those differences before they become disputes.",
+           "des": []
+         },
+         {
+           "name": "What a Contract Audit Actually Does",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "A structured contract audit is not a legal health check in the abstract. It is a systematic review of your active agreements against the specific conditions you are operating in, with three practical outputs.",
+             "First, it identifies which contracts carry enforceable protection and which do not. This means reviewing force majeure language, governing law clauses, dispute resolution mechanisms, and notice requirements across your portfolio — not just the headline agreements, but sub contracts, service agreements, and supplier terms where the liability chain is often longest. Second, it identifies where your obligations to third parties remain live even when your upstream suppliers have failed to perform. The fact that your logistics provider has successfully invoked force majeure does not release you from your obligations to your own customers. Many businesses discover this exposure only after a claim is filed. Third, it produces a priority action list: which contracts need protective variation now, which counterparties should be engaged proactively, and where formal notice of disruption should be issued without delay."
+           ]
+         },
+         {
+           "name": "The Cost of Waiting",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "Legal disputes arising from performance failures are slow, expensive, and reputationally damaging. An arbitration proceeding under the DIAC or ADGM courts can run for months or years. The cost of a well-documented contract audit — conducted before a dispute arises — is a fraction of the cost of defending or pursuing one. The businesses that emerge from periods of disruption in the strongest position are those that treat legal risk as operational risk: visible, measurable, and managed. A contract audit is how that process starts."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+
+           "des": [
+             "LexDesk360 is a UAE based alternative legal services provider offering senior counsel at accessible pricing. Our LexFend Contract Audit reviews your active agreements, maps your force majeure exposure across jurisdictions, and delivers a clear action plan. Contact us to arrange an initial assessment."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 16,
+       "name": "هل تحميك محفظة عقودك أم تعرضك للخطر؟",
+       "date": "11 مايو 2026",
+       "des": "بالنسبة لمعظم الشركات، فإن الإجابة الصادقة على السؤال أعلاه هي: إنها لا تعرف. وعدم المعرفة، في الوقت الحالي، أمر مكلف.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "مشكلة العقود المكتوبة لأوقات عادية",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "عادةً ما تُصاغ الاتفاقيات التجارية عندما تكون الظروف مستقرة، ويكون لدى الأطراف المقابلة الدافع للوفاء بالتزاماتها. وهي تحدد الجداول الزمنية، والتزامات الدفع، والعقوبات، وحقوق الحصرية — وتفترض أن العالم يسير بشكل أو بآخر كما هو متوقع. وعندما ينهار هذا الافتراض، لا يختفي العقد. بل يظل ساري المفعول، ويبقى شخص ما يتحمل المخاطر. السؤال الذي تجيب عليه مراجعة العقود هو: في محفظتك، من هو هذا الشخص؟ بموجب القانون المدني لدولة الإمارات العربية المتحدة (القانون الاتحادي رقم 5 لعام 1985)، تمنح المادة 249 المحاكم سلطة تخفيض التزامات أحد الأطراف إلى «مستوى معقول» عندما تجعل الظروف العامة الاستثنائية الأداء عبئًا مفرطًا — حتى لو تعذر إثبات الاستحالة التامة. وتذهب المادة 273 إلى أبعد من ذلك، حيث تلغي الالتزام تمامًا عندما يؤدي حدث خارجي إلى استحالة الأداء. هذه الحماية حقيقية، لكنها ليست تلقائية. فهي تتطلب من الطرف المتضرر أن يكون قد وثق موقفه، وتصرف بشكل معقول، واتبع أي متطلبات إجرائية منصوص عليها في العقد.",
+             "من غير المرجح أن تستفيد الشركات التي لا تستطيع إثبات هذه الأمور منها."
+           ]
+         },
+         {
+           "name": "القوة القاهرة: قوية على الورق، ضعيفة في الممارسة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تتضمن معظم العقود التجارية بنداً بشأن القوة القاهرة. في الممارسة العملية، تكون العديد من هذه البنود سيئة الصياغة، أو يتم تجاهلها من الناحية التشغيلية، أو تكون معيبة من الناحية الإجرائية لحظة الاحتجاج بها. أكثر الأخطاء شيوعاً هو الإخطار. تتطلب عقود الإمارات العربية المتحدة بشكل روتيني إخطاراً كتابياً فورياً بوقوع حدث القوة القاهرة، يتبعه تحديثات مستمرة وأدلة على التخفيف. إن إغفال هذه الخطوات — حتى عندما يكون الاضطراب نفسه حقيقياً وموثقاً جيداً — يمكن أن يؤدي إلى رفض المطالبة قبل وصولها إلى المحكمة أو هيئة التحكيم.",
+             "بالنسبة للشركات التي تعمل في أو من خلال مركز دبي المالي العالمي (DIFC) أو سوق أبوظبي العالمي (ADGM)، فإن المعايير أعلى من ذلك. بموجب قانون مركز دبي المالي العالمي رقم 6 لعام 2004 ولوائح العقود الخاصة بسوق أبوظبي العالمي، تنطبق مبادئ القانون العام الإنجليزي: يجب أن تجعل القوة القاهرة الأداء مستحيلاً من الناحية القانونية أو المادية، وليس مجرد إزعاج تجاري أو تكلفة أعلى. قد يفشل بند قد ينجح بموجب القانون المدني لدولة الإمارات العربية المتحدة تماماً في ظل اختصاص مركز دبي المالي العالمي إذا لم تكن صياغته دقيقة. وعلى نطاق دول مجلس التعاون الخليجي الأوسع، يختلف الوضع بشكل أكبر. يعترف قانون المعاملات المدنية في المملكة العربية السعودية (المرسوم الملكي رقم M/191، 2021) بإبطال العقد، لكنه يضع عبء الإثبات بشكل قاطع على الطرف الذي يسعى للحصول على تعويض. يعترف كل من القانون المدني الكويتي (القانون رقم 67 لعام 1980) والقانون المدني القطري (القانون رقم 22 لعام 2004) بمبادئ المشقة مع عتبات ومتطلبات إخطار مختلفة. إذا كانت شركتك تمتلك اتفاقيات تخضع لأكثر من ولاية قضائية واحدة — كما هو الحال مع معظم الشركات النشطة في المنطقة — فأنت تعمل في الوقت نفسه بموجب معايير قانونية مختلفة جوهريًا."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "تحدد مراجعة العقود هذه الاختلافات قبل أن تتحول إلى نزاعات.",
+           "des": []
+         },
+         {
+           "name": "ما الذي تفعله مراجعة العقود فعليًا",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "مراجعة العقود المنظمة ليست مجرد فحص قانوني نظري. إنها مراجعة منهجية لاتفاقياتك السارية مقارنة بالظروف المحددة التي تعمل فيها، مع ثلاث مخرجات عملية.",
+             "أولاً، تحدد العقود التي تنطوي على حماية قابلة للتنفيذ وتلك التي لا تنطوي عليها. وهذا يعني مراجعة بنود القوة القاهرة، وبنود القانون الحاكم، وآليات تسوية النزاعات، ومتطلبات الإخطار عبر محفظتك — ليس فقط الاتفاقيات الرئيسية، بل العقود الفرعية، واتفاقيات الخدمة، وشروط الموردين حيث تكون سلسلة المسؤولية أطول في الغالب. ثانياً، يحدد المراجعة الحالات التي تظل فيها التزاماتكم تجاه الأطراف الثالثة سارية حتى في حالة إخفاق مورديكم في الأطراف الأولى في الوفاء بالتزاماتهم. فحقيقة أن مزود الخدمات اللوجستية الخاص بكم قد نجح في التذرع بالقوة القاهرة لا تعفيكم من التزاماتكم تجاه عملائكم. ولا تكتشف العديد من الشركات هذا التعرض للمخاطر إلا بعد تقديم مطالبة. ثالثاً، تنتج المراجعة قائمة بالإجراءات ذات الأولوية: أي العقود تحتاج إلى تعديل وقائي الآن، وأي الأطراف المقابلة يجب إشراكها بشكل استباقي، وأين يجب إصدار إشعار رسمي بالانقطاع دون تأخير."
+           ]
+         },
+         {
+           "name": "تكلفة الانتظار",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "تكون النزاعات القانونية الناشئة عن الإخفاق في الأداء بطيئة ومكلفة وتضر بالسمعة. وقد تستمر إجراءات التحكيم أمام محاكم DIAC أو ADGM لشهور أو سنوات. وتبلغ تكلفة مراجعة العقد الموثقة جيدًا — والتي تُجرى قبل نشوء النزاع — جزءًا بسيطًا من تكلفة الدفاع في النزاع أو السعي إليه. الشركات التي تخرج من فترات الاضطراب في وضع أقوى هي تلك التي تعامل المخاطر القانونية على أنها مخاطر تشغيلية: مرئية وقابلة للقياس وإدارتها. وتبدأ هذه العملية من خلال مراجعة العقود."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "LexDesk360 هي شركة مقرها الإمارات العربية المتحدة تقدم خدمات قانونية بديلة، وتوفر استشارات قانونية رفيعة المستوى بأسعار معقولة. وتقوم خدمة LexFend Contract Audit الخاصة بنا بمراجعة اتفاقياتكم السارية، وتحديد مدى تعرضكم لحالات القوة القاهرة عبر مختلف الولايات القضائية، وتقديم خطة عمل واضحة. اتصلوا بنا لترتيب إجراء تقييم أولي."
+           ]
+         }
+       ]
+     },
+     "greek": {
+       "id": 16,
+       "name": "Το χαρτοφυλάκιο συμβολαίων σας σας προστατεύει — ή σας εκθέτει;",
+       "date": "11th May, 2026",
+       "des": "Για τις περισσότερες επιχειρήσεις, η ειλικρινής απάντηση στο παραπάνω ερώτημα είναι: δεν γνωρίζουν. Και η άγνοια, αυτή τη στιγμή, κοστίζει ακριβά.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "Το πρόβλημα με τις συμβάσεις που συντάσσονται για κανονικές περιόδους",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Οι εμπορικές συμφωνίες συντάσσονται συνήθως όταν οι συνθήκες είναι σταθερές και οι αντισυμβαλλόμενοι έχουν κίνητρα να εκπληρώσουν τις υποχρεώσεις τους. Καθορίζουν χρονοδιαγράμματα, υποχρεώσεις πληρωμής, κυρώσεις και αποκλειστικότητες — και βασίζονται στην υπόθεση ότι ο κόσμος λειτουργεί λίγο πολύ όπως αναμένεται. Όταν αυτή η υπόθεση καταρρέει, η σύμβαση δεν εξαφανίζεται. Παραμένει σε ισχύ και κάποιος αναλαμβάνει τον κίνδυνο. Το ερώτημα στο οποίο απαντά ένας έλεγχος συμβάσεων είναι: στο χαρτοφυλάκιό σας, ποιος είναι αυτός ο κάποιος; Σύμφωνα με τον Αστικό Κώδικα των ΗΑΕ (Ομοσπονδιακός Νόμος αριθ. 5 του 1985), το άρθρο 249 παρέχει στα δικαστήρια την εξουσία να μειώσουν τις υποχρεώσεις ενός μέρους σε «εύλογο επίπεδο» όταν εξαιρετικές δημόσιες περιστάσεις καθιστούν την εκτέλεση υπερβολικά επαχθή — ακόμη και αν δεν μπορεί να αποδειχθεί πλήρης αδυναμία εκτέλεσης. Το άρθρο 273 προχωράει ακόμη περισσότερο, εξαλείφοντας εντελώς την υποχρέωση όταν ένα εξωτερικό γεγονός καθιστά την εκτέλεση αδύνατη. Αυτές οι προστασίες είναι πραγματικές, αλλά δεν είναι αυτόματες. Απαιτούν από το επηρεαζόμενο μέρος να έχει τεκμηριώσει τη θέση του, να έχει ενεργήσει λογικά και να έχει ακολουθήσει τυχόν διαδικαστικές απαιτήσεις που ορίζονται στη σύμβαση.",
+             "Οι επιχειρήσεις που δεν μπορούν να αποδείξουν αυτά τα στοιχεία είναι απίθανο να επωφεληθούν από αυτές."
+           ]
+         },
+         {
+           "name": "Ανωτέρα βία: Ισχυρή στα χαρτιά, αδύναμη στην πράξη",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Οι περισσότερες εμπορικές συμβάσεις περιλαμβάνουν ρήτρα ανωτέρας βίας. Στην πράξη, πολλές από αυτές τις ρήτρες είναι κακώς διατυπωμένες, αγνοούνται λειτουργικά ή παρουσιάζουν διαδικαστικά ελαττώματα τη στιγμή που επικαλούνται. Η πιο συνηθισμένη παράλειψη είναι η ειδοποίηση. Οι συμβάσεις των ΗΑΕ απαιτούν συνήθως άμεση γραπτή ειδοποίηση για ένα γεγονός ανωτέρας βίας, ακολουθούμενη από συνεχείς ενημερώσεις και αποδεικτικά στοιχεία για την άμβλυνση των επιπτώσεων. Η παράλειψη αυτών των βημάτων — ακόμη και όταν η διαταραχή είναι πραγματική και καλά τεκμηριωμένη — μπορεί να ακυρώσει την αξίωση πριν φτάσει στο δικαστήριο ή στο διαιτητικό δικαστήριο.",
+             "Για τις επιχειρήσεις που δραστηριοποιούνται στο ή μέσω του DIFC ή του ADGM, ο πήχης είναι ακόμη υψηλότερος. Σύμφωνα με τον Νόμο αριθ. 6 του DIFC του 2004 και τους Κανονισμούς Συμβάσεων του ADGM, ισχύουν οι αρχές του αγγλικού κοινού δικαίου: η ανωτέρα βία πρέπει να καθιστά την εκτέλεση νομικά ή φυσικά αδύνατη, και όχι απλώς εμπορικά δυσχερή ή πιο δαπανηρή. Μια ρήτρα που θα ήταν αποδεκτή σύμφωνα με τον Αστικό Κώδικα των ΗΑΕ μπορεί να απορριφθεί εντελώς υπό τη δικαιοδοσία του DIFC, εάν η διατύπωσή της δεν είναι ακριβής. Σε ολόκληρο τον ευρύτερο ΣΣΚ, το τοπίο ποικίλλει περαιτέρω. Ο Νόμος περί Αστικών Συναλλαγών της Σαουδικής Αραβίας (Βασιλικό Διάταγμα M/191, 2021) αναγνωρίζει την ακύρωση της σύμβασης, αλλά επιβάλλει το βάρος της απόδειξης αποκλειστικά στο μέρος που ζητά την αποκατάσταση. Ο Αστικός Κώδικας του Κουβέιτ (Νόμος αριθ. 67 του 1980) και ο Αστικός Κώδικας του Κατάρ (Νόμος αριθ. 22 του 2004) αναγνωρίζουν αμφότεροι τις αρχές της δυσχέρειας με διαφορετικά όρια και απαιτήσεις ειδοποίησης. Εάν η επιχείρησή σας έχει συμβάσεις που διέπονται από περισσότερες της μίας δικαιοδοσίες — όπως συμβαίνει με τις περισσότερες εταιρείες που δραστηριοποιούνται στην περιοχή — λειτουργείτε ταυτόχρονα υπό ουσιαστικά διαφορετικά νομικά πρότυπα."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Ένας έλεγχος συμβάσεων χαρτογραφεί αυτές τις διαφορές πριν μετατραπούν σε διαφορές.",
+           "des": []
+         },
+         {
+           "name": "Τι κάνει στην πραγματικότητα ένας έλεγχος συμβάσεων",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ένας δομημένος έλεγχος συμβάσεων δεν είναι μια αφηρημένη νομική εξέταση. Είναι μια συστηματική ανασκόπηση των ενεργών συμβάσεών σας σε σχέση με τις συγκεκριμένες συνθήκες υπό τις οποίες λειτουργείτε, με τρία πρακτικά αποτελέσματα.",
+             "Πρώτον, προσδιορίζει ποιες συμβάσεις παρέχουν εκτελεστή προστασία και ποιες όχι. Αυτό σημαίνει την αναθεώρηση των όρων ανωτέρας βίας, των ρητρών περί εφαρμοστέου δικαίου, των μηχανισμών επίλυσης διαφορών και των απαιτήσεων ειδοποίησης σε όλο το χαρτοφυλάκιό σας — όχι μόνο στις κύριες συμβάσεις, αλλά και στις υπεργολαβίες, τις συμβάσεις παροχής υπηρεσιών και τους όρους προμηθευτών, όπου η αλυσίδα ευθύνης είναι συχνά η μακρύτερη. Δεύτερον, προσδιορίζει πού οι υποχρεώσεις σας έναντι τρίτων παραμένουν σε ισχύ ακόμη και όταν οι προμηθευτές σας δεν έχουν εκπληρώσει τις υποχρεώσεις τους. Το γεγονός ότι ο πάροχος logistics σας έχει επικαλεστεί επιτυχώς ανωτέρα βία δεν σας απαλλάσσει από τις υποχρεώσεις σας έναντι των δικών σας πελατών. Πολλές επιχειρήσεις ανακαλύπτουν αυτόν τον κίνδυνο μόνο μετά την υποβολή μιας αξίωσης. Τρίτον, καταρτίζει έναν κατάλογο δράσεων προτεραιότητας: ποιες συμβάσεις χρειάζονται προστατευτική τροποποίηση τώρα, με ποιους αντισυμβαλλομένους πρέπει να συνεργαστείτε προληπτικά και πού πρέπει να εκδοθεί χωρίς καθυστέρηση επίσημη ειδοποίηση διακοπής."
+           ]
+         },
+         {
+           "name": "Το κόστος της αναμονής",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Οι νομικές διαφορές που προκύπτουν από αδυναμία εκπλήρωσης των υποχρεώσεων είναι χρονοβόρες, δαπανηρές και βλάπτουν τη φήμη της επιχείρησης. Μια διαδικασία διαιτησίας ενώπιον των δικαστηρίων DIAC ή ADGM μπορεί να διαρκέσει μήνες ή χρόνια. Το κόστος ενός καλά τεκμηριωμένου ελέγχου συμβάσεων — που διενεργείται πριν προκύψει διαφορά — είναι ένα κλάσμα του κόστους της υπεράσπισης ή της άσκησης αγωγής.",
+             "Οι επιχειρήσεις που βγαίνουν πιο ισχυρές από περιόδους αναταραχής είναι εκείνες που αντιμετωπίζουν τον νομικό κίνδυνο ως λειτουργικό κίνδυνο: ορατό, μετρήσιμο και διαχειρίσιμο. Ο έλεγχος συμβάσεων αποτελεί το σημείο εκκίνησης αυτής της διαδικασίας."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Η LexDesk360 είναι ένας πάροχος εναλλακτικών νομικών υπηρεσιών με έδρα τα Ηνωμένα Αραβικά Εμιράτα, ο οποίος προσφέρει συμβουλές από έμπειρους νομικούς σε προσιτές τιμές. Η υπηρεσία LexFend Contract Audit που προσφέρουμε εξετάζει τις ισχύουσες συμβάσεις σας, χαρτογραφεί την έκθεσή σας σε περιπτώσεις ανωτέρας βίας σε διάφορες δικαιοδοσίες και σας παρέχει ένα σαφές σχέδιο δράσης. Επικοινωνήστε μαζί μας για να προγραμματίσετε μια αρχική αξιολόγηση."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 16,
+       "name": "Il vostro portafoglio contrattuale vi protegge o vi espone a rischi?",
+       "date": "11th May, 2026",
+       "des": "Per la maggior parte delle aziende, la risposta onesta alla domanda di cui sopra è: non lo sanno. E non saperlo, in questo momento, è costoso.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "Il problema dei contratti redatti per tempi normali",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Gli accordi commerciali vengono tipicamente redatti quando le condizioni sono stabili e le controparti sono motivate ad adempiere. Essi stabiliscono scadenze, obblighi di pagamento, penali ed esclusività — e presuppongono un mondo che funzioni più o meno come previsto. Quando tale presupposto viene meno, il contratto non scompare. Rimane in vigore e qualcuno si ritrova a doverne sostenere il rischio.",
+             "La domanda a cui risponde una revisione contrattuale è: nel vostro portafoglio, chi è quel qualcuno?",
+             "Ai sensi del Codice Civile degli Emirati Arabi Uniti (Legge Federale n. 5 del 1985), l’articolo 249 conferisce ai tribunali il potere di ridurre gli obblighi di una parte a un “livello ragionevole” laddove circostanze pubbliche eccezionali rendano l’adempimento eccessivamente oneroso — anche se non è possibile dimostrare la totale impossibilità. L'articolo 273 va oltre, estinguendo completamente l'obbligo qualora un evento esterno renda impossibile l'adempimento. Queste tutele sono reali, ma non sono automatiche. Richiedono che la parte interessata abbia documentato la propria posizione, agito in modo ragionevole e seguito tutti i requisiti procedurali stabiliti nel contratto.",
+             "Le aziende che non sono in grado di dimostrare tali elementi difficilmente potranno beneficiarne."
+           ]
+         },
+         {
+           "name": "Forza maggiore: forte sulla carta, debole nella pratica",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La maggior parte dei contratti commerciali include una clausola di forza maggiore. In pratica, molte di queste clausole sono redatte in modo inadeguato, ignorate dal punto di vista operativo o viziate da difetti procedurali nel momento stesso in cui vengono invocate.",
+             "L’errore più comune riguarda la notifica. I contratti degli Emirati Arabi Uniti richiedono abitualmente una tempestiva notifica scritta di un evento di forza maggiore, seguita da aggiornamenti continui e prove delle misure di mitigazione. La mancata osservanza di tali passaggi — anche quando l’interruzione è reale e ben documentata — può vanificare la richiesta prima che giunga in tribunale o davanti a un collegio arbitrale.",
+             "Per le imprese che operano all’interno o attraverso il DIFC o l’ADGM, la soglia è ancora più alta. Ai sensi della Legge n. 6 del 2004 del DIFC e dei Regolamenti contrattuali dell’ADGM, si applicano i principi della common law inglese: la forza maggiore deve rendere l’adempimento giuridicamente o fisicamente impossibile, non semplicemente commercialmente scomodo o più costoso. Una clausola che avrebbe successo ai sensi del Codice civile degli Emirati Arabi Uniti potrebbe fallire completamente sotto la giurisdizione del DIFC se la redazione non è precisa.",
+             "Nel più ampio contesto del CCG, il panorama varia ulteriormente. La legge sulle transazioni civili dell’Arabia Saudita (Decreto Reale M/191, 2021) riconosce l’impossibilità di adempimento del contratto, ma pone l’onere della prova saldamente sulla parte che chiede il rimedio. Il Codice Civile del Kuwait (Legge n. 67 del 1980) e il Codice Civile del Qatar (Legge n. 22 del 2004) riconoscono entrambi le dottrine di difficoltà con soglie e requisiti di notifica diversi. Se la vostra azienda ha accordi regolati da più di una giurisdizione — come la maggior parte delle società attive a livello regionale — operate contemporaneamente secondo standard legali sostanzialmente diversi."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Una verifica contrattuale mappa tali differenze prima che si trasformino in controversie.",
+           "des": []
+         },
+         {
+           "name": "Cosa fa effettivamente una verifica contrattuale",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Una verifica contrattuale strutturata non è un controllo dello stato di salute legale in astratto. Si tratta di una revisione sistematica dei vostri accordi attivi rispetto alle condizioni specifiche in cui operate, con tre risultati pratici.",
+             "In primo luogo, identifica quali contratti offrono una protezione esecutiva e quali no. Ciò significa esaminare le clausole di forza maggiore, le clausole sulla legge applicabile, i meccanismi di risoluzione delle controversie e i requisiti di notifica in tutto il vostro portafoglio — non solo gli accordi principali, ma anche i subappalti, i contratti di servizio e i termini dei fornitori, dove la catena di responsabilità è spesso più lunga. In secondo luogo, individua i casi in cui i vostri obblighi nei confronti di terzi rimangono in vigore anche quando i vostri fornitori a monte non hanno adempiuto ai propri obblighi. Il fatto che il vostro fornitore di servizi logistici abbia invocato con successo la forza maggiore non vi esonera dai vostri obblighi nei confronti dei vostri clienti. Molte aziende scoprono questa esposizione solo dopo che è stata presentata una richiesta di risarcimento. In terzo luogo, produce un elenco di azioni prioritarie: quali contratti necessitano di modifiche protettive immediate, quali controparti dovrebbero essere coinvolte in modo proattivo e dove dovrebbe essere emessa senza indugio una notifica formale di interruzione."
+           ]
+         },
+         {
+           "name": "Il costo dell'attesa",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le controversie legali derivanti da inadempienze sono lunghe, costose e dannose per la reputazione. Un procedimento arbitrale dinanzi ai tribunali DIAC o ADGM può protrarsi per mesi o anni. Il costo di una revisione contrattuale ben documentata — condotta prima che sorga una controversia — è una frazione del costo necessario per difendersi o intentare una causa.",
+             "Le aziende che escono dai periodi di crisi in una posizione di maggiore forza sono quelle che considerano il rischio legale alla stregua di un rischio operativo: visibile, misurabile e gestibile. La revisione dei contratti è il punto di partenza di questo processo."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "LexDesk360 è un fornitore di servizi legali alternativi con sede negli Emirati Arabi Uniti che offre consulenza legale di alto livello a prezzi accessibili. Il nostro servizio LexFend Contract Audit esamina i vostri contratti in vigore, mappa la vostra esposizione al rischio di forza maggiore nelle diverse giurisdizioni e fornisce un piano d'azione chiaro. Contattateci per fissare una valutazione iniziale."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 16,
+       "name": "Votre portefeuille de contrats vous protège-t-il… ou vous expose-t-il ?",
+       "date": "11th May, 2026",
+       "des": "Pour la plupart des entreprises, la réponse honnête à cette question est : elles ne le savent pas. Et ne pas le savoir, aujourd'hui, coûte cher.",
+       "img": "../assets/images/news/new16.jpeg",
+       "content": [{
+           "name": "Le problème des contrats rédigés pour des temps normaux",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les accords commerciaux sont généralement rédigés lorsque les conditions sont stables et que les contreparties sont motivées pour s'acquitter de leurs obligations. Ils fixent des délais, des obligations de paiement, des pénalités et des exclusivités — et ils partent du principe que le monde fonctionne plus ou moins comme prévu. Lorsque cette hypothèse s'effondre, le contrat ne disparaît pas. Il reste en vigueur, et quelqu'un se retrouve à assumer le risque. La question à laquelle répond un audit contractuel est la suivante : dans votre portefeuille, qui est cette personne ? En vertu du Code civil des Émirats arabes unis (loi fédérale n° 5 de 1985), l’article 249 donne aux tribunaux le pouvoir de réduire les obligations d’une partie à un « niveau raisonnable » lorsque des circonstances publiques exceptionnelles rendent l’exécution excessivement onéreuse — même si l’impossibilité totale ne peut être prouvée. L'article 273 va plus loin, en éteignant entièrement l'obligation lorsqu'un événement externe rend l'exécution impossible. Ces protections sont réelles, mais elles ne sont pas automatiques. Elles exigent que la partie affectée ait documenté sa position, agi de manière raisonnable et respecté toutes les exigences procédurales énoncées dans le contrat.",
+             "Les entreprises qui ne peuvent pas démontrer ces éléments ont peu de chances d'en bénéficier."
+           ]
+         },
+         {
+           "name": "Force majeure : forte sur le papier, faible dans la pratique",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La plupart des contrats commerciaux comportent une clause de force majeure. Dans la pratique, bon nombre de ces clauses sont mal rédigées, ignorées sur le plan opérationnel ou présentent des vices de procédure dès qu’elles sont invoquées. La défaillance la plus courante concerne la notification. Les contrats aux Émirats arabes unis exigent systématiquement une notification écrite rapide d’un événement de force majeure, suivie de mises à jour régulières et de preuves des mesures d’atténuation. Le non-respect de ces étapes — même lorsque la perturbation elle-même est réelle et bien documentée — peut faire échouer la demande avant qu’elle ne parvienne devant un tribunal ou un tribunal arbitral.",
+             "Pour les entreprises opérant au sein ou par l’intermédiaire du DIFC ou de l’ADGM, la barre est encore plus haute. En vertu de la loi n° 6 de 2004 du DIFC et du règlement contractuel de l’ADGM, les principes de la common law anglaise s’appliquent : la force majeure doit rendre l’exécution juridiquement ou physiquement impossible, et non pas simplement commercialement peu pratique ou plus coûteuse. Une clause qui serait valable en vertu du Code civil des Émirats arabes unis peut être totalement rejetée sous la juridiction du DIFC si sa rédaction n’est pas précise. Dans l’ensemble du CCG, le paysage varie encore davantage. La loi saoudienne sur les transactions civiles (décret royal M/191, 2021) reconnaît la frustration du contrat mais fait peser la charge de la preuve sur la partie qui demande réparation. Le Code civil du Koweït (loi n° 67 de 1980) et le Code civil du Qatar (loi n° 22 de 2004) reconnaissent tous deux les doctrines de la difficulté excessive, mais avec des seuils et des exigences de notification différents. Si votre entreprise a conclu des accords régis par plusieurs juridictions — comme c'est le cas de la plupart des entreprises actives dans la région —, vous opérez simultanément selon des normes juridiques sensiblement différentes."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "Un audit contractuel recense ces différences avant qu’elles ne donnent lieu à des litiges.",
+           "des": []
+         },
+         {
+           "name": "En quoi consiste réellement un audit contractuel ?",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Un audit contractuel structuré n’est pas un simple bilan juridique abstrait. Il s’agit d’un examen systématique de vos contrats en vigueur au regard des conditions spécifiques dans lesquelles vous opérez, avec trois résultats concrets.",
+             "Premièrement, il identifie les contrats qui offrent une protection exécutoire et ceux qui n’en offrent pas. Cela implique d’examiner les clauses de force majeure, les clauses relatives à la loi applicable, les mécanismes de résolution des litiges et les exigences de notification dans l’ensemble de votre portefeuille — pas seulement les contrats principaux, mais aussi les contrats de sous-traitance, les contrats de service et les conditions des fournisseurs, où la chaîne de responsabilité est souvent la plus longue. Deuxièmement, il identifie les cas où vos obligations envers des tiers restent en vigueur même lorsque vos fournisseurs en amont ont manqué à leurs obligations. Le fait que votre prestataire logistique ait invoqué avec succès la force majeure ne vous libère pas de vos obligations envers vos propres clients. De nombreuses entreprises ne découvrent cette exposition qu’après le dépôt d’une réclamation. Troisièmement, il établit une liste d’actions prioritaires : quels contrats nécessitent une modification protectrice dès maintenant, quelles contreparties doivent être contactées de manière proactive, et où une notification formelle de perturbation doit être émise sans délai."
+           ]
+         },
+         {
+           "name": "Le coût de l'attente",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Les litiges juridiques découlant de défaillances dans l'exécution des obligations sont longs, coûteux et nuisibles à la réputation. Une procédure d'arbitrage devant les tribunaux du DIAC ou de l'ADGM peut durer des mois, voire des années. Le coût d'un audit contractuel bien documenté — réalisé avant qu'un litige ne survienne — ne représente qu'une fraction du coût de la défense ou de la poursuite d'un tel litige.",
+             "Les entreprises qui sortent les plus fortes des périodes de bouleversements sont celles qui considèrent le risque juridique comme un risque opérationnel : visible, mesurable et gérable. L'audit contractuel est le point de départ de ce processus."
+           ]
+         },
+         {
+           "name": "",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "LexDesk360 est un prestataire de services juridiques alternatifs basé aux Émirats arabes unis qui propose les services de juristes expérimentés à des tarifs abordables. Notre service d'audit contractuel LexFend examine vos contrats en vigueur, cartographie votre exposition au risque de force majeure dans différentes juridictions et vous fournit un plan d'action clair. Contactez-nous pour organiser une première évaluation."
+           ]
+         }
+       ]
+     }
+
+   }, {
+     "eng": {
        "id": 1,
        "name": "The Future of Legal Work Isn’t AI—It’s What We Build With It",
        "date": "6th May, 2025",
