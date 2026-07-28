@@ -302,8 +302,8 @@
 
 @media (orientation: portrait) {
   #home-content .container-step-one {
-    height: 178vw;
-    align-items: end;
+    height: auto;
+    align-items: start;
   }
   #home-content .container-step-one .content-vedio {
     width: 91vw;
@@ -314,6 +314,7 @@
   #home-content .container-step-one .content {
     align-items: end;
     height: 45%;
+    margin-top: 87vw;
   }
   #home-content .container .br-left {
     border-left: 0.3vw solid rgba(255, 255, 255, 0.2);

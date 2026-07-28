@@ -355,8 +355,8 @@
 @media (orientation: portrait) {
   #home-content {
     .container-step-one {
-      height: 178vw;
-      align-items: end;
+      height: auto;
+      align-items: start;
 
       .content-vedio {
         width: 91vw;
@@ -368,6 +368,8 @@
       .content {
         align-items: end;
         height: 45%;
+        margin-top: 87vw;
+
       }
     }
 
