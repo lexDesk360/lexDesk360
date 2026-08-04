@@ -1,1 +1,2 @@
+*.MP4 filter=lfs diff=lfs merge=lfs -text
 assets/IMG_3927.MP4 filter=lfs diff=lfs merge=lfs -text
