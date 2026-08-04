@@ -53,6 +53,7 @@ function renderData() {
       titleServices: "Four Solutions. Infinite Possibilities.",
       ViewAll: "View All",
       LATESTNEWS: "NEWS & blogs",
+      TestimonialTitle: "What Our Clients Say",
       Flexible: "Flexible. Scalable. Business-Driven.",
       flexDes:
         "Most see legal as a brake pedal. We see it as the steering wheel, guiding you safely, helping you move faster.",
@@ -77,6 +78,7 @@ function renderData() {
       titleServices: "أربع حلول، وإمكانات بلا حدود.",
       ViewAll: "عرض الكل",
       LATESTNEWS: "الأخبار والمدونات",
+      TestimonialTitle: "رأي عملائنا",
       Flexible: "مرنة، قابلة للتوسع، موجهة للأعمال.",
       flexDes:
         "كثيرون يرون القانون كفرامل تُبطئ عجلة العمل. نحن نراه عجلة القيادة، وأحياناً دواسة السرعة التي تُسرّع المسار.",
@@ -101,6 +103,7 @@ function renderData() {
       titleServices: "Τέσσερις λύσεις. Άπειρες δυνατότητες.",
       ViewAll: "Προβολή όλων ",
       LATESTNEWS: "Νέα και άρθρα",
+      TestimonialTitle: "Τι λένε οι πελάτες μας",
       Flexible: "Ευέλικτη, κλιμακούμενη, με επιχειρηματικό προσανατολισμό.",
       flexDes:
         "Οι περισσότεροι βλέπουν τον νομικό ως φρένο. Εμείς το βλέπουμε ως τιμόνι — που σε καθοδηγεί με ασφάλεια και σε βοηθά να κινείσαι πιο γρήγορα.",
@@ -125,6 +128,7 @@ function renderData() {
       titleServices: "Quatre solutions. Des possibilités infinies.",
       ViewAll: "Voir tout",
       LATESTNEWS: "ACTUALITÉS & BLOG",
+      TestimonialTitle: "Ce que disent nos clients",
       Flexible: "FLEXIBLE. ÉVOLUTIF. AXÉ SUR LE BUSINESS.",
       flexDes:
         "DES PERSONNES VOIENT LE JURIDIQUE COMME UNE PÉDALE DE FREIN. POUR NOUS, C’EST LE VOLANT QUI VOUS GUIDE EN SÉCURITÉ ET VOUS AIDE À ALLER PLUS VITE.",
@@ -149,6 +153,7 @@ function renderData() {
       titleServices: "Quattro soluzioni. Possibilità infinite.",
       ViewAll: "Visualizza tutto",
       LATESTNEWS: "NEWS & blogs",
+      TestimonialTitle: "Cosa dicono i nostri clienti",
       Flexible: "Flessibile. Scalabile. Orientato verso il business.",
       flexDes:
         "Molti vedono il diritto come un pedale del freno. Noi lo vediamo come il volante: ti guida in sicurezza e ti permette di andare più veloce.",
@@ -213,6 +218,17 @@ function prevServices() {
     activerServices = 3;
   }
   renderData();
+}
+function playTestimonial() {
+  const video = document.getElementById("testimonialVideo");
+  video.setAttribute("controls", "");
+  video.play();
+}
+function onTestimonialPlay() {
+  document.getElementById("testimonialVideoWrap").classList.add("playing");
+}
+function onTestimonialPause() {
+  document.getElementById("testimonialVideoWrap").classList.remove("playing");
 }
 function getPage(pageName) {
   window.location.href = `./${pageName}.html`;

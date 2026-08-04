@@ -206,6 +206,69 @@
   height: 5vw;
   margin: 1vw;
 }
+#home-content .testimonial {
+  flex-direction: column;
+}
+#home-content .testimonial .testimonial-video {
+  position: relative;
+  width: 100%;
+  height: 35vw;
+  margin-top: 2vw;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.03);
+}
+#home-content .testimonial .testimonial-video video {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+}
+#home-content .testimonial .testimonial-video::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(2, 21, 61, 0.1), rgba(2, 21, 61, 0.5));
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+#home-content .testimonial .testimonial-video.playing::before {
+  opacity: 0;
+}
+#home-content .testimonial .testimonial-video.playing .play-btn {
+  opacity: 0;
+  pointer-events: none;
+}
+#home-content .testimonial .testimonial-video .play-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 5vw;
+  height: 5vw;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.15);
+  border: 0.1vw solid rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(4px);
+          backdrop-filter: blur(4px);
+  transition: transform 0.3s ease, background 0.3s ease, opacity 0.3s ease;
+}
+#home-content .testimonial .testimonial-video .play-btn::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 0.9vw solid transparent;
+  border-bottom: 0.9vw solid transparent;
+  border-left: 1.5vw solid white;
+  margin-left: 0.4vw;
+}
+#home-content .testimonial .testimonial-video .play-btn:hover {
+  transform: translate(-50%, -50%) scale(1.1);
+  background: rgba(255, 255, 255, 0.25);
+}
 
 .title-line {
   flex: 1;
@@ -426,6 +489,19 @@
     width: 9vw;
     height: 9vw;
     margin: 1.5vw;
+  }
+  #home-content .testimonial .testimonial-video {
+    height: 60vw;
+  }
+  #home-content .testimonial .testimonial-video .play-btn {
+    width: 16vw;
+    height: 16vw;
+  }
+  #home-content .testimonial .testimonial-video .play-btn::before {
+    border-top: 3vw solid transparent;
+    border-bottom: 3vw solid transparent;
+    border-left: 5vw solid white;
+    margin-left: 1.2vw;
   }
   .title-line {
     justify-content: start;
