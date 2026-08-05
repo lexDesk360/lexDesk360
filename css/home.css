@@ -212,17 +212,16 @@
 }
 #home-content .testimonial .testimonial-video {
   position: relative;
-  width: 100%;
-  height: 35vw;
-  margin-top: 2vw;
+  width: 70vw;
+  margin: 2vw auto 0;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.03);
 }
 #home-content .testimonial .testimonial-video video {
   width: 100%;
   height: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
+  -o-object-fit: cover;
+     object-fit: cover;
   display: block;
 }
 #home-content .testimonial .testimonial-video::before {
@@ -245,8 +244,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 5vw;
-  height: 5vw;
+  width: 3.5vw;
+  height: 3.5vw;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.15);
   border: 0.1vw solid rgba(255, 255, 255, 0.8);
@@ -260,10 +259,10 @@
   content: "";
   width: 0;
   height: 0;
-  border-top: 0.9vw solid transparent;
-  border-bottom: 0.9vw solid transparent;
-  border-left: 1.5vw solid white;
-  margin-left: 0.4vw;
+  border-top: 0.6vw solid transparent;
+  border-bottom: 0.6vw solid transparent;
+  border-left: 1vw solid white;
+  margin-left: 0.3vw;
 }
 #home-content .testimonial .testimonial-video .play-btn:hover {
   transform: translate(-50%, -50%) scale(1.1);
@@ -491,17 +490,17 @@
     margin: 1.5vw;
   }
   #home-content .testimonial .testimonial-video {
-    height: 60vw;
+    width: 55vw;
   }
   #home-content .testimonial .testimonial-video .play-btn {
-    width: 16vw;
-    height: 16vw;
+    width: 14vw;
+    height: 14vw;
   }
   #home-content .testimonial .testimonial-video .play-btn::before {
-    border-top: 3vw solid transparent;
-    border-bottom: 3vw solid transparent;
-    border-left: 5vw solid white;
-    margin-left: 1.2vw;
+    border-top: 2.5vw solid transparent;
+    border-bottom: 2.5vw solid transparent;
+    border-left: 4vw solid white;
+    margin-left: 1vw;
   }
   .title-line {
     justify-content: start;
