@@ -511,13 +511,16 @@
     height: 9vw;
     margin: 1.5vw;
   }
+  #home-content .testimonial {
+    margin-bottom: 7vw;
+  }
   #home-content .testimonial .testimonial-row {
     flex-direction: column;
     gap: 5vw;
   }
   #home-content .testimonial .testimonial-video {
     width: 75vw;
-    order: 1;
+    order: 2;
   }
   #home-content .testimonial .testimonial-video .play-btn {
     width: 14vw;
@@ -531,7 +534,8 @@
   }
   #home-content .testimonial .testimonial-caption {
     width: 100%;
-    order: 2;
+    order: 1;
+    margin-left: 7vw;
   }
   #home-content .testimonial .testimonial-caption p {
     font-size: 4vw;

@@ -22,10 +22,12 @@
     src: url(../assets/fonts/noto.ttf);
     font-family: noto;
 }
+
 @font-face {
     src: url(../assets/fonts/inter.ttf);
     font-family: inter;
 }
+
 * {
     padding: 0;
     margin: 0;
@@ -461,9 +463,12 @@ body,
         font-family: MontserratArabic !important;
         letter-spacing: 0vw !important;
     }
+
     #home-content .testimonial .testimonial-caption {
         margin-right: 2vw;
     }
+
+ 
     .ltr-list {
         direction: ltr !important;
         width: 60% !important;
@@ -989,6 +994,10 @@ body,
         #home-content .container-step-one .content-vedio {
             right: unset !important;
             left: 10vw;
+        }
+
+        #home-content .testimonial .testimonial-caption {
+            margin-right: 11vw;
         }
 
         #services-content .content .big-title p {
