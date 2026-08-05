@@ -461,7 +461,9 @@ body,
         font-family: MontserratArabic !important;
         letter-spacing: 0vw !important;
     }
-
+    #home-content .testimonial .testimonial-caption {
+        margin-right: 2vw;
+    }
     .ltr-list {
         direction: ltr !important;
         width: 60% !important;

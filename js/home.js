@@ -54,6 +54,10 @@ function renderData() {
       ViewAll: "View All",
       LATESTNEWS: "NEWS & blogs",
       TestimonialTitle: "What Our Clients Say",
+      TestimonialQuote:
+        "Choosing the right legal partner is about more than legal expertise. It’s about trust, responsiveness, and business understanding.",
+      TestimonialIntro:
+        "Hear directly from Dr. Khaled Habib as he shares his experience working with LexDesk360 and how our business-first approach made a difference.",
       Flexible: "Flexible. Scalable. Business-Driven.",
       flexDes:
         "Most see legal as a brake pedal. We see it as the steering wheel, guiding you safely, helping you move faster.",
@@ -79,6 +83,10 @@ function renderData() {
       ViewAll: "عرض الكل",
       LATESTNEWS: "الأخبار والمدونات",
       TestimonialTitle: "رأي عملائنا",
+      TestimonialQuote:
+        "لا يقتصر اختيار الشريك القانوني المناسب على الخبرة القانونية فحسب، بل يتعلق أيضًا بالثقة وسرعة الاستجابة وفهم طبيعة الأعمال.",
+      TestimonialIntro:
+        "استمع مباشرةً إلى الدكتور خالد حبيب وهو يروي تجربته في العمل مع LexDesk360 وكيف أحدث نهجنا الذي يضع الأعمال في المقام الأول فرقًا ملموسًا.",
       Flexible: "مرنة، قابلة للتوسع، موجهة للأعمال.",
       flexDes:
         "كثيرون يرون القانون كفرامل تُبطئ عجلة العمل. نحن نراه عجلة القيادة، وأحياناً دواسة السرعة التي تُسرّع المسار.",
@@ -104,6 +112,10 @@ function renderData() {
       ViewAll: "Προβολή όλων ",
       LATESTNEWS: "Νέα και άρθρα",
       TestimonialTitle: "Τι λένε οι πελάτες μας",
+      TestimonialQuote:
+        "Η επιλογή του κατάλληλου νομικού συνεργάτη δεν περιορίζεται μόνο στη νομική εξειδίκευση. Έχει να κάνει με την εμπιστοσύνη, την ανταπόκριση και την κατανόηση των επιχειρηματικών αναγκών.",
+      TestimonialIntro:
+        "Ακούστε απευθείας τον Δρ. Khaled Habib να μοιράζεται την εμπειρία του από τη συνεργασία του με τη LexDesk360 και πώς η προσέγγισή μας, που δίνει προτεραιότητα στις επιχειρηματικές ανάγκες, έκανε τη διαφορά.",
       Flexible: "Ευέλικτη, κλιμακούμενη, με επιχειρηματικό προσανατολισμό.",
       flexDes:
         "Οι περισσότεροι βλέπουν τον νομικό ως φρένο. Εμείς το βλέπουμε ως τιμόνι — που σε καθοδηγεί με ασφάλεια και σε βοηθά να κινείσαι πιο γρήγορα.",
@@ -129,6 +141,10 @@ function renderData() {
       ViewAll: "Voir tout",
       LATESTNEWS: "ACTUALITÉS & BLOG",
       TestimonialTitle: "Ce que disent nos clients",
+      TestimonialQuote:
+        "Le choix du bon partenaire juridique ne se résume pas à une simple expertise juridique. C'est une question de confiance, de réactivité et de compréhension des enjeux commerciaux.",
+      TestimonialIntro:
+        "Écoutez directement le Dr Khaled Habib nous faire part de son expérience de collaboration avec LexDesk360 et découvrir comment notre approche axée sur les besoins des entreprises a fait la différence.",
       Flexible: "FLEXIBLE. ÉVOLUTIF. AXÉ SUR LE BUSINESS.",
       flexDes:
         "DES PERSONNES VOIENT LE JURIDIQUE COMME UNE PÉDALE DE FREIN. POUR NOUS, C’EST LE VOLANT QUI VOUS GUIDE EN SÉCURITÉ ET VOUS AIDE À ALLER PLUS VITE.",
@@ -154,6 +170,10 @@ function renderData() {
       ViewAll: "Visualizza tutto",
       LATESTNEWS: "NEWS & blogs",
       TestimonialTitle: "Cosa dicono i nostri clienti",
+      TestimonialQuote:
+        "La scelta del partner legale giusto va oltre la semplice competenza giuridica. È una questione di fiducia, reattività e comprensione del mondo degli affari.",
+      TestimonialIntro:
+        "Ascoltate direttamente il dottor Khaled Habib mentre racconta la sua esperienza di collaborazione con LexDesk360 e spiega come il nostro approccio incentrato sul business abbia fatto la differenza.",
       Flexible: "Flessibile. Scalabile. Orientato verso il business.",
       flexDes:
         "Molti vedono il diritto come un pedale del freno. Noi lo vediamo come il volante: ti guida in sicurezza e ti permette di andare più veloce.",
