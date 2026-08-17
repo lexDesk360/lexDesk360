@@ -1,5 +1,244 @@
  [{
      "eng": {
+       "id": 22,
+       "name": "Tariffs, Trade Disruption and Contract Law: What GCC Businesses Must Address Now",
+       "date": "18th Aug, 2026",
+       "des": "The US effective tariff rate is at its highest in over a century. Supply chains have been disrupted. The legal implications for cross-border contracts in the GCC are immediate and not yet fully understood by the businesses that bear the exposure.",
+       "img": "../assets/images/news/new22.jpeg",
+       "content": [{
+           "name": "The Trade Environment: Facts on the Ground",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The United States effective tariff rate, following a sustained period of executive action, legal challenges, and a Supreme Court ruling that upheld broad executive authority over trade measures, remains at levels not seen since the 1930s. The global trade architecture that GCC businesses built their commercial relationships around, characterised by low US tariffs, predictable WTO-governed trade rules, and integrated dollar-denominated supply chains, has changed structurally. It has not changed temporarily.",
+             "While the United States has been erecting barriers, the rest of the world has been dismantling them. The UAE has concluded or substantially progressed Comprehensive Economic Partnership Agreements with India, Indonesia, Israel, Turkey, Georgia, Kenya, and Cambodia in the past three years. Saudi Arabia, Qatar, and Bahrain are pursuing parallel bilateral agreements. New trade corridors are opening. But those corridors carry their own compliance requirements, rules of origin standards, and documentation obligations that many businesses have not yet mapped.",
+             "The commercial consequence for GCC businesses is a simultaneous exposure: existing contracts may have become more expensive or difficult to perform as a result of tariff-driven cost increases, while new opportunities exist in preferential access frameworks that require legal and operational groundwork to capture."
+           ]
+         },
+         {
+           "name": "Force Majeure: The Legal Position Under UAE Law",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "The question most frequently presented to counsel in the current environment is whether tariff-driven cost increases can justify non-performance or price renegotiation under existing contracts. The honest answer is: rarely, and only in specific circumstances.",
+             "provides that where performance of an obligation becomes impossible due to an extraneous cause not attributable to the obligor, the corresponding obligation is extinguished and the contract is dissolved. The operative word is \"impossible.\" UAE courts have consistently interpreted this provision to require objective impossibility, not merely increased cost or diminished commercial attractiveness. A business that can still perform its contractual obligations but finds them more expensive due to tariffs will not, in most cases, satisfy the Article 273 threshold.",
+             "Force majeure clauses in commercial contracts may be drafted more broadly than the statutory position. Some clauses include \"government action,\" \"import restrictions,\" or \"regulatory changes\" as qualifying events. Whether a specific tariff measure falls within a specific clause is a question of contractual interpretation that turns on precise language, and legal counsel should be engaged to review each clause against the specific facts before any position is communicated to a counterparty."
+
+           ]
+         },
+         {
+           "name": "Hardship: A More Promising Avenue",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Article 249 of the UAE Civil Transactions Law provides a potentially broader basis for relief where exceptional circumstances arise that could not reasonably have been foreseen at the time of contracting, and where those circumstances make performance excessively onerous such that the debtor faces a threat of serious loss. In those circumstances, the court has discretion to reduce the onerous obligation to a reasonable level.",
+             "An application under Article 249 requires satisfying four conditions: the circumstances must be exceptional in character; they must have been unforeseeable at the time of contracting; they must have arisen after the contract was concluded; and enforcement of the original obligation must threaten the debtor with serious loss. Tariff increases that were not foreseeable when a long-term supply contract was signed, and that have produced a material cost escalation that cannot be absorbed commercially, may satisfy these conditions, particularly for contracts concluded before 2024.",
+             "Importantly, Article 249 does not automatically entitle a party to walk away from the contract. The court's power is to adjust the obligation to a reasonable level. Counsel should advise clients that the likely outcome of a successful Article 249 application is a judicially renegotiated contract, not a discharged one."
+           ]
+         },
+         {
+           "name": "Practical Steps for Contract Review",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Every GCC business with material cross-border supply, distribution, or service contracts should conduct a structured review that addresses the following: whether existing force majeure and hardship clauses are adequate for the current environment; whether pricing mechanisms, material cost escalation provisions, or renegotiation triggers are present and operable; whether the governing law and dispute resolution provisions are optimal given current geopolitical and regulatory conditions; and whether any renegotiation approach to counterparties has been coordinated with legal counsel to avoid inadvertent waiver or repudiatory conduct.",
+             "Contracts being negotiated or renewed now should be drafted with explicit provisions addressing tariff and trade regulation changes, extended escalation mechanisms, and, where appropriate, governing law clauses that favour UAE, DIFC, or ADGM law over the law of jurisdictions currently experiencing elevated regulatory volatility."
+           ]
+         }
+       ]
+     },
+     "ar": {
+       "id": 22,
+       "name": "الرسوم الجمركية، واضطرابات التجارة، وقانون العقود: ما يجب على الشركات في دول مجلس التعاون الخليجي معالجته الآن",
+       "date": "18 أغسطس 2026",
+       "des": "بلغ معدل الرسوم الجمركية الفعلي في الولايات المتحدة أعلى مستوى له منذ أكثر من قرن. وقد تعرضت سلاسل التوريد للاضطراب. أما الآثار القانونية المترتبة على العقود العابرة للحدود في دول مجلس التعاون الخليجي فهي فورية، ولم تفهمها بعد بشكل كامل الشركات المعرضة لهذه المخاطر.",
+       "img": "../assets/images/news/new22.jpeg",
+       "content": [{
+           "name": "بيئة التجارة: الحقائق على أرض الواقع",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "لا يزال معدل التعريفة الجمركية الفعلي للولايات المتحدة، بعد فترة طويلة من الإجراءات التنفيذية والطعون القانونية وحكم المحكمة العليا الذي أيد السلطة التنفيذية الواسعة النطاق فيما يتعلق بالتدابير التجارية، عند مستويات لم تشهدها منذ ثلاثينيات القرن الماضي. وقد تغيرت بشكل هيكلي البنية التجارية العالمية التي بنت عليها شركات دول مجلس التعاون الخليجي علاقاتها التجارية، والتي كانت تتميز بتعريفات جمركية أمريكية منخفضة، وقواعد تجارية يمكن التنبؤ بها تخضع لأحكام منظمة التجارة العالمية، وسلاسل إمداد متكاملة مقومة بالدولار. ولم يكن هذا التغيير مؤقتًا.",
+             "فبينما كانت الولايات المتحدة تقيم الحواجز، كان بقية العالم يعمل على إزالتها. فقد أبرمت الإمارات العربية المتحدة اتفاقيات شراكة اقتصادية شاملة مع الهند وإندونيسيا وإسرائيل وتركيا وجورجيا وكينيا وكمبوديا خلال السنوات الثلاث الماضية، أو أحرزت تقدماً كبيراً في إبرامها. وتسعى المملكة العربية السعودية وقطر والبحرين إلى إبرام اتفاقيات ثنائية موازية. تُفتح ممرات تجارية جديدة. لكن هذه الممرات تنطوي على متطلبات الامتثال الخاصة بها، ومعايير قواعد المنشأ، والتزامات التوثيق التي لم تقم العديد من الشركات بتحديدها بعد.",
+             "وتتمثل النتيجة التجارية بالنسبة لشركات دول مجلس التعاون الخليجي في تعرضها لمخاطر متزامنة: فقد تصبح العقود الحالية أكثر تكلفة أو يصعب تنفيذها نتيجة لارتفاع التكاليف الناجم عن الرسوم الجمركية، في حين توجد فرص جديدة في أطر الوصول التفضيلي التي تتطلب إرساء أسس قانونية وتشغيلية للاستفادة منها."
+           ]
+         },
+         {
+           "name": "القوة القاهرة: الموقف القانوني بموجب قانون الإمارات العربية المتحدة",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "السؤال الذي يُطرح على المستشارين القانونيين بشكل متكرر في ظل الظروف الحالية هو ما إذا كانت الزيادات في التكاليف الناجمة عن التعريفات الجمركية يمكن أن تبرر عدم الأداء أو إعادة التفاوض على الأسعار بموجب العقود الحالية. والإجابة الصريحة هي: نادرًا، وفقط في ظروف محددة.",
+             "تنص المادة 273 من قانون المعاملات المدنية لدولة الإمارات العربية المتحدة (القانون الاتحادي رقم 5 لعام 1985، بصيغته المعدلة) على أنه في حالة استحالة أداء التزام ما بسبب سبب خارجي لا يُعزى إلى المدين، يُسقط الالتزام المقابل ويُحل العقد. والكلمة الأساسية هنا هي «استحالة». وقد فسرت محاكم الإمارات العربية المتحدة هذا النص باستمرار على أنه يشترط الاستحالة الموضوعية، وليس مجرد زيادة التكلفة أو انخفاض الجاذبية التجارية. فالشركة التي لا تزال قادرة على الوفاء بالتزاماتها التعاقدية، ولكنها تجد أن الوفاء بها أصبح أكثر تكلفة بسبب الرسوم الجمركية، لن تستوفي، في معظم الحالات، الحد الأدنى المنصوص عليه في المادة 273.",
+             "قد تُصاغ بنود القوة القاهرة في العقود التجارية بصيغة أوسع نطاقاً من الموقف القانوني. تتضمن بعض البنود «الإجراءات الحكومية» أو «قيود الاستيراد» أو «التغييرات التنظيمية» كأحداث مؤهلة. وما إذا كان إجراء تعريفي معين يندرج ضمن بند معين هو مسألة تفسير تعاقدي تعتمد على الصياغة الدقيقة، وينبغي الاستعانة بمستشار قانوني لمراجعة كل بند في ضوء الوقائع المحددة قبل إبلاغ الطرف المقابل بأي موقف."
+           ]
+         },
+         {
+           "name": "الضائقة: مسار واعد أكثر",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "توفر المادة 249 من قانون المعاملات المدنية في دولة الإمارات العربية المتحدة أساساً أوسع نطاقاً للإعفاء في حالة ظهور ظروف استثنائية لم يكن من الممكن توقعها بشكل معقول وقت إبرام العقد، وحيث تجعل تلك الظروف الأداء مرهقاً بشكل مفرط بحيث يواجه المدين خطر تكبد خسارة جسيمة. في تلك الظروف، تتمتع المحكمة بسلطة تقديرية لتخفيف الالتزام المرهق إلى مستوى معقول.",
+             "يتطلب تقديم طلب بموجب المادة 249 استيفاء أربعة شروط: يجب أن تكون الظروف ذات طابع استثنائي؛ ويجب ألا تكون قابلة للتنبؤ بها وقت إبرام العقد؛ ويجب أن تكون قد نشأت بعد إبرام العقد؛ ويجب أن يشكل إنفاذ الالتزام الأصلي تهديداً للمدين بخسارة جسيمة. وقد تستوفي الزيادات في التعريفات الجمركية، التي لم تكن متوقعة عند توقيع عقد توريد طويل الأجل، والتي أدت إلى ارتفاع جوهري في التكاليف لا يمكن استيعابه تجاريًا، هذه الشروط، لا سيما بالنسبة للعقود المبرمة قبل عام 2024.",
+             "ومن المهم الإشارة إلى أن المادة 249 لا تمنح الطرف حق الانسحاب من العقد تلقائيًا. وتتمثل سلطة المحكمة في تعديل الالتزام إلى مستوى معقول. وينبغي للمحامين إخطار عملائهم بأن النتيجة المحتملة لنجاح طلب الاستناد إلى المادة 249 هي إعادة التفاوض على العقد قضائيًا، وليس الإعفاء من الالتزام."
+           ]
+         },
+         {
+           "name": "خطوات عملية لمراجعة العقود",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "ينبغي على كل شركة في دول مجلس التعاون الخليجي لديها عقود مهمة عبر الحدود تتعلق بالتوريد أو التوزيع أو الخدمات أن تجري مراجعة منظمة تتناول ما يلي: ما إذا كانت بنود القوة القاهرة والظروف الصعبة الحالية كافية في ظل البيئة الراهنة؛ وما إذا كانت آليات التسعير، أو أحكام ارتفاع تكلفة المواد، أو شروط إعادة التفاوض موجودة وقابلة للتطبيق؛ وما إذا كانت أحكام القانون الحاكم وتسوية المنازعات هي الأمثل في ضوء الظروف الجيوسياسية والتنظيمية الحالية؛ وما إذا كان أي نهج لإعادة التفاوض مع الأطراف المقابلة قد تم تنسيقه مع المستشار القانوني لتجنب التنازل غير المقصود أو السلوك الذي ينطوي على نقض العقد.",
+             "وينبغي صياغة العقود التي يجري التفاوض عليها أو تجديدها حالياً بأحكام صريحة تتناول التغييرات في التعريفات الجمركية واللوائح التجارية، وآليات التصاعد الموسعة، وعند الاقتضاء، بنود القانون الحاكم التي تفضل قانون الإمارات العربية المتحدة أو مركز دبي المالي العالمي أو سوق أبوظبي العالمي للأعمال (ADGM) على قوانين الولايات القضائية التي تشهد حالياً تقلبات تنظيمية مرتفعة."
+           ]
+         }
+       ]
+     },
+     "greek": {
+       "id": 22,
+       "name": "Δασμοί, διαταραχές στο εμπόριο και δίκαιο των συμβάσεων: Τι πρέπει να αντιμετωπίσουν τώρα οι επιχειρήσεις του ΣΣΚ",
+       "date": "18th Aug, 2026",
+       "des": "Ο πραγματικός δασμολογικός συντελεστής των ΗΠΑ βρίσκεται στο υψηλότερο επίπεδο του τελευταίου αιώνα. Οι εφοδιαστικές αλυσίδες έχουν διαταραχθεί. Οι νομικές επιπτώσεις για τις διασυνοριακές συμβάσεις στον ΣΣΚ είναι άμεσες και δεν έχουν ακόμη κατανοηθεί πλήρως από τις επιχειρήσεις που εκτίθενται σε αυτούς τους κινδύνους.",
+       "img": "../assets/images/news/new22.jpeg",
+       "content": [{
+           "name": "Το εμπορικό περιβάλλον: Τα πραγματικά δεδομένα",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ο πραγματικός δασμολογικός συντελεστής των ΗΠΑ, μετά από μια παρατεταμένη περίοδο εκτελεστικών μέτρων, νομικών αμφισβητήσεων και μιας απόφασης του Ανωτάτου Δικαστηρίου που επικύρωσε την ευρεία εκτελεστική εξουσία επί των εμπορικών μέτρων, παραμένει σε επίπεδα που δεν είχαν παρατηρηθεί από τη δεκαετία του 1930. Η παγκόσμια εμπορική αρχιτεκτονική, γύρω από την οποία οι επιχειρήσεις του ΣΣΚ έχτισαν τις εμπορικές τους σχέσεις —η οποία χαρακτηριζόταν από χαμηλούς δασμούς των ΗΠΑ, προβλέψιμους εμπορικούς κανόνες που διέπονται από τον ΠΟΕ και ολοκληρωμένες αλυσίδες εφοδιασμού σε δολάρια— έχει αλλάξει δομικά. Δεν έχει αλλάξει προσωρινά.",
+             "Ενώ οι Ηνωμένες Πολιτείες έχουν υψώσει εμποδία, ο υπόλοιπος κόσμος τα έχει καταργήσει. Τα Ηνωμένα Αραβικά Εμιράτα έχουν συνάψει ή έχουν προχωρήσει σημαντικά στη σύναψη Συμφωνιών Ολοκληρωμένης Οικονομικής Εταιρικής Σχέσης με την Ινδία, την Ινδονησία, το Ισραήλ, την Τουρκία, τη Γεωργία, την Κένυα και την Καμπότζη τα τελευταία τρία χρόνια. Η Σαουδική Αραβία, το Κατάρ και το Μπαχρέιν επιδιώκουν παράλληλες διμερείς συμφωνίες. Ανοίγουν νέοι εμπορικοί διάδρομοι. Ωστόσο, αυτοί οι διάδρομοι συνοδεύονται από δικές τους απαιτήσεις συμμόρφωσης, πρότυπα κανόνων καταγωγής και υποχρεώσεις τεκμηρίωσης, τις οποίες πολλές επιχειρήσεις δεν έχουν ακόμη χαρτογραφήσει.",
+             "Η εμπορική συνέπεια για τις επιχειρήσεις του Συμβουλίου Συνεργασίας του Κόλπου (GCC) είναι μια ταυτόχρονη έκθεση σε κινδύνους: οι υφιστάμενες συμβάσεις ενδέχεται να έχουν καταστεί πιο δαπανηρές ή δύσκολο να εκτελεστούν ως αποτέλεσμα των αυξήσεων του κόστους που οφείλονται στους δασμούς, ενώ παράλληλα υπάρχουν νέες ευκαιρίες σε πλαίσια προτιμησιακής πρόσβασης που απαιτούν νομική και επιχειρησιακή προετοιμασία για την αξιοποίησή τους."
+           ]
+         },
+         {
+           "name": "Ανωτέρα βία: Η νομική θέση σύμφωνα με το δίκαιο των ΗΑΕ",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Το ερώτημα που τίθεται πιο συχνά στους νομικούς συμβούλους στο τρέχον περιβάλλον είναι εάν οι αυξήσεις του κόστους που οφείλονται στους δασμούς μπορούν να δικαιολογήσουν τη μη εκτέλεση ή την επαναδιαπραγμάτευση των τιμών στο πλαίσιο υφιστάμενων συμβάσεων. Η ειλικρινής απάντηση είναι: σπάνια, και μόνο υπό συγκεκριμένες συνθήκες.",
+             "Το άρθρο 273 του Νόμου περί Αστικών Συναλλαγών των ΗΑΕ (Ομοσπονδιακός Νόμος αριθ. 5 του 1985, όπως τροποποιήθηκε) προβλέπει ότι, όταν η εκπλήρωση μιας υποχρέωσης καθίσταται αδύνατη λόγω εξωγενούς αιτίας που δεν αποδίδεται στον υπόχρεο, η αντίστοιχη υποχρέωση εξαλείφεται και η σύμβαση λύεται. Η λέξη-κλειδί είναι «αδύνατη». Τα δικαστήρια των ΗΑΕ έχουν ερμηνεύσει με συνέπεια τη διάταξη αυτή ως απαιτούσα αντικειμενική αδυναμία, και όχι απλώς αυξημένο κόστος ή μειωμένη εμπορική ελκυστικότητα. Μια επιχείρηση που εξακολουθεί να μπορεί να εκπληρώσει τις συμβατικές της υποχρεώσεις, αλλά διαπιστώνει ότι αυτές καθίστανται πιο δαπανηρές λόγω δασμών, δεν θα πληροί, στις περισσότερες περιπτώσεις, το όριο που ορίζει το άρθρο 273.",
+             "Οι ρήτρες ανωτέρας βίας στις εμπορικές συμβάσεις ενδέχεται να διατυπώνονται με ευρύτερο τρόπο από ό,τι προβλέπει ο νόμος. Ορισμένες ρήτρες περιλαμβάνουν ως δικαιολογητικά γεγονότα την «κυβερνητική δράση», τους «περιορισμούς στις εισαγωγές» ή τις «ρυθμιστικές αλλαγές». Το αν ένα συγκεκριμένο δασμολογικό μέτρο εμπίπτει σε μια συγκεκριμένη ρήτρα αποτελεί ζήτημα συμβατικής ερμηνείας που εξαρτάται από την ακριβή διατύπωση, και θα πρέπει να ζητηθεί η συμβουλή νομικού συμβούλου για την εξέταση κάθε ρήτρας σε σχέση με τα συγκεκριμένα γεγονότα, προτού κοινοποιηθεί οποιαδήποτε θέση στον αντισυμβαλλόμενο."
+           ]
+         },
+         {
+           "name": "Δυσχερής κατάσταση: Μια πιο ελπιδοφόρα οδός",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Το άρθρο 249 του Νόμου περί Αστικών Συναλλαγών των ΗΑΕ παρέχει μια ενδεχομένως ευρύτερη βάση για την παροχή ανακούφισης, όταν προκύπτουν εξαιρετικές περιστάσεις που δεν ήταν δυνατόν να προβλεφθούν εύλογα κατά τη στιγμή της σύναψης της σύμβασης και όταν οι περιστάσεις αυτές καθιστούν την εκτέλεση υπερβολικά επαχθή, έτσι ώστε ο οφειλέτης να αντιμετωπίζει τον κίνδυνο σοβαρής ζημίας. Υπό αυτές τις συνθήκες, το δικαστήριο έχει τη διακριτική ευχέρεια να μειώσει την επαχθή υποχρέωση σε εύλογο επίπεδο.",
+             "Η υποβολή αίτησης βάσει του άρθρου 249 προϋποθέτει την εκπλήρωση τεσσάρων προϋποθέσεων: οι περιστάσεις πρέπει να έχουν εξαιρετικό χαρακτήρα· πρέπει να ήταν απρόβλεπτες κατά τη στιγμή της σύναψης της σύμβασης· πρέπει να έχουν προκύψει μετά τη σύναψη της σύμβασης· και η εκτέλεση της αρχικής υποχρέωσης πρέπει να απειλεί τον οφειλέτη με σοβαρή ζημία. Οι αυξήσεις των τιμολογίων που δεν ήταν προβλέψιμες κατά τη σύναψη μιας μακροπρόθεσμης σύμβασης προμήθειας και οι οποίες έχουν προκαλέσει σημαντική αύξηση του κόστους που δεν μπορεί να απορροφηθεί εμπορικά, ενδέχεται να πληρούν τις προϋποθέσεις αυτές, ιδίως για συμβάσεις που συνήφθησαν πριν από το 2024.",
+             "Είναι σημαντικό να σημειωθεί ότι το άρθρο 249 δεν παρέχει αυτόματα σε ένα μέρος το δικαίωμα να αποχωρήσει από τη σύμβαση. Η εξουσία του δικαστηρίου συνίσταται στην προσαρμογή της υποχρέωσης σε ένα εύλογο επίπεδο. Οι δικηγόροι θα πρέπει να ενημερώνουν τους πελάτες τους ότι το πιθανό αποτέλεσμα μιας επιτυχημένης αίτησης βάσει του άρθρου 249 είναι μια σύμβαση που έχει επαναδιαπραγματευτεί δικαστικά, και όχι μια σύμβαση από την οποία έχει απαλλαγεί το μέρος."
+           ]
+         },
+         {
+           "name": "Πρακτικά βήματα για την αναθεώρηση συμβάσεων",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Κάθε επιχείρηση του Συμβουλίου Συνεργασίας του Κόλπου (GCC) που διαθέτει σημαντικές διασυνοριακές συμβάσεις προμήθειας, διανομής ή παροχής υπηρεσιών θα πρέπει να διενεργεί μια δομημένη αναθεώρηση που να εξετάζει τα εξής: εάν οι υφιστάμενες ρήτρες ανωτέρας βίας και δυσχερούς κατάστασης είναι επαρκείς για το τρέχον περιβάλλον· εάν οι μηχανισμοί τιμολόγησης, οι διατάξεις για την αύξηση του κόστους των υλικών ή τα κριτήρια που ενεργοποιούν την επαναδιαπραγμάτευση υπάρχουν και είναι λειτουργικά· εάν το εφαρμοστέο δίκαιο και οι διατάξεις επίλυσης διαφορών είναι βέλτιστες, δεδομένων των τρεχουσών γεωπολιτικών και κανονιστικών συνθηκών· και εάν οποιαδήποτε προσέγγιση επαναδιαπραγμάτευσης με τους αντισυμβαλλομένους έχει συντονιστεί με νομικό σύμβουλο, προκειμένου να αποφευχθεί η ακούσια παραίτηση από δικαιώματα ή η συμπεριφορά που συνιστά αθέτηση της σύμβασης.",
+             "Οι συμβάσεις που βρίσκονται υπό διαπραγμάτευση ή ανανέωση αυτή τη στιγμή θα πρέπει να συντάσσονται με ρητές διατάξεις που να αντιμετωπίζουν τις αλλαγές στους δασμούς και τους εμπορικούς κανονισμούς, τους μηχανισμούς εκτεταμένης αναπροσαρμογής και, όπου ενδείκνυται, ρήτρες περί εφαρμοστέου δικαίου που να ευνοούν το δίκαιο των ΗΑΕ, του DIFC ή του ADGM έναντι του δικαίου δικαιοδοσιών που αντιμετωπίζουν επί του παρόντος αυξημένη ρυθμιστική αστάθεια."
+           ]
+         }
+       ]
+     },
+     "french": {
+       "id": 22,
+       "name": "Droits de douane, perturbations commerciales et droit des contrats : les enjeux auxquels les entreprises du CCG doivent faire face dès maintenant",
+       "date": "18th Aug, 2026",
+       "des": "Le taux effectif des droits de douane américains atteint son plus haut niveau depuis plus d’un siècle. Les chaînes d’approvisionnement ont été perturbées. Les implications juridiques pour les contrats transfrontaliers au sein du CCG sont immédiates et ne sont pas encore pleinement comprises par les entreprises exposées à ces risques.",
+       "img": "../assets/images/news/new22.jpeg",
+       "content": [{
+           "name": "Le contexte commercial : la réalité sur le terrain",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Le taux de droits de douane effectif des États-Unis, à la suite d’une période prolongée marquée par des mesures exécutives, des recours juridiques et un arrêt de la Cour suprême confirmant les larges pouvoirs de l’exécutif en matière de mesures commerciales, se maintient à des niveaux jamais observés depuis les années 1930. L’architecture commerciale mondiale sur laquelle les entreprises du CCG avaient fondé leurs relations commerciales – caractérisée par de faibles droits de douane américains, des règles commerciales prévisibles régies par l’OMC et des chaînes d’approvisionnement intégrées libellées en dollars – a subi une transformation structurelle. Il ne s’agit pas d’un changement temporaire.",
+             "Alors que les États-Unis érigeaient des barrières, le reste du monde s’employait à les démanteler. Au cours des trois dernières années, les Émirats arabes unis ont conclu ou fait progresser de manière substantielle des accords de partenariat économique global avec l’Inde, l’Indonésie, Israël, la Turquie, la Géorgie, le Kenya et le Cambodge. L’Arabie saoudite, le Qatar et Bahreïn poursuivent parallèlement la conclusion d’accords bilatéraux. De nouveaux corridors commerciaux s’ouvrent. Mais ces corridors s’accompagnent de leurs propres exigences de conformité, normes d’origine et obligations documentaires que de nombreuses entreprises n’ont pas encore cernées.",
+             "La conséquence commerciale pour les entreprises du CCG est une double exposition : les contrats existants peuvent être devenus plus coûteux ou plus difficiles à exécuter en raison des hausses de coûts liées aux droits de douane, tandis que de nouvelles opportunités existent dans le cadre d’accords d’accès préférentiels qui nécessitent un travail préparatoire juridique et opérationnel pour être exploitées."
+           ]
+         },
+         {
+           "name": "Force majeure : la situation juridique en vertu du droit des Émirats arabes unis",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La question la plus fréquemment posée aux conseillers juridiques dans le contexte actuel est de savoir si les hausses de coûts liées aux droits de douane peuvent justifier l’inexécution ou la renégociation des prix dans le cadre des contrats existants. La réponse honnête est : rarement, et uniquement dans des circonstances spécifiques.",
+             "L’article 273 de la loi sur les transactions civiles des Émirats arabes unis (loi fédérale n° 5 de 1985, telle que modifiée) prévoit que lorsque l’exécution d’une obligation devient impossible en raison d’une cause étrangère non imputable au débiteur, l’obligation correspondante s’éteint et le contrat est résilié. Le mot clé est « impossible ». Les tribunaux des Émirats arabes unis ont systématiquement interprété cette disposition comme exigeant une impossibilité objective, et non pas simplement une augmentation des coûts ou une diminution de l’attrait commercial. Une entreprise qui est toujours en mesure d’exécuter ses obligations contractuelles, mais qui constate que celles-ci sont plus coûteuses en raison des droits de douane, ne remplira pas, dans la plupart des cas, les critères prévus par l’article 273.",
+             "Les clauses de force majeure dans les contrats commerciaux peuvent être rédigées de manière plus large que ne le prévoit la loi. Certaines clauses incluent les « mesures gouvernementales », les « restrictions à l’importation » ou les « changements réglementaires » parmi les événements donnant lieu à une clause de force majeure. La question de savoir si une mesure tarifaire spécifique relève d’une clause particulière relève de l’interprétation contractuelle, qui dépend de la formulation précise des termes ; il convient donc de faire appel à un conseiller juridique pour examiner chaque clause au regard des faits spécifiques avant de communiquer une position à une contrepartie."
+           ]
+         },
+         {
+           "name": "Difficulté excessive : une voie plus prometteuse",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’article 249 de la loi sur les transactions civiles des Émirats arabes unis offre une base potentiellement plus large pour obtenir une mesure de redressement lorsque surviennent des circonstances exceptionnelles qui ne pouvaient raisonnablement être prévues au moment de la conclusion du contrat, et lorsque ces circonstances rendent l’exécution excessivement onéreuse au point que le débiteur est exposé à un risque de perte grave. Dans ces circonstances, le tribunal dispose d’un pouvoir discrétionnaire pour réduire l’obligation onéreuse à un niveau raisonnable.",
+             "Une demande au titre de l’article 249 doit remplir quatre conditions : les circonstances doivent présenter un caractère exceptionnel ; elles doivent avoir été imprévisibles au moment de la conclusion du contrat ; elles doivent être survenues après la conclusion du contrat ; et l’exécution de l’obligation initiale doit faire peser sur le débiteur la menace d’une perte grave. Les hausses tarifaires qui n’étaient pas prévisibles lors de la signature d’un contrat de fourniture à long terme et qui ont entraîné une augmentation substantielle des coûts ne pouvant être absorbée sur le plan commercial peuvent remplir ces conditions, en particulier pour les contrats conclus avant 2024.",
+             "Il est important de noter que l’article 249 ne donne pas automatiquement le droit à une partie de se soustraire au contrat. Le pouvoir du tribunal consiste à ajuster l’obligation à un niveau raisonnable. Les avocats doivent informer leurs clients que l’issue probable d’une demande fondée sur l’article 249 qui aboutit est une renégociation judiciaire du contrat, et non une résiliation de celui-ci."
+           ]
+         },
+         {
+           "name": "Mesures pratiques pour l’examen des contrats",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Toute entreprise du CCG ayant conclu des contrats transfrontaliers importants en matière d’approvisionnement, de distribution ou de services devrait procéder à un examen structuré portant sur les points suivants : l’adéquation des clauses existantes de force majeure et de difficulté économique au contexte actuel ; l’existence et la viabilité des mécanismes de tarification, des dispositions relatives à la hausse des coûts des matières premières ou des conditions déclenchant une renégociation ; l’optimalité des dispositions relatives à la loi applicable et au règlement des litiges au regard des conditions géopolitiques et réglementaires actuelles ; et si toute démarche de renégociation avec les contreparties a été coordonnée avec un conseiller juridique afin d’éviter toute renonciation involontaire ou tout comportement constitutif de résiliation.",
+             "Les contrats en cours de négociation ou de renouvellement doivent être rédigés avec des dispositions explicites traitant des modifications tarifaires et des changements de réglementation commerciale, des mécanismes d’indexation étendus et, le cas échéant, des clauses de droit applicable privilégiant le droit des Émirats arabes unis, du DIFC ou de l’ADGM par rapport au droit des juridictions connaissant actuellement une forte volatilité réglementaire."
+           ]
+         }
+       ]
+     },
+     "it": {
+       "id": 22,
+       "name": "Dazi, interruzioni del commercio e diritto contrattuale: le sfide che le imprese del CCG devono affrontare ora",
+       "date": "18th Aug, 2026",
+       "des": "L’aliquota tariffaria effettiva degli Stati Uniti ha raggiunto il livello più alto da oltre un secolo. Le catene di approvvigionamento hanno subito interruzioni. Le implicazioni giuridiche per i contratti transfrontalieri nel CCG sono immediate e non ancora pienamente comprese dalle imprese che ne subiscono le conseguenze.",
+       "img": "../assets/images/news/new22.jpeg",
+       "content": [{
+           "name": "Il contesto commerciale: la realtà dei fatti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’aliquota tariffaria effettiva degli Stati Uniti, a seguito di un periodo prolungato di provvedimenti esecutivi, ricorsi legali e una sentenza della Corte Suprema che ha confermato l’ampia autorità esecutiva in materia di misure commerciali, rimane a livelli che non si registravano dagli anni ’30. L’architettura commerciale globale su cui le imprese del CCG avevano costruito le proprie relazioni commerciali, caratterizzata da basse tariffe statunitensi, regole commerciali prevedibili disciplinate dall’OMC e catene di approvvigionamento integrate denominate in dollari, è cambiata strutturalmente. Non si tratta di un cambiamento temporaneo.",
+             "Mentre gli Stati Uniti hanno eretto barriere, il resto del mondo le ha smantellate. Negli ultimi tre anni gli Emirati Arabi Uniti hanno concluso o portato avanti in modo sostanziale accordi di partenariato economico globale con India, Indonesia, Israele, Turchia, Georgia, Kenya e Cambogia. Arabia Saudita, Qatar e Bahrein stanno perseguendo accordi bilaterali paralleli. Si stanno aprendo nuovi corridoi commerciali. Tuttavia, tali corridoi comportano requisiti di conformità, norme di origine e obblighi documentali specifici che molte imprese non hanno ancora individuato.",
+             "La conseguenza commerciale per le imprese del CCG è una doppia esposizione: i contratti esistenti potrebbero essere diventati più onerosi o difficili da adempiere a causa degli aumenti dei costi determinati dai dazi, mentre si presentano nuove opportunità nei quadri di accesso preferenziale che richiedono un lavoro preparatorio legale e operativo per poter essere colte."
+           ]
+         },
+         {
+           "name": "Forza maggiore: la posizione giuridica ai sensi della legge degli Emirati Arabi Uniti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "La domanda più frequente rivolta ai consulenti legali nell’attuale contesto è se gli aumenti dei costi determinati dai dazi possano giustificare l’inadempimento o la rinegoziazione dei prezzi nell’ambito dei contratti esistenti. La risposta onesta è: raramente, e solo in circostanze specifiche.",
+             "L’articolo 273 della Legge sulle transazioni civili degli Emirati Arabi Uniti (Legge federale n. 5 del 1985, e successive modifiche) prevede che, qualora l’adempimento di un obbligo diventi impossibile a causa di una causa estranea non imputabile al debitore, l’obbligo corrispondente si estingua e il contratto venga risolto. Il termine chiave è «impossibile». I tribunali degli Emirati Arabi Uniti hanno costantemente interpretato questa disposizione nel senso che richiede un’impossibilità oggettiva, non semplicemente un aumento dei costi o una diminuzione dell’attrattiva commerciale. Un’impresa che sia ancora in grado di adempiere ai propri obblighi contrattuali, ma che li ritenga più onerosi a causa dei dazi, nella maggior parte dei casi non soddisferà i requisiti previsti dall’articolo 273.",
+             "Le clausole di forza maggiore nei contratti commerciali possono essere redatte in termini più ampi rispetto alla posizione prevista dalla legge. Alcune clausole includono «interventi governativi», «restrizioni alle importazioni» o «modifiche normative» come eventi qualificanti. Determinare se una specifica misura tariffaria rientri in una determinata clausola è una questione di interpretazione contrattuale che dipende dalla formulazione precisa del testo; è opportuno avvalersi di un consulente legale per esaminare ciascuna clausola alla luce dei fatti specifici prima di comunicare qualsiasi posizione alla controparte."
+           ]
+         },
+         {
+           "name": "Difficoltà: una via più promettente",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "L’articolo 249 della Legge sulle transazioni civili degli Emirati Arabi Uniti fornisce una base potenzialmente più ampia per ottenere un provvedimento di sollievo qualora si verifichino circostanze eccezionali che non potevano essere ragionevolmente previste al momento della stipula del contratto e qualora tali circostanze rendano l’adempimento eccessivamente oneroso, al punto che il debitore si trovi di fronte al rischio di una grave perdita. In tali circostanze, il tribunale ha la facoltà discrezionale di ridurre l’obbligo oneroso a un livello ragionevole.",
+             "Una richiesta ai sensi dell’articolo 249 richiede il soddisfacimento di quattro condizioni: le circostanze devono avere carattere eccezionale; devono essere state imprevedibili al momento della stipula del contratto; devono essersi verificate dopo la conclusione del contratto; e l’esecuzione dell’obbligo originario deve comportare il rischio di una grave perdita per il debitore. Gli aumenti tariffari che non erano prevedibili al momento della sottoscrizione di un contratto di fornitura a lungo termine e che hanno determinato un aumento sostanziale dei costi, impossibile da assorbire dal punto di vista commerciale, possono soddisfare tali condizioni, in particolare per i contratti stipulati prima del 2024.",
+             "È importante sottolineare che l’articolo 249 non conferisce automaticamente a una parte il diritto di recedere dal contratto. Il potere del tribunale consiste nell’adeguare l’obbligazione a un livello ragionevole. I legali dovrebbero informare i propri clienti che l’esito probabile di una richiesta accolta ai sensi dell’articolo 249 è una rinegoziazione giudiziaria del contratto, non la sua risoluzione."
+           ]
+         },
+         {
+           "name": "Misure pratiche per la revisione dei contratti",
+           "small": "",
+           "smallBold": "",
+           "des": [
+             "Ogni impresa del CCG con contratti transfrontalieri rilevanti in materia di fornitura, distribuzione o servizi dovrebbe effettuare una revisione strutturata che esamini i seguenti aspetti: se le clausole esistenti in materia di forza maggiore e difficoltà siano adeguate al contesto attuale; se i meccanismi di determinazione dei prezzi, le disposizioni relative all’aumento dei costi dei materiali o i criteri di rinegoziazione siano presenti e applicabili; se le disposizioni relative alla legge applicabile e alla risoluzione delle controversie siano ottimali alla luce delle attuali condizioni geopolitiche e normative; e se eventuali approcci di rinegoziazione con le controparti siano stati coordinati con i consulenti legali per evitare rinunce involontarie o comportamenti che possano costituire un ripudio del contratto.",
+             "I contratti attualmente in fase di negoziazione o di rinnovo dovrebbero essere redatti con disposizioni esplicite che affrontino le modifiche alle tariffe e alle normative commerciali, meccanismi di adeguamento estesi e, ove opportuno, clausole sulla legge applicabile che privilegino la legislazione degli Emirati Arabi Uniti, del DIFC o dell’ADGM rispetto a quella delle giurisdizioni che attualmente registrano un’elevata volatilità normativa."
+           ]
+         }
+       ]
+     }
+
+
+   }, {
+     "eng": {
        "id": 21,
        "name": "Access to Justice and Legal Technology in the GCC: The Landscape, the Gaps, and the Legal Implications",
        "date": "29th Jul, 2026",
@@ -213,7 +452,7 @@
          }
        ]
      },
-     "it": {
+     "": {
        "id": 21,
        "name": "Accesso alla giustizia e tecnologia legale nel CCG: il panorama, le lacune e le implicazioni giuridiche",
        "date": "29th Jul, 2026",
